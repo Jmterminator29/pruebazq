@@ -28,6 +28,7 @@ ZETH70 = "ZETH70.DBF"
 ZETH70_EXT = "ZETH70_EXT.DBF"
 HISTORICO_DBF = "VENTAS_HISTORICO.DBF"
 
+# ✅ Solo campos esenciales
 CAMPOS_HISTORICO = (
     "EERR C(20);"
     "FECHA D;"
@@ -78,12 +79,23 @@ def obtener_costo_producto(pronum, productos):
 def home():
     return {
         "mensaje": "✅ API activa en Render",
-        "usar_endpoint": "/reporte → Devuelve datos filtrados",
-        "descargar": "/descargar/historico"
+        "usar_endpoint": "/historico → Devuelve datos guardados",
+        "actualizar": "/reporte → Actualiza el histórico",
+        "descargar": "/descargar/historico → Descarga el archivo DBF"
     }
 
 # ================================
-# ENDPOINT PRINCIPAL
+# ENDPOINT PARA VER HISTÓRICO (FRONTEND)
+# ================================
+@app.get("/historico")
+def historico_json():
+    if not os.path.exists(HISTORICO_DBF):
+        return {"total": 0, "datos": []}
+    datos = list(DBF(HISTORICO_DBF, load=True, encoding="cp850"))
+    return {"total": len(datos), "datos": datos}
+
+# ================================
+# ENDPOINT PRINCIPAL (ACTUALIZA HISTÓRICO)
 # ================================
 @app.get("/reporte")
 def generar_reporte():
@@ -106,11 +118,10 @@ def generar_reporte():
         fecha_inicio = datetime(2025, 3, 1)
         fecha_hoy = datetime.today()
 
-        nuevos_registros, datos_respuesta = [], []
+        nuevos_registros = []
 
         for detalle in DBF(ZETH51T, load=True, encoding="cp850"):
             numchk = detalle["NUMCHK"]
-
             if numchk in tickets_existentes:
                 continue
 
@@ -138,9 +149,8 @@ def generar_reporte():
             prod_ext = productos_ext.get(pronum, {})
             cost_unit = obtener_costo_producto(pronum, productos)
 
-            # ✅ Corregido: Cantidad y Precio Unitario
             cant = float(detalle.get("QTYPRO", 0))
-            p_unit = float(detalle.get("PRIPRO", detalle.get("PRIPRO ", 0)) or 0)
+            p_unit = float(detalle.get("PRIPRO", 0))
 
             nuevo = {
                 "EERR": prod_ext.get("EERR", ""),
@@ -158,12 +168,11 @@ def generar_reporte():
             }
 
             nuevos_registros.append(nuevo)
-            datos_respuesta.append(nuevo)
 
         if nuevos_registros:
             agregar_al_historico(nuevos_registros)
 
-        return {"total": len(datos_respuesta), "datos": datos_respuesta}
+        return {"total": len(nuevos_registros), "nuevos": nuevos_registros}
 
     except Exception as e:
         return {"error": str(e)}
@@ -180,6 +189,7 @@ def descargar_historico():
         media_type="application/octet-stream",
         filename=HISTORICO_DBF
     )
+
 
 
 
