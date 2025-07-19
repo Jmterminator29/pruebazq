@@ -28,7 +28,6 @@ ZETH70 = "ZETH70.DBF"
 ZETH70_EXT = "ZETH70_EXT.DBF"
 HISTORICO_DBF = "VENTAS_HISTORICO.DBF"
 
-# ✅ Solo campos esenciales
 CAMPOS_HISTORICO = (
     "EERR C(20);"
     "FECHA D;"
@@ -84,12 +83,11 @@ def home():
     }
 
 # ================================
-# ENDPOINT PRINCIPAL OPTIMIZADO
+# ENDPOINT PRINCIPAL
 # ================================
 @app.get("/reporte")
 def generar_reporte():
     try:
-        # Verificar archivos
         for archivo in [ZETH50T, ZETH51T, ZETH70]:
             if not os.path.exists(archivo):
                 return {"error": f"No se encontró {archivo}"}
@@ -105,7 +103,6 @@ def generar_reporte():
         )
         cabeceras = {r["NUMCHK"]: r for r in DBF(ZETH50T, load=True, encoding="cp850")}
 
-        # ✅ Filtro de fecha
         fecha_inicio = datetime(2025, 3, 1)
         fecha_hoy = datetime.today()
 
@@ -121,7 +118,6 @@ def generar_reporte():
             if not cab:
                 continue
 
-            # ✅ FILTRO DE FECHA (acepta datetime, date o str)
             fecchk = cab.get("FECCHK")
             if fecchk:
                 if isinstance(fecchk, str):
@@ -142,8 +138,9 @@ def generar_reporte():
             prod_ext = productos_ext.get(pronum, {})
             cost_unit = obtener_costo_producto(pronum, productos)
 
-            cant = float(detalle.get("QTYPRO", 0))   # ✅ Cantidad real
-            p_unit = float(detalle.get("PRIPO", 0))  # ✅ Precio unitario real
+            # ✅ Corregido: Cantidad y Precio Unitario
+            cant = float(detalle.get("QTYPRO", 0))
+            p_unit = float(detalle.get("PRIPRO", detalle.get("PRIPRO ", 0)) or 0)
 
             nuevo = {
                 "EERR": prod_ext.get("EERR", ""),
@@ -183,6 +180,7 @@ def descargar_historico():
         media_type="application/octet-stream",
         filename=HISTORICO_DBF
     )
+
 
 
 
