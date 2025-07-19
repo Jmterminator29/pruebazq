@@ -28,15 +28,14 @@ ZETH70 = "ZETH70.DBF"
 ZETH70_EXT = "ZETH70_EXT.DBF"
 HISTORICO_DBF = "VENTAS_HISTORICO.DBF"
 
+# ✅ Solo campos esenciales
 CAMPOS_HISTORICO = (
     "EERR C(20);"
-    "EERR_CONC C(30);"
     "FECHA D;"
     "N_TICKET C(10);"
     "NOMBRES C(50);"
     "TIPO C(5);"
     "CANT N(6,0);"
-    "PROD_SERV C(50);"
     "P_UNIT N(12,2);"
     "CATEGORIA C(20);"
     "SUB_CAT C(20);"
@@ -58,7 +57,7 @@ def crear_dbf_historico():
 def leer_dbf_existente():
     if not os.path.exists(HISTORICO_DBF):
         return set()
-    return {r["NUMCHK"] for r in DBF(HISTORICO_DBF, load=True, encoding="cp850")}
+    return {r["N_TICKET"] for r in DBF(HISTORICO_DBF, load=True, encoding="cp850")}
 
 def agregar_al_historico(nuevos_registros):
     table = Table(HISTORICO_DBF)
@@ -80,47 +79,49 @@ def obtener_costo_producto(pronum, productos):
 def home():
     return {
         "mensaje": "✅ API activa en Render",
-        "usar_endpoint": "Visita /reporte para ver los datos históricos",
+        "usar_endpoint": "/reporte → Devuelve datos filtrados",
         "descargar": "/descargar/historico"
     }
 
 # ================================
-# ENDPOINT PRINCIPAL
+# ENDPOINT PRINCIPAL OPTIMIZADO
 # ================================
 @app.get("/reporte")
 def generar_reporte():
     try:
         # Verificar archivos
-        if not os.path.exists(ZETH50T):
-            return {"error": f"No se encontró {ZETH50T}"}
-        if not os.path.exists(ZETH51T):
-            return {"error": f"No se encontró {ZETH51T}"}
-        if not os.path.exists(ZETH70):
-            return {"error": f"No se encontró {ZETH70}"}
+        for archivo in [ZETH50T, ZETH51T, ZETH70]:
+            if not os.path.exists(archivo):
+                return {"error": f"No se encontró {archivo}"}
 
         crear_dbf_historico()
-        numchk_existentes = leer_dbf_existente()
+        tickets_existentes = leer_dbf_existente()
 
         productos = {r["PRONUM"]: r for r in DBF(ZETH70, load=True, encoding="cp850")}
-        productos_ext = {r["PRONUM"]: r for r in DBF(ZETH70_EXT, load=True, encoding="cp850")} if os.path.exists(ZETH70_EXT) else {}
+        productos_ext = (
+            {r["PRONUM"]: r for r in DBF(ZETH70_EXT, load=True, encoding="cp850")}
+            if os.path.exists(ZETH70_EXT)
+            else {}
+        )
         cabeceras = {r["NUMCHK"]: r for r in DBF(ZETH50T, load=True, encoding="cp850")}
-        historico_completo = list(DBF(HISTORICO_DBF, load=True, encoding="cp850")) if os.path.exists(HISTORICO_DBF) else []
 
-        nuevos_registros = []
-
-        # ✅ Filtro por fecha (desde marzo 2025)
+        # ✅ Filtro de fecha
         fecha_inicio = datetime(2025, 3, 1)
         fecha_hoy = datetime.today()
 
+        nuevos_registros, datos_respuesta = [], []
+
         for detalle in DBF(ZETH51T, load=True, encoding="cp850"):
             numchk = detalle["NUMCHK"]
-            if numchk in numchk_existentes:
+
+            if numchk in tickets_existentes:
                 continue
+
             cab = cabeceras.get(numchk)
             if not cab:
                 continue
 
-            # ✅ FILTRO DE FECHA (ajustado para datetime, date o str)
+            # ✅ FILTRO DE FECHA (acepta datetime, date o str)
             fecchk = cab.get("FECCHK")
             if fecchk:
                 if isinstance(fecchk, str):
@@ -139,21 +140,18 @@ def generar_reporte():
 
             pronum = detalle.get("PRONUM", "")
             prod_ext = productos_ext.get(pronum, {})
-
-            # Cálculos mínimos
-            cant = float(detalle.get("CANT", 0))
-            p_unit = float(detalle.get("QTYPRO", 0))
             cost_unit = obtener_costo_producto(pronum, productos)
+
+            cant = float(detalle.get("QTYPRO", 0))   # ✅ Cantidad real
+            p_unit = float(detalle.get("PRIPO", 0))  # ✅ Precio unitario real
 
             nuevo = {
                 "EERR": prod_ext.get("EERR", ""),
-                "EERR_CONC": "CREDITO" if cab.get("TYPPMOV", "") == "C" else "CONTADO",
                 "FECHA": fecchk,
                 "N_TICKET": cab.get("NUMCHK", ""),
                 "NOMBRES": cab.get("CUSNAM", ""),
                 "TIPO": cab.get("TYPPAG", ""),
                 "CANT": cant,
-                "PROD_SERV": detalle.get("PROD_SERV", ""),
                 "P_UNIT": p_unit,
                 "CATEGORIA": prod_ext.get("CATEGORIA", ""),
                 "SUB_CAT": prod_ext.get("SUB_CAT", ""),
@@ -163,12 +161,12 @@ def generar_reporte():
             }
 
             nuevos_registros.append(nuevo)
-            historico_completo.append(nuevo)
+            datos_respuesta.append(nuevo)
 
         if nuevos_registros:
             agregar_al_historico(nuevos_registros)
 
-        return {"total": len(historico_completo), "datos": historico_completo}
+        return {"total": len(datos_respuesta), "datos": datos_respuesta}
 
     except Exception as e:
         return {"error": str(e)}
@@ -185,6 +183,7 @@ def descargar_historico():
         media_type="application/octet-stream",
         filename=HISTORICO_DBF
     )
+
 
 
 
