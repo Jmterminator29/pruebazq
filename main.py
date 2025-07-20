@@ -57,7 +57,7 @@ def crear_dbf_historico():
 def leer_dbf_existente():
     if not os.path.exists(HISTORICO_DBF):
         return set()
-    return {r["N_TICKET"] for r in DBF(HISTORICO_DBF, load=True, encoding="cp850")}
+    return {str(r["N_TICKET"]) for r in DBF(HISTORICO_DBF, load=True, encoding="latin-1")}
 
 def agregar_al_historico(nuevos_registros):
     table = Table(HISTORICO_DBF)
@@ -71,6 +71,13 @@ def obtener_costo_producto(pronum, productos):
     if producto:
         return float(producto.get("ULCOSREP", 0.0))
     return 0.0
+
+def safe_str(value):
+    """Evita errores de codificación"""
+    try:
+        return str(value).encode("latin-1", "ignore").decode("latin-1")
+    except:
+        return ""
 
 # ================================
 # ENDPOINT RAÍZ
@@ -91,7 +98,7 @@ def home():
 def historico_json():
     if not os.path.exists(HISTORICO_DBF):
         return {"total": 0, "datos": []}
-    datos = list(DBF(HISTORICO_DBF, load=True, encoding="cp850"))
+    datos = list(DBF(HISTORICO_DBF, load=True, encoding="latin-1"))
     return {"total": len(datos), "datos": datos}
 
 # ================================
@@ -107,20 +114,20 @@ def generar_reporte():
         crear_dbf_historico()
         tickets_existentes = leer_dbf_existente()
 
-        productos = {r["PRONUM"]: r for r in DBF(ZETH70, load=True, encoding="cp850")}
+        productos = {r["PRONUM"]: r for r in DBF(ZETH70, load=True, encoding="latin-1")}
         productos_ext = (
-            {r["PRONUM"]: r for r in DBF(ZETH70_EXT, load=True, encoding="cp850")}
+            {r["PRONUM"]: r for r in DBF(ZETH70_EXT, load=True, encoding="latin-1")}
             if os.path.exists(ZETH70_EXT)
             else {}
         )
-        cabeceras = {r["NUMCHK"]: r for r in DBF(ZETH50T, load=True, encoding="cp850")}
+        cabeceras = {r["NUMCHK"]: r for r in DBF(ZETH50T, load=True, encoding="latin-1")}
 
         fecha_inicio = datetime(2025, 3, 1)
         fecha_hoy = datetime.today()
 
         nuevos_registros = []
 
-        for detalle in DBF(ZETH51T, load=True, encoding="cp850"):
+        for detalle in DBF(ZETH51T, load=True, encoding="latin-1"):
             numchk = detalle["NUMCHK"]
             if numchk in tickets_existentes:
                 continue
@@ -153,18 +160,18 @@ def generar_reporte():
             p_unit = float(detalle.get("PRIPRO", 0))
 
             nuevo = {
-                "EERR": prod_ext.get("EERR", ""),
+                "EERR": safe_str(prod_ext.get("EERR", "")),
                 "FECHA": fecchk,
-                "N_TICKET": cab.get("NUMCHK", ""),
-                "NOMBRES": cab.get("CUSNAM", ""),
-                "TIPO": cab.get("TYPPAG", ""),
+                "N_TICKET": safe_str(cab.get("NUMCHK", "")),
+                "NOMBRES": safe_str(cab.get("CUSNAM", "")),
+                "TIPO": safe_str(cab.get("TYPPAG", "")),
                 "CANT": cant,
                 "P_UNIT": p_unit,
-                "CATEGORIA": prod_ext.get("CATEGORIA", ""),
-                "SUB_CAT": prod_ext.get("SUB_CAT", ""),
+                "CATEGORIA": safe_str(prod_ext.get("CATEGORIA", "")),
+                "SUB_CAT": safe_str(prod_ext.get("SUB_CAT", "")),
                 "COST_UNIT": cost_unit,
-                "PRONUM": pronum,
-                "DESCRI": prod_ext.get("DESCRI", "")
+                "PRONUM": safe_str(pronum),
+                "DESCRI": safe_str(prod_ext.get("DESCRI", ""))
             }
 
             nuevos_registros.append(nuevo)
@@ -189,11 +196,6 @@ def descargar_historico():
         media_type="application/octet-stream",
         filename=HISTORICO_DBF
     )
-
-
-
-
-
 
 
 
