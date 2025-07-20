@@ -1,0 +1,314 @@
+úZethQuark Versi¢n 7.0ú                                               01/03/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2025 AL 01/03/2025        21:14:10
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT #20                                     44              2u1         ELI
+ABOCAT #22                                     62              4u9         ELI
+ABOCAT #24                                    326             20           ELI
+ABOCAT #24 X50UND                               0              0u96        ELI
+ACICLAV 250MG+62.5MG/5ML SUSP X60ML             1              1           EFR
+ACICLAV 500MG+125MG TAB                        87             15u1         ELI
+ACIDO FOLICO 0.5MG TAB BLSTX10                  6              3           ELI
+AEROCAMARA (ADULTO)                            14              1           ELI
+AGLUTINACIONES                               8721             37           ELI
+AGUA ESTERIL PARA INYEC. AMP X100               0              0u21        ELI
+AGUA ESTERIL PARA INYEC.AMP                   173              6           ELI
+AGUJA #18                                     263             67           ELI
+AGUJA #18 X100UND                               0              1u335       YES
+AGUJA #22 X100UND                               0              0u1         YES
+AGUJA #23                                      59              1           ELI
+AGUJA #23 X100UND                               0              0u2         ELI
+AGUJA #25                                     837              1           ELI
+ALERCHECK PLUS 10MG CAP                       203              2           ELI
+ALERCHECK PLUS 10MG CAP X30                     0              0u6         ELI
+AMIKACINA 500MG/2ML (IM/IV) AMP                21             10           YES
+AMIKACINA 500MG/2ML (IM/IV) AMP X10             0              0u83        ELI
+AMILASA                                       937              1           YES
+ASCORBIC PROMOCION                             57             41           ELI
+ASO LATEX                                     976              1           ELI
+ATORVASTATINA 20MG TAB X100                     0              0u30        ELI
+AZITROMICINA 500MG TAB X100                     0              0u5         ELI
+BATA DESCARTABLE                                3              4           EFR
+BENCILPENIC BENZATINICA 1200000 AMP X10         0              0u1         ELI
+BENCILPENIC PROCAINICA 1000000 AMP             78              4           YES
+BENCILPENIC PROCAINICA 1000000 AMP X10          0              0u15        YES
+BETAMETASONA 4MG/1ML AMP X10                    0              0u2         YES
+BETAMETASONA 4MG/ML AMP                        28              1           ELI
+BISTURI #10                                    20              1           ELI
+BISTURI #10 X100UND                             0              0u1         YES
+BROMELIN 0,88GR SUSP X100ML                    44              1           ELI
+BROMURO DE IPRATROPIO 20MCG/D AEROSOL           5              1           ELI
+BRUCELLA AGLU TUBO                            994              1           ELI
+BRUCELLA ROSA DE BENGALA                      990              1           ELI
+CANULA BINASAL L (ADULTO)                      60              1           YES
+CEFTRIAXONA 1G AMP                             58             25           ELI
+CEFTRIAXONA 1G AMP X10                          0              0u88        ELI
+CELECOXIB 200MG CAP X100                        0              0u10        YES
+CERT. MEDICO LLENADO                           49              5           ELI
+CIFLOXDAN 200MG/100ML AMP X100ML                3              2           EFR
+CIRUJIA MENOR                                 997              1           YES
+CLARITROX 500MG TAB                           546             20           ELI
+CLARITROX 500MG TAB X100                        0              0u133       ELI
+CLONAZEPAM 0.5MG TAB X100                       0              0u15        YES
+CLORFEDAN 10MG/1ML (IM/IV) AMP X10              0              0u1         ELI
+CLORFENAMINA 2MG/5ML SOL.ORAL X60ML             9              1           EFR
+CLORURO DE SODIO 0,9% X100ML                   63            223           ELI
+CLORURO DE SODIO 0,9% X250ML                   29             53           ELI
+COLAG HP 420GR FRUTOS DEL BOSQUE                1              1           YES
+COLESTEROL                                    921              1           ELI
+CONSULTA MEDICINA GENERAL DR B.BAYONA          75             19           ELIúZethQuark Versi¢n 7.0ú                                               01/03/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2025 AL 01/03/2025        21:14:14
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+CONSULTA MEDICINA GENERAL DR M.MOLINA         981            176           ELI
+CONSULTA MEDICINA GENERAL DRA M.MAITA         985             18           ELI
+CONSULTA TRAUMATOLOGIA DR E.HERNANDEZ         974              8           ELI
+COPROLOGICO FUNCIONAL                         731              4           ELI
+CREATININA                                   1002              7           ELI
+CULTIVO DE SEC.VAGINAL                        954              4           ELI
+CULTIVO SECRECION                             998              1           ELI
+CULTIVO SECRECION OTICA                       995              3           ELI
+CURACION                                      834              1           YES
+CURACION HERIDA 25                          45640              1           ELI
+DEQUAZOL ORAL 250MG/5ML SUSP X120ML             6              1           YES
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100             0              0u1         ELI
+DEXCORTIL 4MG/2ML (IM/IV) AMP                  92              1           ELI
+DEXCORTIL 4MG/2ML (IM/IV) AMP X10               0              0u7         ELI
+DEXIDE SR 1000 TAB                              8             10           YES
+DEXIDE SR 1000 TAB X30                          0              0u10        ELI
+DICLOFIX 75MG/3ML (IM) AMP                     66              6           ELI
+DICLOFIX 75MG/3ML (IM) AMP X10                  0              0u28        ELI
+DOLALIVIO COLIK TAB.REC X100                    0              0u2         YES
+DOLO-KET 60MG/2ML (IM) AMP                     37              1           ELI
+DOLO-KET 60MG/2ML AMP X25 IM                    0              0u5         ELI
+DOLOL 160MG/5ML JRBE X60ML                     11              2           ELI
+DOXIPROCT PLUS POMADA X12G                      0              4           ELI
+ENDOVENOSO  EXTERNO                            29              1           ELI
+ENDOVENOSO INTERNO                          45214            153           ELI
+ENZIMATIK CAP X100                              0              0u6         ELI
+EPINEFRINA 1MG/ML AMP X10                       0              0u3         ELI
+EQUIPO DE VENOCLISIS 20GOT/ML                 100             20           ELI
+EQUIPO DE VENOCLISIS 20GOT/ML X25UND            0              0u114       YES
+EQUIPO MICROGOTERO CON VOLUTROL 100ML          11              5           ELI
+ESOMEPRAZOL 40MG TAB X30                        0              0u17        ELI
+ESPECULO TALLA M                               20              4           ELI
+EYEMO COLIRIO 0.05% SOL. OFTA X8ML              2              2           ELI
+FACTOR REUMATOIDE CUANTITATIVO                948              1           YES
+FISIOFER 40MG/15ML AMP.BEBI X10                 0              1           ELI
+FISIOFER 40MG/15ML AMP.BEBIBLE                  2              3           ELI
+FLEX 4MG TAB X90                                0              0u1         ELI
+FLOREA CAP                                    170             45           ELI
+FLOREA CAP X60                                  0              0u30        ELI
+FLUIMEXINA 600MG SOB                          249              5           ELI
+FLUIMEXINA 600MG SOB X30                        0              0u15        ELI
+FLUIMUCIL 300MG/3ML AMP X5                      0              0u1         ELI
+FOSFUROL 3G SOB X1                              2              1           ELI
+FRASCO PARA M.HECES                           149             33           ELI
+FRASCO PARA M.ORINA                           319             49           ELI
+FROTIS DIRECTO(KOH-HONGOS)                    724              2           ELI
+FRUTI FLEX FRESA X1L                            9              8           YES
+FSH                                           988              1           ELI
+G.G.T.P                                       856              2           YES
+GASA 10X10                                     45             11           ELI
+GASA ESTERIL 10X10CM CAJA X20UND                0              0u15        ELI
+GASEOVET MS SUSP X220ML                        27             22           ELI
+GENOGEL PLUS POTE X500G                         4              1           ELI
+GESTAFOL 0.5MG TABX30                           0              0u2         ELI
+GLIBENCLAMIDA 5MG TAB BLSTX10                  19              2           ELIúZethQuark Versi¢n 7.0ú                                               01/03/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2025 AL 01/03/2025        21:14:14
+PRT123()                                                              Pag.-    3
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+GLUCENIL D POTE X1000G                          0              2           ELI
+GLUCOSA                                      8617             21           ELI
+GLUCOTECH                                      22             42           ELI
+GRAHAM ACAROS                                 798              2           ELI
+GRAVDAN 50MG/5ML (IM/IV) AMP X10                0              0u3         YES
+GUANTES QUIRURGICO TALLA 7.5                   32              2           YES
+HCG PRUEBA EMBARAZO RAPIDA                     79              1           ELI
+HCG PRUEBA EMBARAZO RAPIDA X25                  0              0u11        ELI
+HCG SUB UNIDAD BETA CUANTITATIVO              893              2           ELI
+HELICOBACTER IGM                            10025             21           ELI
+HELICOBACTER PYORI ANTIGENO FECALES         10001              4           ELI
+HEMOG. GLICOSILADA                          10007              8           ELI
+HEMOGLOBINA HEMATOCRITO                       714              3           ELI
+HEMOGRAMA COMPLETO                          10040             53           ELI
+HEPABIONTA 2ML AMP                             12              6           ELI
+HEPABIONTA 2ML AMP X3                           0              1u4         YES
+HEPATITIS B ANTIGENO AUSTRALIANO              980              2           ELI
+HIDROCORTISONA 250MG AMP                       10              1           ELI
+HIDROCORTISONA 250MG AMP X10                    0              0u1         YES
+HIRUDOID 0.300% POMADA X14GR                    7              1           ELI
+HIV                                         10015              1           ELI
+HYALU-PLUS 30MG/2ML INYECTABLE                  6              2           YES
+IBUSOL 100MG/5ML SUSP X60ML                     8              3           YES
+INFILTRACION DE ARTICULACIONES                 56              1           YES
+INMOVILIZADOR DE JUANETE TALLA L                0              1           ELI
+INSULINA APLICACION 1-3 WOSULIN N               9              3           EFR
+INYECTABLE   INTRAMUSCULAR EXTERNO           1357              1           ELI
+JERINGA 10ML                                  546             19           ELI
+JERINGA 10ML X100UNID.                          0              0u108       YES
+JERINGA 1ML                                   187              1           EFR
+JERINGA 1ML X1OOUNID.                           0              0u2         EFR
+JERINGA 20ML                                  235             45           ELI
+JERINGA 20ML X50UNID.                           0              0u218       ELI
+JERINGA 5ML                                   121              1           EFR
+JERINGA 5ML X100UNID.                           0              0u2         YES
+KETALGESICO 25MG TAB                           74              6           EFR
+KETOPROFENO (IM) 100MG/2ML AMPX6                0              0u1         ELI
+KETOPROFENO 100MG/2ML (IM) AMP                 19              2           ELI
+KETOPROPHARM 100MG/5ML (IV) AMP                34             17           ELI
+KETOPROPHARM 100MG/5ML (IV) AMP X10             0              0u57        ELI
+LACTULOSA 3.3G/5ML SOL.ORAL X120ML              2              1           ELI
+LAVADO DE OIDO I                               43              3           ELI
+LAVADO DE OIDO II                            1807              1           ELI
+LAVADO OCULAR                                  97              1           ELI
+LEPTOSPIRA IGM                               1000              1           ELI
+LEVOFLOXACINO 500MG TAB                       151              5           ELI
+LEVOFLOXACINO 500MG TAB X100                    0              0u5         ELI
+LH                                            995              1           ELI
+LIDOCAINA 2% AMP X20ML X25                      0              0u9         YES
+LIDOCAINA 2% X20ML AMP                         43              1           EFR
+LIDOCAINA 5% UNGUENTO X10G                      0              1           ELI
+LIPASA                                       1000              1           YES
+LIPIDOS TOTALES                               999              1           ELI
+LLAVE TRIPLE VIA                              131             19           ELI
+LLAVE TRIPLE VIA X50UND                         0              0u88        EFRúZethQuark Versi¢n 7.0ú                                               01/03/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2025 AL 01/03/2025        21:14:14
+PRT123()                                                              Pag.-    4
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+LOSARTAN 50MG TAB X100                          0              0u30        ELI
+MASCARILLA NEBULIZADORA (ADULTO)               28              5           EFR
+MASCARILLA NEBULIZADORA (PEDIATRICO)           24              1           ELI
+MEGADERM CREMA X10G                            11              1           ELI
+METAMIZOL 1G/2ML AMP X50                        0              0u6         YES
+METOCLONYL 10MG/2ML AMP X10                     0              0u3         EFR
+METRONIDAZOL 500MG TAB X100                     0              0u14        YES
+MICROALBUMINURIA ORINA SIMPLE               10001              3           ELI
+MUCOBROL 300MG/3ML AMP                         34              2           EFR
+MUCOBROL 300MG/3ML AMP X10                      0              0u4         YES
+MULCEROL 40MG TAB                               0             30           ELI
+MULCEROL 40MG TAB X30                           0              1u166       ELI
+NAXODOL 550MG TAB                             180              2           ELI
+NAXODOL 550MG TAB X100                          0              0u12        YES
+NEBULIZACION X 3                              196             11           EFR
+NEBULIZACION X2                                78              3           ELI
+NORSPAN 10MG PARCHE                             2              1           ELI
+NORSPAN 5MG PARCHE                              1              1           ELI
+NORSPAN 5MG PARCHE X2                           0              0u3         ELI
+NYLON #5                                       22              1           ELI
+NYLON #5 X24                                    0              0u1         YES
+OMEPRAZOL 40MG AMP                             42              6           ELI
+OMEPRAZOL 40MG AMP X10                          0              0u36        ELI
+ORFEDRIN 100MG TAB                             26              6           ELI
+ORFELAX 60MG/2ML (IM/IV) AMP                   88             11           ELI
+ORFELAX 60MG/2ML (IM/IV) AMP X10                0              0u23        ELI
+ORINA COMPLETA                               7662             47           ELI
+OTIDOL NF SOL.OTICA X5ML                        3              5           ELI
+OXIGENO 1 LITRO                               976              1           YES
+PANEL DE ALERGIA(32 ALERGENOS)IGE ESPEC.      940              1           ELI
+PAPANICOLAOU                                  839              3           EFR
+PARACETAMOL 500MG TAB X100                      0              0u11        ELI
+PARASITOLOGICO SIMPLE                         653             26           ELI
+PARASITOLOGICO X3                            9970              3           ELI
+PASAJE DOMICILIO 6                           9982              3           ELI
+PASMODAN 20MG/ML (IM/IV) AMP X10                0              0u1         YES
+PCR CUANTITATIVA                            10006              2           ELI
+PERFIL CARDIACO                               997              1           ELI
+PERFIL HEPATICO                              1013             40           ELI
+PERFIL LIPIDICO                              1043             29           ELI
+PERFIL REUMATICO                             1018             14           ELI
+PLIDOCHECK 400MG CAP X100                       0              0u8         YES
+PREDNISONA 5MG TAB X100                         0              0u8         YES
+PRESION                                      1585              4           EFR
+PRODEFEN PLUS SOB X10                           0              4u5         YES
+PRODEFEN PLUS SOBRE                           197              5           ELI
+PROFEKED 2.5% GEL X30G                          4              2           YES
+PROLACTINA                                    964              1           ELI
+PROSTASIL 0.5MG CAPX30                          0              1u3         ELI
+PSA TOTAL                                    1007              1           ELI
+RANITIDINA 50MG/2ML AMP X10                     0              0u2         ELI
+REACCION INFLAMATORIA EN HECES               9932              6           ELI
+RETIRO DE PUNTOS MAYOR A 5 PUNTOS              88              1           EFR
+RETIRO PUNTO                                    7              1           ELI
+ROWATINEX TABX100                               0              0u21        ELIúZethQuark Versi¢n 7.0ú                                               01/03/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2025 AL 01/03/2025        21:14:14
+PRT123()                                                              Pag.-    5
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+RPR                                         10022              1           ELI
+RX BRAZO FRONTAL Y LATERAL                   1989              1           ELI
+RX CADERA COXOFEMORAL                          96              2           ELI
+RX COLUMNA DORSAL F - L                        99              1           ELI
+RX COLUMNA LUMBAR SACRA F - L                  90              5           YES
+RX COLUMNA SACRO COXIGEA F - L                 99              1           YES
+RX CRANEO F y L                                99              1           ELI
+RX DE PIE FRONTAL Y LATERAL                  1962              1           ELI
+RX HOMBRO C/LADO                               98              2           ELI
+RX HOMBRO ROTACION INTERNA Y EXTERNA         1964              1           ELI
+RX LUMBO SACRO                                827              1           YES
+RX MADURACION OSEA                            996              1           ELI
+RX MANO C/LADO                                 93              1           ELI
+RX MU¥ECA F y L C/LADO                         97              1           EFR
+RX PARRILLA COSTAL C/LADO                      98              1           ELI
+RX PELVIS                                      99              1           ELI
+RX PELVIS DOMICILIO                           998              2u1         YES
+RX PIE C/LADO                                  98              1           ELI
+RX PIERNA F y L                                97              1           ELI
+RX RODILLA F y L C/LADO                        99              1           ELI
+RX RODILLAS COMPARATIVAS                       93              3           ELI
+RX TORAX AP                                   986              7           ELI
+RX TORAX LATERAL                              998              1           ELI
+SERVICIO EXPRESS 30%                          999              1           ELI
+SILENTUSS 30MG/5ML JRBE X120ML                  5              1           ELI
+SUERO FISIOLOGICO X1000ML                      12             16           ELI
+SUEROVIT 2ML AMP                               27              3           ELI
+SUEROVIT 2ML IV AMP X5                          0              0u11        ELI
+SUMAQ MUJER POTE 500G AGUAJE                    3              1           YES
+SUTURA DE HERIDA CORTA                        987              1           ELI
+T3 LIBRE                                      913              6           ELI
+T4 LIBRE                                     1006              7           ELI
+TERBIFUN 1% SPRAY X30ML                         0              4           ELI
+TERBINAFINA 250MG TAB X100                      0              0u24        ELI
+TEST GRAHAM(OXIURUS)                         9967              1           ELI
+TIEMPO DE PROTROMBINA-TP                     9996              1           YES
+TORCH IGM                                     992              1           ELI
+TRANSAMINASA OXALACETICA (TGO)                965              1           ELI
+TRANSAMINASA PIRUVICA (TGP)                   960              1           ELI
+TRICOFAR ORAL 500MG TAB                       228             20           ELI
+TRICOFAR ORAL 500MG TAB X20                     0              4u72        ELI
+TRIGLICERIDOS                                 935              1           ELI
+TSH ULTRASENSIBLE                           10007              7           ELI
+UREA                                        10008              7           ELI
+UROCULTIVO                                   1006             19           ELI
+V.D.R.L CUALITATIVO                            90              1           ELI
+VARICOSIN 500MG CAPSULA                        52             60           ELI
+VELOCIDAD DE SEDIMENTACION                    953              1           ELI
+VELTAM 0.4MG TAB                              115             30           ELI
+VELTAM 0.4MG TAB X30                            0              1u5         ELI
+VENDA ELASTICA 5X5                              6              1           EFR
+VERSATIS 5% 700MG PARCHE X5                     0              0u1         ELI
+VINIL 75MG/3ML (IM/IV) AMP                     54              1           ELI
+VINIL 75MG/3ML (IM/IV) AMP X6                   0              0u17        ELI
+VITACARE POTE 1000G VAINILLA                    0              7           ELIúZethQuark Versi¢n 7.0ú                                               01/03/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2025 AL 01/03/2025        21:14:14
+PRT123()                                                              Pag.-    6
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+VITACOSE 2 ML INYECTABLE                       79             38           ELI
+VITAGEST 500GR VAINILLA                         2              1           ELI
+VOMIXTAL 50MG TAB X100                          0              0u2         YES
+ZITRAT MG 300G PI¥A                             1              2           ELI
+ZITROLAB 200MG/5ML SUSP X15ML                   8              1           ELI
+--------------------------------------------------------------------------------
+T O T A L:   280
+--------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 02/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 01/04/2025                              08:55:03
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015236           EFR       01/04/2025 08:18  V                      ALEJANDRINA TAPIA FLORES       E         139.50
+015237           EFR       01/04/2025 08:21  V                      ALEJANDRINA TAPIA FLORES       E          45.00
+015238           EFR       01/04/2025 08:28  V                      ZORAYDA NU;EZ ARIZA            E          10.00
+015239           EFR       01/04/2025 11:29  V                      BUILTRON ZAVALA ANTONIA        E         150.00
+015240           EFR       01/04/2025 15:34  V                      CORDOVA NARCISO ROSALINDA      PL         45.00
+015241           EFR       01/04/2025 15:59  V                      ADALBERTO OYOLA DIESTRA        E          45.00
+015242           EFR       01/04/2025 16:27  V                      GALVAN CASAVILCA URSICIR       E          45.00
+015243           EFR       01/04/2025 17:37  V                      VENTA ANULADA                  E           0.00
+015244           EFR       01/04/2025 17:52  V                      OYOLA DIESTRA ADALBERTO        PL        127.50
+015245           EFR       01/04/2025 17:52  V                      OYOLA DIESTRA ADALBERTO        E         112.50
+015246           EFR       01/04/2025 17:54  V                      PAMELA FELICES VALLEJO         PL         45.00
+015247           EFR       01/04/2025 18:10  V                      PEDRO MELLISO GUARMI           E          45.00
+015248           EFR       01/04/2025 18:23  V                      TAPIA FLORES ALEJANDRINA       E          92.50
+015249           EFR       01/04/2025 18:23  V                      TAPIA FLORES ALEJANDRINA       PL        235.00
+015250           EFR       01/04/2025 18:32  V                      CASAVILCA MARCELA              E         109.90
+015251           EFR       01/04/2025 18:37  V                      DAYANA VERA ORTIZ              E          64.50
+015252           EFR       01/04/2025 18:40  V                      OYOLA DIESTRA ADALBERTO        E          70.00
+015253           EFR       01/04/2025 18:55  V                      PAMELA FELICES VALLEJOS        PL         67.40
+015254           EFR       01/04/2025 19:05  V                      ROMERO LA ROSA JADE            PL         45.00
+015255           EFR       01/04/2025 19:09  V                      ABEL MAYA                      E          10.00
+015256           EFR       01/04/2025 19:18  V                      PEDRO MELLISO                  E         230.00
+015257           EFR       01/04/2025 19:28  V                      ALEJANDRO CARRERA OLIVARES     PL         23.00
+015258           EFR       01/04/2025 19:29  V                      ALEJANDRO CARRERA OLIVARES     PL         70.00
+015259           EFR       01/04/2025 19:35  V                      IVAN LOZANO                    E          15.50
+015260           EFR       01/04/2025 20:19  V                      ROEMERO LA ROSA JADE BRIANA    PL         88.00
+015261           EFR       01/04/2025 20:56  V                      ALEJANDRO CARRERA OLIVARES     E          52.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      16       1,236.90
+Ticket        :       0           0.00                                                    Plin          :       9         745.90
+Guia Interna V:      25       1,982.80                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              1,982.80                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        1,982.80
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        302.43
+ÿ
+ÿ
+Nro.  Documentos Anulados :            1
+Total Documentos Anulados :         0.00

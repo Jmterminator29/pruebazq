@@ -1,0 +1,109 @@
+úZethQuark Versi¢n 7.0ú                                          05/04/2025
+POL.LOS ANGELES   REPORTE DE PRODUCTOS X LINEA (SERVICIO)          13:00:34
+PRT202()                                                         Pag.-    1
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD
+---------------------------------------------------------------------------
+16537 ASPIRACION GANGLION                      ZZZZ       20.00          
+16804 ASPIRACION SUCCION DE REFLUJO            ZZZZ       50.00          
+15472 BIOPSIA CHICA                            ZZZZ      150.00          
+17155 BIOPSIA ESCISIONAL DE PIEL               ZZZZ      200.00          
+15473 BIOPSIA GRANDE                           ZZZZ      320.00          
+17154 BIOPSIA INCISIONAL DE PIEL               ZZZZ      150.00          
+17427 CAUTERIZACION + DE 10 VERRUGAS           ZZZZ      200.00          
+17426 CAUTERIZACION + DE 5 VERRUGAS            ZZZZ      150.00          
+17424 CAUTERIZACION 1 LUNAR                    ZZZZ       40.00          
+17425 CAUTERIZACION 1 VERRUGA                  ZZZZ       40.00          
+17423 CAUTERIZACION OBSTETRICIA                ZZZZ      120.00          
+17470 CAUTERIZACION VERUGA                     ZZZZ       60.00          
+17430 CAUTERIZACION VPH                        ZZZZ      180.00          
+17469 CAUTERIZACION VPH                        ZZZZ      140.00          
+17429 CAUTERIZACION VPH GENITALES              ZZZZ      500.00          
+16646 CIRUGIA MEDIANA                          FARC      850.00    850.00
+16571 CIRUJIA MENOR                            ZZZZ      120.00          
+16574 CIRUJIA MENOR                            ZZZZ      150.00          
+16575 CIRUJIA MENOR                            ZZZZ       90.00          
+17238 CIRUJIA MENOR                            ZZZZ      100.00          
+17444 COLECCIONES PERITONEALES                 ZZZZ      135.00          
+16925 COLOCACION DE SONDA                      ZZZZ       40.00          
+17010 COLOCACION DE YESO                       ZZZZ      200.00          
+18031 COLOCACION DE YESO                       SER       125.00          
+17448 COLOCACION IMPLANTE SUB DERMICO OBTETRA  ZZZZ      150.00          
+17021 CRIOTERAPIA PARA ACNE                    ZZZZ      100.00          
+17022 CRIOTERAPIA PARA LENTIGO SOLAR           ZZZZ      100.00          
+17023 CRIOTERAPIA PARA VERRUGA UNICA           ZZZZ       89.00          
+15966 CURACION                                 ZZZZ       10.00          
+16573 CURACION                                 ZZZZ       20.00          
+17503 CURACION HERIDA 25                       ZZZZ       25.00          
+17130 CURACION MAYOR                           ZZZZ       70.00          
+17129 CURACION MENOR                           ZZZZ       50.00          
+17120 CURACION MENOR CIRUJIA                   ZZZZ       50.00          
+16533 CURACION SIMPLE-TRAUMATOLOGIA            ZZZZ       15.00          
+16517 CURACION SIN MATERIAL                    ZZZZ        4.00          
+17226 DOMICILIO ENDOVENOSO                     ZZZZ       30.00          
+17243 DOMICILIO ENDOVENOSO ZOLEDRON            ZZZZ      100.00          
+17606 DOMICILIO TOMA DE MUESTRA                ZZZZ       20.00          
+17598 DOMICILIO TOMA DE MUESTRA + ENDOVENOSO   ZZZZ       50.00          
+17141 DRENAJE DE ABCESO GRANDE MAYOR A 5CM     ZZZZ      250.00          
+17128 DRENAJE DE ABCESO MEDIANO 2-5CM          ZZZZ      150.00          
+17140 DRENAJE DE ABCESO PEQUE;O MENOR DE 2 CM  ZZZZ      100.00          
+17142 DRENAJE DE ABCESO PERIANAL               ZZZZ      300.00          
+17025 ELECTROCAUTERIZACION DERMICA MULTIPLE    ZZZZ      128.00          
+17026 ELECTROCAUTERIZACION DERMICA UNICA       ZZZZ       75.00          
+17160 ELECTROCAUTERIZACION MULTIPLE            ZZZZ      150.00          
+17159 ELECTROCAUTERIZACION UNICA               ZZZZ       50.00          
+16761 ENDOVENOSO  EXTERNO                      ZZZZ       30.00          
+17231 ENDOVENOSO DOMICILIO                     ZZZZ       40.00          
+17015 ENDOVENOSO DOMINGO                       ZZZZ       50.00          
+16764 ENDOVENOSO INSULINA ISOFANA HUMANA       ZZZZ       20.00          
+16912 ENDOVENOSO INTERNO                       ZZZZ       10.00          
+16362 ENDOVENOSO PACIENTE CLINICA DOMICILIO    ZZZZ       20.00          
+17590 ENDOVENOSO ZOLEDRON                      TOP        50.00          úZethQuark Versi¢n 7.0ú                                          05/04/2025
+POL.LOS ANGELES   REPORTE DE PRODUCTOS X LINEA (SERVICIO)          13:00:35
+PRT202()                                                         Pag.-    2
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD
+---------------------------------------------------------------------------
+17586 ENDOVENOSO ZOLEDRON EXTERNO              ZZZZ      100.00          
+16508 ESPIROMETRIA                             ZZZZ       60.00          
+17149 ESTRACC. DE LUNAR PEQUE;O MENOR A 5MM    ZZZZ      100.00          
+17027 EXERECIS GRANULOMA PIOGENO               ZZZZ      115.00          
+17028 EXERESIS DE LUNAR UNICO                  ZZZZ      135.00          
+17627 EXFOLIACION + CORTE U¥AS                 ZZZZ       40.00          
+17146 EXTRA QUISTE EPIDERMICO PEQUE;O -2CM     ZZZZ      150.00          
+17147 EXTRA. QUISTE EPIDERMICO MEDIANO 2-5CM   ZZZZ      250.00          
+17153 EXTRACC. DE CUERPO EXTRA;O PROFUNDO      ZZZZ      250.00          
+17152 EXTRACC. DE CUERPO EXTRA;O SUPERFICIAL   ZZZZ      150.00          
+17151 EXTRACC. DE LUNAR GRANDE MAYOR 10MM      ZZZZ      200.00          
+17150 EXTRACC. DE LUNAR MEDIANO 5-10MM         ZZZZ      150.00          
+17466 EXTRACCION CUERPO EXTRANO                ZZZZ       80.00          
+17536 EXTRACCION DE CUERPO EXTRA;O             ZZZZ       25.00          
+17145 EXTRACCION DE LIPOMA GRANDE MAYOR A 5CM  ZZZZ      350.00          
+17594 EXTRACCION DE LIPOMA SIMPLE              TOP       100.00          
+17158 EXTRACCION DE MUCOCELE                   ZZZZ      150.00          
+17111 EXTRACCION DE QUISTE OBSTETRICIA         ZZZZ       60.00          
+16598 EXTRACCION DE U¥AS X1                    ZZZZ       40.00          
+17405 EXTRACCION ESQUIRLA                      ZZZZ       90.00          
+17144 EXTRACCION LIPOMA MEDIANO DE 2-5CM       ZZZZ      250.00          
+17143 EXTRACCION LIPOMA PEQUE;O MENOR DE 2CM   ZZZZ      150.00          
+17029 EXTRACCION QUISTE SEBACEO                ZZZZ      115.00          
+17148 EXTTRA. DE QUISTE EPIDERMICO GRANDE MAY5 ZZZZ      350.00          
+16627 INFILTRACION                             ZZZZ       40.00          
+16842 INFILTRACION                             ZZZZ       40.00          
+17017 INFILTRACION                             ZZZZ      100.00          
+17335 INFILTRACION                             ZZZZ      250.00          
+17324 INFILTRACION 20                          ZZZZ       20.00          
+17289 INFILTRACION CAMPANA                     ZZZZ      348.50          
+17286 INFILTRACION CUBANOS                     ZZZZ      280.00          
+17190 INFILTRACION DE ARTICULACIONES           ZZZZ       50.00          
+17032 INFILTRACION DE CUERO CABELLUDO          ZZZZ      120.00          
+17003 INFILTRACION DE MU;ECA                   ZZZZ      130.00          
+17030 INFILTRACION DERMICA MULTIPLE            ZZZZ      125.00          
+17031 INFILTRACION DERMICA UNICA               ZZZZ       85.00          
+16847 INFILTRACION GRANDE                      ZZZZ      120.00          
+16846 INFILTRACION PEQUENA                     ZZZZ       60.00          
+17572 INFILTRACION TRAUMATOLOGIA DR ELIAS      ZZZZ       80.00          
+16531 INFILTRACION-TRAUMATOLOGIA               ZZZZ       40.00          
+16536 INFILTRACI[ON CICATRIZ                   ZZZZ       30.00          
+17728 RETIRO DE IMPLANTE                       ZZZZ      150.00          
+17847 SERVICIO EXPRESS 30%                     SER        30.00          

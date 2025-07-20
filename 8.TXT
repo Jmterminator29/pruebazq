@@ -1,0 +1,580 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:11
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+031648           MAR  MAR  01/04/2021 08:25  V                      GARCIA RAMIREZ RAUL            C          70.00
+031649           MAR  MAR  01/04/2021 08:26  V                      GARCIA RAMIREZ RAUL            C          13.00
+031650           MAR  MAR  01/04/2021 08:37  V                      FAM.VALENCIA ZORRILLA MARCELA  C         600.00
+031651           MAR  MAR  01/04/2021 08:51  V                      CASTILLO SANCHEZ CONSUELO      C         129.50
+031652           MAR  MAR  01/04/2021 08:53  V                      VENTA ANULADA                  C           0.00
+031653           MAR  MAR  01/04/2021 09:10  V                      TORRES CLAROS JAIME            C          70.00
+031654           MAR  MAR  01/04/2021 09:15  V                      GAVY LLASHAG                   C           1.00
+031655           MAR  MAR  01/04/2021 09:16  V                      GUERRERO LA ROSA ROSA          C         120.00
+031656           MAR  MAR  01/04/2021 09:16  V                      TOLEDO RAMOS ARTURO            C         120.00
+031657           MAR  MAR  01/04/2021 09:19  V                      TORRES CLAROS JAIME            C          20.00
+031658           MAR  MAR  01/04/2021 09:24  V                      GUZMAN CUEVA ANGEL             C         287.50
+031659           MAR  MAR  01/04/2021 09:27  V                      VENTA ANULADA                  C           0.00
+031660           MAR  MAR  01/04/2021 09:29  V                      SOLIS PACHECO                  C          20.50
+031661           MAR  MAR  01/04/2021 09:33  V                      PACHERRES VELASQUEZ CRISTINA   C          20.00
+031662           MAR  MAR  01/04/2021 09:34  V                      CABRERA MORENO SEGUNDO         C          40.00
+031663           MAR  MAR  01/04/2021 09:39  V                      ROMERO MANRIQUE                C          32.50
+031664           MAR  MAR  01/04/2021 09:48  V                      ROSALES HUASUPOMA JOEL         C         136.00
+031665           MAR  MAR  01/04/2021 09:51  V                      QUISPE LOPEZ GUILMA            C          20.00
+031666           MAR  MAR  01/04/2021 09:54  V                      MARTINEZ MARTINEZ NATALY       C          15.00
+031667           MAR  MAR  01/04/2021 09:58  V                      ATOCHE JULCA CAMILO            C          80.00
+031668           MAR  MAR  01/04/2021 10:06  V                      RAQUENA GALLANGOS JUAN         C          70.00
+031669           MAR  MAR  01/04/2021 10:09  V                      MIRTHA SOLANO RIVERA           C         143.00
+031670           MAR  MAR  01/04/2021 10:30  V                      SERNAQ MALLQUI LESLY           C          80.00
+031671           MAR  MAR  01/04/2021 10:31  V                      MEJIA ROMERO IVAN              C          20.00
+031672           MAR  MAR  01/04/2021 10:38  V                      OLIVARES LEON URBANA           C          20.00
+031673           MAR  MAR  01/04/2021 10:38  V                      OLIVARES LEON URBANA           C          70.00
+031674           MAR  MAR  01/04/2021 10:46  V                      DURAND SALES ROSA              C          80.00
+031675           MAR  MAR  01/04/2021 10:46  V                      DURAND SALES ROSA              C          70.00
+031676           MAR  MAR  01/04/2021 10:52  V                      AREVALO VILLACORTA JUAN        C          40.00
+031677           MAR  MAR  01/04/2021 10:53  V                      AREVALO VILLACORTA JUAN        C         120.00
+031678           MAR  MAR  01/04/2021 10:53  V                      AREVALO VILLACORTA JUAN        C          70.00
+031679           MAR  MAR  01/04/2021 11:01  V                      TENA PASCO LURDES              C          70.00
+031680           MAR  MAR  01/04/2021 11:05  V                      TENA PASCO LURDES              C          40.00
+031681           MAR  MAR  01/04/2021 11:17  V                      YOMIRA CUJES                   C           5.00
+031682           MAR  MAR  01/04/2021 11:20  V                      ARIZA HURTADO MATIEL           C         105.00
+031683           MAR  MAR  01/04/2021 11:20  V                      ARIZA HURTADO MATIEL           C          70.00
+031684           MAR  MAR  01/04/2021 11:24  V                      VELASQUEZ ASENCIO EDWIN        C          40.00
+031685           MAR  MAR  01/04/2021 11:25  V                      GARCIA FREYLE MARTIN YUNIOR    C          80.00
+031686           MAR  MAR  01/04/2021 11:26  V                      GARCIA FREYRE MARTIN           C          70.00
+031687           MAR  MAR  01/04/2021 11:26  V                      GARCIA FREYRE MARTIN           C          40.00
+031688           MAR  MAR  01/04/2021 11:32  V                      FLORES OLIVARES FREDY          C          40.00
+031689           MAR  MAR  01/04/2021 11:33  V                                                     C           1.20
+031690           MAR  MAR  01/04/2021 11:34  V                      VARGAS MARCHENA MARIA          C         120.00
+031691           MAR  MAR  01/04/2021 11:36  V                      BRAVO REYES ELIZABETH          C          20.00
+031692           MAR  MAR  01/04/2021 11:37  V                      QUISPE LOPEZ GUILMA            C         120.00
+031693           MAR  MAR  01/04/2021 11:49  V                      MEJIA ROMERO IVAN              C          70.00
+031694           MAR  MAR  01/04/2021 11:51  V                      VELASQUEZ ASENCIOS EDWIN       C         105.00
+031695           MAR  MAR  01/04/2021 11:51  V                      VELASQUEZ ASENCIOS EDWIN       C          70.00
+031696           MAR  MAR  01/04/2021 11:53  V                      FLORES CHIRRE LEYSI            C          70.00
+031697           MAR  MAR  01/04/2021 11:54  V                      BAZALAR OYOLA MARILU           C          70.00
+031698           MAR  MAR  01/04/2021 12:11  V                      CARRASCO ARIASCA GLORIA        C         236.50
+031699           MAR  MAR  01/04/2021 12:12  V                      CIPRIANO LOPEZ JUAN CARLOS     C          40.00
+031700           MAR  MAR  01/04/2021 12:19  V                      OLORTEGUI CIERTO CESAR5        C          40.00
+031701           MAR  MAR  01/04/2021 12:23  V                      LAZARO AZA;ERO OSCAR           C          20.00
+031702           MAR  MAR  01/04/2021 12:30  V                      LUNA FLORES                    C         204.50úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:11
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+031703           MAR  MAR  01/04/2021 12:36  V                      ROJAS MAYO PABLO               C          40.00
+031704           MAR  MAR  01/04/2021 12:37  V                      ARIZA HURTADO                  C          40.00
+031705           MAR  MAR  01/04/2021 12:40  V                      ALVA CORTEZ BERNARDINA         C          40.00
+031706           MAR  MAR  01/04/2021 12:42  V                      CIPRIANO LOPEZ JUAN            C         105.00
+031707           MAR  MAR  01/04/2021 12:42  V                      CIPRIANO LOPEZ JUAN            C          70.00
+031708           MAR  MAR  01/04/2021 12:46  V                      RODRIGUEZ ANAYA FRANK          C          80.00
+031709           MAR  MAR  01/04/2021 12:49  V                      OLORTEGUI CESAR                C          83.40
+031710           MAR  MAR  01/04/2021 13:05  V                      GUTIERRES CARDENAS             C         120.00
+031711           MAR  MAR  01/04/2021 13:12  V                      LAZARO                         C          31.50
+031712           MAR  MAR  01/04/2021 13:16  V                      CACERES JOAQUIN MARLENI        C          70.00
+031713           MAR  MAR  01/04/2021 13:18  V                                                     C           1.00
+031714           MAR  MAR  01/04/2021 13:23  V                      DURAND SALES                   C         108.50
+031715           MAR  MAR  01/04/2021 13:29  V                      DURAND SALES ROSA              C         178.00
+031716           MAR  MAR  01/04/2021 13:32  V                      CABILLAS RAMIREZ STALYN        C          40.00
+031717           MAR  MAR  01/04/2021 13:35  V                      AREVALO VILLACORTA JUAN        C          75.00
+031718           MAR  MAR  01/04/2021 13:37  V                      GARCIA YULIANA                 C          40.00
+031719           MAR  MAR  01/04/2021 13:53  V                      VELASQUEZ ASENCIO EDWIN        C         267.00
+031720           MAR  MAR  01/04/2021 14:07  V                      GARCIA CABREL LOAN             C          70.00
+031721           MAR  MAR  01/04/2021 14:09  V                      BRIGITTE ORTIZ                 C          56.00
+031722           MAR  MAR  01/04/2021 14:16  V                      ARIZA HURTADO                  C          78.60
+031723           MAR  MAR  01/04/2021 14:19  V                      ROJAS MAYO PABLO               C         172.00
+031724           MAR  MAR  01/04/2021 14:21  V                      ALVA CORTEZ BERNARDINA         C          70.00
+031725           MAR  MAR  01/04/2021 14:40  V                      CIPRIANO LOPEZ JUAN CARLOS     C         218.50
+031726           MAR  MAR  01/04/2021 14:42  V                      ALVA CORTEZ BERNARDINA         C          80.00
+031727           MAR  MAR  01/04/2021 14:46  V                      SHEILA VASQUEZ                 C          59.00
+031728           MAR  MAR  01/04/2021 14:53  V                      SE ANULO 31652                 C          28.50
+031729           MAR  MAR  01/04/2021 15:04  V                      CIPRIANO LO[EZ JUAN            C          45.00
+031730           MAR  MAR  01/04/2021 15:14  V                      ALBA CORTEZ BERNARDINA         C         322.50
+031731           MAR  MAR  01/04/2021 15:16  V                                                     C           2.50
+031732           MAR  MAR  01/04/2021 15:16  V                                                     C           3.00
+031733           MAR  MAR  02/04/2021 08:15  V                      DOMINGUEZ CAJACHAGUA RICHARD   C          80.00
+031734           MAR  MAR  02/04/2021 08:18  V                      FLORES OLIVARES FREDY          C         105.00
+031735           MAR  MAR  02/04/2021 08:19  V                      FLORES OLIVARES FREDY          C          70.00
+031736           MAR  MAR  02/04/2021 08:22  V                      HINOSTROZA LOPEZ HAYDE         C         113.00
+031737           MAR  MAR  02/04/2021 08:43  V                      PALOMINO RAMIREZ NORMA         C         105.00
+031738           MAR  MAR  02/04/2021 08:43  V                      VENTA ANULADA                  C           0.00
+031739           MAR  MAR  02/04/2021 08:43  V                      PALOMINO RAMIREZ NORMA         C          40.00
+031740           MAR  MAR  02/04/2021 08:50  V                      GIL ROBLES ESTHER              C          40.00
+031741           MAR  MAR  02/04/2021 08:52  V                      SALDA;A BENAVIDES LEIDY        C          40.00
+031742           MAR  MAR  02/04/2021 09:04  V                      CORDOVA ROSARIO JERALDI        C          70.00
+031743           MAR  MAR  02/04/2021 09:05  V                      CORDOVA ROSARIO ANGEL          C          70.00
+031744           MAR  MAR  02/04/2021 09:05  V                      CORDOVA ROSARIO DAVID ERNESTO  C          70.00
+031745           MAR  MAR  02/04/2021 09:05  V                      ROSARIO GOMEZ MAURA JULIA      C          70.00
+031746           MAR  MAR  02/04/2021 09:09  V                      DOMINGUEZ CAJACHAGUA ROMUALDO  C          40.00
+031747           MAR  MAR  02/04/2021 09:32  V                      VENTA ANULADA                  C           0.00
+031748           MAR  MAR  02/04/2021 09:33  V                      ENCARNACION VALENTIN ANGELICA  C          20.00
+031749           MAR  MAR  02/04/2021 09:40  V                      VILLAVICENCIO CANO JUAN        C          70.00
+031750           MAR  MAR  02/04/2021 09:41  V                      LUNA ADAN LUZ                  C          70.00
+031751           MAR  MAR  02/04/2021 09:44  V                      CORDOVA ROSARIO JERALDINE      C          40.00
+031752           MAR  MAR  02/04/2021 09:55  V                      FLORES OLIVARES                C           4.00
+031753           MAR  MAR  02/04/2021 10:01  V                      CARRASCO ARIASCA MARIA         C          73.50
+031754           MAR  MAR  02/04/2021 10:02  V                      LUNA FLORES ANTHONY            C          78.50
+031755           MAR  MAR  02/04/2021 10:18  V                      ROSALES HUASUPOMA JOEL         C         568.50
+031756           MAR  MAR  02/04/2021 10:23  V                      VILLAVICENCIO CANO JUAN        C          20.00
+031757           MAR  MAR  02/04/2021 10:26  V                      PANTA                          C           1.50úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:12
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+031758           MAR  MAR  02/04/2021 10:27  V                      ROMERO TORIBIO MARICIELO       C          70.00
+031759           MAR  MAR  02/04/2021 10:28  V                      ROMERO TORIBIO JIMENA          C          70.00
+031760           MAR  MAR  02/04/2021 10:35  V                      ROSARIO GOMEZ                  C          60.00
+031761           MAR  MAR  02/04/2021 10:37  V                      ROMERO TORIBIO JIMENA          C          20.00
+031762           MAR  MAR  02/04/2021 10:37  V                      ROMERO TORIBIO MARICIELO       C          20.00
+031763           MAR  MAR  02/04/2021 10:41  V                      LA CRUZ BARZOLA EDGAR          C          47.50
+031764           MAR  MAR  02/04/2021 10:48  V                      LA CRUZ BRZOLA                 C          14.00
+031765           MAR  MAR  02/04/2021 10:53  V                                                     C           6.00
+031766           MAR  MAR  02/04/2021 10:53  V                      SAENZ DE LA CRUZ ALEX          C          40.00
+031767           MAR  MAR  02/04/2021 10:54  V                      SAENZ JUSTO ALEX               C          40.00
+031768           MAR  MAR  02/04/2021 11:07  V                      CASTILLO SANCHEZ               C          28.50
+031769           MAR  MAR  02/04/2021 11:11  V                      ESPINOZA CADILLO WILLIAN       C          20.00
+031770           MAR  MAR  02/04/2021 11:27  V                      GRADOS PICHILINGUE JESUS       C         105.00
+031771           MAR  MAR  02/04/2021 11:28  V                      GRADOS PICHILINGUE JESUS       C          70.00
+031772           MAR  MAR  02/04/2021 11:28  V                      GRADOS PICHILINGUE JESUS       C          40.00
+031773           MAR  MAR  02/04/2021 11:46  V                      SERRANO CLADERON MARIA LUISA   C          20.00
+031774           MAR  MAR  02/04/2021 11:52  V                      GONZALES ASENCIOS MARISOL      C          80.00
+031775           MAR  MAR  02/04/2021 12:03  V                      LAZARO                         C          32.50
+031776           MAR  MAR  02/04/2021 12:09  V                      BACA SAENZ JOSE                C          25.00
+031777           MAR  MAR  02/04/2021 12:09  V                      BACA SAENZ JOSE                C          70.00
+031778           MAR  MAR  02/04/2021 12:12  V                      VILLANUEVA ALMANZA SHEYLA      C          40.00
+031779           MAR  MAR  02/04/2021 12:16  V                      SANDRA/DOMICILIO               C         244.50
+031780           MAR  MAR  02/04/2021 12:19  V                      PICHILINGUE POLO               C         105.00
+031781           MAR  MAR  02/04/2021 12:20  V                      SAENZ JUSTO ALEX               C          80.00
+031782           MAR  MAR  02/04/2021 12:29  V                      GONZALES ASENCIO MARISOL       C          20.00
+031783           MAR  MAR  02/04/2021 12:36  V                      GONZALES ASENCIO MARISOL       C          30.00
+031784           MAR  MAR  02/04/2021 12:42  V                      GARCIA FREYRE MARTIN           C          20.00
+031785           MAR  MAR  02/04/2021 12:44  V                      GARCIA FREYRE MARTIN           C          93.10
+031786           MAR  MAR  02/04/2021 12:48  V                      ESPINOZA JOAQUIN ANDERSON      C          40.00
+031787           MAR  MAR  02/04/2021 12:51  V                      ROJAS RONDON ANGEL             C          80.00
+031788           MAR  MAR  02/04/2021 12:59  V                      ROMERO MANRIQUE                C          32.50
+031789           MAR  MAR  02/04/2021 13:15  V                      ROJAS RONDON                   C          80.00
+031790           MAR  MAR  02/04/2021 13:23  V                      ROSARIO GOMEZ MAURA            C         340.00
+031791           MAR  MAR  02/04/2021 13:24  V                      SERRANO CALDERON MARIA         C         105.00
+031792           MAR  MAR  02/04/2021 13:24  V                      SERRANO CALDERON MARIA         C          70.00
+031793           MAR  MAR  02/04/2021 13:30  V                      CORDOVA ROSARIO JERALDI        C         343.50
+031794           MAR  MAR  02/04/2021 13:32  V                      SALVADOR CARRE;O MATEO         C          40.00
+031795           MAR  MAR  02/04/2021 13:33  V                      NAVA REYES GABRIELA            C          80.00
+031796           MAR  MAR  02/04/2021 13:48  V                      VENTA ANULADA                  C           0.00
+031797           MAR  MAR  02/04/2021 13:48  V                      FLORES OLIVARES FREDY          C          80.00
+031798           MAR  MAR  02/04/2021 14:00  V                      GRADOS PICHILINGUE JESUS       C         315.00
+031799           MAR  MAR  02/04/2021 14:00  V                                                     C           3.00
+031800           MAR  MAR  02/04/2021 14:09  V                      FLORES OLIVARES FREDY          C          88.50
+031801           MAR  MAR  02/04/2021 14:14  V                      CORDOVA ROSARIO DAVID          C         100.00
+031802           MAR  MAR  02/04/2021 14:15  V                      CORDOVA ROSARIO ANGEL          C         100.00
+031803           MAR  MAR  02/04/2021 14:19  V                      VENTA ANULADA                  C           0.00
+031804           MAR  MAR  02/04/2021 14:37  V                      BACA SAENZ JOSE                C         297.00
+031805           MAR  MAR  02/04/2021 14:40  V                      PALOMINO RAMIREZ NORMA         C          30.00
+031806           MAR  MAR  02/04/2021 14:43  V                      ENCARNACION VALENTIN           C          48.60
+031807           MAR  MAR  02/04/2021 14:54  V                      ESPINOZA                       C          45.00
+031808           MAR  MAR  02/04/2021 15:06  V                      JAIME LLERENA                  C          91.00
+031809           MAR  MAR  02/04/2021 15:12  V                      SERRANO CALDERON MARIA         C         890.50
+031810           MAR  MAR  02/04/2021 15:19  V                      GABRIELA NAVA                  C          40.00
+031811           MAR  MAR  02/04/2021 15:32  V                      ORTIZ DURAND CRISTIAM          C         140.50
+031812           MAR  MAR  02/04/2021 15:37  V                                                     C           9.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:12
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+031813           MAR  MAR  02/04/2021 15:41  V                      VENTA ANULADA                  C           0.00
+031814           MAR  MAR  02/04/2021 16:08  V                      ALVADOR CARRE;O                C          13.50
+031815           MAR  MAR  02/04/2021 16:20  V                      GUSTAVO                        C           3.00
+031816           LAU       03/04/2021 08:39  V                      TELLO DIOSES JHOEL             C         105.00
+031817           LAU       03/04/2021 08:39  V                      TELLO DIOSES JHOEL             C          70.00
+031818           LAU       03/04/2021 08:39  V                      TELLO DIOSES JHOEL             C          20.00
+031819           LAU       03/04/2021 08:45  V                      PRINCIPE TENORIO LEOCRICIA     C          80.00
+031820           LAU       03/04/2021 08:58  V                      CADILLO GUTIERREZ LUIS ENRIQUE C          40.00
+031821           LAU       03/04/2021 09:00  V                      SIFUENTES SAAVEDRA EDMUNDO     C          70.00
+031822           LAU       03/04/2021 09:05  V                      RAMIREZ GOMERO ORSO AUDINO     C         155.00
+031823           LAU       03/04/2021 09:05  V                      RAMIREZ GOMERO ORSO            C          70.00
+031824           LAU       03/04/2021 09:08  V                      QUISPE RAMIREZ KARIN TAMARA    C         170.00
+031825           LAU       03/04/2021 09:11  V                      LINDO RIVAS LUIS               C          70.00
+031826           LAU       03/04/2021 09:13  V                      DIEGO LIZZETTI KATTY           C         105.00
+031827           LAU       03/04/2021 09:13  V                      DIEGO LIZETTI KATTY            C          70.00
+031828           LAU       03/04/2021 09:13  V                      DIEGO LIZETTI KATTY            C          20.00
+031829           LAU       03/04/2021 09:17  V                      SILVIA RODRIGUEZ GONZALES      C         150.00
+031830           LAU       03/04/2021 09:19  V                      CAVERO SALINAS RICARDO         C          40.00
+031831           LAU       03/04/2021 09:21  V                      ARANA NARVASTA ALICIA          C          80.00
+031832           LAU       03/04/2021 09:23  V                      MORALES CAM KATHERINE          C         105.00
+031833           LAU       03/04/2021 09:24  V                      CAM PACHECO LEANDRO            C          65.00
+031834           LAU       03/04/2021 09:47  V                      VASQUEZ ROQUE HURIEL           C          70.00
+031835           LAU       03/04/2021 09:47  V                      GONZALES BLAS DIANA            C          70.00
+031836           LAU       03/04/2021 09:49  V                      BRAVO DE LA CRUZ CARMINA       C          40.00
+031837           LAU       03/04/2021 09:59  V                      CARRASCO PARIAZCA INES         C         226.50
+031838           LAU       03/04/2021 10:00  V                      LUNA FLORES ANTHONY            C         281.50
+031839           LAU       03/04/2021 10:23  V                      SOLIS HUERTAS MARIA            C          20.00
+031840           LAU       03/04/2021 10:25  V                      CAVERO SALINAS                 C           3.00
+031841           LAU       03/04/2021 10:34  V                      PRINCIPE TENORIO LEOCRICIA     C         105.00
+031842           LAU       03/04/2021 10:34  V                      PRINCIPE TENORIO LEOCRICIA     C          70.00
+031843           LAU       03/04/2021 10:34  V                      PRINCIPE TENORIO LEOCRICIA     C          40.00
+031844           LAU       03/04/2021 10:43  V                      GARCIA ALOR JORGE              C          80.00
+031845           LAU       03/04/2021 10:56  V                      DOMINGUEZ DE TAMAYO VICTORIA   C          20.00
+031846           LAU       03/04/2021 11:10  V                      GARCIA ALOR JORGE              C         105.00
+031847           LAU       03/04/2021 11:10  V                      GARCIA ALOR JORGE              C          70.00
+031848           LAU       03/04/2021 11:10  V                      GARCIA ALOR JORGE              C          40.00
+031849           LAU       03/04/2021 11:26  V                      RAMIREZ GOMERO CORSO           C          20.00
+031850           LAU       03/04/2021 11:28  V                      SALVADOR CARRE;O MATEO         C          30.00
+031851           LAU       03/04/2021 11:37  V                      AREVALO TARAZONA CARMEN        C          80.00
+031852           LAU       03/04/2021 11:48  V                      ORTIZ DURAND CRISTINA          C         140.50
+031853           LAU       03/04/2021 11:49  V                      TORIBIO HUARACA LUZMILA        C          70.00
+031854           LAU       03/04/2021 11:50  V                      FLORES ROSAS EDITH             C          70.00
+031855           LAU       03/04/2021 11:54  V                      LUNA FLORES ANTHONY            C          71.00
+031856           LAU       03/04/2021 11:55  V                      CARRASCO PARIAZCA              C          71.00
+031857           LAU       03/04/2021 12:06  V                      HUACHOO BLAS MICHEL            C          40.00
+031858           LAU       03/04/2021 12:07  V                      PIMENTEL AGURTO SILVIA         C          35.00
+031859           LAU       03/04/2021 12:14  V                      HINOSTROZA LOPES HAYDEE        C          20.00
+031860           LAU       03/04/2021 12:16  V                      RAMOS HUANCA MAGDALENA         C          70.00
+031861           LAU       03/04/2021 12:16  V                      ROBLES SANDOVAL PEDRO          C          70.00
+031862           LAU       03/04/2021 12:19  V                      MARTINEZ APONTE KAREN          C          80.00
+031863           LAU       03/04/2021 12:23  V                      TELLO DURAND MELANIO           C          70.00
+031864           LAU       03/04/2021 12:25  V                      GAVY LLASHAG                   C         120.00
+031865           LAU       03/04/2021 12:37  V                      TREBEJO SIFUENTES MANUEL       C          40.00
+031866           MAR  MAR  05/04/2021 08:06  V                      MEZA TORIBIO YOURICK           C          80.00
+031867           MAR  MAR  05/04/2021 08:07  V                      CARLOS ROMEN UBALDO            C          80.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:13
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+031868           MAR  MAR  05/04/2021 08:09  V                      MEZA TORIBIO YOURICK           C         105.00
+031869           MAR  MAR  05/04/2021 08:09  V                      MEZA TORIBIO YOURICK           C          70.00
+031870           MAR  MAR  05/04/2021 08:13  V                      CHIROQUE BRTOLOME CARMEN ROSA  C         125.00
+031871           MAR  MAR  05/04/2021 08:17  V                      VARGAS JAIMES JUDITH           C          80.00
+031872           MAR  MAR  05/04/2021 08:17  V                      VARGAS JAIME JUDITH            C         110.00
+031873           MAR  MAR  05/04/2021 08:18  V                      VARGAS JAIME JUDITH            C          25.00
+031874           MAR  MAR  05/04/2021 08:20  V                      FLORES VARGAS FELICIANA        C          80.00
+031875           MAR  MAR  05/04/2021 08:26  V                      LIMAY AVILA MIRTHA             C          80.00
+031876           MAR  MAR  05/04/2021 08:31  V                      CHIROQUE BARTOLOME CARMEN      C          40.00
+031877           MAR  MAR  05/04/2021 08:32  V                      JAIMES CERNA BEATRIZ           C          80.00
+031878           MAR  MAR  05/04/2021 08:39  V                      GONZALES ASENCIOS MARISOL      C         115.00
+031879           MAR  MAR  05/04/2021 08:39  V                      GONZALES ASENCIOS MARISOL      C          70.00
+031880           MAR  MAR  05/04/2021 08:43  V                      GUSTAVO SERRQANO               C         195.00
+031881           MAR  MAR  05/04/2021 08:45  V                      OLORTEGUI CIERTO CESAR         C         105.00
+031882           MAR  MAR  05/04/2021 08:46  V                      OLORTEGUI CIERTO CESAR         C          70.00
+031883           MAR  MAR  05/04/2021 08:51  V                      SAENZ MELGAREJO FIDELA         C          40.00
+031884           MAR  MAR  05/04/2021 08:55  V                      LLANOS ESPINOZA RULLY          C          40.00
+031885           MAR  MAR  05/04/2021 09:01  V                      ALBUJAR MAGUI;A ISAAC          C         105.00
+031886           MAR  MAR  05/04/2021 09:01  V                      ALBUJAR MAGUI;A ISAAC          C          70.00
+031887           MAR  MAR  05/04/2021 09:06  V                      GARCIA LEON SAMUEL             C          40.00
+031888           MAR  MAR  05/04/2021 09:09  V                      PINEDA OCA;A GLORIA            C         105.00
+031889           MAR  MAR  05/04/2021 09:10  V                      PINEDA OCA;A GLORIA            C          80.00
+031890           MAR  MAR  05/04/2021 09:10  V                      PINEDA OCA;A GLORIA            C          70.00
+031891           MAR  MAR  05/04/2021 09:15  V                      HUAMAN JUSTO NAIL              C          65.00
+031892           MAR  MAR  05/04/2021 09:18  V                      GOMERO TRINIDAD ESTHER         C          25.50
+031893           MAR  MAR  05/04/2021 09:19  V                      CARLOS ROMAN UBALDO            C         105.00
+031894           MAR  MAR  05/04/2021 09:19  V                      CARLOS ROMAN UBALDO            C          70.00
+031895           MAR  MAR  05/04/2021 09:22  V                      MARTINEZ                       C           2.00
+031896           MAR  MAR  05/04/2021 09:23  V                      PINEDA TORIBIO RONALD          C         160.00
+031897           MAR  MAR  05/04/2021 09:24  V                      PACHERRES VELASQUEZ CRISTINA   C         106.50
+031898           MAR  MAR  05/04/2021 09:27  V                      PACHERRES VELASQUEZ CRISTINA   C          40.00
+031899           MAR  MAR  05/04/2021 09:30  V                      ACU;A ESPINOZA BENJAMIN        C         112.50
+031900           MAR  MAR  05/04/2021 09:32  V                      CARLOS ROMAN UBALDO            C          10.00
+031901           MAR  MAR  05/04/2021 09:35  V                      VENTA ANULADA                  C           0.00
+031902           MAR  MAR  05/04/2021 09:41  V                      OLORTEGUI CIERTO CESAR         C          20.00
+031903           MAR  MAR  05/04/2021 09:43  V                      INOCENTE GRADOS EDUARDO        C          80.00
+031904           MAR  MAR  05/04/2021 09:44  V                      GRADOS ALOR ELIZABETH          C          80.00
+031905           MAR  MAR  05/04/2021 09:45  V                      MARUJO ROJAS NAZARIA           C          70.00
+031906           MAR  MAR  05/04/2021 09:45  V                      SANCHEZ MONROY MELANIA         C          70.00
+031907           MAR  MAR  05/04/2021 09:51  V                      CLAROS FLORES HUBER            C          70.00
+031908           MAR  MAR  05/04/2021 09:59  V                      DIAZ VELASQUEZ JAMES           C          20.00
+031909           MAR  MAR  05/04/2021 10:00  V                      ESPINOZA DE MORENO MERCEDES    C          20.00
+031910           MAR  MAR  05/04/2021 10:02  V                      GOMERO TRINIDAD ESTHER         C         195.00
+031911           MAR  MAR  05/04/2021 10:03  V                      VALENCIA ACU;A                 C         120.00
+031912           MAR  MAR  05/04/2021 10:05  V                      PATRICIO PABLO YENY            C         175.00
+031913           MAR  MAR  05/04/2021 10:14  V                      ROMERO PACHECO JUAN            C         178.00
+031914           MAR  MAR  05/04/2021 10:15  V                      GAVINO JUAN DE DIOS VIVIANA    C          40.00
+031915           MAR  MAR  05/04/2021 10:16  V                      ROMERO PACHECO JUAN            C          70.00
+031916           MAR  MAR  05/04/2021 10:19  V                      TORRES CLAROS JAIME            C         105.00
+031917           MAR  MAR  05/04/2021 10:20  V                      TORRES CLAROS JAIME            C          70.00
+031918           MAR  MAR  05/04/2021 10:22  V                      JIMENEZ SACRAMENTO DALILA      C          80.00
+031919           MAR  MAR  05/04/2021 10:35  V                      JIMENEZ SACRAMENTO DALILA      C         120.00
+031920           MAR  MAR  05/04/2021 10:45  V                      SOLANO RIVERA MIRTHA           C          20.00
+031921           MAR  MAR  05/04/2021 10:50  V                      SANTO CIERTO ESTELITA          C          40.00
+031922           MAR  MAR  05/04/2021 10:54  V                      OSORES PAUCARCHUCO RICHARD     C          80.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:13
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+031923           MAR  MAR  05/04/2021 10:55  V                      NOVOA BUYON JOSE               C          80.00
+031924           MAR  MAR  05/04/2021 10:59  V                      ARIZA HURTADO MAGDIEL          C          80.00
+031925           MAR  MAR  05/04/2021 11:16  V                      JAVIER ALCOSER JULIO           C          40.00
+031926           MAR  MAR  05/04/2021 11:28  V                      ESPINOZA TORNERO YERICO JHOEL  C          80.00
+031927           MAR  MAR  05/04/2021 11:29  V                      DALDAS SALVO DULCE             C          80.00
+031928           MAR  MAR  05/04/2021 11:29  V                      TORNERO HUAYRA CONSUELO        C          80.00
+031929           MAR  MAR  05/04/2021 11:33  V                      CARRERA OLIVARES ALEJANDRO     C          40.00
+031930           MAR  MAR  05/04/2021 11:41  V                      ORTIZ QUISPE JEFFRIN BRNADON   C          80.00
+031931           MAR  MAR  05/04/2021 11:42  V                      ORTIZ QUISPE MILER             C          80.00
+031932           MAR  MAR  05/04/2021 11:44  V                      TORNERO HUAYRA CONSUELO        C          70.00
+031933           MAR  MAR  05/04/2021 11:47  V                      ARANA TAMAYO OSCAR             C          80.00
+031934           MAR  MAR  05/04/2021 11:48  V                      CAVERO SALINAS RICARDO         C          40.00
+031935           MAR  MAR  05/04/2021 11:57  V                      PRADA DEYANIRA                 C           5.00
+031936           MAR  MAR  05/04/2021 12:04  V                      LUNA FLORES ANTHONY            C         227.50
+031937           MAR  MAR  05/04/2021 12:06  V                      CHAVEZ TADEO JEAN PIERRE       C         136.00
+031938           MAR  MAR  05/04/2021 12:06  V                      CHAVEZ TADEO JEAN PIERRE       C          70.00
+031939           MAR  MAR  05/04/2021 12:20  V                      CAM PACHECO LEANDRO            C         160.00
+031940           MAR  MAR  05/04/2021 12:21  V                      FRANCIS QUINTANA               C          80.00
+031941           MAR  MAR  05/04/2021 12:27  V                      GAMARRA CHAVEZ VILMA           C          80.00
+031942           MAR  MAR  05/04/2021 12:34  V                      ALBUJAR MAGUI;A ISAAC          C          20.00
+031943           MAR  MAR  05/04/2021 12:41  V                                                     C           1.20
+031944           MAR  MAR  05/04/2021 12:48  V                      LUIS OLIVRES FERNANDO          C          40.00
+031945           MAR  MAR  05/04/2021 12:50  V                      HUERTA DE SOLIS SUSANA         C          20.00
+031946           MAR  MAR  05/04/2021 12:59  V                      VENTA ANULADA                  C           0.00
+031947           MAR  MAR  05/04/2021 13:13  V                      CABRERA ATENCIA LUIS           C          80.00
+031948           MAR  MAR  05/04/2021 13:16  V                      MEZA TORIBIO YOURICK ALBERTO   C          20.00
+031949           MAR  MAR  05/04/2021 13:21  V                      HUERTA DE SOLIS SUSANA         C         105.00
+031950           MAR  MAR  05/04/2021 13:22  V                      GAMARRA CHAVEZ VILMA           C          70.00
+031951           MAR  MAR  05/04/2021 13:26  V                      SOLIS HUERTAS MARIA ISABEL     C         129.50
+031952           MAR  MAR  05/04/2021 13:27  V                      SOLIS HUERTAS MARIA ISABEL     C          70.00
+031953           MAR  MAR  05/04/2021 13:29  V                      TORRECILLO ALVARADO ARMANDO    C          40.00
+031954           MAR  MAR  05/04/2021 13:36  V                      IONOSTROZA LOPEZ GRACIELA      C          20.00
+031955           MAR  MAR  05/04/2021 13:45  V                      ROSALES HUASUPOMA JOEL         C          20.00
+031956           MAR  MAR  05/04/2021 13:47  V                      MEZA TORIBIO YOURICK           C         129.00
+031957           MAR  MAR  05/04/2021 13:48  V                      MEZA TORIBIO YOURICK           C          70.00
+031958           MAR  MAR  05/04/2021 13:57  V                      SOLIS MALLQUI GLORIA           C          20.00
+031959           MAR  MAR  05/04/2021 14:01  V                      TORECILLO                      C          33.00
+031960           MAR  MAR  05/04/2021 14:02  V                      NOVOA VASQUEZ JORGE DAVID      C          80.00
+031961           MAR  MAR  05/04/2021 14:08  V                      EMITERIO JUSTO DAVID           C          20.00
+031962           MAR  MAR  05/04/2021 14:09  V                      VENTOCILLA PIO SUSANA          C          20.00
+031963           MAR  MAR  05/04/2021 14:10  V                      TORRECILLO                     C          33.00
+031964           MAR  MAR  05/04/2021 14:26  V                      SAENZ CASTILLO GERONIMO        C         140.00
+031965           MAR  MAR  05/04/2021 14:27  V                      LEON VENTOCILLA URBANO         C         140.00
+031966           LAU       05/04/2021 14:55  V                      GUTIERREZ BALTUANO MONICA      C          80.00
+031967           LAU       05/04/2021 14:57  V                      GAVY LLASHAG                   C         160.00
+031968           LAU       05/04/2021 15:05  V                      VENTOCILLA PIO SUZANA          C         105.00
+031969           LAU       05/04/2021 15:05  V                      VENTOCILLA PIO SUZANA          C          70.00
+031970           LAU       05/04/2021 15:07  V                      APONTE JARA GUISELA \          C          70.00
+031971           LAU       05/04/2021 15:10  V                      HINOSTROSA LOPEZ HAYDE         C         140.00
+031972           LAU       05/04/2021 15:12  V                      VILLARREAL GARCIA ANGEL        C          20.00
+031973           LAU       05/04/2021 15:14  V                      VENTA ANULADA                  C           0.00
+031974           LAU       05/04/2021 15:18  V                      RODRIGUEZ BARRENECHEA JUAN     C          40.00
+031975           LAU       05/04/2021 15:23  V                      GAVY LLASHAG                   C         140.00
+031976           LAU       05/04/2021 15:23  V                      GAVY LLASHAG                   C         210.00
+031977           LAU       05/04/2021 15:25  V                      FERNANDEZ FIGUEROA JONATHAN    C          40.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:14
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+031978           LAU       05/04/2021 15:31  V                      ORTIZ BECERRA AURELIO          C          20.00
+031979           LAU       05/04/2021 15:34  V                      ORTIZ DURAND CRISTIAN          C         140.50
+031980           LAU       05/04/2021 15:34  V                      ORTIZ DURAND CRISTIAN          C          20.00
+031981           LAU       05/04/2021 15:40  V                      LLASHAG IZQUIERDO TIMOTEO      C          40.00
+031982           LAU       05/04/2021 15:40  V                      COTRINA VASQUEZ JULIA          C          40.00
+031983           LAU       05/04/2021 15:42  V                      ZU;IGA CUBA LUZBELIA           C          40.00
+031984           LAU       05/04/2021 15:45  V                      LUNA ABAN LUZ                  C          40.00
+031985           LAU       05/04/2021 15:49  V                      PICHILINGUE POLO JUAN CARLOS   C          20.00
+031986           LAU       05/04/2021 15:49  V                      PICHILINGUE LA ROSA AMADEO     C          20.00
+031987           LAU       05/04/2021 15:50  V                      LLASHAG IZQUIERDO TIMOTEO      C          40.00
+031988           LAU       05/04/2021 15:54  V                      QUISPE LOPEZ GUILMA            C          20.00
+031989           LAU       05/04/2021 15:54  V                      QUISPE LOPEZ GUILMA            C          70.00
+031990           LAU       05/04/2021 15:56  V                      ZU;IGA CUBA LUZBELIA           C          48.00
+031991           LAU       05/04/2021 15:57  V                      ZU;IGA CUBA LUZBELIA           C          35.00
+031992           LAU       05/04/2021 15:57  V                      ZU;IGA CUBA LUZBELIA           C          90.00
+031993           LAU       05/04/2021 16:03  V                      LINAREZ GARAY RUBEN            C          20.00
+031994           LAU       05/04/2021 16:06  V                      LUNA FLORES ANTHONY            C         105.00
+031995           LAU       05/04/2021 16:07  V                      LUNA FLORES ANTHONY            C          70.00
+031996           LAU       05/04/2021 16:08  V                      LUNA FLORES ANTHONY            C          20.00
+031997           LAU       05/04/2021 16:16  V                      CARILLO FALCON ABNER ZOSIMO    C          80.00
+031998           LAU       05/04/2021 16:23  V                      PRINCIPE HUERTAS MARILUZ       C         340.50
+031999           LAU       05/04/2021 16:39  V                      CALAZADO JUSTO AURELIANA       C          80.00
+032000           LAU       05/04/2021 16:39  V                      EMETERIO ATANACIO SENON        C          80.00
+032001           LAU       05/04/2021 16:49  V                      LLASHAG IZQUIERDO TIMOTEO      C          45.00
+032002           LAU       05/04/2021 16:51  V                      COTRINA VASQUEZ JULIA          C         231.00
+032003           LAU       05/04/2021 16:55  V                      ROJAS LOARTE NEIL              C          20.00
+032004           LAU       05/04/2021 16:56  V                      ALARCON MEREGILDO LIZBETH      C          70.00
+032005           LAU       05/04/2021 16:57  V                      MERGILDO PALOMINO ERMELINDA    C          70.00
+032006           LAU       05/04/2021 17:00  V                      REQUENA VALDIVIA PEDRO         C          20.00
+032007           MAR       06/04/2021 17:52  V                      SOLIS MALQUI GLORIA            C          70.00
+032008           MAR       06/04/2021 17:53  V                      ROJAS BARRETO MAURA            C          70.00
+032009           MAR       06/04/2021 17:54  V                      ROJAS BARRETO MAURA            C          40.00
+032010           MAR       06/04/2021 17:54  V                      MORENO ESPINOZA NADIL          C          80.00
+032011           MAR       06/04/2021 17:55  V                      DIAZ VELASQUEZ JAMES           C          80.00
+032012           MAR       06/04/2021 17:55  V                      DOMINGUEZ DE TAMAYO VICTORIA   C          90.00
+032013           MAR       06/04/2021 17:56  V                      CAVERO SALINAS RICARDO         C          50.00
+032014           MAR       06/04/2021 18:00  V                      GUSTAVO SERRANO CALDERON       C         200.00
+032015           MAR       06/04/2021 18:02  V                      RIVERA CALDERON YAMILA         C          80.00
+032016           MAR       06/04/2021 18:04  V                      SOLIS HUERTA MARIA             C          20.00
+032017           MAR       06/04/2021 18:06  V                      DOMINGUEZ DE TAMAYO VICTORIA   C          20.00
+032018           MAR       06/04/2021 18:08  V                      ZU;IGA CUBA LUZBILDA           C          68.50
+032019           MAR       06/04/2021 18:08  V                      CUMIOQUE GONZALES JUAN         C          40.00
+032020           MAR       06/04/2021 18:09  V                      CHUMIOQUE GONZALES JUAN        C         120.00
+032021           MAR       06/04/2021 18:10  V                      DELGADO QUINTEROS JOSE         C          70.00
+032022           MAR       06/04/2021 18:10  V                      DELGADO QUINTEROS JOSE         C          20.00
+032023           MAR       06/04/2021 18:18  V                      MIGUEL OBREGON QUI;ONES        C          70.00
+032024           MAR       06/04/2021 18:19  V                      ABARCA TOLENTINO OLGA          C          35.00
+032025           MAR       06/04/2021 18:19  V                      FRANCISCO MORENO JULIO         C          70.00
+032026           MAR       06/04/2021 18:20  V                      FRANCISCO MORENO JULIO         C          20.00
+032027           MAR       06/04/2021 18:20  V                      OYOLA GAMARRA PAULA            C          70.00
+032028           MAR       06/04/2021 18:21  V                      GARCIA FREYRE MARTIN           C          70.00
+032029           MAR       06/04/2021 18:23  V                      GARCIA FREYRE MARTIN           C         155.00
+032030           MAR       06/04/2021 18:26  V                      QUISPE LOPEZ GUILMA            C         180.50
+032031           MAR       06/04/2021 18:32  V                      VENTOCILLA PIO SUZANA          C         215.50
+032032           MAR       06/04/2021 18:34  V                      PEREZ FERNANDEZ                C          20.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:14
+PRT102()                                                                                                                Pag.-    8
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+032033           MAR       06/04/2021 18:35  V                      ROMERO MATOS LUIS              C          20.00
+032034           MAR       06/04/2021 18:38  V                      HINOSTROZA LOPEZ MARIA         C         120.00
+032035           MAR       06/04/2021 18:43  V                      REYES SALVADOR HUMBERTO        C          80.00
+032036           MAR       06/04/2021 18:45  V                      VALDEOS AURAVILCA ROSA 3       C         205.00
+032037           MAR       06/04/2021 18:46  V                      SOCLA PENADILLO JHAMELI        C          80.00
+032038           MAR       06/04/2021 18:51  V                      ALVARADO OBREGON JUAN          C          40.00
+032039           MAR       06/04/2021 18:51  V                      VARGAS MARCHENA MARTHA         C          40.00
+032040           MAR       06/04/2021 18:51  V                      ARAMBULO FIGUEROA ANGELO       C          70.00
+032041           MAR       06/04/2021 18:52  V                      SHEILA VASQUEZ                 C          20.00
+032042           MAR       06/04/2021 18:54  V                      PICHILINGUE POLO JUAN          C         187.50
+032043           MAR       06/04/2021 18:55  V                      PICHILINGUE POLO CARLOS        C         209.50
+032044           MAR       06/04/2021 18:57  V                      SOLIS MALQUI GLORIA            C         324.50
+032045           LAU       06/04/2021 18:59  V                      SILVA ORTIZ JAVIER             C          70.00
+032046           LAU       06/04/2021 18:59  V                      ADAN MORA ANTONIO              C          70.00
+032047           LAU       06/04/2021 19:00  V                      ADAN MORA ANTONIO              C          20.00
+032048           LAU       06/04/2021 19:00  V                      SILVA GUARNIZ MARIANA          C          20.00
+032049           LAU       06/04/2021 19:03  V                      VALENZUELA REYNALTE DE PINEDA  C          20.00
+032050           LAU       06/04/2021 19:04  V                      ALBA CORTEZ BERNANDINA         C          20.00
+032051           LAU       06/04/2021 19:05  V                      ESPINOZA ALEJO CIRILO          C          20.00
+032052           LAU       06/04/2021 19:05  V                      GRADOS LOPEZ NAISHA            C          20.00
+032053           LAU       06/04/2021 19:06  V                      CANCICO MINAYA MARGARITA       C          40.00
+032054           LAU       06/04/2021 19:06  V                      OSORES PACUARCHUCO RICHARD     C          40.00
+032055           LAU       06/04/2021 19:07  V                      SALAS BRICE;O KARLA            C          20.00
+032056           LAU       06/04/2021 19:07  V                      TRUJILLO OLORTEGUI VICTOR      C          40.00
+032057           LAU       06/04/2021 19:08  V                      ARGUEDAS IZQUIERDO MERCEDES    C          90.00
+032058           LAU       06/04/2021 19:08  V                      FRANCISCO MORENO JULIO         C          43.50
+032059           LAU       06/04/2021 19:08  V                      CHAUCA GARCIA GLADYS           C         150.00
+032060           LAU       06/04/2021 19:10  V                      ROMERO MATOS LUIS              C          84.00
+032061           LAU       06/04/2021 19:11  V                      CANCINO MINAYA MARGARITA       C          70.00
+032062           LAU       06/04/2021 19:11  V                      CHACON MEZTANZA  ALEJANDRA     C          20.00
+032063           LAU       06/04/2021 19:12  V                      CARRERA BUSTAMANTE AYDE        C          70.00
+032064           LAU       06/04/2021 19:12  V                      TURPO ASILIO TIBURCIO          C          20.00
+032065           LAU       06/04/2021 19:13  V                      PINEDA OCA;A GLORIA            C         210.00
+032066           LAU       06/04/2021 19:14  V                      GONZALES TORO MARIA 3          C          20.00
+032067           LAU       06/04/2021 19:14  V                      ESPINOZA ALEJO CIRILO          C          70.00
+032068           LAU       06/04/2021 19:15  V                      SALVADOR CARRE;O MATEO         C          20.00
+032069           LAU       06/04/2021 19:15  V                      SAAVEDRA VARILLAS              C          40.00
+032070           LAU       06/04/2021 19:20  V                      ALBA CORTEZ BRIGIDA            C         274.50
+032071           LAU       06/04/2021 19:22  V                      COLLANTES LOPEZ VERONICA       C          20.00
+032072           LAU       06/04/2021 19:23  V                      REQUENA VALDIVIA               C          45.00
+032073           LAU       06/04/2021 19:24  V                      NAVA REYES GABRIELA            C          40.00
+032074           LAU       06/04/2021 19:24  V                      MONTERO LUQUE NICOLAS          C          70.00
+032075           LAU       06/04/2021 19:24  V                      MAURICIO TENA STEFANYA         C          70.00
+032076           LAU       06/04/2021 19:25  V                      TENA PASCO LOURDES             C          40.00
+032077           LAU       06/04/2021 19:25  V                      MAURICIO TENA STEFANYA         C          40.00
+032078           LAU       06/04/2021 19:26  V                      SILVA GUARNIZ                  C          61.00
+032079           LAU       06/04/2021 19:27  V                      CHACON MEZTANZA                C           6.00
+032080           LAU       06/04/2021 19:27  V                      OSORES PASCUAR                 C          58.00
+032081           LAU       06/04/2021 19:28  V                      SILVA ORTIZ JAVIER             C          40.00
+032082           LAU       06/04/2021 19:28  V                      CHAVEZ MEJIA MOISES            C          80.00
+032083           LAU       06/04/2021 19:29  V                      REYES RODRIGUEZ KARLA          C          80.00
+032084           LAU       06/04/2021 19:29  V                      RAMOS CHERO ELIZABETH          C          80.00
+032085           LAU       06/04/2021 19:29  V                      CANCINO MINAYA MARGARITA       C         105.00
+032086           LAU       06/04/2021 19:30  V                      CARRERA BUSTAMANTE AYDE        C         105.00
+032087           LAU       06/04/2021 19:31  V                      SAENZ MELGAREJO FIDELA         C          10.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:15
+PRT102()                                                                                                                Pag.-    9
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+032088           LAU       06/04/2021 19:31  V                      NAVA ZENDER MIGUEL 3           C          80.00
+032089           LAU       06/04/2021 19:32  V                      CARRERA BUSTAMANTE AYDE        C          80.00
+032090           LAU       06/04/2021 19:36  V                      PICHILINGUE LA ROSA AMADEO     C         105.00
+032091           LAU       06/04/2021 19:38  V                      PICHILINGUE LA ROSA AMADEO     C         319.50
+032092           LAU       06/04/2021 19:42  V                      TRUJILLO OLORTEGUI             C          12.00
+032093           LAU       06/04/2021 19:58  V                      SAENZ MELGAREJO                C         317.00
+032094           LAU       06/04/2021 20:07  V                      VERONICA COLLANTES             C         168.00
+032095           LAU       06/04/2021 20:28  V                      SHEYLA VASQUEZ                 C          31.00
+032096           LAU       06/04/2021 21:10  V                      ROSALES HUASUPOMA              C          25.00
+032097           MAR  MAR  07/04/2021 08:09  V                      TRUJILLO OLORTEGUI VICTOR      C          70.00
+032098           MAR  MAR  07/04/2021 08:10  V                      TRUJILLO OLORTEGUI VICTOR      C          25.00
+032099           MAR  MAR  07/04/2021 08:12  V                      SAENZ MELGAREJO FIDELA         C         220.00
+032100           MAR  MAR  07/04/2021 08:18  V                      MONZON INOCENTE ROGER          C          40.00
+032101           MAR  MAR  07/04/2021 08:20  V                      FERRER MEJIA ROSA              C          35.00
+032102           MAR  MAR  07/04/2021 08:24  V                      ANTUNEZ SIFUENTES ALFREDO      C          80.00
+032103           MAR  MAR  07/04/2021 08:34  V                      SAENZ MELGAREJO FIDELA         C          20.00
+032104           MAR  MAR  07/04/2021 08:35  V                      ANDRES MEDINA ANTONIO          C          73.00
+032105           MAR  MAR  07/04/2021 08:39  V                      GARCIA MORON INGRID VERONICA   C          95.00
+032106           MAR  MAR  07/04/2021 08:41  V                      GRANDA ALVARADO SANTIAGO       C          50.00
+032107           MAR  MAR  07/04/2021 08:47  V                      ZU;IGA CUBA / ISABEL           C          26.50
+032108           MAR  MAR  07/04/2021 08:56  V                      COLLANTES LOPEZ VERONICA JANET C          80.00
+032109           MAR  MAR  07/04/2021 09:14  V                      COLLANTES LOPEZ VERONICA       C          20.00
+032110           MAR  MAR  07/04/2021 09:19  V                      GUSTAVO SERRANO                C         105.00
+032111           MAR  MAR  07/04/2021 09:25  V                      PE;A CRUZ SUSANA               C          70.00
+032112           MAR  MAR  07/04/2021 09:59  V                      TELLO SILVA VICTOR             C          80.00
+032113           MAR  MAR  07/04/2021 10:02  V                      GONZALES ASENCIOS              C           4.50
+032114           MAR  MAR  07/04/2021 10:06  V                      PAREDES PAUSICH SUE            C          40.00
+032115           MAR  MAR  07/04/2021 10:09  V                      PAUSICH MOSCAIZA OLICIA        C          40.00
+032116           MAR  MAR  07/04/2021 10:12  V                      LUNA FLORES ANTHONY            C         279.00
+032117           MAR  MAR  07/04/2021 10:17  V                      PICHILINGUE POLO JOSE          C         274.00
+032118           MAR  MAR  07/04/2021 10:20  V                      PICHILINGUE POLO JUAN          C         121.50
+032119           MAR  MAR  07/04/2021 10:22  V                      PICHILINGUE POLO JUAN          C         141.50
+032120           MAR  MAR  07/04/2021 10:24  V                      ESPINOZA FELIX VICENCIA        C          13.00
+032121           MAR  MAR  07/04/2021 10:27  V                      ESPINOZA ALEJO CIRILO          C         135.00
+032122           MAR  MAR  07/04/2021 10:30  V                      ESPINOZA RUBINA DOMITILA       C          70.00
+032123           MAR  MAR  07/04/2021 10:31  V                      ESPINOZA RUBINA DOMITILA       C          20.00
+032124           MAR  MAR  07/04/2021 10:35  V                      MARIN BUSTAMANTE EFRAIN        C          10.00
+032125           MAR  MAR  07/04/2021 10:36  V                      VALDEOS AYRAVILCA ROSA         C          80.00
+032126           MAR  MAR  07/04/2021 10:47  V                      SAENZ MELGAREJO FIDELA         C         300.50
+032127           MAR  MAR  07/04/2021 10:48  V                      SAENZ JUSTO ALEX               C         105.00
+032128           MAR  MAR  07/04/2021 10:49  V                      SAEN JUSTO ALEX                C          70.00
+032129           MAR  MAR  07/04/2021 10:49  V                      SAENZ JUSTO ALEX               C          20.00
+032130           MAR  MAR  07/04/2021 10:51  V                      GONZALES PE;A ANGELA           C          80.00
+032131           MAR  MAR  07/04/2021 11:05  V                      HARO MENACHO ANGIE             C          50.00
+032132           MAR  MAR  07/04/2021 11:08  V                      BRAVO REYES ELIZABETH          C          20.00
+032133           MAR  MAR  07/04/2021 11:08  V                      TELLO BRAVO ALEXA              C          20.00
+032134           MAR  MAR  07/04/2021 11:10  V                      VEGA MAGUI;A SHAMNTAL          C         105.00
+032135           MAR  MAR  07/04/2021 11:10  V                      VEGA MAGUI;A SHANTAL           C          70.00
+032136           MAR  MAR  07/04/2021 11:11  V                      VEGA MAGUI;A SAHJNTAL          C          40.00
+032137           MAR  MAR  07/04/2021 11:12  V                      MAGUI;A BRAVO MARLENE          C         105.00
+032138           MAR  MAR  07/04/2021 11:13  V                      MAGUI;A BRAVO MARLENE          C          70.00
+032139           MAR  MAR  07/04/2021 11:13  V                      MAGUI;A BRAVO MARLENE          C          40.00
+032140           MAR  MAR  07/04/2021 11:14  V                      VEGA MAGUI;A MARLENE           C         105.00
+032141           MAR  MAR  07/04/2021 11:14  V                      VEGA MAGUI;A MARLENE           C          70.00
+032142           MAR  MAR  07/04/2021 11:14  V                      VEGA MAGUI;A MARLENE           C          40.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2021 AL 07/04/2021                              12:33:15
+PRT102()                                                                                                                Pag.-   10
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+032143           MAR  MAR  07/04/2021 11:19  V                      VARGAS CRUZ MILAGROS           C         105.00
+032144           MAR  MAR  07/04/2021 11:19  V                      VARGAS CRUZ MILAGROS           C          70.00
+032145           MAR  MAR  07/04/2021 11:20  V                      VARGAS CRUZ MILAGROS           C          40.00
+032146           MAR  MAR  07/04/2021 11:22  V                      BRAVO ESPIONOZA JORGE LUIS     C         105.00
+032147           MAR  MAR  07/04/2021 11:22  V                      BRAVO ESPINOZA JORGE LUIS      C          70.00
+032148           MAR  MAR  07/04/2021 11:22  V                      BRAVO ESPINOZA JORGE LUIS      C          40.00
+032149           MAR  MAR  07/04/2021 11:30  V                      FUJINO JARA FELICITA           C         105.00
+032150           MAR  MAR  07/04/2021 11:30  V                      FUJINO JARA FELICITA           C          70.00
+032151           MAR  MAR  07/04/2021 11:31  V                      FUJINO JARA FELICITA           C          40.00
+032152           MAR  MAR  07/04/2021 11:33  V                      MAGUI;A BRAVO MOISES           C         105.00
+032153           MAR  MAR  07/04/2021 11:33  V                      MAGUI;A BRAVO MOISES           C          70.00
+032154           MAR  MAR  07/04/2021 11:33  V                      MAGUI;A BRAVO MOISES           C          40.00
+032155           MAR  MAR  07/04/2021 11:48  V                      EUNOFRE MALPARTIODA FORTUNATA  C          80.00
+032156           MAR  MAR  07/04/2021 12:02  V                      VENTOCILLA PIO SUSANA          C         243.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Contado       :     499      39,920.60
+Factura       :       0           0.00                                                    Letras        :       0           0.00
+Ticket        :       0           0.00                                                    Credito       :       0           0.00
+Guia Interna V:     499      39,920.60                                                    Credito 10 Dia:       0           0.00
+                          -------------                                                   Tarjeta       :       0           0.00
+                             39,920.60                                                                              -------------
+                                                                                                                       39,920.60
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      6,089.56
+ÿ
+ÿ
+Nro.  Documentos Anulados :           10
+Total Documentos Anulados :         0.00

@@ -1,0 +1,57 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 26/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 25/07/2024 AL 25/07/2024                              09:01:16
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007684           EFR  EFR  25/07/2024 07:59  V                      LOPEZ SANTILLAN WILSON         E         118.00
+007685           YOS  YOS  25/07/2024 09:25  V                      CHERO MIRANDA RYAN             E          40.00
+007686           YOS  YOS  25/07/2024 09:54  V                      SANCHEZ BRAVO ISAIAS           E          45.00
+007687           YOS  YOS  25/07/2024 09:55  V                      RIVERA EUSCATEGUI ADELA        E         130.00
+007688           YOS  YOS  25/07/2024 10:13  V                      CHIRITO VILLARREAL  MIRIAM     E          35.00
+007689           YOS  YOS  25/07/2024 10:18  V                      CHIRITO VILLARREAL MIRIAM      E           3.00
+007690           YOS  YOS  25/07/2024 10:39  V                      REQUENA TRINIDAD YANDET        E          45.00
+007691           YOS  YOS  25/07/2024 10:52  V                      TACUCHE CARBAJAL CELINDA       E          45.00
+007692           YOS  YOS  25/07/2024 10:52  V                      TACUCHE CARBAJAL CELINDA       E          10.00
+007693           YOS  YOS  25/07/2024 11:54  V                      GUERRERO DE GIRALDO GLORIA     E          45.00
+007694           YOS  YOS  25/07/2024 11:58  V                      LIZARDO VACILIO AMADO          E          45.00
+007695           YOS  YOS  25/07/2024 12:14  V                      REQUENA TRINIDAD JANDETH       E         111.50
+007696           YOS  YOS  25/07/2024 12:26  V                      TACUCHE CARBAJAL CELINDA       E          41.50
+007697           YOS  YOS  25/07/2024 12:35  V                      TACUCHE CARBAJAL CELINDA       E          30.00
+007698           EFR  EFR  25/07/2024 12:57  V                      BASILIO AMADO LIZARDO          E         298.00
+007699           YOS  YOS  25/07/2024 12:57  V                      BASILIO AMADO LIZARDO          E          15.00
+007700           YOS  YOS  25/07/2024 13:08  V                      CRUZ MEJIA CLAUDIA             E          15.00
+007701           YOS  YOS  25/07/2024 13:20  V                      SANCHEZ BRAVO ISAIAS           E         173.00
+007702           YOS  YOS  25/07/2024 13:29  V                      SANCHEZ BRAVO ISAIAS           E         112.00
+007703           EFR  EFR  25/07/2024 13:46  V                      GAMARRA CANO REINA             E          45.00
+007704           EFR  EFR  25/07/2024 13:47  V                      CRIOLLO ZULUAGA YADIRA         E          25.00
+007705           EFR       25/07/2024 14:54  V                      ALVARO CERNA JESUS             E         132.00
+007706           EFR       25/07/2024 15:28  V                      ORTIZ MELGAREJO FORTUNATA      E           2.00
+007707           YOS  YOS  25/07/2024 16:18  V                      ORTEGA ESPINOZA JUAN           E          45.00
+007708           YOS  YOS  25/07/2024 18:07  V                      INOCENTE GRADOS EDUARDO        E          45.00
+007709           YOS  YOS  25/07/2024 18:14  V                      GAMARRA CANO REINA             E         121.50
+007710           YOS  YOS  25/07/2024 18:14  V                      GAMARRA CANO REINA             E          80.00
+007711           YOS  YOS  25/07/2024 18:29  V                      ORTEGA ESPINOZA JUAN           E          16.50
+007712           YOS  YOS  25/07/2024 18:47  V                      INOCENTE GRADOS EDUARDO        E          13.00
+007713           YOS  YOS  25/07/2024 19:43  V                      SANCHEZ BRAVO ISAIAS           E          50.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      30       1,932.00
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      30       1,932.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              1,932.00                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        1,932.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        294.69
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

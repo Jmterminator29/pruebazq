@@ -1,0 +1,60 @@
+úZethQuark Versi¢n 7.0ú                                                                                                      11/02/2025
+POL.LOS ANGELES                    REPORTE INVENTARIO VALORIZADO X LINEA (INSUMOS MEDICOS) MOSTRADOR                           18:16:39
+PRT282()                                                                                                                     Pag.-    1
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+ABOCAT #20 CAJA X50UND                       0u46     250.00     80.00          230.00            73.60           156.40
+ABOCAT #22 CAJA X50UND                       1u27     250.00     50.00          385.00            77.00           308.00
+ABOCAT #24 CAJA X50UND                       3u48     250.00     45.00          990.00           178.20           811.80
+AEROCAMARA ADULTO                           14         17.00      5.00          238.00            70.00           168.00
+AEROCAMARA PEDIATRICO                       13         17.00      5.50          221.00            71.50           149.50
+AGUJA #18 CAJA X100UND                       6u66      50.00      5.00          333.00            33.30           299.70
+AGUJA #21 CAJA X100UND                       3u53      50.00      5.00          176.50            17.65           158.85
+AGUJA #22 CAJA X100UND                       3u36      50.00      5.00          168.00            16.80           151.20
+AGUJA #23 CAJA X100UND                       0u62      50.00      8.50           31.00             5.27            25.73
+AGUJA #25 CAJA X100UND                       8u38      50.00      8.50          419.00            71.23           347.77
+ALITAS 23G LONG30CM X100UND                  0u51     300.00     26.00          153.00            13.26           139.74
+ALITAS 25G LONG30CM X100UND                  0u77     300.00     26.00          231.00            20.02           210.98
+BATA DESCARTABLE                             6         12.00      3.50           72.00            21.00            51.00
+BISTURI #10 CAJAX100 UNIDADES                0u22     200.00     15.00           44.00             3.30            40.70
+BOLSA COLECTORA DE ADULTO                   15         10.00      2.20          150.00            33.00           117.00
+CANULA BINASAL L ADULTO                     61          5.00      2.00          305.00           122.00           183.00
+CLORURO 250ML                               30          9.50      3.70          285.00           111.00           174.00
+CLORURO 500ML                                2          9.50      5.00           19.00            10.00             9.00
+CLORURO DE SODIO 100ML 0,9%                 76          7.00      1.20          532.00            91.20           440.80
+DEXTROSA 33.3% 20ML UNIDAD                   2          5.00      2.89           10.00             5.78             4.22
+DEXTROSA 5% CONT 1000ML                      5         10.00      5.00           50.00            25.00            25.00
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN     4u15     100.00     15.00          460.00            69.00           391.00
+EQUIPO MICROGOTERO CON VOLUTROL 100ML       13         15.00      2.40          195.00            31.20           163.80
+ESPECULO TALLA L                             2          5.00      2.00           10.00             4.00             6.00
+ESPECULO TALLA M                            23          5.00      2.17          115.00            49.91            65.09
+EXTENSION DISS 50CM                         16                                                                          
+FRASCO DE HECES                            166          1.50      0.30          249.00            49.80           199.20
+FRASCO ORINA ESTERIL                        97          1.50      0.33          145.50            32.01           113.49
+FRUTI FLEX X 1LT                            17         12.00      6.50          204.00           110.50            93.50
+FRUTTIPED FRESA 500ML                       24          9.00      5.20          216.00           124.80            91.20
+GASA ESTERIL MED.10X10CM CAJAX20UNID         4u15      60.00     12.00          285.00            57.00           228.00
+GLUCOTECH                                    8         10.00      2.00           80.00            16.00            64.00
+GUANTES QUIRURGICO TALLA 7.5                33          5.00      2.00          165.00            66.00            99.00
+JERINGA 10ML CAJAX100UNID.                   2u1      100.00     17.00          201.00            34.17           166.83
+JERINGA 1ML CAJAX1OOUNID.                    1u90     100.00     12.00          190.00            22.80           167.20
+JERINGA 20ML CAJAX50UNID.                    4u21      50.00     15.00          221.00            66.30           154.70
+JERINGA 3ML X100                             2u1       50.00     21.00          100.50            42.21            58.29
+JERINGA 5ML CAJAX100UNID.                    1u23     100.00     14.00          123.00            17.22           105.78
+LLAVE TRIPLE VIA CAJAX50UNID.                4u19     250.00     40.00        1,095.00           175.20           919.80
+MASCARA CON RESERVORIO ADULTO                1         20.00      7.00           20.00             7.00            13.00
+MASCARILLA NEBULIZADORA ADULTO              32         12.00      2.50          384.00            80.00           304.00
+MASCARILLA NEBULIZADORA NINO                29         12.00      2.50          348.00            72.50           275.50
+MASCARILLA PARA RESERVORIO PEDIATRICO        1         12.00      8.00           12.00             8.00             4.00
+NYLON #4                                     0u8      168.00     88.00           56.00            29.33            26.67
+NYLON #5                                     1        168.00     76.80          168.00            76.80            91.20
+SONDA FOLEX DE LATEX #14                     6         10.00      4.00           60.00            24.00            36.00
+SONDA FOLEY #16                              8         12.00      5.00           96.00            40.00            56.00
+SONDA NASOGASTRICA #14                      12         10.00      1.60          120.00            19.20           100.80
+SUERO FISIOLOGICO DE 1 LITRO                11         10.00      3.50          110.00            38.50            71.50
+VENDA ELASTC MEDIDA 5X5                      7          3.00      1.40           21.00             9.80            11.20
+VENDA YESO 4X5                               6         18.00      4.00          108.00            24.00            84.00
+---------------------------------------------------------------------------------------------------------------------------------------
+T O T A L E S :                                                              10,600.50         2,467.36         8,133.14
+---------------------------------------------------------------------------------------------------------------------------------------

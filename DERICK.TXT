@@ -1,0 +1,80 @@
+úZethQuark Versi¢n 7.0ú                                               04/04/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 02/04/2022 AL 02/04/2022        13:02:03
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT#24 CAJAX50UNID                           1              0u2         SAN
+ACETILCISTEINA GRANULOS 600MG X50 UND.          2u25           0u10        SAN
+ACI BASIC SUS.ORAL 220ML.                       0              1           SAN
+AGLUTINACIONES                                145              1           SAN
+AGUJA #18 CAJAX100UNID.                         0u16           0u15        SAN
+AMIKACINA 500MG AMPOLLA CAJAX25UNID.            4u2            0u6         SAN
+ANEURIN 25 000 CAJA X 1AMPOLLAS                 9              1           SAN
+ASCORBIC-C + MATERIAL DE APLICACION             3              2           SAN
+ASSIS 400 SUSPX220ML                            0              1           SAN
+CAPTOPRIL 25mg TABx100                          1u12           0u1         SAN
+CEFALOGEN 1GR IM CAJA X 1 INYECTABLE            7              1           SAN
+CETIRIZINA 10mg ANTIHISTAMINICO                 0u75           0u6         SAN
+CHEQUEO PREVENTIVO 2022                        63              1           SAN
+CIPROFIBRATO 100MG CAPSULA CAJAX100             2u70           0u10        SAN
+CLOTRIMAZOL 1% CRE 20g                          7              1           SAN
+CONSULTA DR MARIO                            9229             14           SAN
+CONSULTA DRA GHANDI                            43              5           SAN
+CONSULTA GINECOLOGIA DR. JOHAYRA              951              4           SAN
+CONSULTA GINECOLOGIA+PAP                       85              2           SAN
+CORTISOL(A.M)                                 957              1           SAN
+CORTISOL(P.M)                                 967              1           SAN
+CULTIVO DE SEC.VAGINAL                       1833              2           SAN
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100             0u87           0u3         SAN
+DICLOFENACO 1% GEL 50GR                         0              1           SAN
+DICLOFENACO AMP 75MGx3ML CAJX100                0u25           0u6         SAN
+DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25          4u21           0u1         SAN
+DOLO NEUROBION FORTE AMPOLLA                  166              3           SAN
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN        0u16           0u1         SAN
+ESPECULO TALLA S                                2              4           SAN
+FLAGYL 500MG TABX20                             5u12           1u11        SAN
+FLAGYL SUSPENSION 250MG/5ML                     1              1           SAN
+FRASCO DE HECES                                23              7           SAN
+FRASCO ORINA ESTERIL                           13              8           SAN
+GLUCOSA                                      9629              2           SAN
+HCG PRUEBA DE EMBARAZO CAMPANA                 64              3           SAN
+HELICOBACTER IGM PROMOCION 2022                73              4           SAN
+HELICOBACTER PYLORI  IGG                     1946              1           SAN
+HEMOG. GLICOSILADA                            590              1           SAN
+HEPATITIS B,ANTI HB Ag(AUST)                  989              1           SAN
+JERINGA 10ML CAJAX100UNID.                      0u51           0u15        SAN
+JERINGA 20ML CAJAX50UNID.                       0u30           0u1         SAN
+KETESSE AMPOLLA CAJAX5                          0              0u2         SAN
+LIDOCAINA 1% AMPOLLA 3,5ML                     15              7           SAN
+LLAVE TRIPLE VIA CAJAX200UNID.                  0u85           0u1         SAN
+MICROALBUMINURIA ORINA SIMPLE                 668              1           SAN
+MULCEROL/ESOMEPRAZOL 40 TAB CAJX30             13u13           0u20        SAN
+NEBULIZACION X 3                              936              1           SAN
+NINO SANO 2022                                 95              1           SAN
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10          6u7            0u1         SAN
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS           4u2            0u6         SAN
+ORINA COMPLETA                                136              2           SAN
+OTOZAMBON SOLUCION OTICA X10ML                  3              1           SAN
+PARASITOLOGICO SIMPLE                        1525              2           SAN
+PARASITOLOGICO X3                            1856              1           SAN
+PENICILINA PROCAIN 1000000 CAJAX10              4u8            0u3         SANúZethQuark Versi¢n 7.0ú                                               04/04/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 02/04/2022 AL 02/04/2022        13:02:05
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+PERFIL HEPATICO                               265              2           SAN
+PERFIL LIPIDICO                               660              1           SAN
+PERFIL RENAL                                  133              2           SAN
+PERFIL REUMATICO                              625              3           SAN
+PROFENID AMP 100MGx2ML CAJX6                    4u3            0u2         SAN
+REACCION INFLAMATORIA EN HECES                577              1           SAN
+SUERO FISIOLOGICO DE 1 LITRO                    0              1           SAN
+T4 LIBRE                                      606              2           SAN
+TEST GRAHAM(OXIURUS)                         1742              1           SAN
+TSH ULTRASENSIBLE                             643              2           SAN
+UROCULTIVO                                    425              3           SAN
+--------------------------------------------------------------------------------
+T O T A L:    66
+--------------------------------------------------------------------------------

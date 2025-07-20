@@ -1,0 +1,40 @@
+úZethQuark Versi¢n 7.0ú                                          10/01/2024
+POL.LOS ANGELES    REPORTE DE PRODUCTOS X LINEA (TOPICO)           14:20:04
+PRT202()                                                         Pag.-    1
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD
+---------------------------------------------------------------------------
+14989 ABOCAT #18 CAJAX50UNID                   AB        250.00      5.00
+14988 ABOCAT #20CAJAX50UNID                    TOP       250.00      5.00
+15967 ABOCAT#22 CAJAX50UNID                    TOP       250.00      5.00
+15968 ABOCAT#24 CAJAX50UNID                    TOP       250.00      5.00
+14984 AGUJA #18 CAJAX100UNID.                  TOP        50.00      0.50
+14985 AGUJA #21 CAJAX100                       TOP        50.00      0.50
+14986 AGUJA #23 CAJAX100UNID.                  TOP        50.00      0.50
+14987 AGUJA #25 CAJAX100UNI.                   TOP        50.00      0.50
+16350 ALITAS 23G LONG30CM CJA100UNID.          TOP       300.00      3.00
+15157 BISTURI #10 CAJAX100 UNIDADES            TOP       200.00      2.00
+14994 BOLSA COLECT DE ORINA 100ML  PEDIATRICA  TOP         4.00          
+16592 BOLSA COLECTORA DE ADULTO                TOP        10.00          
+14998 CAMPO QUIRURGICO 90X90CM                 TOP        16.00          
+14973 COMPRESA DE GASA QUIRUG MED48X48         TOP        15.00          
+14947 EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN TOP       100.00      4.00
+16479 ESPECULO TALLA S                         TOP         5.00          
+14971 GASA ESTERIL  5X5 CAJAX20UNID            TOP        50.00      2.50
+14976 GASA ESTERIL 7.5X7.5CM CAJAX20           TOP        60.00      3.00
+14975 GASA ESTERIL MED.10X10CM CAJAX20UNID     TOP        60.00      3.00
+15091 JERINGA 10ML CAJAX100UNID.               TOP       100.00      1.00
+16354 JERINGA 1ML CAJAX1OOUNID.                TOP       100.00      1.00
+15090 JERINGA 20ML CAJAX50UNID.                TOP        50.00      1.00
+16351 JERINGA 5ML CAJAX100UNID.                TOP       100.00      1.00
+16424 JERINGA DE INSULINA CAJAX100UNIDADES     TOP       100.00      1.00
+16591 LIDOCAINA 2% FRASCO 20ML                 TOP         8.00          
+16347 LLAVE TRIPLE VIA CAJAX50UNID.            TOP       250.00      5.00
+16580 NYLON #0                                 TOP         8.50          
+16581 NYLON #4                                 TOP         8.50          
+16582 NYLON #5                                 TOP         8.50          
+14950 SONDA FOLEX DE LATEX #14                 TOP        10.00          
+14990 SONDA NASOGASTRICA 01/85CM               TOP         4.50          
+14967 VENDA ELAST GALENO MED 6X5               ZZZZ        2.50          
+14969 VENDA ELASTC AKY MEDID2X5                ZZZZ        1.00          
+14968 VENDA ELASTC MEDIDA 5X5                  ZZZZ        2.00          

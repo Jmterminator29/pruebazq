@@ -1,0 +1,179 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 01/04/2023
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 28/03/2023 AL 01/04/2023                              16:17:39
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+000087           YMV       28/03/2023 09:23  V                      DELACRUZ ESPINOZA CALEB        C          45.00
+000088           YMV       28/03/2023 09:37  V                      TIPIAN DIAZ SANTIAGO HAZIEL    C          45.00
+000089           YMV       28/03/2023 09:38  V                      VENTA ANULADA                  C           0.00
+000090           YMV       28/03/2023 09:40  V                      SALAS DELGADO MINSUK           C          45.00
+000091           YMV       28/03/2023 09:56  V                      OBREGON LOPEZ TEODORO          C          45.00
+000092           YMV       28/03/2023 09:59  V                      TIPIAN DIAZ SANTIAGO           C          21.00
+000093           YMV       28/03/2023 10:20  V                      PALMA COLLANTES RICHARD        C          30.00
+000094           YMV       28/03/2023 10:36  V                      LOPEZ MU;OZ KARINA             C          14.00
+000095           YMV       28/03/2023 10:45  V                      MEZA DELGADO RASARIO           C         170.00
+000096           YMV  YMV  28/03/2023 11:15  V                      PATRICIO FLORES ELDER          C          45.00
+000097           YMV  YMV  28/03/2023 11:33  V                      PALACIOS MINAYA ROOSBEL        C          45.00
+000098           YMV  YMV  28/03/2023 12:10  V                      OBREGON LOPEZ                  C           3.00
+000099           NAR       28/03/2023 13:23  V                      RAMOS FLORES LIBERTAD          C          45.00
+000100           NAR       28/03/2023 13:44  V                      FRANCISCO MU;OZ REGINA         C          45.00
+000101           NAR       28/03/2023 13:47  V                      RAMOS FLORES LIBERTAD          C           1.50
+000102           NAR       28/03/2023 13:55  V                      TRUJILLO ROSAS EUGENIA         C          45.00
+000103           YMV  YMV  28/03/2023 14:16  V                      MORALES AGUERO CLOTILDE1565713 C          45.00
+000104           YMV  YMV  28/03/2023 14:31  V                      TRUJILLOS ROSAS EUGENIA        C          40.00
+000105           NAR       28/03/2023 14:51  V                      REGINA MU;OZ FRANCISCO         C          22.00
+000106           YMV  YMV  28/03/2023 15:39  V                      JUSTO APOLINARIO YADIRA MILENA C          50.00
+000107           YMV  YMV  28/03/2023 16:09  V                      PIZARRO DE FERNANDEZ DOROTEA   C          45.00
+000108           YMV  YMV  28/03/2023 16:43  V                      PIZARRO DE FERNANDEZ           C          46.80
+000109           YMV  YMV  28/03/2023 16:55  V                      PIZARRO DE FERNADEZ DOROTEA    C           5.00
+000110           YMV  YMV  28/03/2023 17:18  V                      MIRANDA ESPINOZA RODOLFO       C         120.00
+000111           YMV  YMV  28/03/2023 18:36  V                      TRASPARTES EL RAPIDO           C          82.00
+000112           NAR       28/03/2023 19:33  V                      PIZARRO DE FERNANDEZ DOROTEA   C          25.60
+000113           NAR       28/03/2023 19:40  V                                                     C           5.00
+000114           YMV  YMV  29/03/2023 09:25  V                      PATRICIO FLORES ELDER          C          55.00
+000115           YMV  YMV  29/03/2023 09:31  V                      PATRICIO FLORES ELDER          C          56.00
+000116           YMV  YMV  29/03/2023 10:39  V                      GARCIA RAMIREZ JULIO           C          45.00
+000117           YMV  YMV  29/03/2023 10:55  V                      ESPINOZA GERONIMO LEANDRA      C          45.00
+000118           YMV  YMV  29/03/2023 11:14  V                      VENTA ANULADA                  C           0.00
+000119           YMV  YMV  29/03/2023 11:15  V                      PARDO BLAS WALBERTA            C          45.00
+000120           YMV  YMV  29/03/2023 11:16  V                      PARDO BLAS WALBERTA            C          70.00
+000121           YMV  YMV  29/03/2023 11:18  V                      PARDO TIMO ELVIRA              C          45.00
+000122           YMV  YMV  29/03/2023 11:29  V                      ALVARADO CALERO ROSMERI        C          45.00
+000123           YMV  YMV  29/03/2023 11:45  V                      VENTA ANULADA                  C           0.00
+000124           YMV  YMV  29/03/2023 11:49  V                      PALACIOS MINAYA ROOSBEL        C          20.50
+000125           YMV  YMV  29/03/2023 12:10  V                      GARCIA RAMIREZ JULIO           C         338.00
+000126           YMV  YMV  29/03/2023 12:12  V                      RISCO BEDON ROSA               C           9.50
+000127           YMV  YMV  29/03/2023 12:15  V                      JAVIER TELLO ALISETO           C          45.00
+000128           YMV  YMV  29/03/2023 12:26  V                      CASTILLO COLLANTES YONATAN     C          45.00
+000129           YMV  YMV  29/03/2023 12:28  V                      VENTA ANULADA                  C           0.00
+000130           YMV  YMV  29/03/2023 12:29  V                      ESPINOZA GERONIMO LEANDRA      C          55.00
+000131           YMV  YMV  29/03/2023 12:48  V                      PARDO BLAS GUALBERTA           C          45.00
+000132           YMV  YMV  29/03/2023 13:05  V                      PARDO BLAS GUALBERTA           C         119.50
+000133           YMV  YMV  29/03/2023 13:17  V                      ALVARADO CALERO ROSMERY        C         389.00
+000134           YMV  YMV  29/03/2023 13:22  V                      MONTOYA JOSE                   C          58.00
+000135           YMV  YMV  29/03/2023 13:48  V                      ENCARNACION VALENTIN ANGELICA  C          45.00
+000136           YMV  YMV  29/03/2023 14:29  V                      JAVIER TELLO ANISETO           C          94.30
+000137           YMV  YMV  29/03/2023 14:40  V                      MIRANDA ESPINOZA EMER          C           6.00
+000138           YMV  YMV  29/03/2023 14:45  V                      RISCO BEDON ROSA               C          45.00
+000139           YMV  YMV  29/03/2023 15:07  V                      MONTOYA POLO JOSE LUIS         C         101.70
+000140           YMV  YMV  29/03/2023 17:24  V                      HILARIO DE CASTA;EDAS MARIA    C          45.00
+000141           YMV  YMV  29/03/2023 18:09  V                      HILARIO DE CASTA;EDA MARIA     C          45.30úZethQuark Versi¢n 7.0ú                                                                                                 01/04/2023
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 28/03/2023 AL 01/04/2023                              16:17:39
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+000142           YMV  YMV  29/03/2023 19:12  V                      HILARIO DE CASTA;EDA MARIA     C          65.00
+000143           YMV  YMV  30/03/2023 08:07  V                      SERNA SANCHEZ DORA             C          43.00
+000144           YMV  YMV  30/03/2023 09:26  V                      MARIA HILARIO DE CATA;EDA      C          83.00
+000145           YMV  YMV  30/03/2023 09:41  V                      JAVIER CORSO MARIA             C          20.00
+000146           YMV  YMV  30/03/2023 09:51  V                      RISCO VEDON ROSA               C           9.50
+000147           YMV  YMV  30/03/2023 09:53  V                      RISCO BEDON ROSA               C         262.50
+000148           YMV  YMV  30/03/2023 10:08  V                      VANESA SALVADOR PICON          C          45.00
+000149           YMV  YMV  30/03/2023 10:18  V                      RISCO BEDON ROSA               C          13.50
+000150           YMV  YMV  30/03/2023 10:27  V                      ROSARIO TRUJILLO ROSAS         C          15.00
+000151           YMV  YMV  30/03/2023 10:48  V                      VANESA SALVADOR PICON          C          20.00
+000152           YMV  YMV  30/03/2023 11:17  V                      VERGARA CARRE;O SANDY          C          45.00
+000153           YMV  YMV  30/03/2023 11:18  V                      LOPEZ CAVERO EDUARDO           C          45.00
+000154           YMV  YMV  30/03/2023 11:22  V                      OCA;A PERNIA TEOFILO           C          45.00
+000155           YMV  YMV  30/03/2023 11:42  V                      MENDEZ ZORRILA YONATAN         C          45.00
+000156           YMV  YMV  30/03/2023 11:47  V                      ESPINOZA GERONIMO LEANDRA      C          27.00
+000157           YMV  YMV  30/03/2023 12:18  V                      LOPEZ CAVERO EDUARDO           C           1.50
+000158           YMV  YMV  30/03/2023 12:23  V                      VERGARA CARRE;O SANDY AYME     C          30.00
+000159           NAR       30/03/2023 13:09  V                      SANCHEZ PALOMINO MARTIZA       C          45.00
+000160           NAR       30/03/2023 13:29  V                      MONTOYA JOSE LUIS              C          18.00
+000161           NAR       30/03/2023 13:40  V                      MONTOYA JOSE LUIS              C          40.00
+000162           NAR  NAR  30/03/2023 14:46  V                      MONTOYA POLO JOSE LUIS         C          70.00
+000163           NAR  NAR  30/03/2023 15:28  V                      RODRIGUEZ MANDUJNO MARCELO     C           2.00
+000164           NAR  NAR  30/03/2023 17:06  V                      HILARIO DE CATA;EDA MARIA      C          45.00
+000165           NAR       31/03/2023 07:56  V                      VENTA ANULADA                  C           0.00
+000166           NAR       31/03/2023 08:07  V                      HINOSTROZA ING CAROLINA        C          45.00
+000167           YMV  YMV  31/03/2023 08:22  V                      REGALADO RODRIGUEZ AURELIO     C          45.00
+000168           YMV  YMV  31/03/2023 08:27  V                      HINOSTROZA INGA CAROLINA       C          41.50
+000169           YMV  YMV  31/03/2023 08:47  V                      REGALADO RODRIGUEZ AURELIO     C          54.00
+000170           YMV  YMV  31/03/2023 08:52  V                      LOPEZ CAVERO EDUARDO           C         233.00
+000171           YMV  YMV  31/03/2023 09:07  V                      RISCO BEDON ROSA               C          45.00
+000172           ECS  ECS  31/03/2023 09:54  V                      VENTA ANULADA                  C           0.00
+000173           ECS  ECS  31/03/2023 09:56  V                                                     C          72.00
+000174           YMV  YMV  31/03/2023 10:22  V                      RISCO BEDON ROSA               C          90.00
+000175           YMV  YMV  31/03/2023 10:48  V                      ALVARADO CALERO ROSMERY        C          45.00
+000176           YMV  YMV  31/03/2023 11:18  V                      RODRIGUEZ BRAVO SOLEDAD        C          45.00
+000177           YMV  YMV  31/03/2023 11:22  V                      MENDOZA RAMIREZ ANASEFORA      C          45.00
+000178           YMV  YMV  31/03/2023 11:31  V                      RODRIGUEZ MANDUJANO MARCELO    C           2.00
+000179           YMV  YMV  31/03/2023 11:52  V                      HUIZA LOPEZ LIAM               C          45.00
+000180           YMV  YMV  31/03/2023 11:54  V                      ALVARADO CALERO ROSMERY        C          55.00
+000181           YMV  YMV  31/03/2023 12:00  V                      CUSQUI RAMIREZ ALBERTO         C          45.00
+000182           YMV  YMV  31/03/2023 12:02  V                      QUINTO VALLE DIEGO             C          45.00
+000183           YMV  YMV  31/03/2023 12:26  V                      MENDOZA RAMIREZ ANA CEFORA     C          36.00
+000184           YMV  YMV  31/03/2023 12:27  V                      LOPEZ PAUCAR JULIA             C          45.00
+000185           YMV  YMV  31/03/2023 12:35  V                      ALVARADO CALERO ROSMERY        C          70.00
+000186           YMV  YMV  31/03/2023 12:37  V                      MENDOZA RAMIREZ ANA CEFORA     C           7.00
+000187           YMV  YMV  31/03/2023 13:07  V                      SOLEDAD RODRIGUEZ BRAVO        C           3.00
+000188           YMV  YMV  31/03/2023 13:09  V                      SOLEDAD RODRIGUEZ BRAVO        C          21.50
+000189           YMV  YMV  31/03/2023 13:17  V                      MALVACEDA DIAZ YOSTIN          C          45.00
+000190           YMV  YMV  31/03/2023 13:21  V                      CUSQUI RAMIREZ ALBERTO         C           3.00
+000191           YMV  YMV  31/03/2023 13:37  V                      VALLE ROCIO                    C          23.00
+000192           YMV  YMV  31/03/2023 13:40  V                      MALVACEDA DIAZ YOSTIN          C          25.00
+000193           YMV  YMV  31/03/2023 13:45  V                      VALLE ROCIO                    C          34.00
+000194           YMV  YMV  31/03/2023 13:54  V                      MALVACEDA DIAZ YOSTIN          C          25.00
+000195           NAR       31/03/2023 13:58  V                      VALVERDE RACUAYS YAN MARCOS    C          45.00
+000196           YMV  YMV  31/03/2023 14:02  V                      LOPEZ PAUCAR JULIA             C         119.50úZethQuark Versi¢n 7.0ú                                                                                                 01/04/2023
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 28/03/2023 AL 01/04/2023                              16:17:39
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+000197           YMV  YMV  31/03/2023 14:06  V                      LUIS CRUZ SALINAS              C          19.00
+000198           YMV  YMV  31/03/2023 14:27  V                      VALVERDE RACUAYS YAN MARCOS    C          48.00
+000199           YMV  YMV  31/03/2023 14:38  V                      VALVERDE RACUASH YAN MARCOS    C           3.00
+000200           YMV  YMV  31/03/2023 14:42  V                      LPEZ PAUCAR JULIA              C           3.00
+000201           YMV  YMV  31/03/2023 16:34  V                      RODRIGUEZ MANDUJANO MARCELINO  C           2.00
+000202           YMV  YMV  31/03/2023 16:52  V                      ZAMUDIO UTRILLA MARIO ALEXANDE C          45.00
+000203           YMV  YMV  31/03/2023 17:18  V                      ESPEJO CARDENAS VERONICA       C         290.00
+000204           YMV  YMV  31/03/2023 17:41  V                      FLORES GONZALES ERNESTO        C         150.00
+000205           YMV  YMV  01/04/2023 08:50  V                      RODRIGUEZ MANDUJANO MARCELO    C           2.00
+000206           YMV  YMV  01/04/2023 08:58  V                      SALAZAR ROQUE YHESENIA         C          45.00
+000207           YMV  YMV  01/04/2023 09:02  V                      LOPEZ PAUCAR JULIA             C         348.00
+000208           YMV  YMV  01/04/2023 09:13  V                      LOPEZ PAUCAR JULIA             C          48.00
+000209           YMV  YMV  01/04/2023 09:52  V                      ZALAZAR ROQUE YHENNY           C          30.00
+000210           YMV  YMV  01/04/2023 09:57  V                      ZALAZAR ROQUE YHENY            C           9.50
+000211           YMV  YMV  01/04/2023 10:27  V                      MENDOZA OYLA PERCY             C          45.00
+000212           YMV  YMV  01/04/2023 10:31  V                      RISCO BEDON ROSA               C          36.00
+000213           YMV  YMV  01/04/2023 10:32  V                      RISCO BEDON ROSA               C         118.00
+000214           YMV  YMV  01/04/2023 11:13  V                      BARTOLOME PORTELLA DAVIS       C          45.00
+000215           YMV  YMV  01/04/2023 11:27  V                      BAILON ASTOVILCA ESTEFANI      C          45.00
+000216           YMV  YMV  01/04/2023 11:40  V                      ANICETO ELIACER JAVIER         C          45.00
+000217           YMV       01/04/2023 12:35  V                      GONZALES ARAGON MIRTHA         C          96.50
+000218           YMV       01/04/2023 12:41  V                      GONZALES ARAGON MIRTHA         C          67.30
+000219           YMV  YMV  01/04/2023 12:43  V                      GIL ROJAS LUCIANA              C          45.00
+000220           YMV  YMV  01/04/2023 12:50  V                      BAILON ASOVILCA ESTAFANI       C          18.00
+000221           YMV  YMV  01/04/2023 13:02  V                      BAILON ASTOVILCA ESTEFANY      C          52.00
+000222           YMV  YMV  01/04/2023 13:07  V                      LOPEZ CAVERO EDUARDO           C          45.00
+000223           YMV  YMV  01/04/2023 13:26  V                      QUISPE LIMAS GRETEL            C          45.00
+000224           YMV  YMV  01/04/2023 13:39  V                      LOPEZ CAVERO EDUARDO           C          51.20
+000225           YMV  YMV  01/04/2023 13:55  V                      LOPEZ CAVERO EDUARDO           C          48.50
+000226           YMV  YMV  01/04/2023 13:59  V                      RODRIGUEZ MANDUJNO MARCELO     C           2.00
+000227           YMV  YMV  01/04/2023 14:15  V                      QUISPE LIMAS GRETEL            C          31.00
+000228           YMV  YMV  01/04/2023 14:25  V                      BAILON ASOVILCA ESTEFANI       C          28.70
+000229           YMV  YMV  01/04/2023 14:27  V                      BAILON ASOVILCA ESTEFANI       C          18.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Contado       :     137       7,458.40
+Factura       :       0           0.00                                                    Letras        :       0           0.00
+Ticket        :       0           0.00                                                    Credito       :       0           0.00
+Guia Interna V:     137       7,458.40                                                    Credito 10 Dia:       0           0.00
+                          -------------                                                   Tarjeta       :       0           0.00
+                              7,458.40                                                                              -------------
+                                                                                                                        7,458.40
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      1,137.58
+ÿ
+ÿ
+Nro.  Documentos Anulados :            6
+Total Documentos Anulados :         0.00

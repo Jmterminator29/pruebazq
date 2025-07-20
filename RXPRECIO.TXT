@@ -1,0 +1,66 @@
+úZethQuark Versi¢n 7.0ú                                                                                                      16/10/2021
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  09:12:41
+PRT280()                                                                                                                     Pag.-    1
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+RX  TORAX FRONTAL Y LATERAL                996        110.00                109,560.00                        109,560.00
+RX ABDOMEN                                 997         75.00                 74,775.00                         74,775.00
+RX ANTEBRAZO FRONTAL Y LATERAL             997         75.00                 74,775.00                         74,775.00
+RX ARTICULACION TEMPORO MANDIBULAR        1000         85.00                 85,000.00                         85,000.00
+RX BRAZO FRONTAL Y LATERAL                 997         75.00                 74,775.00                         74,775.00
+RX CADERA COMPARATIVA                      981         95.00                 93,195.00                         93,195.00
+RX CADERA INCIDENCIA LOWESTEIN            1000         95.00                 95,000.00                         95,000.00
+RX CADERA INCIDENCIA VON ROSSEN           1000         95.00                 95,000.00                         95,000.00
+RX CALCANEO COMPARATIVO                   1000        100.00                100,000.00                        100,000.00
+RX CALCANEO FRONTAL Y LATERAL              997         75.00                 74,775.00                         74,775.00
+RX CAVUM                                   998         85.00                 84,830.00                         84,830.00
+RX CERVICO DORSAL FRONTAL Y LATERAL        995        110.00                109,450.00                        109,450.00
+RX CLAVICULA                               997         85.00                 84,745.00                         84,745.00
+RX CODO FRONTAL Y LATERAL                  991         75.00                 74,325.00                         74,325.00
+RX COLUMNA CERVICAL FRONTAL Y LATERAL      961        110.00                105,710.00                        105,710.00
+RX COLUMNA DORSAL FRONTAL Y LATERAL        988        110.00                108,680.00                        108,680.00
+RX COLUMNA DORSO LUMBAR                    979        150.00                146,850.00                        146,850.00
+RX COLUMNA LUMBAR FRONTAL Y LATERAL        936         90.00                 84,240.00                         84,240.00
+RX COLUMNA LUMBAR FUNCIONAL                997        110.00                109,670.00                        109,670.00
+RX COLUMNA LUMBO SACRO                     990         90.00                 89,100.00                         89,100.00
+RX COLUMNA TOTAL                           999        280.00                279,720.00                        279,720.00
+RX CRANEO FRONTAL Y PERFIL                 995         90.00                 89,550.00                         89,550.00
+RX DE HUESOS PROPIOS DE LA NARIZ           996         85.00                 84,660.00                         84,660.00
+RX DE PIE FRONTAL Y LATERAL                982         75.00                 73,650.00                         73,650.00
+RX DE PIERNA FRONTAL Y LATERAL             993         95.00                 94,335.00                         94,335.00
+RX DE PIES COMPARATIVOS                    998        100.00                 99,800.00                         99,800.00
+RX FEMUR FRONTAL Y LATERAL                1000        100.00                100,000.00                        100,000.00
+RX FRONTAL LATERAL Y OBLICUA               999         85.00                 84,915.00                         84,915.00
+RX HOMBRO ROTACION INTERNA Y EXTERNA       984         85.00                 83,640.00                         83,640.00
+RX HOMBROS BILATERALES COMPARATIVAS        998         95.00                 94,810.00                         94,810.00
+RX LUMBO SACRO                             859         90.00                 77,310.00                         77,310.00
+RX LUMBO SACRO PROMOCION                    83         72.00                  5,976.00                          5,976.00
+RX MADURACION OSEA                        1000         95.00                 95,000.00                         95,000.00
+RX MANO COMPARATIVO FRONTAL Y OBLICUAS     997        120.00                119,640.00                        119,640.00
+RX MAXILAR INFERIOR                       1000         75.00                 75,000.00                         75,000.00
+RX MAXILAR SUPERIOR                       1000         75.00                 75,000.00                         75,000.00
+RX MESURACION MIEMBROS INFERIORES          998         90.00                 89,820.00                         89,820.00
+RX MUNECA FRONTAL Y LATERAL                972         75.00                 72,900.00                         72,900.00
+RX PARRILLA COSTAL DERECHA                 981         90.00                 88,290.00                         88,290.00
+RX PELVIS ADULTO                          1998         85.00                169,830.00                        169,830.00
+RX PELVIS NINOS                           1000         85.00                 85,000.00                         85,000.00
+RX RODILLA AXIALES ROTULA                  990         75.00                 74,250.00                         74,250.00
+RX RODILLA COMPART.BILATERAL FRONT Y LAT   994        140.00                139,160.00                        139,160.00
+RX RODILLA FRONTAL Y LATERAL               942         75.00                 70,650.00                         70,650.00
+RX SACRO COCCIGEA:FRONTAL Y LATERAL        999         95.00                 94,905.00                         94,905.00
+RX SACRO ILIACA                            997         95.00                 94,715.00                         94,715.00
+RX SENOS PARANASALES                       967         85.00                 82,195.00                         82,195.00
+RX SIMPLE DECUBITO DORSAL Y DE PIE         998         90.00                 89,820.00                         89,820.00
+RX TOBILLO FRONTAL Y LATERAL               989         75.00                 74,175.00                         74,175.00
+RX TORAX FRONTAL                           518         65.00                 33,670.00                         33,670.00
+RX TORAX LATERAL                           999         75.00                 74,925.00                         74,925.00
+RX TORAX OCTUBRE                           997         60.00                 59,820.00                         59,820.00
+---------------------------------------------------------------------------------------------------------------------------------------
+T O T A L E S :                                                           4,801,586.00             0.00     4,801,586.00
+---------------------------------------------------------------------------------------------------------------------------------------úZethQuark Versi¢n 7.0ú                                                                                                      16/10/2021
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  09:12:43
+PRT280()                                                                                                                     Pag.-    2
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------

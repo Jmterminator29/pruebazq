@@ -1,0 +1,396 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 14/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/07/2025 AL 13/07/2025                              10:07:11
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017746           AUD       01/07/2025 08:22  V                      TORRES ESPINOZA MERI ANCELMA   E          45.00
+017747           AUD       01/07/2025 10:10  V                      CORPUS VEGA ORDIRES            PL        295.00
+017748           AUD       01/07/2025 11:01  V                      CARRERA OLIVARES CLAUDIO       E          80.00
+017749           AUD       01/07/2025 11:06  V                      MARIANA SILVA                  E          40.00
+017750           AUD       01/07/2025 11:32  V                      PALOMINO WILFREDO              E         150.00
+017751           AUD       01/07/2025 15:37  V                      CONCHUCOS ALEJOS YAREN         PL         90.00
+017752           AUD       01/07/2025 15:38  V                      COCHUCOS ALEJOS YAREN          PL         45.00
+017753           AUD       01/07/2025 15:38  V                      CONCHUCOS ALEJOS YAREN         PL         55.00
+017754           AUD       01/07/2025 16:27  V                      LUCILLA LUCAR DE COLLAZOS      E          45.00
+017755           AUD       01/07/2025 17:01  V                      MAGUI;A LEON GENESIS           E          45.00
+017756           AUD       01/07/2025 17:44  V                      CORNEJO GAMARRA CARMEN         E          45.00
+017757           AUD       01/07/2025 18:09  V                      LUCILLA LUCAR                  E          73.00
+017758           AUD       01/07/2025 18:33  V                      MAGUI;A LEON GENESIS           E          25.50
+017759           AUD       01/07/2025 18:40  V                      GAMARRA CANO REINA             E          45.00
+017760           AUD       01/07/2025 18:41  V                      ROMERO ROJAS MIRIAM            E          45.00
+017761           AUD       01/07/2025 18:43  V                      MERY TORRES ESPINOZA           E          26.50
+017762           AUD       01/07/2025 18:44  V                      FRANCISCO TORRES RUEDA         E          45.00
+017763           AUD       01/07/2025 18:49  V                      MAGDALENA DEL CARMEN NIETO TOR PL         15.00
+017764           AUD       01/07/2025 18:51  V                      CACERES FLORES PAULINA         E          45.00
+017765           AUD       01/07/2025 18:55  V                      GAMARRA CANO REINA             E         100.00
+017766           AUD       01/07/2025 19:29  V                      JARA CALDERON FRIDA            E          40.00
+017767           AUD       01/07/2025 19:35  V                      DELFINA ROMERO ROJAS           E          98.50
+017768           AUD       01/07/2025 20:08  V                      PAULINO CAMPOS                 E           9.00
+017769           AUD       01/07/2025 20:32  V                      CACERES FLORES PAULINA         E          79.50
+017770           AUD       01/07/2025 20:33  V                      CACERES FLORES PAULINA         E          41.50
+017771           AUD       01/07/2025 20:35  V                      CACERES PAULINA                E          20.00
+017772           AUD       01/07/2025 20:44  V                      CACERES FLORES PAULINA         E           3.00
+017773           ELI       02/07/2025 08:32  V                      CAPILLO ORTIZ EVA IRMA         E          60.00
+017774           ELI       02/07/2025 09:11  V                      SALOMENA HUERTO DE ALBINO      E          80.00
+017775           ELI       02/07/2025 12:37  V                      IBARRA MONTES TEOBALDO         E          62.50
+017776           ELI       02/07/2025 13:05  V                      IBARRA MONTES TEOBALDO         PL         75.00
+017777           ELI       02/07/2025 13:13  V                      AVALOS SIFUENTES ALESSA        PL         45.00
+017778           ELI       02/07/2025 13:23  V                      MARCELO RODRIGUEZ              E          26.50
+017779           ELI       02/07/2025 13:24  V                      MARCELO RODRI                  E          45.00
+017780           ELI       02/07/2025 13:41  V                      AVALO SIFUENTES ALESSA         PL         35.00
+017781           ELI       02/07/2025 13:43  V                      AVALO SIFUENTES ALESSA         PL          9.00
+017782           ELI       02/07/2025 15:34  V                      ESPINOZA LLEGO ABRAHAM JOEL    PL        100.00
+017783           ELI       02/07/2025 16:21  V                      CACERES FLORES PAULINA         PL         61.50
+017784           ELI       02/07/2025 16:32  V                      CLOTILDE RUEDA ZARZOSA         E          45.00
+017785           ELI       02/07/2025 17:08  V                      DELFINA ROMERO ROJAS           E          61.50
+017786           ELI       02/07/2025 17:29  V                      PEDRO MELLIZO GUARDIA          E          45.00
+017787           ELI       02/07/2025 17:32  V                      ROJAS ROMERO FLOR              E          45.00
+017788           ELI       02/07/2025 17:46  V                      ABRAHAM ESPINOZA               PL         53.00
+017789           ELI       02/07/2025 18:27  V                      CLOTILDE RUEDA ARZOSA          E          60.00
+017790           ELI       02/07/2025 18:39  V                      CLOTILDE                       E          12.50
+017791           ELI       02/07/2025 18:47  V                      ESPINOZA LLEGO ABRAHAM         PL        370.00
+017792           ELI       02/07/2025 18:48  V                      VIRU LINARES FLOR              E          45.00
+017793           ELI       02/07/2025 18:49  V                      VALENCIA VIRU KIARA            E          45.00
+017794           ELI       02/07/2025 18:49  V                      ZULEMA FUKUDA PICHILINGUE      E          35.00
+017795           ELI       02/07/2025 18:54  V                      CHAVEZ TOCAS SANTORA           PL         45.00
+017796           ELI       02/07/2025 18:54  V                      INGA RODRIGUEZ JASSIEL         PL         45.00
+017797           ELI       02/07/2025 18:59  V                      GENESIS MAGUI;A LEON           E          24.00
+017798           ELI       02/07/2025 19:00  V                      GENESIS MAGUI;A LEON           E          15.00
+017799           ELI       02/07/2025 19:03  V                      FLOR ROMERO ROJAS              E         192.00
+017800           ELI       02/07/2025 19:04  V                      FLOR ROMERO ROJAS              E          81.50úZethQuark Versi¢n 7.0ú                                                                                                 14/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/07/2025 AL 13/07/2025                              10:07:11
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017801           ELI       02/07/2025 19:13  V                      JERRY JESUS ESTELA IZQUIERDO   PL         45.00
+017802           ELI       02/07/2025 19:17  V                      YUNERI MELLIZO ROJAS           E         159.30
+017803           ELI       02/07/2025 19:18  V                      MELLIZO ROJAS YUNERI           E         101.50
+017804           ELI       02/07/2025 19:21  V                      HUAMAN CHIRITO FRAN            PL         45.00
+017805           ELI       02/07/2025 19:35  V                      YUNERI MELLIZO                 E          55.00
+017806           ELI       02/07/2025 19:49  V                      VIRU LINARES FLOR              C          44.00
+017807           ELI       02/07/2025 20:06  V                      VENTOCILLA VERAMENDI FLORMILA  PL        140.50
+017808           ELI       02/07/2025 20:30  V                      JESIEL INGA ROSALES            PL         57.00
+017809           ELI       02/07/2025 20:41  V                      VENTOCILLA VERAMENDI FLORMILA  E          30.00
+017810           ELI       02/07/2025 21:13  V                      YUNERI MELLIZO ROJAS           E          17.00
+017811           ELI       02/07/2025 21:21  V                      FLORMILA VENTOCILLA VERAMENDI  E          52.50
+017812           ELI       02/07/2025 22:09  V                      FLORMILA VENTOCILLA VERAMENDI  E           3.00
+017813           ELI       03/07/2025 09:04  V                      JOSE LUIS CA;ARIS              PL         79.50
+017814           ELI       03/07/2025 10:01  V                      CLOTILDE RUEDA ZARZOSA         E         134.50
+017815           ELI       03/07/2025 10:01  V                      CLOTILDE RUEDA ZARZOSA         E         198.00
+017816           ELI       03/07/2025 10:12  V                      TORRES RUEDA FRANCISCO         E         324.50
+017817           ELI       03/07/2025 10:38  V                      CELINA EMILY ESPEJO CRUZADO    E          10.00
+017818           ELI       03/07/2025 12:22  V                      TORRES ESPINOZA MERY           E          26.50
+017819           ELI       03/07/2025 12:31  V                      NORMA HUACHO                   E           6.50
+017820           ELI       03/07/2025 13:16  V                      DELFINA ROMERO ROJAS           E          71.50
+017821           ELI       03/07/2025 15:22  V                      GO;I CABRERA CARLOS MATEO      E          45.00
+017822           ELI       03/07/2025 15:44  V                      DIZ HUAYTA GISELLA             E          45.00
+017823           ELI       03/07/2025 16:17  V                      FLOR ROJAS ROMERO              E          70.00
+017824           ELI       03/07/2025 16:34  V                      SOFIA ALBITES JARA             PL         45.00
+017825           ELI       03/07/2025 17:20  V                      CACERES FLORES PAULINA         E          61.50
+017826           ELI       03/07/2025 17:45  V                      PAULINA CAC3RES FLORES         E          13.00
+017827           ELI       03/07/2025 18:14  V                      CLOTILDE RUEDA ZARZOSA         E         192.00
+017828           ELI       03/07/2025 18:35  V                      GUISELA DIAZ                   PL        118.00
+017829           ELI       03/07/2025 18:53  V                      CARO ESPINOZA SMITH            E          45.00
+017830           ELI       03/07/2025 19:00  V                      FLOR ROMERO ROJAS              E          70.70
+017831           ELI       03/07/2025 19:02  V                      FLOR ROMERO ROJAS              PL         57.70
+017832           ELI       03/07/2025 19:59  V                      LINDA MIA FAUSTINO ROJAS       E          15.00
+017833           ELI       03/07/2025 20:08  V                      CARO ESPINOZA SMITH            E          35.00
+017834           ELI       03/07/2025 20:27  V                      FLOR ROMERO ROJAS              PL        155.60
+017835           ELI       04/07/2025 10:03  V                      ZORAIDA NU;EZ                  E          10.00
+017836           ELI       04/07/2025 11:04  V                      ELIAZER DIAZ PEDRAZA           E         263.00
+017837           ELI       04/07/2025 11:56  V                      ANGEL MEDINA ARNESTER          E          45.00
+017838           ELI       04/07/2025 15:31  V                      ZENAIDA CHAUPIS BUSTAMANTE     E         294.00
+017839           ELI       04/07/2025 16:24  V                      TABOADA DE TINEO BETTY         E          45.00
+017840           ELI       04/07/2025 16:27  V                      RIVAS REQUENA OMAR             PL         45.00
+017841           ELI       04/07/2025 16:47  V                      HUAYANAY ALONSO MERCEDES       E          45.00
+017842           ELI       04/07/2025 17:06  V                      LARISLAO PAISIG SANCHEZ        E         176.50
+017843           ELI       04/07/2025 17:20  V                      MALPARTIDA NATIVIDAD TADEO     E          45.00
+017844           ELI       04/07/2025 17:22  V                      CARRERA GERVACIO FERNANDO      E          45.00
+017845           ELI  ELI  04/07/2025 17:43  V                      MALPARTIDA NATIVIDAD SAYURI    E           2.00
+017846           ELI  ELI  04/07/2025 17:45  V                      ASENCIO MATOS LEONARDO         E          45.00
+017847           ELI  ELI  04/07/2025 17:48  V                      CACERES FLORES PAULINA         E          45.00
+017848           ELI  ELI  04/07/2025 18:02  V                      JACINTO VALVERDE MARTINA       E          45.00
+017849           ELI  ELI  04/07/2025 18:39  V                      ROJAS ROMERO FLOR              E          40.00
+017850           ELI  ELI  04/07/2025 18:45  V                      HUAYANAY ALONSO MERCEDES       E         144.00
+017851           ELI  ELI  04/07/2025 19:02  V                      TABOADA DE TINEO BETTY         E         202.00
+017852           ELI       04/07/2025 19:31  V                      MALPARTIDAD NATIVIDAD TADEO    E         190.00
+017853           ELI       04/07/2025 19:32  V                      MALPARTIDA NATIVIDAD TADEO     E         184.50
+017854           ELI       04/07/2025 19:39  V                      FERNANDO CARRERA               E         143.20
+017855           ELI       04/07/2025 19:41  V                      VENTOCILLA VERAMENDI FLORMILA  PL         45.00úZethQuark Versi¢n 7.0ú                                                                                                 14/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/07/2025 AL 13/07/2025                              10:07:11
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017856           ELI       04/07/2025 20:05  V                      PAULINA CACERES                E          41.50
+017857           ELI       04/07/2025 20:16  V                      ZENAIDA CHAUPIS BUSTAMANTE     E         100.00
+017858           ELI       04/07/2025 20:18  V                      OMAR ALEXANDER RIVAS REQUENA   PL         74.50
+017859           ELI       04/07/2025 20:20  V                      OMAR ALEXANDER RIVAS REQUENA   PL        149.50
+017860           ELI       04/07/2025 20:35  V                      JACINTO VALVERDE MARTIN        E         183.00
+017861           ELI       04/07/2025 20:55  V                      FLORMILA VENTOCILLA VERAMENDI  PL         81.50
+017862           ELI       04/07/2025 21:00  V                      CASTILLO LEON DE CANO RUIZ     E          91.00
+017863           ELI       04/07/2025 21:02  V                      CASTILLO LEON DE CANO YULISA   E          41.50
+017864           ELI       04/07/2025 21:23  V                      ASENCIO MATOS LEONARDO         E           7.00
+017867           AUD       05/07/2025 08:11  V                      MEDINA ARMESTAR AHNGEL         E         100.00
+017868           AUD       05/07/2025 08:19  V                      BETTY TABOADA DE TINEO         E         391.00
+017869           AUD       05/07/2025 08:34  V                      RAUL NIETO                     PL         38.00
+017870           AUD       05/07/2025 08:41  V                      JACINTO VALVERDE MARTINA       E          67.00
+017871           AUD       05/07/2025 08:51  V                      GENESIS MAGUI;A LEON           E         153.00
+017872           AUD       05/07/2025 10:05  V                      TADEO MALPARTIDA NATIVIDAD     E         287.00
+017873           AUD       05/07/2025 10:13  V                      FERNANDO CARRERA GERVACIO      E         159.50
+017874           AUD       05/07/2025 10:41  V                      FIORELLA RIVERA GOMEZ          E          30.00
+017875           AUD       05/07/2025 11:52  V                      GADIEL ANDRES MONTALVO COTRINA PL         45.00
+017876           AUD       05/07/2025 12:22  V                      LEOPOLDO INOCENTE MEJIA        PL         45.00
+017877           AUD       05/07/2025 12:44  V                      MARCELINA EFENIA TEPAZ INGLES  E          45.00
+017878           AUD       05/07/2025 12:59  V                      INOCENTE MEJIA LEOPOLDO        PL         69.40
+017879           AUD       05/07/2025 13:20  V                      DE PAZ MARCELINA               E          22.50
+017880           AUD       05/07/2025 14:57  V                      DIAZ HUAYTA GISELLA            E         139.00
+017881           AUD       05/07/2025 15:46  V                      SALIS ESPINOZA CORINA          E          80.00
+017882           AUD       05/07/2025 16:59  V                      CORCINO PAULINO FELICIANO      E          45.00
+017883           AUD       05/07/2025 17:08  V                      MARIANO SILVA                  PL         20.50
+017884           AUD       05/07/2025 17:17  V                      CHAUPIS BUSTAMANTE ZENAIDA     E         111.50
+017885           AUD       05/07/2025 17:52  V                      RIVERA CALDERON YAMILA         E          45.00
+017886           AUD       05/07/2025 17:59  V                      RIVERA TEJADA WENCESLAO        E          37.00
+017887           AUD       05/07/2025 18:22  V                      FLORMILA VENTOCILLA VERAMENDI  PL         29.00
+017888           AUD       05/07/2025 18:38  V                      NARVASTA OLIRES LURDES         E          45.00
+017889           AUD       05/07/2025 18:47  V                      AMADO MEDALLA SOFIA            E          45.00
+017890           AUD       05/07/2025 18:48  V                      BASILIO REYES ELISEO           E          45.00
+017891           AUD       05/07/2025 18:52  V                      JUAN ALVARADO                  E         130.00
+017892           AUD       05/07/2025 18:54  V                      VENTA ANULADA                  PL          0.00
+017893           AUD       05/07/2025 19:01  V                      FLORMILA VENTOCILLA            PL          1.00
+017894           AUD       05/07/2025 19:02  V                      MIRELLA MANRIQUE               E           2.00
+017895           AUD       05/07/2025 19:33  V                      BEATRIZ FALCON ANDRES          E          45.00
+017896           AUD       05/07/2025 19:53  V                      BASILIO QUICHE ROMINA          E           5.00
+017897           AUD       05/07/2025 20:00  V                      BASILIO QUINICHE ROMINA        E           0.50
+017898           AUD       05/07/2025 20:11  V                      TADEO MALPARTIDA NATIVIDAD     E          47.00
+017899           AUD       05/07/2025 20:14  V                      TADEO MALPARTIDA NATIVIDAD     E          15.00
+017900           AUD       05/07/2025 20:18  V                      FERNANDO CARRERA               E         136.00
+017901           AUD       05/07/2025 20:25  V                      LOURDES NARVASTA               E          23.70
+017902           AUD       05/07/2025 20:46  V                      AMADO MEDALLA SOFIA            E          25.50
+017903           AUD       05/07/2025 20:48  V                      AMADO MEDALLA SOFIA            E          63.50
+017904           AUD       05/07/2025 20:49  V                      QUISPE REYNOSO                 E           6.00
+017905           AUD       05/07/2025 21:06  V                      CESAR ARBULU GONZALES          E         150.00
+017906           AUD       05/07/2025 21:36  V                      BEATRIZ FALCON                 E          68.00
+017907           AUD       05/07/2025 21:38  V                      BEATRIZ EMMA FALCON ANDRES     E          61.00
+017908           ELI       06/07/2025 08:27  V                      JACINTO VALVERDE MARINA        E         153.00
+017909           ELI       06/07/2025 09:35  V                      ELMER AQUILE CARO VILLAREAL    E          90.00
+017910           ELI       06/07/2025 10:30  V                      MALPARTIDA NATIVIDAD TADEO     E           5.00
+017911           ELI       06/07/2025 16:59  V                      VENTA ANULADA                  E           0.00
+017912           ELI       06/07/2025 17:04  V                      FHEDRA MONTOYA POLO            E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 14/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/07/2025 AL 13/07/2025                              10:07:11
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017913           ELI       06/07/2025 17:27  V                      MARCELINA JARA BARBOZA         PL         45.00
+017914           ELI       06/07/2025 18:18  V                      MONTOYA POLO                   PL         85.50
+017915           ELI       06/07/2025 18:42  V                      ZENAIDA CHAUPIS BUSTAMANTE     E         101.50
+017916           ELI       06/07/2025 18:53  V                      LOURDES NARVASTA               E          16.20
+017917           ELI       06/07/2025 18:56  V                      BEATRIZ FALCON                 E          16.00
+017918           ELI       06/07/2025 19:21  V                      KIMBERLY SALINAS MONTOYA       C          70.00
+017919           ELI       06/07/2025 19:22  V                      JENIFER SIFUENTES VELASQUEZ    E         127.20
+017920           ELI       06/07/2025 08:17  V                      MORALES PUNTILLO CALIXTA       E          40.00
+017921           ELI       07/07/2025 08:38  V                      MORALES PUNTILLO CALIXTA       E          40.00
+017922           ELI       07/07/2025 09:40  V                      DE LA PAZ INGLES MARCELINA     E          92.00
+017923           ELI       07/07/2025 09:45  V                      ISABEL CALERO                  E           1.00
+017924           ELI       07/07/2025 11:39  V                      OLGA MARIA CEVEDO              E          75.00
+017925           ELI       07/07/2025 11:51  V                      NANCY SUAREZ PEREZ             PL        130.00
+017926           ELI       07/07/2025 13:31  V                      MARTINA JACINTO VALVERDE       E          45.00
+017927           ELI       07/07/2025 15:25  V                      VENTOCILLA ZU;IGA DIONICIO     E          45.00
+017928           ELI       07/07/2025 15:26  V                      PIO CARRERA DOMINGA            E          45.00
+017929           ELI       07/07/2025 16:32  V                      HUIZA LOPEZ LIAM               E          45.00
+017930           ELI       07/07/2025 16:51  V                      FLOR CAPCHA  VALDEZ            E          45.00
+017931           ELI       07/07/2025 17:20  V                      JULIA TRINIDAD RAMIREZ         E          45.00
+017932           ELI       07/07/2025 17:27  V                      MARCELO RODRIGUEZ MANDADUJANO  E         159.50
+017933           ELI       07/07/2025 17:32  V                      ZENAIDA CHAUPIS BUSTAMANTE     E          86.50
+017934           ELI       07/07/2025 17:33  V                      CARRIASCO PARIASCA FLAVIA INES E          45.00
+017935           ELI       07/07/2025 17:35  V                      VENTA ANULADA                  E           0.00
+017936           ELI       07/07/2025 17:43  V                      CINTHIA BAZALAR DIAZ           PL         47.00
+017937           ELI       07/07/2025 17:48  V                      DOMINGO FLORES SUSANIBAR       E         110.00
+017938           ELI       07/07/2025 18:00  V                      GARCIA LEON JOAQUIN            PL         45.00
+017939           ELI       07/07/2025 18:03  V                      MELLIZO ROJAS YUNERI           E          45.00
+017940           ELI       07/07/2025 18:31  V                      MALPARTIDA NATIVIDAD TADEO     E           5.00
+017941           ELI       07/07/2025 18:31  V                      TRINIDAD RAMIREZ JULIA         PL         63.50
+017942           ELI  ELI  07/07/2025 18:36  V                      VENTA ANULADA                  C           0.00
+017943           ELI       07/07/2025 18:44  V                      TRINIDAD RAMIREZ JULIA         PL        220.00
+017944           ELI       07/07/2025 18:54  V                      VICTOR RAMOS VENTOCILLA        E          45.00
+017945           ELI       07/07/2025 18:56  V                      TRINIDAD RAMIREZ JULIA         PL         15.00
+017946           ELI       07/07/2025 19:00  V                      LOURDES NARVASTA               E          16.20
+017947           ELI       07/07/2025 19:01  V                      VENTA ANULADA                  E           0.00
+017948           ELI       07/07/2025 19:05  V                      MARTINA JACINTO VALVERDE       E          75.90
+017949           ELI       07/07/2025 19:07  V                      MARTINA JACINTO                E          31.50
+017950           ELI       07/07/2025 19:11  V                      FLOR CAPCHA VALDEZ             E          27.00
+017951           ELI  ELI  07/07/2025 19:11  V                      FLOR CAPCHA VALDEZ             PL        119.50
+017952           ELI  ELI  07/07/2025 19:14  V                      JULIA TRINIDAD RAMIREZ         PL        148.00
+017953           ELI  ELI  07/07/2025 19:17  V                      FLORMILA VENTONCILLA VERAMENDI PL         39.00
+017954           ELI       07/07/2025 19:22  V                      NARVASTA LOURDES               E         130.00
+017955           ELI       07/07/2025 19:32  V                      GARCIA LEON JOAQUIN            PL         65.00
+017956           ELI       07/07/2025 19:49  V                      ROJAS MELLIZO YUNERI           E         159.50
+017957           ELI       07/07/2025 20:19  V                      DOMIGA PIO CARRERA             E         154.50
+017958           ELI       07/07/2025 20:20  V                      VENTOCILLA ZU;IGA DIONICIO     E         209.00
+017959           ELI       07/07/2025 20:52  V                      MARTINA JACINTO                E           3.00
+017960           ELI       07/07/2025 21:23  V                      RAMOS VENTOCILLA VICTOR        E         230.00
+017961           ELI       08/07/2025 08:31  V                      BRIGIDA TORRES ACU;A           E          80.00
+017962           ELI       08/07/2025 08:39  V                      GUSTAVO BERNAL MARCELO         E          80.00
+017963           ELI       08/07/2025 08:45  V                      CASTINALDO LUCANO HUAMAN       E          10.00
+017964           ELI       08/07/2025 09:11  V                      BELLON VALLADARES MIGUEL FABRI PL         15.00
+017965           ELI       08/07/2025 09:55  V                      JULIA PICHILINGUE              E          75.00
+017966           ELI       08/07/2025 09:56  V                      JULIA PICHILINGUE              E          10.00
+017967           ELI       08/07/2025 12:27  V                      JULIA TRINIDAD                 PL         15.00úZethQuark Versi¢n 7.0ú                                                                                                 14/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/07/2025 AL 13/07/2025                              10:07:11
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017968           ELI       08/07/2025 13:38  V                      PROSPERO ESPINOZA GREGORIO     E           5.50
+017969           FAB       08/07/2025 16:44  V                      MERCEDES HUAYANAY ALONSO       E          45.00
+017970           FAB       08/07/2025 16:48  V                      MARTINA JACINTO VALVERDE       E          65.90
+017971           ELI       08/07/2025 17:26  V                      MARCO BAREETO ROSALUD          E          80.00
+017972           ELI       08/07/2025 18:17  V                      ZENAIDA CHAUPIS BUSTAMANTE     E          76.50
+017973           ELI       08/07/2025 18:40  V                      FELLES DAMIAN JOHANN           E          45.00
+017974           ELI       08/07/2025 19:04  V                      TRINIDAD RAMIREZ JULIA         PL         67.70
+017975           ELI  ELI  08/07/2025 19:16  V                      HUAYANAY ALONSO MERCEDEZ       PL         45.00
+017976           ELI  ELI  08/07/2025 19:17  V                      HUAYANAY                       E           1.50
+017977           ELI       08/07/2025 19:25  V                      FELLES DAMIAN JOHANN MILAN     E         283.00
+017978           ELI       08/07/2025 19:26  V                      ISABEL CALERO                  E           2.00
+017979           ELI       08/07/2025 19:28  V                      HUAYANAY ALONSO MERCEDES       E           5.50
+017980           ELI       08/07/2025 19:55  V                      DRIAN ALEXANDER CANO PORTAL    E          45.00
+017981           ELI       08/07/2025 20:24  V                      CANO PORTAL                    E          83.90
+017987           ELI       08/07/2025 10:09  V                      CHAUPIS BUSTAMANTE ZENAIDA     E         100.00
+017982           AUD       09/07/2025 08:12  V                      GLORIA MERCEDES HUALLANAYTAY   E         100.00
+017983           AUD       09/07/2025 08:15  V                      ISABEL CALERO                  E           2.00
+017984           AUD       09/07/2025 08:52  V                      HERMELINDA ROQUE ORTIZ         E         150.00
+017985           AUD       09/07/2025 09:30  V                      MODESTO NARVAEZ VENTOCILLA     E          90.00
+017986           AUD       09/07/2025 10:02  V                      CHAVEZ TOCAS SANTA             PL        233.50
+017988           AUD       09/07/2025 11:13  V                      LUCANO HUAMAN CASTINALDO       E          45.00
+017989           AUD       09/07/2025 11:19  V                      LUCANO HUAMAN CASTINALDO       E          10.00
+017990           AUD       09/07/2025 11:46  V                      LUCANO HUAMAN                  E          80.00
+017991           AUD       09/07/2025 11:47  V                      LUCANO HUAMAN                  E           4.00
+017992           AUD       09/07/2025 14:50  V                      JAIRO SANCHEZ GAMARRA          PL        150.00
+017993           AUD       09/07/2025 15:07  V                      OLIVARES LEON URBANA           E          45.00
+017994           AUD       09/07/2025 16:13  V                      CASTILLO LEON YULIZA           E          45.00
+017995           AUD       09/07/2025 17:09  V                      CHAUPIS BUSTAMANTE ZENAIDA     E          41.00
+017996           AUD       09/07/2025 17:17  V                      JIMENEZ DIAZ JOSE              E         185.00
+017997           AUD       09/07/2025 17:54  V                      RAMOS COLONIA ELIAS            E          45.00
+017998           AUD       09/07/2025 18:38  V                      MARTINA JACINTO                E          59.90
+017999           AUD       09/07/2025 18:53  V                      URBANA OLIVARES LEON           C         274.00
+018000           AUD       09/07/2025 19:04  V                                                     C         146.50
+018001           AUD       09/07/2025 19:18  V                      ELIAS RAMOS COLONIA            E          27.00
+018002           AUD       09/07/2025 19:21  V                      ELIAS RAMOS COLONIA            E           4.00
+018003           AUD       09/07/2025 19:27  V                      TRAVEZA;O LOPEZ NERIDA         E          45.00
+018004           AUD       09/07/2025 19:37  V                      MILAGROS TORRES JACINTO        E           3.00
+018005           AUD       09/07/2025 20:17  V                      TRAVEZA;O LOPEZ NERIDA         PL        328.50
+018006           AUD       09/07/2025 20:17  V                      TRAVEZA;O LOPEZ NERIDA         E         139.00
+018007           ELI       10/07/2025 08:39  V                      ISABEL                         E           1.50
+018008           ELI       10/07/2025 09:29  V                      TORRES JACINTO MILAGROS JORDAN E         336.00
+018009           ELI       10/07/2025 10:06  V                      GRIMALDA AYALA CALDAS          E          40.00
+018010           ELI       10/07/2025 11:36  V                      HERNANDEZ CARRANZA ELSA        E          83.50
+018011           ELI       10/07/2025 11:38  V                      LIZ YAURI ZU;IGA               E          15.00
+018012           ELI       10/07/2025 12:51  V                      VENTA ANULADA                  PL          0.00
+018013           ELI       10/07/2025 16:24  V                      ZENAIDA CHAUPIS BUSTAMANTE     E          38.50
+018014           ELI       10/07/2025 16:39  V                      FLAVIA SANCHEZ MANDAMIENTO     E          45.00
+018015           ELI       10/07/2025 17:08  V                      FELLES DAMIAN JOHAN MILAN      E          64.00
+018016           ELI       10/07/2025 17:08  V                      HUIZA LOPEZ LIAM               E          45.00
+018017           ELI       10/07/2025 17:23  V                      HUAMAN CHIRITO FRAN            E          45.00
+018018           ELI       10/07/2025 17:28  V                      RIVERA GOMEZ FIORELLA          E          30.00
+018019           ELI       10/07/2025 17:33  V                      MARTINA JACINTO                E          46.40
+018020           ELI       10/07/2025 17:36  V                      TABOADA DE TINEO BETTY         E           5.00
+018021           ELI       10/07/2025 17:37  V                      TABOADA DE TINEO BETTY         E          45.00
+018022           ELI       10/07/2025 17:39  V                      SANCHEZ GARAY VALENTINA        E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 14/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/07/2025 AL 13/07/2025                              10:07:11
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+018023           ELI       10/07/2025 17:39  V                      SANCHEZ GARAY ANDRES           E          45.00
+018024           ELI       10/07/2025 18:20  V                      SANCHEZ MANDAMIENTO FLAVIA     E         115.50
+018025           ELI       10/07/2025 18:28  V                      VENTA ANULADA                  PL          0.00
+018026           ELI       10/07/2025 18:38  V                      HUERTAS GIRALDO JEANPIERO      PL         45.00
+018027           ELI       10/07/2025 18:48  V                      HUAMAN CHIRITO FRANK           E         292.00
+018028           ELI       10/07/2025 19:10  V                      JAVIER CORZO                   E          45.00
+018029           ELI       10/07/2025 19:24  V                      DIAZ PEDRAZA ELIAZER           E          45.00
+018030           ELI       10/07/2025 19:27  V                      VALENTINA SANCHEZ GARAY        E          90.50
+018031           ELI       10/07/2025 19:36  V                      TRAVESA;O LOPEZ NERIDA         E          45.00
+018032           ELI       10/07/2025 20:18  V                      DEUNICIO VENTOCILLA ZU;IGA     E          45.00
+018033           ELI       10/07/2025 20:23  V                      GEAN PIERO HUERTAS GIRALDO     PL         26.50
+018034           ELI       10/07/2025 20:36  V                      SANCHEZ MANDAMIENTO FKAVIA     E          59.00
+018035           ELI       10/07/2025 20:57  V                      JAVIER CORZO YIOMAR\           E          47.00
+018036           ELI       10/07/2025 21:12  V                      DIONICIO LEON                  E         125.00
+018037           ELI       10/07/2025 21:41  V                      DIAZ PEDRAZA ELIAZER           E           1.50
+018038           ELI       10/07/2025 21:55  V                      TRAVEZA;O LOPEZ NERIDA         E          76.50
+018039           AUD       11/07/2025 08:21  V                      RUTH ESPINOZA CERNA            PL         45.00
+018040           AUD       11/07/2025 08:56  V                      PAULINO CAMPOS                 E           3.00
+018041           AUD       11/07/2025 08:57  V                      RIVERA TEJADA WENCESLAU        E          45.00
+018042           AUD       11/07/2025 09:53  V                      ESPINOZA CERNA RUTH            PL         65.00
+018043           AUD       11/07/2025 10:39  V                      NARVAEZ VENTOCILLA             E         118.50
+018044           AUD       11/07/2025 10:39  V                      NARVAEZ VENTOCILLA MODESTO     E          60.00
+018045           AUD       11/07/2025 11:08  V                      MARCELINA DE PAZ INGLES        E          45.00
+018046           AUD       11/07/2025 11:29  V                      MARIA REATEGUI PADILLA         E           2.00
+018047           AUD       11/07/2025 11:46  V                      DE PAZ INGLES                  E          12.00
+018048           AUD       11/07/2025 12:45  V                      MARIA VILLANUEVA MEXICO        E         100.00
+018049           AUD       11/07/2025 13:33  V                      VENTA ANULADA                  E           0.00
+018050           AUD       11/07/2025 13:49  V                      BETTY TABOADA DE TINEO         E          31.50
+018051           AUD       11/07/2025 15:37  V                      BELTRAM BAUTISTA TEOLINDA      PL         45.00
+018052           AUD       11/07/2025 16:04  V                      CHLOE SOLANO GARCIA            PL         45.00
+018053           AUD       11/07/2025 16:06  V                      BERNAL EVANGELISTA             E          45.00
+018054           AUD       11/07/2025 16:30  V                      PAJUELO ZELAYA MARINA          PL         45.00
+018055           AUD       11/07/2025 16:36  V                      FELLES DAMIAN JOHANN           PL         95.00
+018056           AUD       11/07/2025 16:58  V                      APOLINARIO CORTEZ ROSA         E          45.00
+018057           AUD       11/07/2025 17:10  V                      ESPINOZA FERRER DANIEL         E          45.00
+018058           AUD       11/07/2025 17:16  V                      RUIZ TOLEDO AXEL               E          45.00
+018059           AUD       11/07/2025 17:58  V                      ELIEZER WALTER DIAZ PEDRAZA    E          37.00
+018060           AUD       11/07/2025 18:10  V                      ADRIANO GAEL BERNAL CUELLAR    E          83.00
+018061           AUD       11/07/2025 18:14  V                      CANO GIRALDO EUFROCINA         E          45.00
+018062           AUD       11/07/2025 18:18  V                      PAJUELO ZELAYA                 E         184.50
+018063           AUD       11/07/2025 18:38  V                      RUEDA ZARZOSA CLOTILDE         E          45.00
+018064           AUD       11/07/2025 18:49  V                      EVANGELISTA MENDOZA            E          45.00
+018065           AUD       11/07/2025 19:05  V                      ROSA APOLINARIO                PL         45.00
+018066           AUD       11/07/2025 19:13  V                      ESPINOZA FERRER DANIEL         E          10.00
+018067           AUD       11/07/2025 19:22  V                      AXEL FABIAN RUIZ TOLEDO        E          26.50
+018068           AUD       11/07/2025 19:22  V                      AXEL FABIAN RUIZ TOLEDO        E          80.00
+018069           AUD       11/07/2025 19:42  V                      PRADO ALTAMIRANO               E          45.00
+018070           AUD       11/07/2025 19:43  V                      TEOLINDA BELTRAM BAUTISTA      C          55.00
+018071           AUD       11/07/2025 19:43  V                      TEOLINDA BELTRAN BAUTISTA      E          29.50
+018072           AUD       11/07/2025 20:38  V                      CANO GIRALDO                   E         158.50
+018073           AUD       11/07/2025 20:45  V                      MATOS MEZA GABY                E           5.00
+018074           AUD       11/07/2025 21:21  V                      EVANGELISTA MENDOZA ANTHONY    PL        273.00
+018075           AUD       11/07/2025 21:51  V                      ANTHONY EVANGELISTA            E          29.50
+018076           AUD       11/07/2025 21:59  V                      CANO GIRALDO                   E           3.00
+018077           ELI       12/07/2025 08:20  V                      VENTA ANULADA                  E           0.00úZethQuark Versi¢n 7.0ú                                                                                                 14/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/07/2025 AL 13/07/2025                              10:07:11
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+018078           ELI       12/07/2025 10:24  V                      CANO GIRALDO EUFROCINA         E         178.00
+018079           ELI       12/07/2025 10:25  V                      CANO GIRALDO EUFROCINA         E          70.00
+018080           ELI       12/07/2025 10:31  V                      KARINA GAMARRA CANO            E          80.00
+018081           ELI       12/07/2025 14:07  V                      TRINIDAD RAMIREZ JULIA         PL         45.00
+018082           ELI       12/07/2025 16:49  V                      ELIZABETH RIVAS RIVAS          PL         29.00
+018083           ELI       12/07/2025 16:59  V                      MANDAMIENTO GARCIA ANDREA      E          15.00
+018084           AUD       13/07/2025 09:19  V                      TRAVEZA;O LOPEZ NERIDA         E          82.00
+018085           AUD       13/07/2025 16:45  V                      UGARTE ESPINOZA LUIS           PL        100.00
+018086           AUD       13/07/2025 17:16  V                      EMPERATRIZ OYOLA FLORES        E           2.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       5         589.50
+Factura       :       0           0.00                                                    Efectivo      :     257      17,593.50
+Ticket        :       0           0.00                                                    Plin          :      68       5,505.90
+Guia Interna V:     330      23,688.90                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                             23,688.90                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                       23,688.90
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      3,613.14
+ÿ
+ÿ
+Nro.  Documentos Anulados :            9
+Total Documentos Anulados :         0.00

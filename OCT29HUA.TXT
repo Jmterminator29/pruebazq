@@ -1,0 +1,1000 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:43
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+009819           ELI       01/10/2024 08:13  V                      FLORES CAURINA LEONARDA        E          12.00
+009820           ELI       01/10/2024 08:26  V                      ROBLES CHIRRE SAMANTHA         PL         45.00
+009821           ELI       01/10/2024 08:43  V                      VENTURO LEON MARIN             E         210.00
+009822           ELI       01/10/2024 08:49  V                      VENTA ANULADA                  E           0.00
+009823           ELI       01/10/2024 08:54  V                      VALDEOS AREANO MIGUEL          E          10.00
+009824           ELI       01/10/2024 08:55  V                      MELECIO ORTEGA AYALA           E          10.00
+009825           ELI       01/10/2024 09:05  V                      MILAGROS PACHECO SOLANO        PL        158.00
+009826           ELI       01/10/2024 10:25  V                      JAVIER LUCANO BRAVO            E          15.00
+009827           ELI       01/10/2024 10:56  V                      ROBLES CHIRRE SAMANTHA         E          44.90
+009828           ELI       01/10/2024 11:31  V                      LUANA NIETO MARIN              E          45.00
+009829           ELI       01/10/2024 12:02  V                      LUANA NIETO MARIN              E           2.00
+009830           ELI       01/10/2024 12:05  V                      LUANA NIETO MARIN              E          30.50
+009831           EFR  EFR  01/10/2024 12:58  V                      CABRACANCHA PEREZ LIAM         PL         45.00
+009832           EFR  EFR  01/10/2024 13:10  V                      VENTA ANULADA                  E           0.00
+009833           EFR  EFR  01/10/2024 13:12  V                      BERNAL SIPAN HILDA             E          45.00
+009834           EFR  EFR  01/10/2024 13:15  V                      PALOMARES ROMAN MARTA          E          45.00
+009835           EFR  EFR  01/10/2024 13:25  V                      VELAZQUEZ FERNANDEZ MILAN      E          45.00
+009836           EFR  EFR  01/10/2024 14:23  V                      CAURINO SOLORZANO MAURA        E          56.50
+009837           ELI       01/10/2024 15:16  V                      BERNAL SIPAN HILDA             E          50.00
+009838           ELI       01/10/2024 15:27  V                      MARTA PALOMARES ROMAN          E         240.00
+009839           ELI       01/10/2024 15:32  V                      VELASQUEZ FERNANDEZ MILAN      E         119.50
+009840           ELI       01/10/2024 16:43  V                      MARIACRUZ DIAZ VARGAS          E          45.00
+009841           ELI       01/10/2024 17:07  V                      VENTURO LEON MARIN             E          80.00
+009842           ELI       01/10/2024 17:13  V                      GIL ROJAS LUCIANA              PL         45.00
+009843           ELI       01/10/2024 17:17  V                      NOLBERTO ALAYA BOLA;OS         E          45.00
+009844           ELI       01/10/2024 17:39  V                      MARIA CRUZ DIAS VARGAS         PL         41.50
+009845           ELI       01/10/2024 17:49  V                      HUAMAN DOMINGUES VERONICA      E          45.00
+009846           ELI       01/10/2024 17:56  V                      DIAZ VARGAS                    PL         10.00
+009847           ELI       01/10/2024 19:02  V                      PANTA RODRIGUES GABRIELA       E          45.00
+009848           ELI       01/10/2024 19:04  V                      ESTUPI:AN. SAMANAMUD LESLIE    PL         45.00
+009849           ELI       01/10/2024 19:14  V                      VELASQUEZ FERNANDEZ MILAN      E           1.50
+009850           ELI       01/10/2024 20:01  V                      ESTUPI:AN SAMANAMUD LESLIE     E         150.00
+009851           ELI       02/10/2024 08:15  V                      PEREZ GODOY GUILLERMO          E          45.00
+009852           ELI       02/10/2024 08:33  V                      DALIA DORA MELGAREJO ROMERO    E          13.00
+009853           ELI       02/10/2024 08:46  V                      WALTHER JESUS BRIOSO GUERRA    E         103.00
+009854           ELI       02/10/2024 08:55  V                      MENDOZA MIRAVAL MARIA ESTER    E          45.00
+009855           ELI       02/10/2024 09:08  V                      PEREZ GODOY GUILLERMO          E          44.40
+009856           ELI       02/10/2024 09:32  V                      ALESSIA DOMINGUEZ FERNANDEZ    PL         45.00
+009857           ELI       02/10/2024 10:50  V                      IBARRA MONTES TEOBALDO         E          45.00
+009858           ELI  ELI  02/10/2024 12:20  V                      ROJAS SALAZAR MARCO ANTONIO    E         100.00
+009859           ELI  ELI  02/10/2024 12:50  V                      VENTA ANULADA                  E           0.00
+009860           ELI  ELI  02/10/2024 12:50  V                      VENTA ANULADA                  E           0.00
+009861           EFR  EFR  02/10/2024 13:05  V                      ALEJANDRO PAITAN               E          37.49
+009862           EFR  EFR  02/10/2024 13:12  V                      ROJAS SALAZAR MARCO ANTONIO    E           5.00
+009863           EFR  EFR  02/10/2024 13:15  V                      ROJAS SALAZAR MARCO ANTONIO    PL         28.00
+009864           EFR  EFR  02/10/2024 13:22  V                      ALA SANTOS RUBEN               E          45.00
+009865           EFR  EFR  02/10/2024 13:25  V                      ROJAS SALAZAR MARCO ANTONIO    E         100.00
+009866           ELI       02/10/2024 13:44  V                      RUTH JULON VARGAS              PL         45.00
+009867           ELI       02/10/2024 14:53  V                      CHANGANAQUI CASTILLO DALIC     E          30.50
+009868           EFR  EFR  02/10/2024 15:27  V                      GRADOS LOPES NAISHA            E          45.00
+009869           ELI       02/10/2024 17:05  V                      LUZQUI;O ALOR ALEJANDRA        PL         45.00
+009870           ELI       02/10/2024 18:08  V                      GRADOS LOPEZ NAYSHA            E          75.00
+009871           ELI       02/10/2024 18:20  V                      LUZQUI;O ALOR ALEJANDRA        PL          3.00
+009872           ELI       02/10/2024 18:21  V                      VERMENDI VARILLA JOSE MIGUEL   E         100.00
+009873           ELI       02/10/2024 18:23  V                      GARCIA CERVANTES ANA PAULA     E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:43
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+009874           ELI       02/10/2024 18:26  V                      GARCIA CERVANTES ANA PAULA     E          10.00
+009875           ELI       02/10/2024 18:48  V                      MARIA HUAYLUPU ANDAHUA         E           8.00
+009876           ELI       02/10/2024 18:59  V                      CERVANTES GARCIA ANA PAULA     PL        143.00
+009877           ELI       02/10/2024 18:59  V                      GARCIA CERVANTES ANA PAULA     PL         31.00
+009878           ELI       02/10/2024 19:41  V                      GRADOS LOPEZ NAYSHA            E          35.80
+009879           ELI       03/10/2024 08:10  V                      KEVIN SOLORZANO CRUZ           PL         49.00
+009880           ELI       03/10/2024 08:23  V                      ELENA ESTEBAN VILLALOBOS       E          58.00
+009881           ELI       03/10/2024 08:23  V                      ELENA ESTEBAN VILLALOBOS       E          45.00
+009882           ELI       03/10/2024 08:30  V                      ELENA ESTEBAN VILLOBOS         PL        130.00
+009883           EFR       03/10/2024 13:47  V                      PACHECO SOLANO MILAGRO         PL         45.00
+009884           ELI       03/10/2024 14:47  V                      ALEJANDRA LUZQUI;O ALOR        PL         52.00
+009885           EFR       03/10/2024 15:14  V                      PACHECO SOLANO MILAGROS        PL         30.00
+009886           EFR       03/10/2024 15:20  V                      VENTURA CASTILLO ERENI ROSARIO E          45.00
+009887           EFR       03/10/2024 15:37  V                      ENCARNACION MATOS FIDELIA      E          45.00
+009888           EFR       03/10/2024 16:01  V                      VENTURA CASTILLO ERENI         E          22.00
+009889           EFR       03/10/2024 16:04  V                      VENTURA CASTILLO ERENI ROSARIO E          78.50
+009890           EFR       03/10/2024 16:07  V                      TACUCHE CARBAJAL MARTEL        E          45.00
+009891           EFR       03/10/2024 16:13  V                      ROJAS RAMIREZ KATHERINE YORLET PL         15.00
+009892           EFR       03/10/2024 16:49  V                      TACUCHE CARBAJAL MARTEL        E          55.50
+009893           ELI       03/10/2024 17:28  V                      MARI CRUZ MOSQUERA             E           1.20
+009894           ELI       03/10/2024 18:27  V                      TACUCHE CARBAJAL MARIN         E          20.00
+009895           ELI       03/10/2024 18:33  V                      MARIA HUAYLUPU ANDAHUA         E           8.00
+009896           ELI       03/10/2024 18:47  V                      ALMAZAN FAUSTINO SANTA         E         100.00
+009897           ELI       04/10/2024 09:48  V                      VENDOZA CASTILLO DELIA         PL         31.00
+009898           ELI       04/10/2024 10:28  V                      REYES CALLETANO                E           9.50
+009899           EFR       04/10/2024 12:25  V                      LECCA BENDEZU CARLOS DANIEL    E         100.00
+009900           EFR       04/10/2024 13:02  V                      LECCA BENDEZU CARLOS           E          24.40
+009901           EFR       04/10/2024 13:10  V                      LECCA BENDEZU CARLOS           E          85.00
+009902           ELI       04/10/2024 14:42  V                      OBREGON SOLIS DELIA            PL         15.00
+009903           ELI       04/10/2024 15:07  V                      DAMIAN NARVAJA EULOGIA         E          45.00
+009904           ELI  ELI  04/10/2024 16:09  V                      EULAGIA DAMIAN NARVAJA         E          42.00
+009905           ELI  ELI  04/10/2024 16:34  V                      VALLADARES MEDINA MATHEWS DAYI E          45.00
+009906           ELI       04/10/2024 18:39  V                      CERVANTES GARCIA ANAPAULA      PL         45.00
+009907           ELI       04/10/2024 20:04  V                      ETEL ENCARNACION VALENTIN      E         151.80
+009908           ELI       05/10/2024 08:37  V                      ALEXA REBECA RIVAAGUERO FERNAN E          45.00
+009909           ELI       05/10/2024 09:20  V                      RIVAAGUERO FERNANDEZ ALEXA     E          15.00
+009910           ELI       05/10/2024 10:32  V                      SOLORZANO CRUZ KEVIN           E          16.00
+009911           ELI       05/10/2024 10:56  V                      TEOFILA CUELLA ESPINOZA        PL         80.00
+009912           ELI       05/10/2024 10:57  V                      NATALY RIVERA CUELLA           PL         80.00
+009913           ELI       05/10/2024 10:59  V                      CRISOSTOMO FLORES NELI         PL         45.00
+009914           ELI       05/10/2024 11:27  V                      CRISOSTOMO FLORES NELVA        PL         17.30
+009915           ELI       05/10/2024 11:41  V                      LEDSY ESPINOZA APONTE          PL         15.00
+009916           EFR       05/10/2024 12:33  V                      ASENCIO GUARDIA LUIS           E          45.00
+009917           EFR       05/10/2024 13:14  V                      SOLIS PACHECO JUDIT            E          45.00
+009918           EFR       05/10/2024 13:21  V                      SOLIS PACHECO JUDIT            E           1.50
+009919           EFR       05/10/2024 13:38  V                      FERNANDEZ PRUDENCIO OMAR       PL         45.00
+009920           EFR       05/10/2024 13:48  V                      ISABEL VASQUEZ VACA            E          17.50
+009921           EFR       05/10/2024 13:53  V                      FERNANDEZ PRUDENCIO OMAR       E          10.00
+009922           ELI       05/10/2024 14:40  V                      MONTOYA POLO FHEDRA            E           1.50
+009923           ELI       05/10/2024 14:43  V                      JUDIT PACHECO SOLIS            E          40.00
+009924           ELI       05/10/2024 14:43  V                      JUDIT PACHECO SOLIS            E          11.40
+009925           ELI       05/10/2024 14:47  V                      GIOVANA MONTOYA                E           1.50
+009926           ELI       05/10/2024 15:29  V                      ESPINOZA APONTE LETSI          PL         45.00
+009927           ELI       05/10/2024 16:22  V                      MARTINEZ CHAVEZ AXEL           E          45.00
+009928           ELI       05/10/2024 16:36  V                      CABRACANCHA CARRERA FELICITAS  E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:43
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+009929           ELI       05/10/2024 16:41  V                      BAYLON CUEVA DENSEL            E          45.00
+009930           ELI       05/10/2024 16:48  V                      GRADOS LOPEZ NAYSHA            PL         45.00
+009931           ELI       05/10/2024 16:51  V                      PICHILINGUE VASQUEZ JULIA      E          80.00
+009932           ELI       05/10/2024 17:04  V                      VENTURO LEON MARIN             E          45.00
+009933           ELI       05/10/2024 17:06  V                      ROSA BERROCAL TRINIDAD         E          15.00
+009934           ELI       05/10/2024 17:18  V                      CABRACANCHA CARRERA FELICITAS  E         119.50
+009935           ELI       05/10/2024 17:29  V                      BAYLON CUEVA DENZEL            E          46.00
+009936           ELI       05/10/2024 17:33  V                      GRADOS LOPEZ NAYSHA            PL         48.00
+009937           ELI       05/10/2024 17:54  V                      REYES TOLEDO AYTANA            E          45.00
+009938           ELI       05/10/2024 18:08  V                      VENTURO LEON MARIN             E         132.40
+009939           ELI       05/10/2024 18:15  V                      SOLIS GUERRERO SAYURI          E          45.00
+009940           ELI       05/10/2024 18:19  V                      VENTURO BELTRAN JUNIOR         E          25.40
+009941           ELI       05/10/2024 18:23  V                      AITANA REYES TOLEDO            E          75.00
+009942           ELI       05/10/2024 18:31  V                      EVANGELISTA YOVANA             PL         45.00
+009943           ELI       05/10/2024 18:52  V                      SOLIS GUERRERO SAYURI          PL        130.50
+009944           ELI       05/10/2024 19:10  V                      LUIS ASENCIO GUARDIA           E          98.00
+009945           ELI       05/10/2024 19:51  V                      EVANGELISTA MENDOZA YOVANA     E          41.50
+009946           ELI       05/10/2024 20:02  V                      SAYURI SOLIS GUERRERO          E           3.00
+009947           ELI       05/10/2024 20:16  V                      JUDIT PACHECO SOLIS            PL         52.40
+009948           ELI       05/10/2024 20:39  V                      SOLIS GUERRERO SAYURI          PL         65.00
+009949           ELI       05/10/2024 21:04  V                      JUDIT PACHECO SOLIS            PL         40.00
+009950           ELI       05/10/2024 21:16  V                      SAYURI SOLIS GUERRERO          E          36.80
+009951           ELI       06/10/2024 08:13  V                      LILIANA TRUCILLOS              E           6.50
+009952           ELI       06/10/2024 11:22  V                      DASSIEL GAEL HERNANDEZ ASENCIO E          45.00
+009953           ELI       06/10/2024 11:43  V                      CUEVA COLLANTES CESAR          PL         45.00
+009954           ELI       06/10/2024 13:04  V                      GUERRO SOLIS SAYURI            PL         56.00
+009955           ELI       06/10/2024 13:30  V                      CUEVA COLLANTES                PL         31.40
+009956           ELI       06/10/2024 13:31  V                      CUEVA COLLANTES                PL        281.00
+009957           ELI       06/10/2024 14:00  V                      LUIS ASENCIO GUARDIA           E         237.00
+009958           ELI       06/10/2024 14:05  V                      PARDO VIDAL                    E          29.90
+009959           ELI       06/10/2024 14:10  V                      ESTEBAN PALPA                  E          50.50
+009960           ELI       06/10/2024 14:14  V                      SAYURI SOLIS GUERRERO          E           9.00
+009961           ELI       06/10/2024 14:22  V                      VIDAL PARDO                    E           2.50
+009962           ELI       06/10/2024 14:52  V                      JUDIT PACHECO SOLIS            E          31.00
+009963           ELI       06/10/2024 14:56  V                      JUDIT PACHECO SOLIS            E          11.40
+009964           ELI       06/10/2024 16:12  V                      ARANGULO PARADO MAGYOBER       PL         45.00
+009965           ELI       06/10/2024 16:53  V                      CARLOS BURBURA PICHILINGUE     E          45.00
+009966           ELI       06/10/2024 17:00  V                      CARLOS BURBURA                 E           0.10
+009967           ELI       06/10/2024 17:47  V                      MAYLIN ROJAS ASENCIOS          E          15.00
+009968           ELI       06/10/2024 17:51  V                      CARLOS BURBURA PICHILINGUE     E          29.90
+009969           ELI       06/10/2024 17:54  V                      CARLOS BURBURA                 E           5.00
+009970           ELI       07/10/2024 08:11  V                      LILIANA TRUCILLO ACU;A         E           6.50
+009971           ELI       07/10/2024 08:15  V                      LOPES MORAN CIRO               E          40.00
+009972           ELI       07/10/2024 08:39  V                      HARO PAJUELO LIZ               E          45.00
+009973           ELI       07/10/2024 09:11  V                      FERNANDEZ PRUDENCIO OMAR CARLO E         198.00
+009974           ELI       07/10/2024 09:33  V                      OLGA VIOLETA AVILA VIUDA DE NO E          78.00
+009975           ELI       07/10/2024 09:39  V                      ELIZABETH OBREGON ESPINOZA     E         150.00
+009976           ELI       07/10/2024 09:44  V                      OLGA AVILA VIUDA DE NOVOA      E           1.50
+009977           ELI       07/10/2024 09:49  V                      PATRICIA JESUS BAJONERO        PL          6.50
+009978           ELI       07/10/2024 10:13  V                      GUERRA LAZARO SANTA MARGARITA  PL        305.00
+009979           ELI       07/10/2024 10:33  V                      CAQUI MAURICIO LIDZY           E          45.00
+009980           ELI       07/10/2024 10:45  V                      VERONICA LISBETH HUAMAN DOMING E          45.00
+009981           ELI       07/10/2024 10:53  V                      ANGELO JESUS PAREDEZ BUENO     E          41.00
+009982           ELI       07/10/2024 12:20  V                      BACILIO REYES ELISEO           E          45.00
+009983           ELI       07/10/2024 12:33  V                      EUSCATERI TENORIA ROSA         E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:43
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+009984           ELI  ELI  07/10/2024 12:49  V                      VASQUEZ BACA ISABEL            E           8.50
+009985           ELI       07/10/2024 13:24  V                      VASQUEZ VACA ISABEL            E          80.00
+009986           ELI       07/10/2024 13:37  V                      BASILIO REYES ELISEO           E         281.00
+009987           ELI       07/10/2024 13:45  V                      SOLIS GUERRERO SAYURI          PL         63.00
+009988           ELI       07/10/2024 13:49  V                      EUSKATERI TENORIO              E          13.50
+009989           ELI       07/10/2024 13:58  V                                                     E           7.50
+009990           ELI       07/10/2024 14:33  V                      VASQUEZ VACA ISABEL            E           5.00
+009991           ELI       07/10/2024 14:56  V                      MARICIELO PATRICIO ARIAS       PL         15.00
+009992           ELI       07/10/2024 15:21  V                      GUTIERREZ IZQUIERDO LOAN       E          25.00
+009993           ELI       07/10/2024 16:22  V                      JUDITH SOLIS PACHECO           E          42.40
+009994           ELI       07/10/2024 16:31  V                      LAZARO LEON MAURA              E          45.00
+009995           ELI       07/10/2024 16:42  V                      LEON MANRIQUE ILANIA           E          45.00
+009996           ELI       07/10/2024 16:43  V                      LEZAMETA ESPINOZA HIPOLITO     E          45.00
+009997           ELI       07/10/2024 17:01  V                      CABRACANCHA GO;I YULISSA       E          45.00
+009998           ELI       07/10/2024 17:42  V                      MAURA LAZARO LEON              E          80.00
+009999           ELI       07/10/2024 18:27  V                      LEZAMETA ESPINOZA HIPOLITO     E          47.40
+010000           ELI       07/10/2024 18:44  V                      CABRACANCHA GO;I YULISA        E          54.40
+010001           ELI       07/10/2024 18:55  V                      SOLORZANO CRUZ KEVIN           PL         21.50
+010002           ELI       07/10/2024 19:05  V                      JUNIOR VENTURO BELTRAN         E         137.40
+010003           ELI       07/10/2024 19:09  V                      VENTURO LEON MARIN             E           6.00
+010004           ELI       07/10/2024 19:32  V                      VILCAYAURI MELO GLORIA         PL         45.00
+010005           ELI       07/10/2024 19:47  V                      VERA MORALES ALEXIS            E           5.00
+010006           ELI       07/10/2024 19:57  V                      JUAN ALBARADO                  E          29.50
+010007           ELI       07/10/2024 20:07  V                      VILCYAURI MELO                 E           3.00
+010008           ELI       07/10/2024 20:10  V                      ASENCIO PERALES ALANA          E          45.00
+010009           ELI       07/10/2024 20:29  V                      ASENCIO PERALTA ALANA          E           3.00
+010010           ELI       07/10/2024 21:03  V                      ALANA ASENCIO PERALES          E          56.00
+010011           ELI       07/10/2024 21:06  V                      ALANA                          E           1.50
+010012           ELI       07/10/2024 21:09  V                      MARIO MOLINA                   E           6.00
+010013           ELI       08/10/2024 08:24  V                      HELLEN LIZET IZQUIERDO RIVERA  PL         38.00
+010014           ELI       08/10/2024 10:12  V                      YOVANA EVENGELISTA             E          83.50
+010015           ELI       08/10/2024 10:46  V                      VILCAYAURI MELO GLORIA         PL         60.00
+010016           ELI       08/10/2024 11:02  V                      DE LA CRUZ DE LIZARRAGA SEBAST E          45.00
+010017           ELI       08/10/2024 11:27  V                      MAURA LAZARO LEON              E         150.00
+010018           EFR  EFR  08/10/2024 12:40  V                      SOLORSANO CRUZ KEVIN           PL         60.00
+010019           EFR  EFR  08/10/2024 12:45  V                      SOLIS GUERRERO SAYURI          PL         45.00
+010020           EFR  EFR  08/10/2024 13:01  V                      CABRACANCHA GO¥I YULISA        E          31.40
+010021           EFR  EFR  08/10/2024 13:12  V                      SAENZ LOPEZ EMARIA             E          15.00
+010022           EFR       08/10/2024 13:36  V                      HARO PAJUELO LIZ               E           7.50
+010023           EFR       08/10/2024 13:49  V                      SAYURI SOLIS GUERRERO          PL         38.00
+010024           EFR       08/10/2024 13:54  V                      SAYURI SOLIS GUERRERO          E           3.00
+010025           EFR       08/10/2024 14:12  V                      SOLORZANO CRUZ KEVI            PL          6.50
+010026           EFR       08/10/2024 15:01  V                      ERSILIA ESPINOZA JAIME         PL         12.00
+010027           EFR       08/10/2024 17:30  V                      VILCAYAURI MELO GLORIA         E          45.00
+010028           EFR       08/10/2024 18:19  V                      DEXTRE SANCHEZ JAMILET         E          45.00
+010029           EFR       08/10/2024 18:45  V                      CELESTINO FELIX JACINTO        E          45.00
+010030           EFR       08/10/2024 19:18  V                      DEXTRE SOLIS SAYURI            PL         80.50
+010031           EFR       08/10/2024 19:21  V                      DEXTRE SOLIS JAMILET           PL          9.00
+010032           ELI       09/10/2024 08:29  V                      MONTES ANTAURCO CERSAR         E          58.00
+010033           ELI       09/10/2024 09:32  V                      JARA LOPEZ MARDOQUEO           PL         45.00
+010034           ELI       09/10/2024 10:13  V                      MAGYOBER ARANGO PARADO         PL        210.00
+010035           ELI       09/10/2024 10:26  V                      JARA LOPEZ MARDOQUEO           PL         39.30
+010036           ELI       09/10/2024 11:14  V                      MARIO GALBES AMADO             E          45.00
+010037           EFR  EFR  09/10/2024 12:29  V                      GUERRA LAZARO SANTA            PL         45.00
+010038           EFR       09/10/2024 13:08  V                      GAMARRA QUINTEROS SARA         E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:44
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010039           EFR  EFR  09/10/2024 13:09  V                      SOLORZANO CRUZ KEVIN           PL         67.90
+010040           EFR       09/10/2024 13:26  V                      HUERTA RODRIGUEZ ISSAC         E          45.00
+010041           EFR       09/10/2024 13:54  V                      HARO PAJUELO LIZ               E           7.50
+010042           ELI       09/10/2024 14:08  V                      URBANA OLIVARES LEON           E          45.00
+010043           ELI       09/10/2024 14:14  V                      FERNANDEZ PRUDENCIO OMAR       E          45.00
+010044           ELI       09/10/2024 15:05  V                      ALCANTARA CASTILLO MARIA       PL         15.00
+010045           ELI       09/10/2024 15:53  V                      SANTOS CHALCO VANESITA         PL         45.00
+010046           ELI       09/10/2024 16:16  V                      VENTA ANULADA                  E           0.00
+010047           ELI       09/10/2024 16:18  V                      VENTA ANULADA                  E           0.00
+010048           ELI       09/10/2024 16:19  V                      ALCEDO VALLEJO ROLY            E          45.00
+010049           ELI       09/10/2024 16:25  V                      ROJAS ALOR ENZO                E          60.00
+010050           ELI       09/10/2024 16:27  V                      OLIVARES LEON URBANA           PL         60.00
+010051           ELI       09/10/2024 16:29  V                      INOCENTE CHAUPIS ISABELLA      E          70.00
+010052           EFR       09/10/2024 17:01  V                      VENTA ANULADA                  PL          0.00
+010053           EFR       09/10/2024 17:11  V                      ZAPANA MU;OZ JOSELIN           E          80.00
+010054           EFR       09/10/2024 17:42  V                      OLIVARES LEON URBANA           PL        184.00
+010055           ELI       09/10/2024 17:44  V                      MORALES ESPINOZA SAYLIN        E          45.00
+010056           ELI       09/10/2024 17:56  V                      ALCEDO VALLEJO ROLY            E          62.80
+010057           ELI       09/10/2024 18:02  V                      GRADOS LOPEZ NAYSHA            PL         45.00
+010058           ELI       09/10/2024 18:24  V                      VENTURO LEON MARIN             E          29.50
+010059           ELI       09/10/2024 18:26  V                      JUNIOR VENTURO BELTRAN         E          25.40
+010060           ELI       09/10/2024 18:54  V                      KEVIN ELIAS                    E           4.00
+010061           ELI       09/10/2024 19:14  V                      VILCAYAURI MELO                E           3.00
+010062           ELI       09/10/2024 19:21  V                      MORALES ESPINOZA SAYLIN        E          94.00
+010063           ELI       09/10/2024 19:39  V                      TARDIO JULCARIMA WALTER        E          45.00
+010064           ELI       09/10/2024 19:46  V                      GAMARRA QUINTEROS SARA         E          91.00
+010065           ELI       09/10/2024 20:19  V                      GAMARRA QUINTEROS              E          12.00
+010066           ELI       09/10/2024 20:30  V                      TARDIO JULCARIMA WALTER        E          46.00
+010067           ELI       10/10/2024 08:32  V                      SALAS RAPREY EUGENIO FAUSTO    E          45.00
+010068           ELI       10/10/2024 09:18  V                      SALAS REPREY FAUSTO            E          20.50
+010069           ELI       10/10/2024 09:19  V                      SUARES REPREY FAUSTO           E           1.00
+010070           ELI       10/10/2024 09:26  V                                                     C          31.40
+010071           ELI       10/10/2024 10:16  V                      DE LA CRUZ PRAVIA CRISTINA     E          15.00
+010072           ELI       10/10/2024 15:19  V                      LEIVA BLAS SARA                PL         25.00
+010073           ELI       10/10/2024 15:49  V                      LIEVA BLAS SARA                PL         45.00
+010074           ELI       10/10/2024 15:37  V                      GAMARRA QUINTEROS SARA         PL         58.50
+010075           ELI       10/10/2024 15:52  V                      ESTEFANY QUITO ESPINOZA        E          70.00
+010076           ELI       10/10/2024 15:58  V                      VENTA ANULADA                  E           0.00
+010077           ELI       10/10/2024 16:44  V                      FABIOLA ESPINOZA ALCANTARA     E          20.00
+010078           ELI       10/10/2024 16:56  V                      JOSEFINA MOYA HUANCA           E          45.00
+010079           ELI       10/10/2024 17:02  V                      SANTOS MERCEDES YAJAHUANCA     PL         80.00
+010080           ELI       10/10/2024 17:22  V                      MELGAREJO ARANDA ANA           E          45.00
+010081           ELI       10/10/2024 18:31  V                      JOSEFINA MOYA HUANCA           E         107.40
+010082           ELI       10/10/2024 18:34  V                      YUPANQUI RIOS EDWAR            PL         45.00
+010083           ELI       10/10/2024 18:50  V                      MELGAREJO ARANDA ANA           E         117.50
+010084           ELI       10/10/2024 18:55  V                      TARDIO JULCARIMA WALTER        PL         17.00
+010085           ELI       10/10/2024 19:04  V                      REYES DE SOLORZANO LINA        E           6.50
+010086           ELI       10/10/2024 19:24  V                      YAPANQUI RIOS EDWAR            PL        124.50
+010087           ELI       10/10/2024 19:26  V                      YUPANQUI RIOS EDWAR            PL          3.00
+010088           ELI       11/10/2024 08:09  V                      ELIZABETH GAAMRRA MENDOZA      E           0.75
+010089           ELI       11/10/2024 08:59  V                      ERENI VENTURA CASTILLO         E          45.00
+010090           ELI       11/10/2024 09:46  V                      VENTURA CASTILLO ERENI         E           6.00
+010091           ELI       11/10/2024 10:16  V                      GAMARRA QUINTEROS SARA         E          11.50
+010092           ELI       11/10/2024 10:53  V                      URBANA OLIVARES LEON           C          55.00
+010093           ELI       11/10/2024 11:41  V                      YUPANQUI RIOS EDWAR            PL        180.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:44
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010094           ELI       11/10/2024 11:43  V                      YOLANDA PRINCIPE QUINA         E          45.00
+010095           ELI       11/10/2024 11:50  V                      GUERRA LAZARO SANTA MARGARITA  PL        414.00
+010096           ELI       11/10/2024 11:52  V                      GUERRA LAZARO SANTA MARGARITA  PL         75.00
+010097           EFR       11/10/2024 12:23  V                      PRINCIPE QUINA YOLANDA         E          45.00
+010098           EFR       11/10/2024 12:40  V                      VENTA ANULADA                  E           0.00
+010099           EFR       11/10/2024 13:56  V                      HURTADO LEGUIA MARIO           E          45.00
+010100           EFR       11/10/2024 14:05  V                      ARIANA HURTADO DOMINGIUEZ      E          45.00
+010101           ELI       11/10/2024 14:29  V                      MARIO HURTADO LEGUIA           E         174.50
+010102           EFR       11/10/2024 14:29  V                      HURTADO LEGUIA MARIO           E         171.90
+010103           ELI       11/10/2024 14:43  V                      URBANA OLIVARES LEON           C          45.00
+010104           ELI       11/10/2024 14:52  V                      MARIO HURTADO LEGUIA           E           9.50
+010105           ELI       11/10/2024 14:55  V                      URBANA OLIVARES LEON           C          44.90
+010106           ELI       11/10/2024 16:06  V                      URBANA OLIVARES LEON           PL          3.00
+010107           ELI       11/10/2024 16:55  V                      SIMISH GARCIA JEAN CARLOS      E          45.00
+010108           EFR       11/10/2024 17:10  V                      LIZ ACU;A MONTES               E          15.00
+010109           EFR       11/10/2024 17:30  V                      TRUJILLO FERNANDEZ KEREN       E          45.00
+010110           EFR       11/10/2024 17:33  V                      VENTURO LEON MARIIN            E          29.50
+010111           ELI       11/10/2024 18:26  V                      COTILLO AGUILAR MIRIAM         E          45.00
+010112           ELI       11/10/2024 18:28  V                      SIMISH GARCIA JEAN             E         242.90
+010113           ELI       11/10/2024 18:35  V                      TRUJILLO FERNANDEZ KEREN       E          69.00
+010114           ELI       11/10/2024 18:36  V                      CANALES ARIAS CARMEN           E          45.00
+010115           ELI       11/10/2024 18:46  V                      ROJAS FERNANDEZ BERENICE       E          15.00
+010116           ELI       11/10/2024 19:16  V                      MARICELA MENDOZA RODRIGUEZ     E          45.00
+010117           ELI       11/10/2024 19:28  V                      IVANA NICHO OLORTEGUI          PL         45.00
+010118           ELI       11/10/2024 19:55  V                      CARMEN CANALES                 E          25.40
+010119           ELI       11/10/2024 20:21  V                      ESPINOZA RODRIGUEZ MARICELA    E           1.50
+010120           ELI       11/10/2024 20:45  V                      IVANA NICHO OLORTEGUI          PL         91.50
+010121           ELI       11/10/2024 20:51  V                      SIMISH GARCIA JEAN             TR        142.00
+010122           ELI       12/10/2024 08:06  V                      JEAN CARLOS SIMICH GARCIA      TR        763.00
+010123           ELI       12/10/2024 08:07  V                      OLINDA LLANOS                  E           0.75
+010124           ELI       12/10/2024 08:26  V                      GARCIA MONTES EUGENIA          E          71.00
+010125           ELI       12/10/2024 08:38  V                      MARICELA MENDOZA RODRIGUEZ     E         125.00
+010126           ELI       12/10/2024 09:04  V                      DE LA CRUZ DE LIZARRAGA SEBAST E          45.00
+010127           ELI       12/10/2024 09:47  V                      BELTRAN BAUTISTA DE VENTURO MA E          73.00
+010128           ELI       12/10/2024 09:52  V                      BELTRAN BAUTISTA TEOLINDA      E          45.00
+010129           ELI       12/10/2024 10:04  V                      NATALY MAGUI;A TRUJILLO        E          15.00
+010130           ELI       12/10/2024 10:45  V                      SAYURI SOLIS GUERRERO          PL        260.00
+010131           ELI       12/10/2024 10:57  V                      SAYURI GUERRERO SOLIS          E           9.00
+010132           ELI       12/10/2024 11:12  V                      RUDI LUNA PEREZ                E          15.00
+010133           ELI  ELI  12/10/2024 12:40  V                      PAUCAR ESPINOZA CANDY          PL         45.00
+010134           ELI       12/10/2024 14:35  V                      CANDY PAUCAR ESPINOZA          PL        134.50
+010135           ELI       12/10/2024 14:38  V                      CANDY PAUCAR ESPINOZA          E           6.00
+010136           ELI       12/10/2024 14:55  V                      GERONIMO PE;A MARILYN          PL         15.00
+010137           ELI       12/10/2024 16:19  V                      RUTH ACOSTA JAIMEZ             E          45.00
+010138           ELI       12/10/2024 17:17  V                      CABANILLAS CURIOSO JORGE       E          45.00
+010139           ELI       12/10/2024 17:21  V                      CABANILLAS CURIOSO JORGE       E          10.00
+010140           ELI       12/10/2024 17:27  V                      URBANA OLIVARES LEON           C          40.90
+010141           ELI       12/10/2024 17:55  V                      JAIMES ACOSTA RUTH             E         164.50
+010142           ELI       12/10/2024 18:03  V                      BELTRAN BAUTISTA TEOLINDA      E         149.50
+010143           ELI       12/10/2024 18:10  V                                                     C          25.40
+010144           ELI       12/10/2024 18:18  V                      COTILLO AGUILAR MIRIAM         E         160.90
+010145           ELI       12/10/2024 18:40  V                      CABANILLAS CURIOSO JORGE       E          31.40
+010146           ELI       12/10/2024 18:41  V                      CABANILLAS CURIOSO JORGE       E           3.00
+010147           ELI       12/10/2024 19:04  V                      TARDIO JULCARIMA WALTER        PL         17.00
+010148           ELI       12/10/2024 19:28  V                      JAIMEZ RUTH                    E           8.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:44
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010149           ELI       13/10/2024 08:11  V                      JORGE CABANILLAS CURIOSO       E         373.00
+010150           ELI       13/10/2024 09:22  V                      ETUPI;AN ROSALES ALBERTO       E           7.00
+010151           ELI       13/10/2024 10:27  V                      QUINTO ROJAS JAVIER            E          17.50
+010152           ELI       13/10/2024 10:31  V                      QUINTO ROJAS JAVIER            E           9.50
+010153           ELI       13/10/2024 11:14  V                      NURI ROJAS CASTA;EDA           E          20.00
+010154           ELI       13/10/2024 12:24  V                      LEON LAOS HECTOR               E           2.00
+010155           ELI       13/10/2024 13:19  V                      CANALES ARIAS ROSARIO          E           8.00
+010156           ELI       13/10/2024 15:05  V                      URBANA OLIVARES LEON           C          45.90
+010157           ELI       13/10/2024 15:56  V                      SIMICH GARCIA GIAN KARLO       E         114.90
+010158           ELI       13/10/2024 15:57  V                      SIMICH GARCIA GIAN KARLO       E           5.00
+010159           ELI       13/10/2024 16:24  V                      FERNANDO ORELLANO COTILLO      E          45.00
+010160           ELI       13/10/2024 16:34  V                      FERNANDO ORELLANO COTILLO      E           3.00
+010161           ELI       13/10/2024 17:13  V                      RONAL HUAMAN AGUILAR           E          45.00
+010162           ELI       13/10/2024 17:55  V                      SIMICH GARCIA                  E           8.00
+010163           ELI       13/10/2024 17:58  V                      HUMAN AGUILAR RONAL            E          72.50
+010164           ELI       13/10/2024 18:13  V                      FERNANDO ORELLANO COTILLO      E          71.50
+010165           ELI       13/10/2024 18:35  V                      FERNANDO ORELLANO COTILLO      E          35.00
+010166           ELI       13/10/2024 18:43  V                      JORGE CABANILLAS CURIOSO       E          31.40
+010167           ELI       13/10/2024 18:47  V                      JOSE LUIS BRIOSO ARANDA        PL        121.00
+010168           ELI       13/10/2024 19:00  V                      HUAMAN RONAL                   E           1.50
+010169           ELI       14/10/2024 08:44  V                      FERMIN HUAMAN TORRES           E          83.00
+010170           ELI       14/10/2024 08:49  V                      CHAVEZ MORALES GLADYS          E          45.00
+010171           ELI       14/10/2024 09:15  V                      VENTA ANULADA                  E           0.00
+010172           ELI       14/10/2024 09:20  V                      RODRIGUEZ ARQUINIO IRENE       E          55.00
+010173           ELI       14/10/2024 10:24  V                      OMAR FERNANDEZ PRUDENCIO       E         220.00
+010174           ELI       14/10/2024 10:37  V                      OMAR FERNANDEZ PRUDENCIO       E          10.00
+010175           ELI       14/10/2024 11:43  V                      ALCATARA LOZANO BRITANY        E          40.00
+010176           EFR       14/10/2024 12:15  V                      VASQUEZ CASTILLO YENSER        E          45.00
+010177           EFR       14/10/2024 12:28  V                      SUSANIBAR DELGADO              PL         42.90
+010178           EFR       14/10/2024 12:42  V                      QUINO FALCON FELICIANO         E          45.00
+010179           EFR       14/10/2024 12:44  V                      BERNAL SIPAN HILDA             E          45.00
+010180           EFR       14/10/2024 12:51  V                      QUINO FALCON FELICIANO         E         128.00
+010181           EFR       14/10/2024 13:00  V                      PEREZ VELASQUEZ NORA           E          45.00
+010182           EFR       14/10/2024 13:20  V                      VASQUEZ CASTILLO YENSER        PL        196.50
+010183           EFR       14/10/2024 13:20  V                      VASQUEZ CASTILLO YENSER        PL         17.00
+010184           EFR       14/10/2024 13:31  V                      VASQUEZ CASTILLO YENSER        PL          6.50
+010185           EFR       14/10/2024 13:44  V                      VASQUEZ CASTILLO YENSER        PL          9.50
+010186           EFR       14/10/2024 13:51  V                      BERNAL SIPAN HILDA             E          31.40
+010187           EFR       14/10/2024 13:52  V                      BERNAL SIPAN HILDA             E           3.00
+010188           EFR       14/10/2024 14:34  V                      PEREZ VELASQUES NORA           E         212.50
+010189           EFR       14/10/2024 14:34  V                      VENTA ANULADA                  E           0.00
+010190           EFR       14/10/2024 14:57  V                      NORA PEREZ VELASQUES           E         144.50
+010191           EFR       14/10/2024 15:10  V                      IRIS RODRIGUEZ CRUZ            E          15.00
+010192           ELI       14/10/2024 15:24  V                      SUAREZ PEREZ NANCY             E          45.00
+010193           EFR       14/10/2024 16:40  V                      ALAYA PEREZ                    E           6.50
+010194           EFR  EFR  14/10/2024 17:03  V                      LEON PUJADA ORLANDO            E          45.00
+010195           EFR       14/10/2024 17:11  V                      GUILLERMO ANTONIO RODRIGUEZ    E          45.00
+010196           EFR       14/10/2024 17:37  V                      VENTA ANULADA                  E           0.00
+010197           ELI       14/10/2024 17:42  V                      VENTURO LEON MARIN             E          29.50
+010198           EFR       14/10/2024 17:57  V                      FERNANDO ORELLANO COTILLO      E          25.00
+010199           ELI       14/10/2024 18:04  V                      VENTOCILLA CARRERA             E          45.00
+010200           ELI       14/10/2024 18:20  V                      BELTRAN BAUTISTA TEOLINDA      E          69.00
+010201           ELI       14/10/2024 18:36  V                      SUAREZ PEREZ NANCY             E         123.00
+010202           ELI       14/10/2024 18:44  V                      KEVIN ELIAS                    PL          7.00
+010203           ELI       14/10/2024 19:15  V                      FLOR DE MEJIA OYOLA            E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:44
+PRT102()                                                                                                                Pag.-    8
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010204           ELI       14/10/2024 19:42  V                      ADOLFO SANCHEZ ROJAS           E          31.40
+010205           ELI       14/10/2024 19:46  V                      OYOS CUBAS MARIANA             E          38.50
+010206           ELI       14/10/2024 19:47  V                      HOYOS CUBAS MARIANA            E          40.00
+010207           ELI       14/10/2024 19:59  V                      SUAREZ PEREZ NANCY MANUELA     E         258.00
+010208           ELI       14/10/2024 20:27  V                      FLOR DE MEJIA OYOLA            E          30.40
+010209           ELI       14/10/2024 20:34  V                      FLOR DE MEJIA                  E           1.00
+010210           ELI       14/10/2024 20:35  V                      FLOR DE MEJIA                  E           1.50
+010211           ELI       15/10/2024 09:06  V                      SUAREZ PEREZ NANCY             E          45.00
+010212           ELI       15/10/2024 09:38  V                      VENTA ANULADA                  C           0.00
+010213           ELI       15/10/2024 09:54  V                      VENTA ANULADA                  E           0.00
+010214           ELI       15/10/2024 09:55  V                      BERNECHEA BRIOSO SIXTO         E          45.00
+010215           ELI       15/10/2024 10:32  V                      BERNACHEA BRIOSO SIXTO         E         184.50
+010216           ELI       15/10/2024 10:34  V                      BERNACHEA BRIOSO SIXTO         E          60.00
+010217           ELI       15/10/2024 10:44  V                      BERNACHEA BRIOSO SIXTO         E          19.90
+010218           ELI       15/10/2024 11:55  V                      BARDALES JARA RUFO             E          45.00
+010219           ELI       15/10/2024 11:57  V                      TEODORO VALENZUELA RAFAEL      PL         30.00
+010220           ELI       15/10/2024 12:09  V                      ELIZABETH GAMARRA              E           0.30
+010221           ELI       15/10/2024 12:10  V                      TITO VENTOCILLA CARRERA        PL        130.00
+010222           ELI       15/10/2024 12:15  V                      MEJIA CASTRO HUGO              E          45.00
+010223           ELI       15/10/2024 12:50  V                      VENTA ANULADA                  E           0.00
+010224           ELI       15/10/2024 12:51  V                      GARAY MELGAREJO SALY           E           2.00
+010225           ELI       15/10/2024 13:16  V                      ABARCA DE VENTURO DIGNA        E          45.00
+010226           ELI       15/10/2024 14:04  V                      MELGAREJO GARAY REGINA         E          44.50
+010227           ELI       15/10/2024 14:24  V                      BARDALES JARA RUFO             E         136.50
+010228           ELI       15/10/2024 14:26  V                      BARDALES JARA RUFO             E           3.00
+010229           ELI       15/10/2024 14:31  V                      BARDALES JARA RUFO FERMIN      PL        245.00
+010230           EFR       15/10/2024 14:52  V                      ABARCA DE VENTURO DIGNA        E         188.00
+010231           EFR       15/10/2024 15:20  V                      HUASUPOMA GONZALES DE AVILA    E          45.00
+010232           EFR       15/10/2024 16:16  V                      PARRA URBANO EDITH ELVA        E          25.00
+010233           EFR       15/10/2024 16:31  V                      SIMISH GARCIA GIANCARLOS       E          45.00
+010234           EFR       15/10/2024 16:54  V                      VENTURA CASTILLO ERENI         E          29.50
+010235           EFR       15/10/2024 17:04  V                      CORONADO CORONADO MARGARITA    E          45.00
+010236           ELI       15/10/2024 17:09  V                      ABARCA DE VENTURO DIGNA        E         162.00
+010237           ELI       15/10/2024 17:17  V                      PAUCAR ESPINOZA JULIA          E          45.00
+010238           ELI       15/10/2024 18:06  V                      HUASUPOMA GONZALES DE AVILA CL E          13.00
+010239           ELI       15/10/2024 18:26  V                      BELTRAN BAUTISTA TEOLINDA      E          17.00
+010240           ELI       15/10/2024 18:39  V                      SIMISH GARCIA GIANCARLO        E         132.40
+010241           ELI       15/10/2024 18:40  V                      SIMISH GARCIA GIANCARLO        E          75.90
+010242           ELI       15/10/2024 18:52  V                      NICHO VARGAS ESTEFANO          PL         45.00
+010243           ELI       15/10/2024 18:58  V                      HUGO MEJIA CASTRO              E          31.40
+010244           ELI       15/10/2024 19:01  V                      LEZAMA CALZADO SAMIR           E          45.00
+010245           ELI       15/10/2024 19:23  V                      PAUCAR ESPINOZA JULIA          E          54.40
+010246           ELI       15/10/2024 19:34  V                      PAUCR ESPINOZA JULIA           E          62.80
+010247           ELI       15/10/2024 19:40  V                      ADOLFO SANCHEZ ROJAS           E          31.40
+010248           ELI       15/10/2024 19:59  V                      CORONADO CORONADO MARGARITA    E          56.40
+010249           ELI       15/10/2024 20:05  V                      LEZAMA CALZADO SAMIR           PL         62.80
+010250           ELI       15/10/2024 20:18  V                      DAVID ESPADA SOZA              E           5.50
+010251           ELI       15/10/2024 20:58  V                      ELIZABETH GAMARRA              E           1.00
+010252           ELI       16/10/2024 08:21  V                      PAJUELO FERNANDEZ VIVIANA      E          45.00
+010253           ELI       16/10/2024 08:26  V                      ABARCA DE VENTURO DIGNA        E          80.00
+010254           ELI       16/10/2024 08:36  V                      URBANA OLIVARES LEON           C          15.00
+010255           ELI       16/10/2024 08:36  V                      URBANA OLIVARES LEON           C          45.00
+010256           ELI       16/10/2024 09:18  V                      VENTA ANULADA                  E           0.00
+010257           ELI       16/10/2024 09:20  V                      VICENTE SOSA SILVA             E          45.00
+010258           ELI       16/10/2024 09:33  V                      MELGAREJO GARAY REINA          E          19.50úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:44
+PRT102()                                                                                                                Pag.-    9
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010259           ELI       16/10/2024 09:50  V                      BERNAL SIPAN HILDA NELY        E         183.00
+010260           ELI       16/10/2024 10:06  V                      SOSA SILVA VICENTE             E           4.50
+010261           ELI       16/10/2024 10:16  V                      JORGE MARTINEZ BACA            E          80.00
+010262           EFR       16/10/2024 13:29  V                      GUEVARA HUAMAN EVER            PL         45.00
+010263           ELI       16/10/2024 14:25  V                      VARGAS CASTILLO GLICERIA       E          45.00
+010264           EFR       16/10/2024 14:27  V                      GUEVARA HUAMAN EVER ALEXANDER  PL        160.00
+010265           EFR       16/10/2024 14:43  V                      ABARCA DE VENTURO DIGNA        E          65.50
+010266           EFR       16/10/2024 14:55  V                      CORONADO CORONADO MARGARITA    E          80.00
+010267           EFR       16/10/2024 14:56  V                      CORONADO CORONADO MARGARITA    E          31.40
+010268           EFR       16/10/2024 15:01  V                      VARGAS CASTILLO GLICERIA       E         136.80
+010269           ELI       16/10/2024 15:15  V                      CORONADO CORONADO MARGARITA    E         365.00
+010270           EFR       16/10/2024 16:38  V                      SIMISH GARCIA GIANCARLO        PL         29.50
+010271           EFR       16/10/2024 16:46  V                      VASQUEZ CASTILLO YENSER        PL         45.00
+010272           EFR       16/10/2024 16:55  V                      COLLANTES LOPEZ OMAR           E          45.00
+010273           EFR       16/10/2024 17:06  V                      RODRIGUEZ GUILLERMO ANTONIO    E          45.00
+010274           EFR       16/10/2024 17:07  V                      MENDOZA RODRIGUEZ MARICIELA    PL         45.00
+010275           EFR       16/10/2024 17:09  V                      VARGAS CASTILLO GLICERIA       E          40.00
+010276           ELI       16/10/2024 17:21  V                      BIANCATO MAGNI ALONSO          E          45.00
+010277           ELI       16/10/2024 17:41  V                      PIERO BIANCATO RAMIREZ         E           1.00
+010278           ELI       16/10/2024 18:30  V                      VENTURO LEON MARIN             E          29.50
+010279           ELI       16/10/2024 18:31  V                      BELTRAN BAUTISTA TEOLINDA      E          17.00
+010280           ELI       16/10/2024 18:33  V                      NANCY SUAREZ PEREZ             E         102.90
+010281           ELI       16/10/2024 18:42  V                      URBANA OLIVARES LEON           C          91.60
+010282           ELI       16/10/2024 18:49  V                      BIANCATO MAGNI ALONSO          E          25.00
+010283           ELI       16/10/2024 18:53  V                      URBANA OLIVARES LEON           C           8.00
+010284           ELI       16/10/2024 19:15  V                      VASQUES CASTILLO YENSER        PL         92.00
+010285           EFR       16/10/2024 20:25  V                      GUEVARA HUAMAN EVER            PL         87.40
+010286           ELI       17/10/2024 08:06  V                      ALEANDER YEBARA HUAMAN         E           1.50
+010287           ELI       17/10/2024 08:28  V                      FERNANDEZ SANCHEZ GLEIDIS      PL         45.00
+010288           ELI       17/10/2024 08:34  V                      HUASUMOPA GONZALES CLEMENCIA A E         255.00
+010289           ELI       17/10/2024 08:52  V                      VASQUEZ CASTILLO YENSER        PL         45.00
+010290           ELI       17/10/2024 09:18  V                      FERNANDEZ SANCHEZ GLEYDIS      E          30.00
+010291           ELI       17/10/2024 09:30  V                      FERNANDEZ SANCHEZ GLEISIS      E           2.70
+010292           ELI       17/10/2024 10:00  V                      REGIA MELGAREJO GARAY          E          31.00
+010293           ELI       17/10/2024 10:07  V                      MELGAREJO GARAY REGINA         E          20.00
+010294           ELI       17/10/2024 10:18  V                      GUEVARA HUAMAN EVER ALEXANDER  PL         37.00
+010295           ELI       17/10/2024 10:50  V                      DELIA CALDERON DE GUITIERREZ   E          45.00
+010296           ELI       17/10/2024 11:25  V                      SIMISH GARCIA                  PL         29.50
+010297           ELI       17/10/2024 11:36  V                      ROMERO MARCOS ALEJANDRINA      E           2.00
+010298           ELI       17/10/2024 14:47  V                      PAFUELO FERNANDEZ VIVIANA      E          79.00
+010299           ELI       17/10/2024 15:59  V                      FELICITA ZORAIDA CABRACANCHA C E          45.00
+010300           ELI       17/10/2024 17:07  V                      GUEVARA HUAMAN EVER            E          45.00
+010301           ELI       17/10/2024 17:42  V                      ABARCA DE VENTURO DIGNA        E           4.00
+010302           ELI       17/10/2024 18:13  V                      BIANCATO MAGNI ALONO           E          17.00
+010303           ELI       17/10/2024 18:30  V                      PIERO GIANCARLO RAMIREZ        E           2.00
+010304           ELI       17/10/2024 18:43  V                      ABARCA DE VENTURO DIGNA        E          18.00
+010305           ELI       17/10/2024 18:52  V                      VARGAS CASTILLO GLICERIA       E          58.80
+010306           ELI       17/10/2024 18:55  V                      DELIA VICTORIA CALDERON DE GUT E         151.40
+010307           ELI       17/10/2024 19:02  V                      VARGAS CASTILLO GLICERIA       E           7.00
+010308           ELI       17/10/2024 19:31  V                      DELIA CALDERON DE GUTIERRES    E           7.00
+010309           ELI       18/10/2024 08:32  V                      THIAGO ALEXANDER VILLANUEVA DI E          45.00
+010310           ELI       18/10/2024 08:40  V                      VIVIANA PAJUELO FERNANDEZ      E          22.00
+010311           ELI       18/10/2024 08:58  V                      REGIA MELGAREJO GARAY          E          23.00
+010312           ELI       18/10/2024 09:28  V                      VILLANUEVA DIAZ THIAGO         E          70.00
+010313           ELI       18/10/2024 09:32  V                      BERNAL SIPAN HILDA             E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:44
+PRT102()                                                                                                                Pag.-   10
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010314           ELI       18/10/2024 10:51  V                      FRANK ERICKSON HUAMAN CHIRITO  E          70.00
+010315           EFR       18/10/2024 13:03  V                      MAURICIO ZAPATA CARMEN         E           5.00
+010316           EFR       18/10/2024 13:22  V                      OYOLA HUAMANI LOUIS ANTHONY    E          53.00
+010317           EFR       18/10/2024 13:58  V                      BERNAL SIPAN HILDA             E          30.00
+010318           EFR       18/10/2024 14:00  V                      VENTA ANULADA                  E           0.00
+010319           EFR       18/10/2024 14:05  V                      BERNAL HILDA SIPAN NELLY       E         101.50
+010320           EFR       18/10/2024 15:04  V                      HECTOR LEON                    E           2.00
+010321           EFR       18/10/2024 16:15  V                      VARGAS CASTILLO GLICERIA       E          65.80
+010322           EFR  EFR  18/10/2024 16:31  V                      FARCEQUE MASA NERI             E          41.00
+010323           EFR  EFR  18/10/2024 16:42  V                      HUAMANI MERMA JORGE            E          45.00
+010324           EFR  EFR  18/10/2024 16:48  V                      ALBERCA BUSTAMANTE YICELA      E          45.00
+010325           EFR  EFR  18/10/2024 17:04  V                      YANAC DE SEMINARIO BASILIA MAR E         100.00
+010326           EFR  EFR  18/10/2024 17:37  V                      FERNANDEZ RIVERA SIMON FRANCO  E          45.00
+010327           EFR  EFR  18/10/2024 17:42  V                      BIANCO MAGNI ALONSO            E          17.00
+010328           EFR  EFR  18/10/2024 17:43  V                      SOLIS GUERRERO SAYURI          E          45.00
+010329           ELI       18/10/2024 18:05  V                      VENTURO LEON MARIN             E          29.50
+010330           ELI       18/10/2024 18:29  V                      ALOR SANTISTEBAN SERGIO        E         100.00
+010331           ELI       18/10/2024 18:44  V                      CLEMENCIA HUASUPOM GONZALES    E          45.00
+010332           ELI       18/10/2024 18:47  V                      BARDALES JARA RUFO             E          45.00
+010333           ELI       18/10/2024 19:03  V                      JORGE HUAMANI MERMA            E         116.50
+010334           ELI       18/10/2024 19:10  V                      JORGE HUAMANI MERMA            E         177.50
+010335           ELI       18/10/2024 19:13  V                      YICELA ALBERTO BUSTAMANTE      E         201.00
+010336           ELI       18/10/2024 19:17  V                      YICELA ALBERTO BUSTAMANTE      PL        177.00
+010337           ELI       18/10/2024 19:32  V                      ADOLFO SANCHEZ ROJAS           E          31.40
+010338           ELI       18/10/2024 19:54  V                      SIMON FRANCO FERNANDEZ RIVERA  E         138.40
+010339           ELI       18/10/2024 20:11  V                      SAYURI SOLIS GUERRRERO         E          80.00
+010340           ELI       18/10/2024 20:13  V                      SAYURI SOLIS GUERRERO          PL         93.00
+010341           ELI       18/10/2024 20:42  V                      BARDALES JARA RUFO             PL        289.20
+010342           ELI       19/10/2024 08:15  V                      IDALGO ACU;A MIGUEL            E          45.00
+010343           ELI       19/10/2024 08:43  V                      MICHEL MORALES PEREZ           E          45.00
+010344           ELI       19/10/2024 08:45  V                      MELGAREJO GARAY REGINA         E          33.50
+010345           ELI       19/10/2024 09:00  V                      HIDALGO ACU;A MIGUEL           E          28.40
+010346           ELI       19/10/2024 09:23  V                      MORALES PEREZ MICHAEL          E          69.50
+010347           ELI       19/10/2024 09:24  V                      MELGAREJO GARAY                E           3.00
+010348           ELI       19/10/2024 09:33  V                      LEANDRA MAMANI TURPO           E           5.00
+010349           ELI       19/10/2024 09:36  V                      DELIA CALDERON  DE GUTIERREZ   E          27.00
+010350           ELI       19/10/2024 10:56  V                      CASTILLO SANCHEZ FIORELLA      PL         15.00
+010351           ELI       19/10/2024 15:02  V                      ASH LEE CUYUBAMBA CAINICELA    PL         15.00
+010352           ELI       19/10/2024 15:20  V                      HUAMANI MERMA JORGUE           E          45.00
+010353           ELI       19/10/2024 15:38  V                      SILVA BRAVO MAGDALENA          E          45.00
+010354           ELI       19/10/2024 16:14  V                      ATOCHE CASTILLO KANDY ALEJANDR PL         15.00
+010355           ELI       19/10/2024 16:42  V                      FREDY SOSA JUSTO               E          45.00
+010356           ELI       19/10/2024 17:04  V                      HUIZA LOPEZ LIAM               E          45.00
+010357           ELI       19/10/2024 17:11  V                      ALARCON AGUIREE JAVIER         E          30.00
+010358           ELI       19/10/2024 17:19  V                      GABRIELA RODRIGUEZ PANTA       PL         80.00
+010359           ELI       19/10/2024 17:21  V                      MARCO GERONIMO ROBLES          PL         45.00
+010360           ELI       19/10/2024 17:22  V                      RODRIGUEZ PANTA GABRIELA       PL         45.00
+010361           ELI       19/10/2024 17:38  V                      JORGE HUAMANI MELMA            E         102.20
+010362           ELI       19/10/2024 17:43  V                      YADER VELASQUEZ CORNELIO       E          45.00
+010363           ELI       19/10/2024 17:59  V                      MAGDALENA SILVA BRAVO          E         219.50
+010364           ELI       19/10/2024 18:07  V                      SILVA BRAVO MAGDALENA          E          94.50
+010365           ELI       19/10/2024 18:07  V                      SUSNA VARGAS CASTILLO          E          45.00
+010366           ELI       19/10/2024 18:17  V                      RUFO BARDALES JARA             E          45.00
+010367           ELI       19/10/2024 18:40  V                      SOSA JUSTO FREDY               PL        160.40
+010368           ELI       19/10/2024 18:51  V                      YENI VERAMENDI VEGA            PL        102.40úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:45
+PRT102()                                                                                                                Pag.-   11
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010369           ELI       19/10/2024 19:26  V                      YANER VELASQUEZ CORNELIO       E         178.50
+010370           ELI       19/10/2024 19:37  V                      SUSANA VARGAS CASTILLO         E          50.40
+010371           ELI       19/10/2024 19:50  V                      BARDALES JARA RUFO             E          48.40
+010372           ELI       19/10/2024 20:13  V                      SOSA JUSTO FREDY               E           3.00
+010373           ELI  ELI  20/10/2024 09:34  V                      SOSA JUSTO FREDY ZANDRO        E         293.00
+010374           ELI  ELI  20/10/2024 09:52  V                      GOMEZ GONZALES RAUL            E          30.50
+010375           ELI       20/10/2024 10:48  V                      CRUZ VON BANCELS KAROL         E          45.00
+010376           ELI  ELI  20/10/2024 11:23  V                      CRUZ VON BANCES KAREN          E          32.10
+010377           ELI  ELI  20/10/2024 11:40  V                      YANER VELASQUEZ CORNELIO       E          66.00
+010378           ELI  ELI  20/10/2024 11:43  V                      DIAZ SUAREZ DANIELA            E          10.00
+010379           ELI  ELI  20/10/2024 12:03  V                      TRINIDAD REYES CECILIA         PL         15.00
+010380           ELI  ELI  20/10/2024 12:19  V                      AMADO MEDALLA SOFIA            E          45.00
+010381           ELI       20/10/2024 13:03  V                      ELIZABETH GAMARRA MENDOZ       E           0.30
+010382           ELI       20/10/2024 14:03  V                      AMADO MEDALLA SOFIA            E         177.20
+010383           ELI       20/10/2024 14:21  V                      SIMISH GARCIA GIANCARLO        PL         88.50
+010384           ELI  ELI  20/10/2024 15:51  V                      JORGE HUAMANI MERMA            E          44.70
+010385           ELI       20/10/2024 16:07  V                      AVILA AYORA CAMILO             E         107.50
+010386           ELI  ELI  20/10/2024 16:09  V                      AVILA AYORA CAMILO             E          37.00
+010387           ELI       20/10/2024 17:42  V                      VARGAS CASTILLO SUSANA         E          41.40
+010388           ELI       20/10/2024 18:18  V                      ELIZABETH GAMARRA              E           0.30
+010389           ELI       20/10/2024 18:37  V                      SILVA BRAVO MAGDALENA          E          73.00
+010390           ELI       21/10/2024 08:00  V                      YADER GUSTAVO VELASQUEZ CORNEL E         378.00
+010391           ELI       21/10/2024 08:05  V                      YADER GUSTAVO VELASQUEZ CORNEL E          62.00
+010392           ELI       21/10/2024 08:12  V                      DELIA CALDERON DE GUTIERREZ    E         228.00
+010393           ELI       21/10/2024 08:49  V                      REGINA MELGAREJO GARAY         E          27.50
+010394           ELI       21/10/2024 09:10  V                      MIGUEL ANGEL BALDEOS ARELLANO  E          10.00
+010395           ELI       21/10/2024 09:14  V                      REGINA MELGAREJO               E           6.00
+010396           ELI       21/10/2024 09:24  V                      VIVIANA PAJUELO FERNANDEZ      E          45.00
+010397           ELI       21/10/2024 10:00  V                      ANDREO YOSIMAR TORRES PI;AN    E          45.00
+010398           ELI       21/10/2024 10:05  V                      DANERY BELEN OCHOA TOSCANO     E          20.00
+010399           ELI       21/10/2024 10:22  V                      VENTA ANULADA                  E           0.00
+010400           ELI       21/10/2024 10:53  V                      TORRES PI;AN ANDREO            E          54.90
+010401           ELI       21/10/2024 11:17  V                      DAMARIN BELEN OCHOA TOSCANO    E          24.90
+010402           ELI       21/10/2024 11:50  V                      ANGEL PICHILINGUE URBANO       E          45.00
+010403           EFR       21/10/2024 12:13  V                      JUSTINIANO VASQUEZ RUDY        E          45.00
+010404           EFR       21/10/2024 12:26  V                      RAMIREZ MELENDEZ NAIDELYN      E          45.00
+010405           EFR       21/10/2024 12:27  V                      RAMIREZ MELENDEZ ALILA         E          45.00
+010406           EFR       21/10/2024 13:11  V                      TOLENTINO VALDERRAMO PEDRO     E          45.00
+010407           EFR       21/10/2024 13:12  V                      PECAN CRUZ LAURA ESTEFANI      E          45.00
+010408           EFR       21/10/2024 13:21  V                      CARBAJAL DE TACUCHE ADVIENTA   E          45.00
+010409           EFR       21/10/2024 13:21  V                      CARBAJAL DE TACUCHE ADVIENTA   E          10.00
+010410           EFR       21/10/2024 13:22  V                      CHANGANAQUI VEGA LUIS ELIAS    E          45.00
+010411           EFR       21/10/2024 13:36  V                      PAJUELO FERNANDEZ VIVIANA      E          48.40
+010412           EFR       21/10/2024 13:58  V                      JUSTINIANO VASQUEZ RUBY ALEJAN PL        348.00
+010413           EFR       21/10/2024 14:00  V                      JUSTINIANO VASQUEZ RUDY        PL        106.00
+010414           EFR       21/10/2024 14:15  V                      RAMIREZ MELENDES ALAIA         E          82.00
+010415           EFR       21/10/2024 14:18  V                      RAMIREZ MELENDES NAIDELYN      E          82.00
+010416           EFR       21/10/2024 14:24  V                      PAUCAR ESPINOZA CANDY KARINA   E         170.00
+010417           EFR       21/10/2024 14:30  V                      PAUCAR ESPINOZA CANDY KARINA   PL         45.00
+010418           EFR       21/10/2024 14:33  V                      CHAVEZ SALAZAR MANSUETO        PL         45.00
+010419           EFR       21/10/2024 14:41  V                      AMADO MEDALLA SOFIA            E          40.20
+010420           EFR       21/10/2024 14:53  V                      AMADO SOFIA                    E           5.00
+010421           EFR       21/10/2024 14:54  V                      ARDURO TOLENTINO BALDERAMOS    E         188.90
+010422           EFR       21/10/2024 15:09  V                      LAURA ESTEFANY PECAN CRUZ      E         188.00
+010423           ELI       21/10/2024 15:10  V                      LAURA PECAN CRUZ               E          86.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:45
+PRT102()                                                                                                                Pag.-   12
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010424           EFR       21/10/2024 15:11  V                      LAURA PECAN CRUZ               E         135.00
+010425           ELI       21/10/2024 15:19  V                      BRITO CASTRO BENJAMIN THAY     E          70.00
+010426           EFR       21/10/2024 15:32  V                      ADVIENTA CARBAJAL DE TACUCHE   E         198.00
+010427           EFR       21/10/2024 15:56  V                      KARINA PAUCAR ESPINOZA         E           1.50
+010428           EFR       21/10/2024 16:16  V                      CHAVEZ SALAZAR MANZUETO        PL        201.00
+010429           EFR       21/10/2024 16:22  V                      MANZUELO CHAVEZ SALAZAR        PL         31.40
+010430           EFR       21/10/2024 16:23  V                      BENJAMIN BRITO CASTRO          E          43.50
+010431           EFR       21/10/2024 16:28  V                      SUSANA VARGAS CASTILLO         E          81.40
+010432           EFR       21/10/2024 16:36  V                      MANZUETO CHAVEZ SALAZAR        E          19.50
+010433           EFR       21/10/2024 16:55  V                      VARGAS CASTILLO SUSANA         C         167.00
+010434           EFR       21/10/2024 17:03  V                      CHAVES SALAZAR                 E           1.00
+010435           EFR       21/10/2024 17:08  V                      ARELLANO DE PAZ VICTORIA       E          45.00
+010436           EFR       21/10/2024 17:10  V                      ALBERCA BUSTAMANTE GISELA      E          45.00
+010437           EFR       21/10/2024 17:35  V                      BIANCATO MAGNI                 E           2.00
+010438           EFR       21/10/2024 17:57  V                      BIANCATO MAGNI                 E          42.00
+010439           EFR       21/10/2024 18:26  V                      ARELLANO DE PAZ VICTORIA       E          31.40
+010440           EFR       21/10/2024 18:28  V                      MEJIA LAZARO JOAB              E          45.00
+010441           EFR       21/10/2024 18:39  V                      ALBERCA BUSTAMANTE YICELA YENN E          41.50
+010442           EFR       21/10/2024 18:42  V                      BUSTAMANTE ESTELA VASILIANA    E          41.50
+010443           EFR       21/10/2024 18:48  V                      BUSTAMANTE ESTELA VASILIANA    E          53.90
+010444           EFR       21/10/2024 18:50  V                      ALBERCA BUSTAMANTE YICELA      E          48.90
+010445           EFR       21/10/2024 19:09  V                      MEGIA LAZARO JOAB              E          75.00
+010446           ELI       21/10/2024 19:23  V                      VENTA ANULADA                  E           0.00
+010447           ELI       21/10/2024 19:31  V                      CLEMENCIA HUASUPOMA GONZALES   E          65.90
+010448           ELI       22/10/2024 08:05  V                      DELFIN GONZALES ZAPATA         E          10.00
+010449           ELI       22/10/2024 08:13  V                      ELIZABETH GAMARRA MENDOZA      E         112.00
+010450           ELI       22/10/2024 08:25  V                      MANZUETO CHAVEZ SALAZAR        E          31.90
+010451           ELI       22/10/2024 08:41  V                      MELGAREJO GARAY REGINA         E          26.00
+010452           ELI       22/10/2024 09:07  V                      MELGARJERO GARAY               E           6.00
+010453           ELI       22/10/2024 10:37  V                      CLEMENCIA HUASUPOMA GONZALES   E          80.00
+010454           ELI       22/10/2024 10:42  V                      KATY DIEGO LIZZETI             E         118.00
+010455           ELI       22/10/2024 11:33  V                      VILMA MEDINA CARHUAJULCA       E          45.00
+010456           EFR       22/10/2024 12:27  V                      ARELLANO TAPIA DE DE PAZ VICTO E          75.00
+010457           EFR       22/10/2024 12:37  V                      CADILLO JIMENEZ ANATOLIO       PL         45.00
+010458           EFR       22/10/2024 12:44  V                      ARELLANO DE DE PAZ VICTORIA    E          31.90
+010459           EFR       22/10/2024 12:48  V                      JUSTINIANO VASQUEZ RUDY        E          25.00
+010460           EFR       22/10/2024 12:49  V                      JUSTINIANO VASQUEZ RUDY        E          17.00
+010461           EFR       22/10/2024 12:56  V                      MEDINA CARBAJULCA VILMA        E           1.50
+010462           EFR       22/10/2024 12:58  V                      SILVA CUENTA MARCO ANTONIO     E          70.00
+010463           EFR       22/10/2024 13:03  V                      VENTA ANULADA                  E           0.00
+010464           EFR       22/10/2024 13:43  V                      ALBERCA BUSTAMANTE YICELA      E          48.90
+010465           EFR       22/10/2024 13:44  V                      BUSTAMANTE ESTELA BASILIANA    E          43.90
+010466           EFR       22/10/2024 14:41  V                      SUSANA VARGAS                  E          41.40
+010467           EFR       22/10/2024 16:41  V                      AMADO MEDALLA SOFIA            E          49.20
+010468           EFR       22/10/2024 16:58  V                      CANTU MAGUI;A TEODORA          E          45.00
+010469           EFR       22/10/2024 18:20  V                      PICHILINGUE MORENO RICARDO     E          45.00
+010470           EFR       22/10/2024 18:39  V                      PACHECO RETUERTO JUANA         E          45.00
+010471           ELI       22/10/2024 18:53  V                      CARRERA GERVACIO FERNANDO      E          45.00
+010472           ELI       22/10/2024 18:56  V                      CADENAS CAVINO DEYSI           E          45.00
+010473           EFR       22/10/2024 19:02  V                      CANTU MAGUI;A TEODORA          E          41.50
+010474           ELI       22/10/2024 19:02  V                      CANTU MAGUI;A TEODORA          E         130.00
+010475           ELI       22/10/2024 19:27  V                      CANTU MAGUI;A TEODORA          E          80.00
+010476           ELI       22/10/2024 19:27  V                      CANTU MAGUI;A TEODORA          E         146.00
+010477           EFR       22/10/2024 19:32  V                      PICHILINGUE MORENO RICARDO     E         164.20
+010478           EFR       22/10/2024 19:36  V                      PICHILINGUE MORENO RICARDO     E           3.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:45
+PRT102()                                                                                                                Pag.-   13
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010479           EFR       22/10/2024 19:38  V                      MEGIA LAZARO JAB               E          75.00
+010480           EFR       22/10/2024 19:41  V                      PACHECO RETUERTO JUANA         E          55.00
+010481           ELI       22/10/2024 20:36  V                      DEYSI CADENA GAVINO            E           1.50
+010482           ELI       22/10/2024 21:30  V                      MEJIA MARCO ANTONIO            E          55.70
+010483           ELI       23/10/2024 10:52  V                      AYALA TENA IKER                E          10.00
+010484           ELI       23/10/2024 14:37  V                      REGINA MELGAREJO               E          16.00
+010485           ELI       23/10/2024 19:16  V                      YICELA ALBERCA                 E          93.30
+010486           ELI       24/10/2024 08:05  V                      BIANCATO MARNI JOHNNY ALONSO   E          58.00
+010487           ELI       24/10/2024 08:40  V                      MEDINA CARHUAJULCA VILMA       E          53.00
+010488           ELI       24/10/2024 08:48  V                      MEDINA CARHUAJULCA VILMA       E          45.00
+010489           EFR       24/10/2024 12:08  V                      ARIAS CASTILLO NORIS           E          45.00
+010490           EFR       24/10/2024 13:06  V                      MARCO PICHILINGUE LUIS         E          45.00
+010491           EFR       24/10/2024 13:17  V                      MARCO PICHILINGUE LUIS         E          10.00
+010492           EFR       24/10/2024 13:21  V                      APOLINARIO LLARES FELIX        E          45.00
+010493           EFR       24/10/2024 13:31  V                      MANZUETO CHAVEZ SALAZAR        E          45.00
+010494           ELI       24/10/2024 14:18  V                      CHANGANAQUI VEGA LUIS          E          45.00
+010495           EFR       24/10/2024 14:20  V                      ARIAS CASTILLO NORIS           E          41.50
+010496           EFR       24/10/2024 14:20  V                      ARIAS CASTILLO NORIS           E         138.90
+010497           ELI       24/10/2024 14:32  V                      LUIS MARCO PICHILINGU          E           3.00
+010498           ELI       24/10/2024 14:38  V                      GLADYS LLARES LEON             E         100.50
+010499           ELI       24/10/2024 14:45  V                      MANZUETO CHAVEZ SALAZAR        PL        111.90
+010500           ELI       24/10/2024 15:08  V                      ALBINO APOLINARIO LLARES       E         143.50
+010501           ELI       24/10/2024 15:08  V                      ALBERTO APOLINARIO LLARES      E         124.90
+010502           ELI       24/10/2024 15:08  V                      ALBERTO APOLINARIO LLARES      E           1.50
+010503           ELI       24/10/2024 15:20  V                      CHANGANAQUI VEGA LUIS          PL         48.00
+010504           ELI       24/10/2024 15:28  V                      ALBERTO APOLINARIO LLARES      E          14.00
+010505           ELI       24/10/2024 15:52  V                      MARCO PICHILINGUE LUIS         E         141.50
+010506           ELI       24/10/2024 16:04  V                      NORIS                          E           3.00
+010507           ELI       24/10/2024 16:22  V                      ALBINO APOLINARIO LLARES       E          58.00
+010508           ELI       24/10/2024 16:24  V                      MARCO PICHILINGUE LUIS         E           5.50
+010509           ELI       24/10/2024 17:01  V                      GRADOS ROCHA REGINA            PL         45.00
+010510           ELI       24/10/2024 17:17  V                      CALVO ATACHAGUA RICHARD        E          45.00
+010511           ELI       24/10/2024 17:43  V                      YICELA ALBERCA BUSTAMANTE      E          45.00
+010512           ELI       24/10/2024 17:48  V                      GOMEZ JUSTO JOBANA             E          45.00
+010513           ELI       24/10/2024 17:52  V                      MAURO SANCHEZ GONZALES         E          15.00
+010514           ELI       24/10/2024 18:17  V                      BIANCATO MARNI JOHNNY          E          45.00
+010515           ELI       24/10/2024 18:30  V                      VARGAS CASTILLO SUSANA         E          45.00
+010516           ELI       24/10/2024 18:40  V                      RICHAR ATACHAGUA               E           1.50
+010517           ELI       24/10/2024 18:53  V                      VENTA ANULADA                  E           0.00
+010518           ELI       24/10/2024 19:05  V                      BIANCATO MAGNI JOHNNY          E           6.00
+010519           ELI       24/10/2024 19:08  V                      MARCO ANTONIO ROJAS SALAZAR    E         100.00
+010520           ELI       24/10/2024 19:08  V                      DELIA CALDERON DE GUITERRES    E          45.00
+010521           ELI       24/10/2024 19:12  V                      YICELA ALBERCA BUSTAMANTE      E          12.90
+010522           ELI       24/10/2024 19:17  V                      ARIAS CASTILLO NORIS           E          53.50
+010523           ELI       24/10/2024 19:28  V                      GOMEZ JUSTO JOBANA             E          60.00
+010524           ELI       24/10/2024 19:48  V                      ARELLANO DE PAZ VICTORIA       E          31.90
+010525           ELI       24/10/2024 20:18  V                      ELIZABETH GAMARRA MENDOZA      C          75.00
+010526           ELI       25/10/2024 08:26  V                      GABRIELA PANTA RODRIGUEZ       PL         13.00
+010527           ELI       25/10/2024 09:33  V                      BRIAN MICKCHAILOT CONTRERAS CU E         256.00
+010528           ELI       25/10/2024 10:36  V                      MARCOS PICHILINGUE RUIZ        E          37.00
+010529           ELI       25/10/2024 10:42  V                      MARCOS PICHILINGUE RUIZ        E         130.00
+010530           ELI       25/10/2024 11:25  V                      YOVANA GOMES JUSTO             E          80.00
+010531           ELI       25/10/2024 11:56  V                      DIGNA ABARCA DE VENTURO        E          45.00
+010532           ELI       25/10/2024 12:26  V                      ARIAS CASTILLO NORIZ           E          31.40
+010533           ELI       25/10/2024 13:10  V                      AMADO MEDALLA SOFIA            E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:45
+PRT102()                                                                                                                Pag.-   14
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010534           ELI       25/10/2024 13:11  V                      BASILEO REYES ELISEO           E          45.00
+010535           EFR       25/10/2024 14:05  V                      AMADO MEDALLA SOFIA            E          54.20
+010536           EFR       25/10/2024 14:14  V                      BASILIO REYES SEGUNDO ELISEO   E          38.50
+010537           EFR       25/10/2024 14:18  V                      FERNANDEZ PRUDENCIO OMAR       E          45.00
+010538           EFR       25/10/2024 14:26  V                      BUSTAMANTE ARIZA MARIBEL       E          15.00
+010539           EFR       25/10/2024 14:31  V                      HUARANGO SIMRON MERI ROCIO     E          45.00
+010540           EFR       25/10/2024 14:33  V                      FERNANDEZ PRUDENCIO OMAR       E          10.00
+010541           EFR       25/10/2024 14:37  V                      PAUCAR ESPINOZA CANDY          E          45.00
+010542           ELI       25/10/2024 14:55  V                      PAUCAR ESPINOZA CANDY          PL        105.00
+010543           ELI       25/10/2024 15:10  V                      TEODORA CANTU VDA DE MAGUI;A   E          46.00
+010544           ELI       25/10/2024 15:21  V                      VENTA ANULADA                  E           0.00
+010545           ELI       25/10/2024 15:45  V                      AMADO MEDALLA SOFIA            E          29.10
+010546           EFR       25/10/2024 15:48  V                      DIGNA ABARCA DE VENTURO        E          62.40
+010547           ELI       25/10/2024 17:06  V                      JAVIER CORSO YOMAR             E           9.00
+010548           ELI       25/10/2024 17:22  V                      GIANELLA PAJITA DIAS           PL         45.00
+010549           ELI       25/10/2024 17:54  V                      NANCY YANET TOCAS PORTAE       E          15.00
+010550           ELI       25/10/2024 18:27  V                      HUARANGA SIMBRON ROSIO         PL        205.90
+010551           ELI       25/10/2024 18:30  V                      MERI ROSIO HUARANGA            E           1.50
+010552           ELI       25/10/2024 18:37  V                      GOMEZ JUSTO JOBANA             E          17.00
+010553           EFR       25/10/2024 18:32  V                      ARRELLANO DE LA PAZ VICTORIA   E          45.00
+010554           EFR       25/10/2024 18:44  V                      PAUCAR ESPINOZA CANDY          E          24.50
+010555           EFR       25/10/2024 19:19  V                      KETALEYA AGUILAR  GONZALES     PL         45.00
+010556           EFR       25/10/2024 19:49  V                      LUIS ANIBAL MARQUEZ ABANTE     E          80.00
+010557           ELI       25/10/2024 20:29  V                      KATALELLA AGUILAR GONZALES     PL         56.80
+010558           ELI       26/10/2024 09:04  V                      JUSTINIANO BASQUEZ RUDY ALEJAN PL         45.00
+010559           ELI       26/10/2024 09:36  V                      MARCELO ARCOSER ZOILA          E         130.00
+010560           ELI       26/10/2024 10:18  V                      LUIS ENRIQUE CHAMPA            E          45.00
+010561           ELI       26/10/2024 10:33  V                      MERIC ROCIO HUARANGA SIMBRON   E         448.00
+010562           ELI       26/10/2024 10:43  V                      SALIS ESPINOZA KORI            E          80.00
+010563           ELI       26/10/2024 11:03  V                      GUERRERO VELASQUEZ TANIA LIBER E          45.00
+010564           ELI       26/10/2024 11:26  V                      GUILLERMO ANTONIO RODRIGUEZ    E          45.00
+010565           ELI       26/10/2024 11:46  V                      ARIAS CASTILLO NORIZ           E          31.40
+010566           ELI       26/10/2024 11:47  V                      SALIS ESPINOZA                 E           2.00
+010567           ELI       26/10/2024 14:54  V                      FELICIANO GERONIMO EUFRACIA    E          45.00
+010568           ELI       26/10/2024 15:24  V                      TEODORA CANTU VDA DE MAGUI;A   E          35.50
+010569           ELI       26/10/2024 15:44  V                      RUFO FERMIN BARDALES JARA      E          45.00
+010570           ELI       26/10/2024 16:04  V                      GERRERO DE GERALDO GLORIA      E          80.00
+010571           ELI       26/10/2024 16:06  V                      LAGUNA SANCHEZ GREGORIA        E          45.00
+010572           ELI       26/10/2024 16:08  V                      PACHECO HUASUPOMA GERALDO      E          45.00
+010573           ELI       26/10/2024 16:13  V                      JUAREZ CACERES ROSA YSABEL     E          45.00
+010574           ELI       26/10/2024 16:32  V                      JORGUE CABANILLA CURIOSO       E          45.00
+010575           ELI       26/10/2024 16:36  V                      GOMEZ JUSTO JOBANA             E          17.00
+010576           ELI       26/10/2024 16:42  V                      CABANILLA CURIOSO JORGE        E          10.00
+010577           ELI       26/10/2024 16:42  V                      DIOGENES MARTIN ROJAS          E          45.00
+010578           ELI       26/10/2024 16:45  V                      CORONADO CORONADO MARGARITA    E          45.00
+010579           ELI       26/10/2024 16:58  V                      HUASUPOMA GONZALES CLEMENCIA   E          29.50
+010580           ELI       26/10/2024 17:03  V                      CONSUELO FELICIANO GERONIMO    E          80.50
+010581           ELI       26/10/2024 17:09  V                      FELICIANO CORCINO PULINO       E          45.00
+010582           ELI       26/10/2024 17:14  V                      CONSUELO FELICIANO GERONIMO    E         180.50
+010583           ELI       26/10/2024 17:30  V                      CONSUELO FELICIANO GERONIMO    E          12.00
+010584           ELI       26/10/2024 17:38  V                      LAGUNA SANCHEZ GREGORIA        E         142.90
+010585           ELI       26/10/2024 18:01  V                      PACHECO HUASUPOMA GERALDO      E          17.50
+010586           ELI       26/10/2024 18:02  V                      MANRIQUE RIMAC JOSHELYN        E          45.00
+010587           ELI       26/10/2024 18:22  V                      JUARES CACERRES YSABEL         E          17.00
+010588           ELI       26/10/2024 18:34  V                      JUSTINIANO VASQUEZ RUDY ALEJAN PL         86.50úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:45
+PRT102()                                                                                                                Pag.-   15
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010589           ELI       26/10/2024 18:36  V                      RUDY JUSTINIANO VASQUEZ        PL         11.00
+010590           ELI       26/10/2024 18:41  V                      JOMAR JAVIER CORZO             E           9.00
+010591           ELI       26/10/2024 18:44  V                      GREGORIA LAGUNA SANCHEZ        E           3.00
+010592           ELI       26/10/2024 18:59  V                      SOLIS GUERRERO SAYURI          E          45.00
+010593           ELI       26/10/2024 19:08  V                      CABANILLA CURIOSO JORGE        E          33.50
+010594           ELI       26/10/2024 19:20  V                      MANRIQUE RIMAC YOSELIN         E          72.40
+010595           ELI       26/10/2024 19:22  V                      MANRIQUE RIMAC JOSELYN         E          40.50
+010596           ELI       26/10/2024 19:24  V                      CONSUELO FELICIANO GERONIMO    PL         82.90
+010597           ELI       26/10/2024 19:29  V                      CORCINO PAULINO FELICIANO      E          50.80
+010598           ELI       26/10/2024 19:34  V                      CONSUELO FELICIANO GERONIMO    PL         20.00
+010599           ELI       26/10/2024 19:39  V                      MARTIN ROJAS DIOGENES          PL        208.50
+010600           ELI       26/10/2024 19:41  V                      MARTIN ROJAS DIOGENES          PL        105.00
+010601           ELI       26/10/2024 19:58  V                      CORONADO CORONADO MARGARITA DO PL         41.50
+010602           ELI       26/10/2024 19:59  V                      CORONADO CORONADO MARGARITA    E          46.00
+010603           ELI       26/10/2024 20:05  V                      MARTIN ROJAS DIOGENES          E          17.00
+010604           ELI       26/10/2024 20:41  V                      SOLIS GUERRERO SAYURI          E           9.00
+010605           ELI       26/10/2024 20:48  V                      SOLIS GUERRERO SAYURI          PL         90.00
+010606           ELI       27/10/2024 08:42  V                      DIOGENES MARTIN ROJAS          E          45.00
+010607           ELI       27/10/2024 08:58  V                      BIANCA MONTES LEON             E          10.00
+010608           ELI       27/10/2024 09:29  V                      GREGORIA LAGUNA SANCHEZ        E         469.00
+010609           ELI       27/10/2024 09:32  V                      GREGORIA LAGUNA SANCHEZ        E          11.40
+010610           ELI       27/10/2024 09:42  V                      BRAYAN FLCON ENCARNACION       E         112.50
+010611           ELI       27/10/2024 09:53  V                      FALCON ENCARNACION BRAYAN      E         102.00
+010612           ELI       27/10/2024 10:17  V                      VASQUEZ MELGAR EDILFIDA        E          22.40
+010613           ELI       27/10/2024 10:20  V                      VASQUEZ MELGAR EDILFILA        E          10.00
+010614           ELI       27/10/2024 11:46  V                      VAZQUES MELGAR EDILFILA        E          10.00
+010615           ELI       27/10/2024 12:23  V                      MANRIQUE RIMAC JOSHELYN ALEJAN E          45.00
+010616           ELI       27/10/2024 13:46  V                      PECAN CRUZ LAURA               E          45.00
+010617           ELI       27/10/2024 14:33  V                      RIOS CARBAJAL ALESSIA KATALEYA PL         45.00
+010618           ELI       27/10/2024 14:35  V                      PECAN CRUZ LAURA               E         129.90
+010619           ELI       27/10/2024 14:35  V                      PECAN CRUZ LAURA               E          55.00
+010620           ELI       27/10/2024 14:40  V                      PECAN CRUZ LAURA               E         127.80
+010621           ELI       27/10/2024 14:42  V                      SALAZAR SANDA;A ROSA           E          15.00
+010622           ELI       27/10/2024 14:45  V                      ALESSIA RIOS CARBAJAL          PL         21.00
+010623           ELI       27/10/2024 14:53  V                      BRAYAN FALCON                  E           6.00
+010624           ELI       27/10/2024 14:56  V                      VENTA ANULADA                  E           0.00
+010625           ELI       27/10/2024 15:06  V                      TEODORA CANTU VDA DE MAGUI;A   E          35.50
+010626           ELI       27/10/2024 15:26  V                      MANRIQUE RIMAC JOSSELIN        E          61.90
+010627           ELI       27/10/2024 15:28  V                      MANRIQUE RIMAC JOSSELIN        E           2.00
+010628           ELI       27/10/2024 15:31  V                      DILAN ORDAYA EVANGELISTA       E          40.00
+010629           ELI       27/10/2024 15:49  V                      FALCON ENCARNECION BRAYAN      PL         45.00
+010630           ELI       27/10/2024 16:01  V                      CONSUELO FELICINO GERONIMO     E          45.00
+010631           ELI       27/10/2024 17:23  V                      GOMEZ JUSTO JOBANA             E          11.00
+010632           ELI       28/10/2024 08:57  V                      ARANDA EVANGELISTA HANNA SOFIA E          65.00
+010633           ELI       28/10/2024 09:00  V                      ARANDA EVANGELISTA HANNA SOFIA E          10.00
+010634           ELI       28/10/2024 09:14  V                      FRANCISCA CERNA ROMALDO        E          45.00
+010635           ELI       28/10/2024 09:31  V                      GERARDO NICANOR PACHECO HUASUP PL        169.00
+010636           ELI       28/10/2024 10:52  V                      ISAIAS SANCHEZ BRAVO           E          80.00
+010637           ELI       28/10/2024 10:52  V                      ADELA RIERA OSKATEGUI          E          80.00
+010638           ELI       28/10/2024 11:11  V                      ALEJOS DE LA CRUZ CRISPIN JULI E         180.00
+010639           ELI       28/10/2024 11:48  V                      RUDY ALEJANDRO JUSTINIANO VASQ PL         11.00
+010640           ELI       28/10/2024 14:29  V                      HUARANGA SIMBRON MERY          E          45.00
+010641           ELI       28/10/2024 15:22  V                      MANRIQUE RIMAC JOSSELIN        PL         63.90
+010642           ELI       28/10/2024 15:54  V                      FELICIANO GERONIMO AUFRACIA    E         220.00
+010643           ELI       28/10/2024 15:55  V                      HERNESTA COLCA ESPINOZA        E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:45
+PRT102()                                                                                                                Pag.-   16
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010644           ELI       28/10/2024 15:57  V                      FELICIANO GERONIMO EUFRACIA    E          55.00
+010645           ELI       28/10/2024 15:58  V                      PICHILINGUE VASQUEZ JULIA      E          45.00
+010646           ELI       28/10/2024 16:08  V                      MERI HUARANGA SINBROM          PL         35.40
+010647           ELI       28/10/2024 16:11  V                      TEODORA CANTU VDA DE MAGUI;A   E          31.50
+010648           ELI       28/10/2024 16:14  V                      RAMIREZ ALVARADO NAOMI BEATRIZ E          45.00
+010649           ELI       28/10/2024 16:17  V                      MERI HUARANGA SINBROM          PL          8.00
+010650           ELI       28/10/2024 16:23  V                      DIOGENES MARTIN ROJAS          E          29.50
+010651           ELI       28/10/2024 16:28  V                      GREGORIA LAGUNA SANCHEZ        E          11.40
+010652           ELI       28/10/2024 16:30  V                      MERI HUARANGA  SINBROM         PL        230.00
+010653           ELI       28/10/2024 16:38  V                      COLCAS ESPINOZA HERNEZTA       E          41.90
+010654           ELI       28/10/2024 16:45  V                      MU;OZ AVILA LIAN NICOLAS       E          45.00
+010655           ELI       28/10/2024 16:59  V                      ISABEL ESMERALDA SU;EGA ORTEGA E          50.00
+010656           ELI       28/10/2024 17:00  V                      FERNANDEZ PASIFICO RUTH        PL         45.00
+010657           ELI       28/10/2024 17:03  V                      JULIA PICHILINGUE VASQUEZ      E          56.50
+010658           ELI       28/10/2024 17:08  V                      PICHILINGUE VASQUEZ JULIA      E         112.00
+010659           ELI       28/10/2024 17:13  V                      ISABEL SU;EGA ORTEGA           E          17.00
+010660           ELI       28/10/2024 17:20  V                      ACU;A YAMUNAQUE RAFAELA FERNAN E          45.00
+010661           ELI       28/10/2024 17:22  V                      CABANILLA CURIOSO JORGE        E          29.50
+010662           ELI       28/10/2024 17:24  V                      CABANILLA CURIOSO JORGE        E          95.00
+010663           ELI       28/10/2024 17:35  V                      FERNANDO CARRERA GERVACIO      E         198.00
+010664           ELI       28/10/2024 17:42  V                      GOMEZ JUSTO JOBANA             E          11.00
+010665           ELI       28/10/2024 17:54  V                      SILVA BRAVO MAGDALENA          PL         45.00
+010666           ELI       28/10/2024 18:02  V                      PECAN CRUZ LAURA               E           4.00
+010667           ELI       28/10/2024 18:04  V                      FERNANDEZ PACIFICO RUTH        PL        187.00
+010668           ELI       28/10/2024 18:13  V                      ACU;A YAMUNAQUE RAFAELA FERNAN E          75.50
+010669           ELI       28/10/2024 18:20  V                      ESMERALDA SU;EGA ORTEGA        E         101.50
+010670           ELI       28/10/2024 18:21  V                      ISABEL SU;EGA ORTEGA           E           6.00
+010671           ELI       28/10/2024 18:22  V                      ZAPANA MU;OS ALISSON           E          45.00
+010672           ELI       28/10/2024 18:26  V                      HILDA BERNAL SIPAM             E          45.00
+010673           ELI       28/10/2024 18:40  V                      MARIA CASTA;O LOPES            PL          7.50
+010674           ELI       28/10/2024 18:48  V                      MAGDALENA SILVA BRAVO          PL         62.40
+010675           ELI       28/10/2024 18:52  V                      GLORIA GURRERO DE GIRALDO      E         130.00
+010676           ELI       28/10/2024 18:54  V                      PIERINA VIALLA NERA            PL          9.00
+010677           ELI       28/10/2024 19:10  V                      ZAPANA MU;OS ALISSON           E          38.20
+010678           ELI       28/10/2024 19:19  V                      BARDALES JARA RUFO             E          63.50
+010679           ELI       28/10/2024 19:24  V                      BARDALES JARA RUFO             E         101.90
+010680           ELI       28/10/2024 19:26  V                      MERCEDES HUERTA JARA           E          38.20
+010681           ELI       28/10/2024 19:29  V                      MANRIQUE YOSELIN               E           1.50
+010682           ELI       28/10/2024 19:44  V                      VILCAYAURI MELO GLORIA         E          45.00
+010683           ELI       28/10/2024 19:56  V                      BERNAL SIPAN HILDA NELY        E           9.80
+010684           ELI       29/10/2024 08:39  V                      BARBOZA BUSTAMANTE MARIA CAROL E          84.00
+010685           ELI       29/10/2024 08:47  V                      LIAM NICOLAS MU;OZ AVILA       E          37.00
+010686           ELI       29/10/2024 09:35  V                      VENTA ANULADA                  E           0.00
+010687           ELI       29/10/2024 09:38  V                      JUERES CASERES ROSA ISABEL     E           8.00
+010688           ELI       29/10/2024 09:45  V                      LIBERATO SANTOS NILDA          E          65.10
+010689           ELI       29/10/2024 09:52  V                      ILCAYAURI MELO GLORIA          E          15.00
+010690           ELI       29/10/2024 11:33  V                      MANRIQUE RIMAC JOSELIN         PL         90.00
+010691           ELI       29/10/2024 12:40  V                      SUAREZ PEREZ NANCY             PL         45.00
+010692           ELI       29/10/2024 13:15  V                      TEODORA CANTU VDA DE MAGUI¥A   E          45.00
+010693           ELI       29/10/2024 13:41  V                      ESMERALDA ALANOCA BLAS         E          45.00
+010694           ELI       29/10/2024 14:10  V                      MEDI HUARANGA SIMBRON          E          31.40
+010695           ELI       29/10/2024 14:38  V                      JASON HUARAC MENECES           E          45.00
+010696           ELI       29/10/2024 14:55  V                      TEODORA CANTU CASTA;EDA        E          30.00
+010697           ELI       29/10/2024 15:08  V                      MANRIQUE RIMAC JOSSELIN        PL         65.90
+010698           ELI       29/10/2024 15:39  V                      HUARAC MENECES JASON BRANCOL   E         212.00úZethQuark Versi¢n 7.0ú                                                                                                 30/10/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2024 AL 29/10/2024                              08:18:46
+PRT102()                                                                                                                Pag.-   17
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010699           ELI       29/10/2024 15:40  V                      HUARAC MENECES JASON BRANDOL   E          22.00
+010700           ELI       29/10/2024 15:59  V                      HOYOS CUBAS MARIANA            PL         45.00
+010701           ELI       29/10/2024 17:01  V                      PAMELA FERNANDEZ BENITES       PL         33.50
+010702           ELI       29/10/2024 17:22  V                      SUAREZ PEREZ NANCY             E           6.00
+010703           ELI       29/10/2024 17:34  V                      HOYOS CUBAS MARIANA            PL        306.50
+010704           ELI       29/10/2024 17:43  V                      HOYOS CUBAS MARIANA            E           1.00
+010705           ELI       29/10/2024 17:56  V                      SILVERIO CUELLAR AVILA         E          45.00
+010706           ELI       29/10/2024 17:57  V                      ESMERALDA ALANOCA BLAS         PL         78.50
+010707           ELI       29/10/2024 18:07  V                      MAGDALENA SILVA BRAVO          PL         58.40
+010708           ELI       29/10/2024 18:56  V                      SILVERIO CUELLAR AVILA         E          52.00
+010709           ELI       29/10/2024 18:58  V                      SILVERIO CUELLAR AVILA         E           1.50
+010710           ELI       29/10/2024 20:18  V                      ALNOCA BLAS ESMERALDA          PL        206.30
+010711           EFR       29/10/2024 20:47  V                      SANCHEZ APARICIO MANUEL        E           5.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :      13         690.10
+Factura       :       0           0.00                                                    Efectivo      :     683      37,244.99
+Ticket        :       0           0.00                                                    Plin          :     171      12,407.10
+Guia Interna V:     869      51,247.19                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       2         905.00
+                             51,247.19                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                       51,247.19
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      7,816.39
+ÿ
+ÿ
+Nro.  Documentos Anulados :           24
+Total Documentos Anulados :         0.00

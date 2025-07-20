@@ -1,0 +1,57 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 07/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 06/08/2024 AL 06/08/2024                              08:17:05
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007991           EFR  EFR  06/08/2024 08:07  V                      PAJUELO FERNANDEZ VIVIANA      E          45.00
+007992           ELI       06/08/2024 09:31  V                      ORTEGA ESPINOZA JUAN           E          45.00
+007993           ELI       06/08/2024 10:28  V                      ANDRES ANIBAL YEPEZ JAIMEZ     E          45.00
+007994           ELI       06/08/2024 10:32  V                      BARTOLOME MENDOZA OLORTEGUI    E          10.50
+007995           ELI       06/08/2024 10:48  V                      ZAPANA MU;OS JHOSSELIN         E          45.00
+007996           ELI       06/08/2024 11:13  V                      JULIANA MARIA ROSALES MEJIA    E          15.00
+007997           ELI       06/08/2024 11:51  V                      PAUCAR ESPINOZA CANDY          E          45.00
+007998           ELI       06/08/2024 13:20  V                      UGARTE OBREGON MARIANELA       E          15.00
+007999           ELI       06/08/2024 13:48  V                      ZAPANA MU;OS JHOSSELIN INES    PL        344.50
+008000           ELI       06/08/2024 13:52  V                      ZAPANA MU;OS JHOSSELIN         PL        140.50
+008001           ELI       06/08/2024 13:58  V                      PAUCAR ESPINOZA CANDY          E          49.50
+008002           ELI  ELI  06/08/2024 15:19  V                       ZORIILLA ASENCIOS ALMAQUIO    E          45.00
+008003           ELI  ELI  06/08/2024 15:57  V                      ORTIZ ROSALES AURELIA          E          45.00
+008004           ELI  ELI  06/08/2024 16:17  V                      ROJAS LOPEZ ALEXIA             E          45.00
+008005           ELI       06/08/2024 16:35  V                      ROJAS LOPEZ ALEXIA             E           3.00
+008006           ELI       06/08/2024 16:51  V                      LANDA HUAMAN MARIA             C          80.00
+008007           ELI       06/08/2024 17:02  V                      ROMERO DIAZ BLANCA             E           9.00
+008008           ELI       06/08/2024 17:20  V                      VIGILANTE UGARTE MARIBEL       E          45.00
+008009           ELI       06/08/2024 17:33  V                      ORTIZ ROSALES AURELIA          E          41.50
+008010           ELI       06/08/2024 17:35  V                      PICHILINGUE VASQUS JULIA       E          45.00
+008011           ELI       06/08/2024 17:36  V                      ROMERO DIAZ BLANCA             E          66.00
+008012           ELI       06/08/2024 17:53  V                      FERNANDEZ AGUERO MARICIELO     E          15.00
+008013           ELI       06/08/2024 18:06  V                      ROMERO DIAZ BLANCA             E           3.00
+008014           ELI       06/08/2024 18:34  V                      HUERTA ARO KATY                PL         40.00
+008015           ELI       06/08/2024 18:34  V                      HUERTA ARO KATY                E           1.50
+008016           ELI       06/08/2024 19:01  V                      MARIBEL VIGILIA UGARTE         E          31.50
+008017           ELI       06/08/2024 19:05  V                      PICHILINGUE VASQUES JULIA      E          34.50
+008018           ELI       06/08/2024 19:06  V                      PICHILINGUE VASQUES JULIA      E          41.00
+008019           EFR  EFR  06/08/2024 19:33  V                      RIOS VILLANUEVA SARA           E           2.00
+008020           ELI       06/08/2024 19:36  V                      RAMIREZ DIAZ BLANCA            E          65.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       1          80.00
+Factura       :       0           0.00                                                    Efectivo      :      26         853.00
+Ticket        :       0           0.00                                                    Plin          :       3         525.00
+Guia Interna V:      30       1,458.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              1,458.00                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        1,458.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        222.37
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

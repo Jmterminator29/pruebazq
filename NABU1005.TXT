@@ -1,0 +1,49 @@
+úZethQuark Versi¢n 7.0ú                                                              12/06/2025
+POL.LOS ANGELES                    KARDEX : NEBULIZACION X 3                           09:22:35
+PRG232()                          DEL 01/05/2025 AL 10/06/2025                       Pag.-    1
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000034241  03/05/2025  08:44  Descargo x Vent  USER  016050      -    1        9996       CLA
+0000034257  03/05/2025  11:30  Descargo x Vent  USER  016062      -    1        9995       CLA
+0000034279  04/05/2025  18:48  Descargo x Vent  USER  016082      -    1        9994       CLA
+0000034325  05/05/2025  20:46  Descargo x Vent  USER  016123      -    1        9993       CLA
+0000034326  05/05/2025  20:47  Cargo x Anulaci  USER  016123      +    1        9994       EFR
+0000034358  06/05/2025  18:29  Descargo x Vent  USER  016153      -    1        9993       ELI
+0000034368  06/05/2025  19:41  Descargo x Vent  USER  016163      -    1        9992       ELI
+0000034396  07/05/2025  09:48  Descargo x Vent  USER  016189      -    1        9991       CLA
+0000034450  08/05/2025  18:11  Descargo x Vent  USER  016230      -    1        9990       CLA
+0000034462  08/05/2025  19:46  Descargo x Vent  USER  016241      -    1        9989       CLA
+0000034528  10/05/2025  18:57  Descargo x Vent  USER  016297      -    1        9988       FAB
+0000034546  11/05/2025  03:21  Descargo x Vent  USER  016311      -    1        9987       FAB
+0000034574  12/05/2025  19:29  Descargo x Vent  USER  016337      -    1        9986       CLA
+0000034576  12/05/2025  19:49  Descargo x Vent  USER  016339      -    1        9985       CLA
+0000034729  16/05/2025  17:50  Descargo x Vent  USER  016460      -    1        9984       CLA
+0000034734  16/05/2025  18:41  Descargo x Vent  USER  016464      -    1        9983       CLA
+0000034772  17/05/2025  18:03  Descargo x Vent  USER  016496      -    1        9982       ELI
+0000034773  17/05/2025  18:16  Descargo x Vent  USER  016497      -    1        9981       EFR
+0000034786  17/05/2025  19:41  Descargo x Vent  USER  016509      -    1        9980       ELI
+0000034806  18/05/2025  16:09  Descargo x Vent  USER  016527      -    1        9979       ELI
+0000034807  18/05/2025  18:07  Cargo x Anulaci  USER  016527      +    1        9980       EFR
+0000034808  18/05/2025  18:17  Descargo x Vent  USER  016528      -    1        9979       FAB
+0000034811  19/05/2025  15:23  Descargo x Vent  USER  016531      -    1        9978       ELI
+0000034863  20/05/2025  19:30  Descargo x Vent  USER  016571      -    1        9977       FAB
+0000035000  26/05/2025  18:13  Descargo x Vent  USER  016689      -    1        9976       AUD
+0000035044  27/05/2025  18:26  Descargo x Vent  USER  016730      -    1        9975       AUD
+0000035076  28/05/2025  05:49  Descargo x Vent  USER  016759      -    1        9974       AUD
+0000035121  29/05/2025  10:24  Descargo x Vent  USER  016796      -    1        9973       AUD
+0000035123  29/05/2025  10:55  Descargo x Vent  USER  016798      -    1        9972       AUD
+0000035147  29/05/2025  19:18  Descargo x Vent  USER  016821      -    1        9971       AUD
+0000035225  31/05/2025  17:51  Descargo x Vent  USER  016890      -    1        9970       AUD
+0000035293  02/06/2025  19:39  Descargo x Vent  USER  016952      -    1        9969       CLA
+0000035349  04/06/2025  17:33  Descargo x Vent  USER  016997      -    1        9968       CLA
+0000035366  04/06/2025  19:32  Descargo x Vent  USER  017012      -    1        9967       CLA
+0000035389  05/06/2025  18:05  Descargo x Vent  USER  017035      -    1        9966       ELI
+0000035392  05/06/2025  18:12  Descargo x Vent  USER  017038      -    1        9965       ELI
+0000035423  06/06/2025  16:56  Descargo x Vent  USER  017065      -    1        9964       CLA
+0000035442  06/06/2025  19:09  Descargo x Vent  USER  017083      -    1        9963       CLA
+0000035450  06/06/2025  20:08  Descargo x Vent  USER  017090      -    1        9962       CLA
+0000035475  07/06/2025  17:43  Descargo x Vent  USER  017113      -    1        9961       CLA
+0000035491  08/06/2025  16:28  Descargo x Vent  USER  017125      -    1        9960       CLA
+0000035515  09/06/2025  18:01  Descargo x Vent  USER  017146      -    1        9959       ELI
+0000035575  10/06/2025  20:12  Descargo x Vent  USER  017182      -    1        9957       FAB

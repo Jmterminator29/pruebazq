@@ -1,0 +1,72 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 03/02/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/02/2025 AL 02/02/2025                              08:43:57
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+013482           ELI       01/02/2025 08:28  V                      VINO RAPRAY BLANCA ANTONILA    PL        383.00
+013483           ELI       01/02/2025 10:21  V                      JOEL NIETO PERNIA              E          25.00
+013484           ELI       01/02/2025 11:48  V                      BEATRIZ ROJAS NAVARRO          E          35.50
+013485           ELI       01/02/2025 11:58  V                      BATRIZ ROJAS NAVARRO           E           6.40
+013486           ELI       01/02/2025 15:08  V                      ROSA HUERTA HERMENEGILDO       PL        131.00
+013487           EFR       01/02/2025 15:48  V                      ROSA HUANCA HERMENEGILDO       PL        110.00
+013488           ELI       01/02/2025 16:25  V                      ROSENDA SANTILLAN CRUZ         E          45.00
+013489           ELI       01/02/2025 16:51  V                      CARMEN AVILA CALDERON          E          45.00
+013490           ELI       01/02/2025 17:00  V                      ROSA HUANCA HERMENEGILDO       PL        105.00
+013491           ELI       01/02/2025 17:28  V                      LUZ FARRO YABAR                PL         45.00
+013492           ELI       01/02/2025 17:42  V                      ROSA HUANCA HERMENEGILDO       E         150.00
+013493           ELI       01/02/2025 17:44  V                      LEONIDA VEGA JULCA             E          10.40
+013494           ELI       01/02/2025 17:47  V                      FERMIN HUAMAN TORRES           E          65.50
+013495           ELI       01/02/2025 18:01  V                      ROCIO CARRERA LLARES           E          76.50
+013496           ELI       01/02/2025 18:01  V                      EDELMIRA LLARES LEON           E          16.00
+013497           ELI       01/02/2025 18:03  V                      ROSENDA SANTILLAN CRUZ         E          41.40
+013498           ELI       01/02/2025 18:18  V                      ROCIO CARRERA LLARES           E           3.00
+013499           ELI       01/02/2025 18:23  V                      GUZMAN PE;A ANGELA             PL         10.50
+013500           ELI       01/02/2025 18:48  V                      SILVA ROJAS JOSELIN            E          45.00
+013501           ELI       01/02/2025 19:11  V                      ACU¥A MEJIA LUIS FELIPE        E          45.00
+013502           ELI       01/02/2025 19:41  V                      SILVA ROJAS JOSELIN            PL        116.50
+013503           ELI       01/02/2025 20:12  V                      LUIS ALBERTO GARCIA VIRU       E          30.00
+013504           ELI       01/02/2025 20:19  V                      ACU;A MEJIA LUIS FELIPE        E          50.50
+013505           ELI       01/02/2025 20:27  V                      ALEJANDRO CARRERA OLIVARES     E          45.00
+013506           ELI       01/02/2025 20:29  V                      LLARES LEON EDELMIRA           E          32.00
+013507           ELI       01/02/2025 20:29  V                      CARRERA OLIVARES ALEJANDRO     E          10.00
+013508           ELI       01/02/2025 20:53  V                      CARRERA OLIVARES ALEJANDRO     E         243.00
+013509           ELI       02/02/2025 10:37  V                      ROJAS GRADOS ASBEL BETHSABE    E          45.00
+013510           ELI       02/02/2025 11:06  V                      ROSENDA SANTILLAN CRUZ         E          55.00
+013511           ELI       02/02/2025 12:01  V                      GALLO GARCIA CONSUELO          PL         45.00
+013512           ELI       02/02/2025 12:01  V                      FERNANDEZ PIMENTEL WILDER      PL         45.00
+013513           ELI       02/02/2025 14:23  V                      WILDER JULIAN FERNANDEZ PIMENT E          30.00
+013514           ELI       02/02/2025 14:24  V                      CONSUELO IVET GALLO GARCIA     E          30.00
+013515           ELI       02/02/2025 14:27  V                      CONSUELO IVET GALLO GARCIA     E         108.00
+013516           ELI       02/02/2025 14:30  V                      WILDER JULIAN FERNANDEZ PIMENT E         132.50
+013517           ELI       02/02/2025 15:14  V                      ROJAS GRADOS ASBEL             E         182.50
+013518           ELI       02/02/2025 15:15  V                      SILVA ROJAS JOSELIN            E          69.50
+013519           ELI       02/02/2025 17:07  V                      HUAMAN TORRES FERMIN           E          65.50
+013520           ELI       02/02/2025 17:27  V                      ROSEND SANTILLAN CRUZ          E          41.40
+013521           ELI       02/02/2025 17:35  V                      GUZMAN PE; ANGELA              E          10.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      31       1,790.10
+Ticket        :       0           0.00                                                    Plin          :       9         991.00
+Guia Interna V:      40       2,781.10                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              2,781.10                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        2,781.10
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00úZethQuark Versi¢n 7.0ú                                                                                                 03/02/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/02/2025 AL 02/02/2025                              08:43:57
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+ÿ
+Total I.G.V. Boletas :        424.21
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

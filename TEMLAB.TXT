@@ -1,0 +1,86 @@
+úZethQuark Versi¢n 7.0ú                                          28/06/2024
+POL.LOS ANGELES  REPORTE DE PRODUCTOS X LINEA (LABORATORIO)        11:12:21
+PRT202()                                                         Pag.-    1
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD
+---------------------------------------------------------------------------
+15383 ACIDO URICO                              ANAL       15.00          
+15228 AGLUTINACIONES                           ANAL       23.00          
+15403 ALBUMINA SUERO                           ANAL       18.00          
+15172 AMILASA                                  ANAL       25.00          
+15314 ASO LATEX                                ANAL       20.00          
+15471 BILIRRUBINAS TOTALES Y FRACCIONADA       ANAL       20.00          
+15265 BK DIRECTO                               ANAL       20.00          
+15550 COLESTEROL                               ANAL       15.00          
+15215 COPROCULTIVO                             ANAL       60.00          
+15222 COPROLOGICO FUNCIONAL                    ANAL       25.00          
+15176 CPK-MB                                   ANAL       60.00          
+15174 CREATININA                               ANAL       15.00          
+15220 CULTIVO DE SECRECION FARINGEA            ANAL       50.00          
+16749 CULTIVO SECRECION OTICA                  ANAL       50.00          
+15290 DEPURACION CREATININA                    ANAL       30.00          
+15178 ELECTROLITOS                             ANAL       50.00          
+15636 FACTOR REUMATOIDE CUANTITATIVO           ANAL       30.00          
+15160 FIBRINOGENO                              ANAL       60.00          
+15660 FOSFATASA ALCALINA                       ANAL       40.00          
+15214 FROTIS DIRECTO(KOH-HONGOS)               ANAL       25.00          
+15184 G.G.T.P                                  ANAL       40.00          
+15185 GLUCOSA                                  ANAL       13.00          
+15685 GLUCOSA POST PRANDIAL                    ANAL       15.00          
+15266 GRAHAM ACAROS                            ANAL       25.00          
+15170 GRUPO SANGUINEO/FACTOR RH                ANAL       20.00          
+15311 HCG PRUEBA DE EMBARAZO                   ANAL       15.00          
+15371 HCG SUB UNIDAD BETA CUANTITATIVO         ANAL       45.00          
+15696 HDL COLESTEROL                           ANAL       20.00          
+15205 HELICOBACTER IGG                         ANAL       60.00          
+15204 HELICOBACTER IGM                         ANAL       55.00          
+15186 HEMOG. GLICOSILADA                       ANAL       55.00          
+15163 HEMOGRAMA COMPLETO                       ANAL       25.00          
+15706 HEPATITIS A ANTICUERPOS TOTALES          ANAL       70.00          
+15707 HEPATITIS A IGM                          ANAL       80.00          
+15971 HEPATITIS B ANTIGENO AUSTRALIANO         ANAL       60.00          
+15729 HIERRO SERICO                            ANAL       30.00          
+15310 HIV                                      ANAL       30.00          
+15297 INMUNOGLOBULINA E                        ANAL       60.00          
+15764 INSULINA                                 ANAL       50.00          
+15772 INSULINA POST-PRANDIAL                   ANAL       60.00          
+15316 LAMINA PERIFERICA                        ANAL       15.00          
+15778 LDL COLESTEROL                           ANAL       20.00          
+15809 MICROALBUMINURIA ORINA SIMPLE            ANAL       63.00          
+15288 ORINA COMPLETA                           ANAL       15.00          
+15223 PARASITOLOGICO SIMPLE                    ANAL       12.00          
+15224 PARASITOLOGICO X3                        ANAL       29.00          
+16736 PCR CUANTITATIVA                         ANAL       40.00          
+15149 PERFIL DE COAGULACION                    ANAL      100.00          
+15179 PERFIL HEPATICO                          ANAL       55.00          
+15150 PERFIL LIPIDICO                          ANAL       45.00          
+16329 PERFIL PRENATAL                          ANAL      120.00          
+15308 PERFIL RENAL                             ANAL       83.00          
+15182 PERFIL REUMATICO                         ANAL      105.00          
+15180 PERFIL TIROIDEO                          ANAL      100.00          
+15855 POTASIO                                  ANAL       50.00          úZethQuark Versi¢n 7.0ú                                          28/06/2024
+POL.LOS ANGELES  REPORTE DE PRODUCTOS X LINEA (LABORATORIO)        11:12:21
+PRT202()                                                         Pag.-    2
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD
+---------------------------------------------------------------------------
+15203 PROLACTINA                               ANAL       50.00          
+15870 PROTEINAS TOTALES                        ANAL       40.00          
+15291 PROTEINURIA 24Hr.                        ANAL       30.00          
+15881 PSA TOTAL                                ANAL       50.00          
+15227 REACCION INFLAMATORIA EN HECES           ANAL       25.00          
+15891 RPR                                      ANAL       15.00          
+15210 T3 LIBRE                                 ANAL       45.00          
+15264 T4 LIBRE                                 ANAL       45.00          
+15225 TEST GRAHAM(OXIURUS)                     ANAL       10.00          
+15226 THEVENON                                 ANAL       25.00          
+15923 TIEMPO DE PROTROMBINA-TP                 ANAL       30.00          
+17164 TIEMPO DE TROMBOPLASTINA                 ANAL       50.00          
+15190 TOLERANCIA GLUCOSA                       ANAL       40.00          
+15191 TRANSAMINASA OXALACETICA (TGO)           ANAL       15.00          
+15192 TRANSAMINASA PIRUVICA (TGP)              ANAL       15.00          
+15944 TRIGLICERIDOS                            ANAL       15.00          
+15208 TSH ULTRASENSIBLE                        ANAL       40.00          
+15194 UREA                                     ANAL       15.00          
+15219 UROCULTIVO                               ANAL       40.00          
+15955 VELOCIDAD DE SEDIMENTACION               ANAL       15.00          

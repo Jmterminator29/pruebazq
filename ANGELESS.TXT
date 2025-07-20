@@ -1,0 +1,1355 @@
+úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:31:51
+PRT280()                                                                                                                     Pag.-    1
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+17 CETOESTEROIDES                          999         75.00                 74,925.00                         74,925.00
+17 HIDROXICORTICOIDES                     1000         75.00                 75,000.00                         75,000.00
+17 HIDROXIPROGESTERONA                    1000         60.00                 60,000.00                         60,000.00
+5 HIDROXIINDOLACETICO-5HIAA               1000         70.00                 70,000.00                         70,000.00
+5 NUCLEOTIDASA                            1000         45.00                 45,000.00                         45,000.00
+A.N.A.(ANTIGENO ANT. NUCLEARES)           1000         75.00                 75,000.00                         75,000.00
+A.N.C.A                                   1000         75.00                 75,000.00                         75,000.00
+A200                                       999        650.00                649,350.00                        649,350.00
+ABOCAT #20CAJAX50UNID                        0u13     250.00     90.00           65.00            23.40            41.60
+ABOCAT#22 CAJAX50UNID                        2u47     250.00     66.00          735.00           194.04           540.96
+ABOCAT#24 CAJAX50UNID                        1u45     250.00     66.00          475.00           125.40           349.60
+AC. FOLICO                                1000         60.00                 60,000.00                         60,000.00
+AC.FOLICO INTRAERITROCITARIO              1000         80.00                 80,000.00                         80,000.00
+AC.H.I.V(ELISA)                           1000         75.00                 75,000.00                         75,000.00
+AC.H.I.V(WESTERN BLOT)                    1000        250.00                250,000.00                        250,000.00
+AC.HERPES I IGG                           1000         65.00                 65,000.00                         65,000.00
+AC.HERPES I IGM                           1000         65.00                 65,000.00                         65,000.00
+AC.HERPES II IGG                          1000         65.00                 65,000.00                         65,000.00
+AC.HERPES II IGM                          1000         65.00                 65,000.00                         65,000.00
+AC.HOMOVALINICO ORINA 24HRS               1000        170.00                170,000.00                        170,000.00
+AC.LACTICO(LACTATO)                       1000       1000.00              1,000,000.00                      1,000,000.00
+AC.PIRUVICO                               1000        128.00                128,000.00                        128,000.00
+AC.TOXOPLASMA IgG                         1000         65.00                 65,000.00                         65,000.00
+AC.TOXOPLASMA IgM                         1000         70.00                 70,000.00                         70,000.00
+AC.URICO24H                                999         30.00                 29,970.00                         29,970.00
+AC.VALPROICO                               999         90.00                 89,910.00                         89,910.00
+AC.VANIL MANDELICO(VMA)                   1000         70.00                 70,000.00                         70,000.00
+ACAROS                                     995         35.00                 34,825.00                         34,825.00
+ACETAMINOPHEN(PARACETAMOL)DOSAJE          1000         75.00                 75,000.00                         75,000.00
+ACETIL COLINA,ANTICUERPOS                 1000        900.00                900,000.00                        900,000.00
+ACETONA ORINA SIMPLE                      1000         26.00                 26,000.00                         26,000.00
+ACETONA SERICA                            1000         26.00                 26,000.00                         26,000.00
+ACICLOVIR 400MG TABLX100                     0u2      100.00     22.00            2.00             0.44             1.56
+ACICLOVIR 5%  CREMA5G                        4          4.50      1.50           18.00             6.00            12.00
+ACICLOVIR 800MG TABX10                       3u4       25.00      9.50           85.00            32.30            52.70
+ACIDO BORICO SOB 10GRx50 / POLVO             0u11      25.00     15.00            5.50             3.30             2.20
+ACIDO FOLICO 0.5mg tabletax30                2u20      15.00      5.00           40.00            13.33            26.67
+ACIDO FOLICO INTRAERITROCITARIO            999        120.00     60.00      119,880.00        59,940.00        59,940.00
+ACIDO URICO                                984         18.00                 17,712.00                         17,712.00
+ACIDO VALPROICO                            999         75.00                 74,925.00                         74,925.00
+ACIDOS GRASOS LIBRES                      1000        170.00                170,000.00                        170,000.00
+ACTH,AM(BASAL)                             997         90.00                 89,730.00                         89,730.00
+ACTH,PM                                    998         90.00                 89,820.00                         89,820.00
+ADA L.PERICARDIO                          1000         70.00                 70,000.00                         70,000.00
+ADA L.PERITONEAL                          1000         70.00                 70,000.00                         70,000.00
+ADA L.PLEURAL                             1000         70.00                 70,000.00                         70,000.00
+ADA L.SINOVIAL                            1000         70.00                 70,000.00                         70,000.00
+ADA LCR                                   1000         70.00                 70,000.00                         70,000.00
+ADA LIQUIDOS                              1000         70.00                 70,000.00                         70,000.00
+ADA SERICO                                1000         70.00                 70,000.00                         70,000.00
+ADENOVIRUS,ANTICUERPOS                    1000        250.00                250,000.00                        250,000.00
+ADOLQUIR 25MG TAB CAJX10                     5u7       38.00     30.00          216.60           171.00            45.60
+ADRENALES,AUTOANTICUERPOS                 1000        220.00                220,000.00                        220,000.00
+AFP(CANCER DE HIGADO)                      998         75.00                 74,850.00                         74,850.00
+AGA                                       1000         40.00                 40,000.00                         40,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:31:52
+PRT280()                                                                                                                     Pag.-    2
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+AGLUTINACIONES                             386         20.00                  7,720.00                          7,720.00
+AGLUTINACIONES(LAMINA)                    1000         40.00                 40,000.00                         40,000.00
+AGLUTINACIONES(TUBO)                       999         60.00                 59,940.00                         59,940.00
+AGUA ESTERIL PARA INYEC. CAJAX100 AMPOLL     0u83      50.00     25.00           41.50            20.75            20.75
+AGUJA #21 CAJAX100                           3u70      50.00      8.50          185.00            31.45           153.55
+AGUJA #23 CAJAX100UNID.                      7u64      50.00      8.50          382.00            64.94           317.06
+AGUJA #25 CAJAX100UNI.                       4u90      50.00      8.50          245.00            41.65           203.35
+ALBENDAZOL 100MG/5ML  SUSPX20ML             14          6.00      3.60           84.00            50.40            33.60
+ALBENDAZOL 200MG TABX100                     0u94     100.00     30.00           94.00            28.20            65.80
+ALBUMINA SUERO                             999         18.00                 17,982.00                         17,982.00
+ALDOLASA                                  1000         70.00                 70,000.00                         70,000.00
+ALDOSTERONA ORINA24HORAS                  1000        140.00                140,000.00                        140,000.00
+ALDOSTERONA SERICA                        1000        120.00                120,000.00                        120,000.00
+ALERCHECK PLUS 10MG CAPSULA/CAJAX30          5u13      45.00      8.50          244.50            46.18           198.32
+ALERGICAL SF 2MG+30MG JARABE X60ML           2         23.00     19.35           46.00            38.70             7.30
+ALERGICAL SF CAJAX100TABLETAS                1        230.00    136.00          230.00           136.00            94.00
+ALERGICAL SF GOTASX15ML                      4         21.00     17.66           84.00            70.64            13.36
+ALFA 1 ANTIPRIPSINA                       1000         80.00                 80,000.00                         80,000.00
+ALFA FETOPROTEINA SERICA                   997         75.00                 74,775.00                         74,775.00
+ALITAS 23G LONG10CM  CAJAX100UNID.           1u10     300.00     26.00          330.00            28.60           301.40
+ALMORA/LEFLUNOMIDA 20MG CAJAX30TABLETAS      1        321.00    160.00          321.00           160.00           161.00
+ALPRAZOLAM 0,5MG TABX200                     0u122    100.00     18.00           61.00            10.98            50.02
+AMBROXOL ADULTO 30MG 5ML                     9          9.00      2.10           81.00            18.90            62.10
+AMBROXOL PEDRIATICO 150M                     5          8.50      2.30           42.50            11.50            31.00
+AMEBA HISTOLITICA,ANTICUERPOS             1000         70.00                 70,000.00                         70,000.00
+AMERITON POMADA 25G                          2         19.50     11.50           39.00            23.00            16.00
+AMILASA                                    972         25.00                 24,300.00                         24,300.00
+AMILASA ORINA 24HRS                       1000         28.00                 28,000.00                         28,000.00
+AMIODARONA CLORHIDRATO 50MG/ML CAJX10AMP     1        200.00    100.00          200.00           100.00           100.00
+AMITRIPTILINA 25MG CAJAX100 TABLETAS         1         30.00     16.00           30.00            16.00            14.00
+AMLODIPINO 10MG TABX100                      1         40.00      9.00           40.00             9.00            31.00
+AMONIO PLASMATICO                         1000        140.00                140,000.00                        140,000.00
+AMOX 500MG  CAPX100                          1u5      250.00     35.00          262.50            36.75           225.75
+AMOXIC+A.CLAV 250MG+62.5MG/5ML SUSP60ML     12         14.00      8.20          168.00            98.40            69.60
+AMOXIC.+AMBROX CLORH 250MG/15MG SUSP60ML     6         10.00      3.90           60.00            23.40            36.60
+AMOXICILINA 250MG/5ML SUSP60ML               2          8.50      2.50           17.00             5.00            12.00
+AMOXICILINA500MG CAJAX100 TABLETAS           4u60      30.00     13.50          138.00            62.10            75.90
+AMOXIPHARM CL CAJAX10TABLETAS                8         30.00                    240.00                            240.00
+AMPICILINA 500 CAPx100                       1u31     120.00     35.00          157.20            45.85           111.35
+ANA ANTINUCLEARES ESPECIFICO               993         66.00                 65,538.00                         65,538.00
+ANCA ANTI-NEUTROFILOS                      995         80.00                 79,600.00                         79,600.00
+ANDROSTANDIOL                             1000        280.00                280,000.00                        280,000.00
+ANDROSTENEDIONA                           1000         70.00                 70,000.00                         70,000.00
+ANEURIN 10,000 SOLUCION INYECTABLE           6         28.00     17.00          168.00           102.00            66.00
+ANEURIN 25 000 CAJA X 1AMPOLLAS             10         35.00     12.00          350.00           120.00           230.00
+ANFETAMINA EN ORINA                       1000         65.00                 65,000.00                         65,000.00
+ANGIOTENSINA II                           1000        150.00                150,000.00                        150,000.00
+ANGIOTENSINA,ENZIMA CONVERTIDORA          1000        170.00                170,000.00                        170,000.00
+ANTALGINA  AMPOLL 1G/2ML                     3         13.90      8.00           41.70            24.00            17.70
+ANTALGINA 250MG/5ML JARAB 60ML               4         18.00      7.40           72.00            29.60            42.40
+ANTALGINA 500MG CAJAX100TABLETAS             1         70.00     26.00           70.00            26.00            44.00
+ANTALGINA-R 1,5G/5ML AMPOLL                  3         11.50      6.40           34.50            19.20            15.30
+ANTI CCP IGG/PEPTIDO CICLICO CITRULINADO   996        350.00                348,600.00                        348,600.00
+ANTI MICROSOMALES(TPO)                     974         70.00                 68,180.00                         68,180.00
+ANTI MITOCONDRIALES                       1000         70.00                 70,000.00                         70,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:31:53
+PRT280()                                                                                                                     Pag.-    3
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+ANTI-CARDIOLIPINA IGG                     1000         70.00                 70,000.00                         70,000.00
+ANTI-CARDIOLIPINA IGM                     1000         70.00                 70,000.00                         70,000.00
+ANTI-DNA NATIVO(DS-DOBLE CADENA)          1000         60.00                 60,000.00                         60,000.00
+ANTI-DNA SS(CADENA SIMPLE)                1000         65.00                 65,000.00                         65,000.00
+ANTI-EPIDERMICOS                          1000        280.00                280,000.00                        280,000.00
+ANTI-ESPERMATOZOIDES                      1000         85.00                 85,000.00                         85,000.00
+ANTI-ESTREPTOLISINAS ASO                  1000         50.00                 50,000.00                         50,000.00
+ANTI-FOSFOLIPIDOS IGG-IGM                 1000        480.00                480,000.00                        480,000.00
+ANTI-FOSFOLIPIDOS(PANEL IGG)              1000        450.00                450,000.00                        450,000.00
+ANTI-FOSFOLIPIDOS(PANEL IGM)              1000        250.00                250,000.00                        250,000.00
+ANTI-JO-1                                 1000        105.00                105,000.00                        105,000.00
+ANTI-LIVERKDNEY MICROSOMALES(LKM-1)       1000        200.00                200,000.00                        200,000.00
+ANTI-MEMBRANA HEPATICA(LMA)               1000        200.00                200,000.00                        200,000.00
+ANTI-MI-2                                 1000        400.00                400,000.00                        400,000.00
+ANTI-MICROSOMALES(PEROXIDASA-TIROIDES)     999         75.00                 74,925.00                         74,925.00
+ANTI-MIOCARDIO                            1000        190.00                190,000.00                        190,000.00
+ANTI-MITOCONDRIALES                       1000         70.00                 70,000.00                         70,000.00
+ANTI-MUSCULO ESTRIADO                     1000        140.00                140,000.00                        140,000.00
+ANTI-MUSCULO LISO                         1000         70.00                 70,000.00                         70,000.00
+ANTI-RNP-N                                1000         60.00                 60,000.00                         60,000.00
+ANTI-SM SMITH                             1000         60.00                 60,000.00                         60,000.00
+ANTI-SS-A(RO)                             1000         60.00                 60,000.00                         60,000.00
+ANTI-SS-B(IA)                             1000         60.00                 60,000.00                         60,000.00
+ANTI-TIROGLOBULINA                         998         70.00                 69,860.00                         69,860.00
+ANTICOAGULANTE LUPICO                     1000         70.00                 70,000.00                         70,000.00
+ANTICUERPOS HETEROFILOS                   1000         40.00                 40,000.00                         40,000.00
+ANTIESTREPTOLISINA(ASO)                    999         50.00                 49,950.00                         49,950.00
+ANTIESTREPTOLISINAS(ASO)                  1000         50.00                 50,000.00                         50,000.00
+ANTIPROTEINA SOLUBLE HEPATICA(I.S.P)      1000        260.00                260,000.00                        260,000.00
+ANTITROMBINAIII,FUNCIONAL                 1000         75.00                 75,000.00                         75,000.00
+APOLIPOPROTEINA A1                        1000         70.00                 70,000.00                         70,000.00
+APOLIPOPROTEINA B                         1000         70.00                 70,000.00                         70,000.00
+AQUASOL 5% REGENERADOR 5% X60G               2         35.00     26.50           70.00            53.00            17.00
+ARSENICO EN SUERO                         1000        150.00                150,000.00                        150,000.00
+ARSENICO ORINA 24HRS                      1000        180.00                180,000.00                        180,000.00
+ARTRIPLUS 10MG CAJAX10COMPRIMIDOS            1         82.00     60.00           82.00            60.00            22.00
+ARTROCENTESIS-TRAUMATOLOGIA               1000         40.00                 40,000.00                         40,000.00
+ASCA/ANTISACCHAROMYCESCEREVISIAE IGG-IGA  1000        240.00                240,000.00                        240,000.00
+ASCORBIC-C + MATERIAL DE APLICACION          9        120.00     33.50        1,080.00           301.50           778.50
+ASO                                        997         50.00                 49,850.00                         49,850.00
+ASO LATEX                                  982         20.00                 19,640.00                         19,640.00
+ASPERGILOSIS,ANTICUERPOS A                1000         70.00                 70,000.00                         70,000.00
+ASPIRACION GANGLION                       1000         20.00                 20,000.00                         20,000.00
+ASPIRACION SUCCION DE REFLUJO                4         25.00                    100.00                            100.00
+ASSA 81MG CAJAX100TABLETAS                   1        100.00     75.00          100.00            75.00            25.00
+ASSIS 400 SUSPX220ML                         6         28.00     19.50          168.00           117.00            51.00
+ATENCION A DOMICILIO/DR MARIO             1000         50.00                 50,000.00                         50,000.00
+ATORVASTATINA 20MG  TABX100                  1         60.00     11.80           60.00            11.80            48.20
+ATROPINA SULFATO                             5          4.00      0.60           20.00             3.00            17.00
+AUTOVACUNAS                               1000        450.00                450,000.00                        450,000.00
+AZITROMICINA 200MG/5ML POLV.PARA SUSP.       3         12.00      5.80           36.00            17.40            18.60
+AZITROMICINA 500MG CAJAX30 TABLETAS          1u13     150.00     45.00          215.00            64.50           150.50
+BABY TES CAJAX1                              5          7.00      0.90           35.00             4.50            30.50
+BACIMICINA PLUS 15G CREMA                    1         15.00      9.50           15.00             9.50             5.50
+BANDAS OLIGOCLONALES(LCR)                 1000        650.00                650,000.00                        650,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:31:55
+PRT280()                                                                                                                     Pag.-    4
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+BARBITURICOS ORINA                        1000        300.00                300,000.00                        300,000.00
+BARTONELLA EN SANGRE PERIFERICA           1000         42.00                 42,000.00                         42,000.00
+BARTONELLA HENSELAE IGG                   1000        450.00                450,000.00                        450,000.00
+BARTONELLA HENSELAE IGM                   1000        420.00                420,000.00                        420,000.00
+BATERIA DE BRUCELLAS                       998        220.00                219,560.00                        219,560.00
+BENZODIAZEPINAS ORINA                      999         75.00                 74,925.00                         74,925.00
+BETA 2 GLICOPROTEINA IGG                  1000        140.00                140,000.00                        140,000.00
+BETA 2 GLICOPROTEINA IGM                  1000        140.00                140,000.00                        140,000.00
+BETA 2 MICROGLOBULINA                     1000         65.00                 65,000.00                         65,000.00
+BETA2 MICROGLOBULINA ORINA                1000        100.00                100,000.00                        100,000.00
+BETAFLEXIL 5MG/2MG/1ML  INYECTABLE           5         35.00     35.00          175.00           175.00                 
+BETAMETASONA 0,05% CREMAX20G                 6          3.60      1.80           21.60            10.80            10.80
+BETAPLUSS 0.05%                              3         11.00      2.00           33.00             6.00            27.00
+BETASERC 16MG CAJAX20TABLETAS                2         80.00     61.00          160.00           122.00            38.00
+BETASERC 24MG CAJAX20TABLETAS                2         80.00     60.00          160.00           120.00            40.00
+BICARBONATO SERICO                        1000         40.00                 40,000.00                         40,000.00
+BICARBONATO SERICO(CO2TOTAL)              1000         40.00                 40,000.00                         40,000.00
+BICARBONATO SERICO(GASES ARTERIALES)      1000         60.00                 60,000.00                         60,000.00
+BILICULTIVO-CUERDA ENCAPSULADA            1000        120.00                120,000.00                        120,000.00
+BILIRRUBINAS                               997         20.00                 19,940.00                         19,940.00
+BIOGAIA SOL ORAL 5ML                         1         52.00     45.00           52.00            45.00             7.00
+BIOPSIA CHICA                             1000        100.00                100,000.00                        100,000.00
+BIOPSIA GRANDE                            1000        190.00                190,000.00                        190,000.00
+BIPROFENID 150MG/COMPRIMIDO CAJAX10          9         51.00     40.00          459.00           360.00            99.00
+BISTURI CAJAX100                             1u18     200.00     15.00          236.00            17.70           218.30
+BK DIRECTO                                 936         15.00                 14,040.00                         14,040.00
+BK LIQUIDOS                                999         28.00                 27,972.00                         27,972.00
+BK LIQUIDOS                               1000         28.00                 28,000.00                         28,000.00
+BK PCR(RESISTENCIA A RIFAMPICINA)         1000        750.00                750,000.00                        750,000.00
+BK/RESISTENCIA A RIFAMP. E ISONIACIDAMDF  1000        750.00                750,000.00                        750,000.00
+BLASTOMYCES,ANTICUERPOS                   1000        150.00                150,000.00                        150,000.00
+BOLSA COLECT DE ORINA 100ML  PEDIATRICA      8          4.00      0.50           32.00             4.00            28.00
+BOLSA COLECTORA DE ADULTO                    2         10.00      2.20           20.00             4.40            15.60
+BONACOXIB 90MG CAJAX14TABLETAS               2         49.00     25.50           98.00            51.00            47.00
+BONACOXIB EUTIROX 60MG CAJAX14 TABLETAS      3         42.00     21.00          126.00            63.00            63.00
+BONCHECK 50MCG CAJAX50 CAPSULAS              2         50.00     15.00          100.00            30.00            70.00
+BONCHECK/LEVOTIROXINA 100MG CAJAX50TABL      1         80.00     16.30           80.00            16.30            63.70
+BORDETELLA PERTUSIS IGG                   1000        250.00                250,000.00                        250,000.00
+BORDETELLA PERTUSIS IGM                   1000        250.00                250,000.00                        250,000.00
+BORRELIA BURGDORFERI,IGG                  1000        100.00                100,000.00                        100,000.00
+BORRELIA BURGDORFERI,IGM                  1000        200.00                200,000.00                        200,000.00
+BREXI PLUS 150MG TABLETAX1                   2        100.00     65.00          200.00           130.00            70.00
+BRIMODIN ACETILCISTEINA 100mgx5ml 120ML      1         21.00     14.15           21.00            14.15             6.85
+BRIMODIN ACETILCISTENIA 600MG TABLETA        0u1       50.00     31.00            2.50             1.55             0.95
+BROMELIN 0,88GR SUSP ORALX100ML              3         30.00     20.00           90.00            60.00            30.00
+BRONCHO-VAXOM ADULTOS 7MG CAPSULA            2        270.00    242.00          540.00           484.00            56.00
+BRONCHO-VAXOM NINOS 3,5MG SOBRES             0u29     240.00    181.00          232.00           174.97            57.03
+BRONCO EXPECT POLV PARA SUSP 60ML            1         23.00     14.80           23.00            14.80             8.20
+BRONCOTRIN DILAT PEDRIATICO 120 ML           2         16.50     10.76           33.00            21.52            11.48
+BRUCELLA 2MET                              998         50.00                 49,900.00                         49,900.00
+BRUCELLA AGLU TUBO                         999         50.00                 49,950.00                         49,950.00
+BRUCELLA ANTIC.INCOMPLETOS                 998         30.00                 29,940.00                         29,940.00
+BRUCELLA BLOQUEADORES                     1000         30.00                 30,000.00                         30,000.00
+BRUCELLA FEN DE ZONA                      1000         30.00                 30,000.00                         30,000.00
+BRUCELLA IGG                              1000        110.00                110,000.00                        110,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:31:56
+PRT280()                                                                                                                     Pag.-    5
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+BRUCELLA IGM                              1000        110.00                110,000.00                        110,000.00
+BRUCELLA ROSA DE BENGALA                   997         20.00                 19,940.00                         19,940.00
+BTA EN ORINA                              1000        250.00                250,000.00                        250,000.00
+C1 ESTERASA INHIBIDOR                     1000        130.00                130,000.00                        130,000.00
+CA 125(CANCER DE OVARIO)                  1000         90.00                 90,000.00                         90,000.00
+CA-27.29                                  1000        100.00                100,000.00                        100,000.00
+CA-549                                    1000        100.00                100,000.00                        100,000.00
+CA15-3(CANCER DE MAMA)                    1000         70.00                 70,000.00                         70,000.00
+CA19-9(CANCER DE ESTOMAGO)                 991         60.00                 59,460.00                         59,460.00
+CA72-4(CANCER DE PANCREAS)                1000        120.00                120,000.00                        120,000.00
+CADELIUS 600MG FRASCOX30COMPRIMIDOS          3         83.00     53.00          249.00           159.00            90.00
+CADENAS LIGERAS LIBRES EN SUERO           1000        800.00                800,000.00                        800,000.00
+CADMIO EN SANGRE                          1000        190.00                190,000.00                        190,000.00
+CALCIO IONICO                              990         30.00                 29,700.00                         29,700.00
+CALCIO ORINA 24HRS                         998         25.00                 24,950.00                         24,950.00
+CALCIO ORINA SIMPLE                        997         18.00                 17,946.00                         17,946.00
+CALCIO SERICO                              991         20.00                 19,820.00                         19,820.00
+CALCITONINA                                997         90.00                 89,730.00                         89,730.00
+CALCITONINA,DOSAJE                         999         95.00                 94,905.00                         94,905.00
+CALCULO BILIAR                            1000         60.00                 60,000.00                         60,000.00
+CALCULO URINARIO                          1000         60.00                 60,000.00                         60,000.00
+CAMPO QUIRURGICO 90X90CM                     7         16.00      8.00          112.00            56.00            56.00
+CAMPYLOBACTER EX.DIRECTO-GRAM              998         30.00                 29,940.00                         29,940.00
+CAMPYLOBACTER JEJUNI ANTICUERPOS          1000        200.00                200,000.00                        200,000.00
+CANDIDA SP/ANTIFUNGICOS                   1000        130.00                130,000.00                        130,000.00
+CANDIDA,IDENTIFICACION                    1000        130.00                130,000.00                        130,000.00
+CANULA BINASAL TALLA M PEDIATRICA           11          5.00                     55.00                             55.00
+CAPTOPRIL 25mg TABx100                       1u57      50.00      4.50           78.50             7.07            71.44
+CAPTURA HIBRIDOS-PVH                      1000        590.00                590,000.00                        590,000.00
+CARBAMAZEPINA 200MG CAJAX100TABLETAS         1        120.00     70.00          120.00            70.00            50.00
+CARBOXIHEMOGLOBINA                        1000        110.00                110,000.00                        110,000.00
+CARNET DE SANIDAD                          997         70.00                 69,790.00                         69,790.00
+CARNITINA SERICA,DOSAJE                   1000        170.00                170,000.00                        170,000.00
+CAROTENOS                                 1000         40.00                 40,000.00                         40,000.00
+CATECOLAMINAS LIBRES ORINA24HRS           1000         70.00                 70,000.00                         70,000.00
+CATECOLAMINAS PLASMATICA FRACCIONADA      1000        400.00                400,000.00                        400,000.00
+CEA(ANTIGENO CARCINOEMBRIONARIO)           999         60.00                 59,940.00                         59,940.00
+CEA(CANCER DE PULMON Y COLON)              997         65.00                 64,805.00                         64,805.00
+CEFALEXINA 250MG/5ML SUSPX60ML               4          8.50      3.80           34.00            15.20            18.80
+CEFALEXINA 500MG CAJAX100 TABLETAS           2         80.00     43.00          160.00            86.00            74.00
+CEFTRIAXONA 1g AMP CAJAX1OUNID.              4u9       80.00     15.00          392.00            73.50           318.50
+CEFUROXIMA 500MG  TABX50                     1        225.00    137.00          225.00           137.00            88.00
+CELECOXPHARM CAPSULA CAJAX100                1u20     300.00     59.85          360.00            71.82           288.18
+CELULAS DEL ISLOTE,AUTOANTICUERPOS        1000        150.00                150,000.00                        150,000.00
+CELULAS PARIETALES,AUTOANTICUERPOS        1000        150.00                150,000.00                        150,000.00
+CENTROMERO,AUTOANTICUERPOS                1000        150.00                150,000.00                        150,000.00
+CERT. MEDICO LLENADO                       953         30.00                 28,590.00                         28,590.00
+CERTIF. DE MATRIMONIO                      994        140.00                139,160.00                        139,160.00
+CERULOPLASMINA                            1000         80.00                 80,000.00                         80,000.00
+CETIRIZINA 10mg ANTIHISTAMINICO              0u54      80.00     19.00           43.20            10.26            32.94
+CETIRIZINA JARAB 5MG/5ML JARABEX60ML         4          7.00      2.36           28.00             9.44            18.56
+CHAGAS-TRIPANOSOMA-CRUZI IGG              1000        100.00                100,000.00                        100,000.00
+CHLAMYDIA PNEUMONIAE IGG                   999        125.00                124,875.00                        124,875.00
+CHLAMYDIA PNEUMONIAE IGM                   999        125.00                124,875.00                        124,875.00
+CHLAMYDIA PSITACI,IGM ANTICUERPOS         1000        110.00                110,000.00                        110,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:31:57
+PRT280()                                                                                                                     Pag.-    6
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+CHLAMYDIA TRACHOMATIS IGG                  999         60.00                 59,940.00                         59,940.00
+CHLAMYDIA TRACHOMATIS IGM                  999         60.00                 59,940.00                         59,940.00
+CHLAMYDIA TRACHOMATIS PCR                 1000        550.00                550,000.00                        550,000.00
+CICLOSPORINA                              1000        170.00                170,000.00                        170,000.00
+CIDOBEL 500MG CAPSULA CAJAX100               1        250.00     64.50          250.00            64.50           185.50
+CIFRA 21-1(CK19)                          1000        100.00                100,000.00                        100,000.00
+CIPROBAC 500MG TABX100                       0u64     320.00     50.94          204.80            32.60           172.20
+CIPROCTAL 500MG TABX10                       0u19     120.00     18.00           22.80             3.42            19.38
+CIPROFLOXACINO 0.3% SOLC OFTALMICA 5ML      10         14.00      8.00          140.00            80.00            60.00
+CIPROFLOXACINO 500MG CAJAX100TABLETAS        3u90      70.00     20.00          273.00            78.00           195.00
+CIPROLIN 500MG/TABLETAX10                    1         45.00     43.71           45.00            43.71             1.29
+CIRUGIA MEDIANA                            998        850.00                848,300.00                        848,300.00
+CIRUJIA MENOR                              998        120.00                119,760.00                        119,760.00
+CIRUJIA MENOR                              997        150.00                149,550.00                        149,550.00
+CIRUJIA MENOR                              999         90.00                 89,910.00                         89,910.00
+CISTICERCUS EIA                           1000         80.00                 80,000.00                         80,000.00
+CISTICERCUS LCR WESTERN BLOT              1000         90.00                 90,000.00                         90,000.00
+CISTICERCUS WESTERN BLOT                  1000         90.00                 90,000.00                         90,000.00
+CISTINA ORINA 24HRS                       1000         95.00                 95,000.00                         95,000.00
+CITOMEGALOVIRUS IGG                       1000         60.00                 60,000.00                         60,000.00
+CITOMEGALOVIRUS IGM                       1000         60.00                 60,000.00                         60,000.00
+CITOMEGALOVIRUS,ANTIGENO PP65             1000        190.00                190,000.00                        190,000.00
+CITOQUIMICO LCR                            999        110.00                109,890.00                        109,890.00
+CITOQUIMICO OTROS LIQUIDOS                1000         60.00                 60,000.00                         60,000.00
+CITRATO ORINA 24HRS                        998        200.00                199,600.00                        199,600.00
+CITROCALCIO 1500MG TABX30                    2         45.00     15.30           90.00            30.60            59.40
+CLARITROMICINA 250MX5ML-SUSP ORAL 50ML       1         26.00     15.85           26.00            15.85            10.15
+CLARITROMICINA 500MG CAJAX100                3u78     150.00     72.00          567.00           272.16           294.84
+CLAVUMOX 250MG SUSP ORAL 60ML                4         50.00     30.00          200.00           120.00            80.00
+CLAVUMOX 400MG SUSP ORAL 100ML               2         60.00     46.00          120.00            92.00            28.00
+CLAVUMOX 600 SUSP ORAL                       3         65.00     42.00          195.00           126.00            69.00
+CLAVUMOX 875+125MG FRASCOX14TABLETAS         1         63.00     42.00           63.00            42.00            21.00
+CLENBUVENT JARABE   EXPECTORANTE             4         26.00     18.60          104.00            74.40            29.60
+CLINDAMICINA 300GR CAJAX100CAPSULAS          1u50     100.00     36.00          150.00            54.00            96.00
+CLINDAMICINA AMP 600MG/4ML  CAJAX25          0u15     150.00     52.50           90.00            31.50            58.50
+CLINDAPHARM 300MG CAJAX100CAPSULAS           1        220.00     36.00          220.00            36.00           184.00
+CLONAZEPAM 0.5mg tabletax100                 0u78      80.00     27.00           62.40            21.06            41.34
+CLONAZEPAM 2mg TABx100                       0u94     150.00     35.00          141.00            32.90           108.10
+CLONAZEPAM(RIVOTRIL)                      1000        230.00                230,000.00                        230,000.00
+CLORFENAMINA  2mg/ml JARABEX120ML            2          5.00      1.90           10.00             3.80             6.20
+CLORFENAMINA 10MG/ML AMPOLL CAJX100          0u27     900.00     45.00          243.00            12.15           230.85
+CLORFENAMINA MALEATO 4MG TABX100             1u41      60.00      5.00           84.60             7.05            77.55
+CLORO                                      999         20.00                 19,980.00                         19,980.00
+CLORO ALERGAN 1MG/ML  GOTAS                  2         28.00     20.50           56.00            41.00            15.00
+CLORO ALERGAN 2mg/5ml JARABE 120ML           5         28.00     17.50          140.00            87.50            52.50
+CLORO ORINA 24HRS                         1000         20.00                 20,000.00                         20,000.00
+CLORO ORINA SIMPLE                        1000         20.00                 20,000.00                         20,000.00
+CLORURO DE SODIO 100ML 0,9%                 10          7.00      3.80           70.00            38.00            32.00
+CLORURO SODIO 20% CAJAX25 AMPOLLAS           1         50.00                     50.00                             50.00
+CLOSTRIDIUM DIFFICILE TOXINA A/B          1000         90.00                 90,000.00                         90,000.00
+CLOTRIMAZOL 1% CRE 20g                      13          6.00      2.20           78.00            28.60            49.40
+CLOTRIMAZOL 1% CREMA VAGINAL 40GR            6         28.50      9.70          171.00            58.20           112.80
+CLUVAX 100mg CAJAX3CAPSULAS VAGINALES        3u2       36.00     27.00          132.00            99.00            33.00
+COAGLUINACION                             1000        150.00                150,000.00                        150,000.00
+COAGLUTINACION                            1000        150.00                150,000.00                        150,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:31:58
+PRT280()                                                                                                                     Pag.-    7
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+COAGULACION Y SANGRIA                      996         20.00                 19,920.00                         19,920.00
+COAPROVEL 300MG/25MG TABLETA                18          7.30      4.70          131.40            84.60            46.80
+COBRE EN ORINA SIMPLE                     1000        130.00                130,000.00                        130,000.00
+COBRE SERICO                              1000        110.00                110,000.00                        110,000.00
+COCAINA(BENZOYLECGONINA)                  1000         50.00                 50,000.00                         50,000.00
+COCCIDIOMICOSIS,ANTICUERPOS               1000        120.00                120,000.00                        120,000.00
+CODIPRONT EXP CAJAX10CAPSULAS                2u5       70.00     40.30          175.00           100.75            74.25
+COLAG-HP POTE 420GR                          5        150.00    120.00          750.00           600.00           150.00
+COLESTEROL                                 985         15.00                 14,775.00                         14,775.00
+COLINESTERASA PLASMATICA                  1000         95.00                 95,000.00                         95,000.00
+COMBIZYM COMBIZYM CAJAX20GRAGEAS             1u10      60.00     45.00           90.00            67.50            22.50
+COMPLEJO B JBEx120ML                         6          8.50      2.70           51.00            16.20            34.80
+COMPLEMENTO C'3                           1000         60.00                 60,000.00                         60,000.00
+COMPLEMENTO C'4                           1000         60.00                 60,000.00                         60,000.00
+COMPLEMENTO C'5                           1000        240.00                240,000.00                        240,000.00
+COMPLEMENTO C1Q                           1000         95.00                 95,000.00                         95,000.00
+COMPLEMENTO CH50                          1000         60.00                 60,000.00                         60,000.00
+COMPRESA DE GASA QUIRUG MED48X48             2         15.00                     30.00                             30.00
+CONSTANCIA DE ALTA COVID/PACIENTE CLINIC   996         60.00                 59,760.00                         59,760.00
+CONSTANCIA DE ALTA DE COVID                 99        120.00                 11,880.00                         11,880.00
+CONSTANCIA MEDICA                          973         15.00                 14,595.00                         14,595.00
+CONSTANTES CORPUSCULARES                   999         40.00                 39,960.00                         39,960.00
+CONSUL NEUMOLOGIA/DR CHUNGA                974         80.00                 77,920.00                         77,920.00
+CONSUL-MEDIC/DR.MARIO MOLINA               594         30.00                 17,820.00                         17,820.00
+CONSUL-UROLOGIA/DRA.MAGALY BLAS            883         70.00                 61,810.00                         61,810.00
+CONSULT. DOCTOR MIKELAI                    977         30.00                 29,310.00                         29,310.00
+CONSULT. PSICOLOGIA                        952         50.00                 47,600.00                         47,600.00
+CONSULTA CIRUJIA DR LOZANO                 984         50.00                 49,200.00                         49,200.00
+CONSULTA CIRUJIA DR.AGUIRRE                994         50.00                 49,700.00                         49,700.00
+CONSULTA CONVENIO DR MOLINA                 93         24.00                  2,232.00                          2,232.00
+CONSULTA DOMICILIARIA                      999         40.00                 39,960.00                         39,960.00
+CONSULTA DOMICILIO                          96         50.00                  4,800.00                          4,800.00
+CONSULTA DOMICILIO                         972        100.00                 97,200.00                         97,200.00
+CONSULTA GINECOLOGIA DR. JOHAYRA           994         60.00                 59,640.00                         59,640.00
+CONSULTA GINECOLOGIA+ECO TRANSVAGINAL       92        120.00                 11,040.00                         11,040.00
+CONSULTA GINECOLOGIA+PAP                    99         85.00                  8,415.00                          8,415.00
+CONSULTA NUTRICIONISTA                     982         50.00                 49,100.00                         49,100.00
+CONSULTA SOU                               935         50.00                 46,750.00                         46,750.00
+CONSULTA TRAUMATOLOGIA DOCTOR GOYEN        994         50.00                 49,700.00                         49,700.00
+CONSULTA VIDEOLLAMADA                      100         50.00                  5,000.00                          5,000.00
+CONSULTA VIDEOLLAMADA                      100        100.00                 10,000.00                         10,000.00
+CONSULTA+PAP+ECOGRAFIA TRANSVAGINAL        100        155.00                 15,500.00                         15,500.00
+CONSULTA/DOCTOR CORAL                      992         50.00                 49,600.00                         49,600.00
+CONTRACXIN/OXITOCINA 10UI CAJX10AMPOLLAS     2         45.00                     90.00                             90.00
+CONTROL MICROBIOLOGICO DE AMBIENTES       1000        240.00                240,000.00                        240,000.00
+CONTROL MICROBIOLOGICO DE SUPERFICIES     1000        200.00                200,000.00                        200,000.00
+COOMBS DIRECTO                            1000         30.00                 30,000.00                         30,000.00
+COOMBS INDIRECTO                          1000         40.00                 40,000.00                         40,000.00
+COPROCULTIVO                               984         40.00                 39,360.00                         39,360.00
+COPROCULTIVO CAMPYLOBACTER                 999         60.00                 59,940.00                         59,940.00
+COPROLOGICO FUNCIONAL                      952         40.00                 38,080.00                         38,080.00
+COPROPORFIRINA ORINA 24HRS                1000         60.00                 60,000.00                         60,000.00
+CORTISOL                                   999         40.00                 39,960.00                         39,960.00
+CORTISOL LIBRE ORINA 24HRS                1000         60.00                 60,000.00                         60,000.00
+CORTISOL POST MEDICAMENTO                 1000         90.00                 90,000.00                         90,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:00
+PRT280()                                                                                                                     Pag.-    8
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+CORTISOL(A.M)                              967         45.00                 43,515.00                         43,515.00
+CORTISOL(P.M)                              972         45.00                 43,740.00                         43,740.00
+COVID ANTICUERPOS TOTALES                  558         80.00                 44,640.00                         44,640.00
+COXSAKIEVIRUS B(1-6),ANTICUERPOS          1000        150.00                150,000.00                        150,000.00
+CPK                                        999         40.00                 39,960.00                         39,960.00
+CPK-MB                                     992         60.00                 59,520.00                         59,520.00
+CREATINA                                   920         15.00                 13,800.00                         13,800.00
+CREATINA ORINA 24HRS                      1000         30.00                 30,000.00                         30,000.00
+CREATININA                                 873         15.00                 13,095.00                         13,095.00
+CREATININA DEPURACION                     1000         30.00                 30,000.00                         30,000.00
+CREATININA ORINA 24HRS                    1000         30.00                 30,000.00                         30,000.00
+CREATININA ORINA SIMPLE                   1000         50.00                 50,000.00                         50,000.00
+CRIOAGLUTININAS                           1000         30.00                 30,000.00                         30,000.00
+CRIOGLOBULINAS                            1000         40.00                 40,000.00                         40,000.00
+CRIPTOSPORIDIUM                           1000         65.00                 65,000.00                         65,000.00
+CROMO ORINA 24HRS                         1000        160.00                160,000.00                        160,000.00
+CROMO SERICO                              1000        150.00                150,000.00                        150,000.00
+CROMOGRANINA-A                            1000        450.00                450,000.00                        450,000.00
+CRYPTOCOCCUS LCR,ANTICUERPOS              1000        150.00                150,000.00                        150,000.00
+CRYPTOCOCCUS LCR,ANTIGENO                 1000        150.00                150,000.00                        150,000.00
+CRYPTOCOCCUS SUERO,ANTICUERPOS            1000        140.00                140,000.00                        140,000.00
+CRYPTOCOCCUS SUERO,ANTIGENO               1000        140.00                140,000.00                        140,000.00
+CTX(B CTX)                                1000        150.00                150,000.00                        150,000.00
+CULTIVO ANAEROBICOS                       1000         60.00                 60,000.00                         60,000.00
+CULTIVO BK                                1000         50.00                 50,000.00                         50,000.00
+CULTIVO DE HONGOS                          997         60.00                 59,820.00                         59,820.00
+CULTIVO DE SEC                             957         60.00                 57,420.00                         57,420.00
+CULTIVO DE SEC.CONJUNT.                    996         60.00                 59,760.00                         59,760.00
+CULTIVO DE SEC.VAGINAL                     908         60.00                 54,480.00                         54,480.00
+CULTIVO DE SECRECION                       988         60.00                 59,280.00                         59,280.00
+CULTIVO DE SECRECION FARINGEA              978         60.00                 58,680.00                         58,680.00
+CULTIVO DE SEMEN                           998         60.00                 59,880.00                         59,880.00
+CULTIVO SEC HERIDA                         999         60.00                 59,940.00                         59,940.00
+CULTIVO SECR. URETRAL                       99         65.00                  6,435.00                          6,435.00
+CULTIVO SECRECION CON MIC                 1000        110.00                110,000.00                        110,000.00
+CULTIVO SECRECION OTICA                     97         60.00                  5,820.00                          5,820.00
+CURACION                                   913         10.00                  9,130.00                          9,130.00
+CURACION                                   979         20.00                 19,580.00                         19,580.00
+CURACION SIMPLE-TRAUMATOLOGIA             1000         15.00                 15,000.00                         15,000.00
+CURACION SIN MATERIAL                      998          4.00                  3,992.00                          3,992.00
+CYFRA 21-1                                1000        125.00     63.00      125,000.00        63,000.00        62,000.00
+D-XILOSA,EXCRECION DE                     1000         45.00                 45,000.00                         45,000.00
+DALMATROL PLUS TABx50                        0u35     150.00     90.00          105.00            63.00            42.00
+DECORTEN TAB 4MG CAJAX10                     3u4       15.00      5.00           51.00            17.00            34.00
+DEMODEX FOLLICULORUM,EX.DIRECTO           1000         30.00                 30,000.00                         30,000.00
+DENGUE IGG ANTICUERPOS                    1000         90.00                 90,000.00                         90,000.00
+DENGUE IGM ANTICUERPOS                    1000         90.00                 90,000.00                         90,000.00
+DENGUE,IGG/IGM ANTICUERPOS                1000         80.00                 80,000.00                         80,000.00
+DENSITOMETRIA                              969         40.00                 38,760.00                         38,760.00
+DENSITOMETRIA PROMOCION                    995         25.00                 24,875.00                         24,875.00
+DEPURACION CREATININA                      996         30.00                 29,880.00                         29,880.00
+DEQUAZOL ORAL CAJAX60TABLETAS                1         60.00     44.00           60.00            44.00            16.00
+DESHIDROGENASA LACTICA(DHL)                997         40.00                 39,880.00                         39,880.00
+DESHIDROGENASA LACTICA1(DHL-1)            1000         60.00                 60,000.00                         60,000.00
+DESPISTAJE ALERGICO(41 SUSTANCIAS)        1000        200.00                200,000.00                        200,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:01
+PRT280()                                                                                                                     Pag.-    9
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+DESTOLIT 5% CREMA 30GR                       3         32.00     25.00           96.00            75.00            21.00
+DESTOLIT 5% LOCION X 10ML                    3         50.00     45.50          150.00           136.50            13.50
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100          0u92     400.00     46.00          368.00            42.32           325.68
+DEXAMETASONA 4mg TABx100                     1u15      70.00     20.00           80.50            23.00            57.50
+DEXTROMETORFANO 15MG/5ML JARABE              4         15.00      9.00           60.00            36.00            24.00
+DEXTROSA 5% CONT 1000ML                      2          9.00      5.50           18.00            11.00             7.00
+DHEA(DEHIDROEPIANDROSTERONA)              1000         65.00                 65,000.00                         65,000.00
+DHEA-S                                    1000         60.00                 60,000.00                         60,000.00
+DIARREA INFLAMATORIA                      1000         45.00                 45,000.00                         45,000.00
+DIAZEPAM 10MG/2ML CAJAX100AMPOLLAS           0u89     400.00    150.00          356.00           133.50           222.50
+DIAZEPAM 10mg TABx200                        0u98     140.00     30.00           68.60            14.70            53.90
+DIAZEPAM,DOSAJE                           1000        250.00                250,000.00                        250,000.00
+DICETEL 100MG TABLETA                       28          4.50      2.00          126.00            56.00            70.00
+DICLOFENACO 1% GEL 50GR                      5          8.50      2.90           42.50            14.50            28.00
+DICLOFENACO AMP 75MGx3ML CAJX100             1u7      400.00     32.00          428.00            34.24           393.76
+DICLOFENACO TAB 50MG X100                    0u60     100.00      7.50           60.00             4.50            55.50
+DICLOXACILINA 500MG CAPX100                  0u79     200.00     32.00          158.00            25.28           132.72
+DIFENILHIDANTOINE LIBRE                   1000        100.00                100,000.00                        100,000.00
+DIGOXINA                                  1000         60.00                 60,000.00                         60,000.00
+DIHIDROTESTOSTERONA                       1000        100.00                100,000.00                        100,000.00
+DIMENHIDRATO 50MG TABX100                    0u39      70.00      4.50           27.30             1.76            25.55
+DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25       0u24     150.00     22.80          144.00            21.89           122.11
+DIMERO D                                   925        100.00                 92,500.00                         92,500.00
+DIPROSPAN/INYECTABLE                         4         33.00     18.00          132.00            72.00            60.00
+DIXI 35 CAJAX21 COMPRIMIDOS                  4         50.00     31.00          200.00           124.00            76.00
+DOBESILATO CALCICO 500MG TABX100             0u19     120.00     28.50           22.80             5.41            17.39
+DOLO NEUROBION FORTE CAJAX200 TABLETAS       1        360.00    260.00          360.00           260.00           100.00
+DOLOCHECK 400MG X 100TABLETA                 1        100.00     27.00          100.00            27.00            73.00
+DOLODRAN EXTRA FORTE 50MG/500MG TABX100      0u59     150.00     20.00           88.50            11.80            76.70
+DOLORAL - IBUPR100MG/5ML JARB60ML            4         12.00      9.40           48.00            37.60            10.40
+DOSAJE DE VALPROATO                        999         70.00                 69,930.00                         69,930.00
+DOXICICLINA 100MG CAPX100                    1u16      90.00     15.50          104.40            17.98            86.42
+DOXIPROCT TUBO12GR POMADA RECTAL             1         30.00     23.00           30.00            23.00             7.00
+DROGAS PANEL 10D                          1000        210.00                210,000.00                        210,000.00
+DROGAS PANEL 3D(COCA+MARI+EXT)            1000        120.00                120,000.00                        120,000.00
+DROGAS PANEL 5D                           1000        150.00                150,000.00                        150,000.00
+ECHOVIRUS,ANTICUERPOS(4,9,11,30)          1000        300.00                300,000.00                        300,000.00
+ECO ABDOMEN INFERIOR                       992         75.00                 74,400.00                         74,400.00
+ECO ABDOMEN SUPERIOR                       964         75.00                 72,300.00                         72,300.00
+ECO ABDOMEN TOTAL                          791        130.00                102,830.00                        102,830.00
+ECO APENDICE                              1000         55.00                 55,000.00                         55,000.00
+ECO BAZO                                  1000         55.00                 55,000.00                         55,000.00
+ECO ESTOMAGO                              1000         55.00                 55,000.00                         55,000.00
+ECO HIGADO                                 999         55.00                 54,945.00                         54,945.00
+ECO PANCREAS                              1000         55.00                 55,000.00                         55,000.00
+ECO PELVICA                                974         75.00                 73,050.00                         73,050.00
+ECO PROSTATICA                             989         55.00                 54,395.00                         54,395.00
+ECO RENAL                                  987         70.00                 69,090.00                         69,090.00
+ECO TRANSVAGINAL                           738         75.00                 55,350.00                         55,350.00
+ECO URINARIA COMPLETA                      912         90.00                 82,080.00                         82,080.00
+ECO VEJIGA                                 995         55.00                 54,725.00                         54,725.00
+ELECT+DENSITO+EX LABORATORIO                10        150.00                  1,500.00                          1,500.00
+ELECTROCARDIOGRAMA                         876         50.00                 43,800.00                         43,800.00
+ELECTROFORESIS HEMOGLOBINA                1000         90.00                 90,000.00                         90,000.00
+ELECTROLITOS                               990         50.00                 49,500.00                         49,500.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:02
+PRT280()                                                                                                                     Pag.-   10
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+ELECTROLITOS ORINA 24HRS                  1000         50.00                 50,000.00                         50,000.00
+ELECTROLITOS ORINA SIMPLE                 1000         50.00                 50,000.00                         50,000.00
+ELECTROLITOS SUERO                        1000         50.00                 50,000.00                         50,000.00
+ELVENIR 37,5GR/COMPRIMIDO CAJAX30            1        300.00    198.00          300.00           198.00           102.00
+ENA PERFIL EXTENDIDO(LINEBLOT)            1000        350.00                350,000.00                        350,000.00
+ENALAPRIL 10MG CAJAX100                      0u50      20.00      5.20           10.00             2.60             7.40
+ENALAPRIL 20mg TABLETA 100                   0u66      50.00      8.50           33.00             5.61            27.39
+ENDOMISIO,AUTOANTICUERPOS                 1000        210.00                210,000.00                        210,000.00
+ENDOVENOSO                                 989         20.00                 19,780.00                         19,780.00
+ENDOVENOSO DOMICILIO                        95         40.00                  3,800.00                          3,800.00
+ENDOVENOSO INSULINA ISOFANA HUMANA         491         20.00                  9,820.00                          9,820.00
+ENOXAPARINA 60 MG/0.6 AMPOLLA                4        150.00                    600.00                            600.00
+ENTEROGERMINA AMP BEBI 5MLx10                2u7       45.00     25.50          121.50            68.85            52.65
+EOSINOFILOS,RECUENTO DE                   1000         40.00                 40,000.00                         40,000.00
+EOSINOFILOS,RECUENTO EN ORINA             1000         40.00                 40,000.00                         40,000.00
+EPINEFRINA 1MG/ML CAJAX10AMPOLLAS            1         45.00     28.00           45.00            28.00            17.00
+EPSTEIN BARR(EARLY)ANTIGENO TEMPRANO      1000        120.00                120,000.00                        120,000.00
+EPSTEIN BARR(EBNA)IGG                     1000         60.00                 60,000.00                         60,000.00
+EPSTEIN BARR(EBNA)IGM                     1000         60.00                 60,000.00                         60,000.00
+EPSTEIN BARR(VCA)IGG                      1000         55.00                 55,000.00                         55,000.00
+EPSTEIN BARR(VCA)IGM                      1000         55.00                 55,000.00                         55,000.00
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN     3u10     100.00     32.50          340.00           110.50           229.50
+ERITROPOYETINA                             999        100.00                 99,900.00                         99,900.00
+ESOMEPRAZOL 40MG TABX30                      0u1       30.00     18.00            1.00             0.60             0.40
+ESPASMO ANTALGINA 250mg+10mg tableta 100     1u39     180.00     86.00          250.20           119.54           130.66
+ESPASMO ANTALGINA AMPOLLA                    4         25.00     13.50          100.00            54.00            46.00
+ESPECULO                                    49          5.00      1.50          245.00            73.50           171.50
+ESPERMATOGRAMA                             999         80.00                 79,920.00                         79,920.00
+ESPIROMETRIA                                91         60.00                  5,460.00                          5,460.00
+ESPIRONOLACTONA 25MG TABX100                 0u70      50.00     22.00           35.00            15.40            19.60
+ESPONJ DE GASA MEDIKIT MED5X5               21          2.00                     42.00                             42.00
+ESTRADIOL                                 1000         50.00                 50,000.00                         50,000.00
+ESTRADIOL LIBRE                           1000        150.00                150,000.00                        150,000.00
+ESTRADIOL(ESTROGENO)                      1000         40.00                 40,000.00                         40,000.00
+ESTREPTOCOCO BETA HEMOLITICO              1000         75.00                 75,000.00                         75,000.00
+ESTRIOL LIBRE                              999         70.00                 69,930.00                         69,930.00
+ETANOL EN SALIVA                          1000         70.00                 70,000.00                         70,000.00
+ETANOL EN SANGRE(ALCOHOL ETILICO)         1000        100.00                100,000.00                        100,000.00
+EXAMEN DE CONCIENCIA/PSICOLOGIA              9        120.00                  1,080.00                          1,080.00
+EXAMEN DIRECTO-GRAM                        995         30.00                 29,850.00                         29,850.00
+EXAMEN LABORATORIO PAQUETE BOTICAS         979         30.00                 29,370.00                         29,370.00
+EXTASIS                                   1000         50.00                 50,000.00                         50,000.00
+EXTRACCION DE UNAS                         993         40.00                 39,720.00                         39,720.00
+FACTOR II                                 1000        830.00                830,000.00                        830,000.00
+FACTOR INTRINSECO,AUTOANTICUERPO          1000        160.00                160,000.00                        160,000.00
+FACTOR IX                                 1000        160.00                160,000.00                        160,000.00
+FACTOR REMATOIDE HUACHO                    993         15.00                 14,895.00                         14,895.00
+FACTOR REUMATOIDE CUANTITATIVO             996         50.00                 49,800.00                         49,800.00
+FACTOR V                                  1000        160.00                160,000.00                        160,000.00
+FACTOR V(LEIDEN MUTANTE)PCR               1000       1250.00              1,250,000.00                      1,250,000.00
+FACTOR VII                                1000        140.00                140,000.00                        140,000.00
+FACTOR VIII                               1000        170.00                170,000.00                        170,000.00
+FACTOR VIII,INHIBIDORES CIRCULANTES       1000        550.00                550,000.00                        550,000.00
+FACTOR VON-WILLEBRAND ANTIGENO            1000        350.00                350,000.00                        350,000.00
+FACTOR X                                  1000        170.00                170,000.00                        170,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:03
+PRT280()                                                                                                                     Pag.-   11
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+FACTOR XI                                 1000        180.00                180,000.00                        180,000.00
+FACTOR XII                                1000        180.00                180,000.00                        180,000.00
+FACTOR XIII                               1000        300.00                300,000.00                        300,000.00
+FASCIOLA ANTICUERPOS TOTALES              1000        200.00                200,000.00                        200,000.00
+FASCIOLA WESTERN BLOT                     1000        140.00                140,000.00                        140,000.00
+FASTUM TUBO 30GR GEL                         7         24.00     13.00          168.00            91.00            77.00
+FENAZOPHARM 100MG CAJAX100TABLETAS           0u69     100.00     43.50           69.00            30.02            38.99
+FENAZOPIRIDINA 100mg TABLETA CAJA X 100      1u17      50.00     22.00           58.50            25.74            32.76
+FENILALANINA CUANTITATIVA                 1000         80.00                 80,000.00                         80,000.00
+FENILCETONURIA PKU                        1000         80.00                 80,000.00                         80,000.00
+FENITOINA SODICA 50MG/ML CAJAX10AMPOLLAS     1         40.00     26.00           40.00            26.00            14.00
+FENITOINA(DIFENILHIDANTONINA DPH)         1000         60.00                 60,000.00                         60,000.00
+FENOBARBITAL(PB)                          1000         60.00                 60,000.00                         60,000.00
+FENOMENO LE                               1000         50.00                 50,000.00                         50,000.00
+FERRIMAX 50MG/5ML JARABX150ML                1         51.00     38.50           51.00            38.50            12.50
+FERRIMAX 50MG/ML SOLC 30ML                   2         42.00     38.50           84.00            77.00             7.00
+FERRITINA                                  996         60.00                 59,760.00                         59,760.00
+FERRITINA SERICA                           998         50.00                 49,900.00                         49,900.00
+FIBRINOGENO                               1000         60.00                 60,000.00                         60,000.00
+FITOMENADIONA 10MG/ML CAJAX50AMPOLLAS        0u43     250.00     40.00          215.00            34.40           180.60
+FLAGYL  125mg/5ml 120ML                      6         36.00     23.50          216.00           141.00            75.00
+FLAGYL 500MG TABX20                          5u16      32.00     14.80          185.60            85.84            99.76
+FLAGYL SUSPENSION 250MG/5ML                  1         42.00     21.00           42.00            21.00            21.00
+FLORA BALANCE FCOSx10                        0u8       50.00     25.00           40.00            20.00            20.00
+FLUCONAZOL 150mg ANTIMICOTICO CAJAX2        15          2.00      0.70           30.00            10.50            19.50
+FLUIMICIL 600MG CAJAX20 TABLETAS             7u10     120.00     66.00          900.00           495.00           405.00
+FOSF ALCA ISOENZIMAS                      1000         80.00                 80,000.00                         80,000.00
+FOSF ALCA LEUCOCITARIA-FAL                1000        100.00                100,000.00                        100,000.00
+FOSFATASA AC POSTATICA                    1000         30.00                 30,000.00                         30,000.00
+FOSFATASA AC TOTAL                        1000         30.00                 30,000.00                         30,000.00
+FOSFATASA ALCALINA                         999         40.00                 39,960.00                         39,960.00
+FOSFATOS EN ORINA 24HRS                   1000         40.00                 40,000.00                         40,000.00
+FOSFORO                                    999         25.00                 24,975.00                         24,975.00
+FOSFORO ORINA 24HRS                       1000         25.00                 25,000.00                         25,000.00
+FOSPOLIPIDOS SERICOS                      1000         60.00                 60,000.00                         60,000.00
+FRAGILIDAD OSMOTICA/GLOBULAR              1000         60.00                 60,000.00                         60,000.00
+FRASCO DE HECES                            140          1.50      0.55          210.00            77.00           133.00
+FRASCO ORINA ESTERIL                         1          1.50                      1.50                              1.50
+FROTIS DIRECTO(KOH-HONGOS)                 842         25.00                 21,050.00                         21,050.00
+FRUCTOSAMINA                              1000         80.00                 80,000.00                         80,000.00
+FRUTENZIMA CAPSULA CAJAX120                  2u1      180.00    120.00          361.50           241.00           120.50
+FSH                                        997         45.00                 44,865.00                         44,865.00
+FTA ABS IGM                                998        200.00                199,600.00                        199,600.00
+FTA-ABS                                    998         60.00                 59,880.00                         59,880.00
+FTA-ABS EN L.C.R                          1000         70.00                 70,000.00                         70,000.00
+FUNCADEN 1% CREMA 20GR                       2         20.00                     40.00                             40.00
+FUROSEMIDA AMP 20MGx2ML AMP X50              0u25     425.00     40.00          212.50            20.00           192.50
+FUROSEMIDA TAB 40MGx100                      0u86      30.00      6.00           25.80             5.16            20.64
+G.G.T.P                                    944         50.00                 47,200.00                         47,200.00
+GAD AUTOANTICUERPOS                       1000        330.00                330,000.00                        330,000.00
+GALACTOMANANO                             1000        390.00                390,000.00                        390,000.00
+GAMALATE B6 SOLx80ML                         1         68.00     28.00           68.00            28.00            40.00
+GAMMA GLUTAMIL TRANSPEPTIDASA              963         40.00                 38,520.00                         38,520.00
+GAMMAGLOBULINA                            1000         40.00                 40,000.00                         40,000.00
+GASA ESTERIL  5X5 CAJAX20UNID                0u16      50.00                     40.00                             40.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:05
+PRT280()                                                                                                                     Pag.-   12
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+GASA ESTERIL 7.5X7.5CM CAJAX50               0u22     150.00     40.00           66.00            17.60            48.40
+GASA ESTERIL MED.10X10CM CAJAX20UNID         1u16      70.00     15.00          126.00            27.00            99.00
+GASA PARAFINADA PARA QUEMADURAS              8         10.00                     80.00                             80.00
+GASEOPHAR SIMETICONA 80mg/ml gotas 15ML      6          7.00      4.00           42.00            24.00            18.00
+GASES ARTERIALES                          1000         60.00                 60,000.00                         60,000.00
+GASES ARTERIALES-SANGRE VENOSA             999         60.00                 59,940.00                         59,940.00
+GASTRINA                                  1000         80.00                 80,000.00                         80,000.00
+GASTRORAL SUSP X 200ML                       1         21.50     13.50           21.50            13.50             8.00
+GEMFIBROZILO 600 TABx100                     0u63     100.00     20.70           63.00            13.04            49.96
+GENTAMICINA  160MG/2ML AMPOLL CAJAX25        1u5      150.00     13.50          180.00            16.20           163.80
+GINGISONA B 0,30% SOLX15ML SPRAY             3         28.00     22.00           84.00            66.00            18.00
+GINGISONA LNF TOQUES SOL. 30ML               3         18.00      9.20           54.00            27.60            26.40
+GLIADINA,ANTICUERPOS IGA                  1000        170.00                170,000.00                        170,000.00
+GLUCAGON                                  1000        100.00                100,000.00                        100,000.00
+GLUCAGON 60'                              1000         90.00                 90,000.00                         90,000.00
+GLUCOSA                                      6         10.00                     60.00                             60.00
+GLUCOSA 6 FOSF DESHIDRO-G6PDH             1000        100.00                100,000.00                        100,000.00
+GLUCOSA ANHIDRA 100GR                       10         15.00     10.20          150.00           102.00            48.00
+GLUCOSA BASAL Y PP                        1000         30.00                 30,000.00                         30,000.00
+GLUCOSA POST PRANDIAL                      999         15.00                 14,985.00                         14,985.00
+GLUCOSA TOLE 1HR                          1000         40.00                 40,000.00                         40,000.00
+GLUCOSA TOLE 2HRS                         1000         60.00                 60,000.00                         60,000.00
+GLUCOSA TOLE 3HRS                         1000         80.00                 80,000.00                         80,000.00
+GLUCOSA TOLE 4HRS                         1000        110.00                110,000.00                        110,000.00
+GLUCOSA TOLE 5HRS                         1000        120.00                120,000.00                        120,000.00
+GLUCOTECH                                   31         10.00                    310.00                            310.00
+GOTA GRUESA                               1000         30.00                 30,000.00                         30,000.00
+GRAM                                       999         15.00                 14,985.00                         14,985.00
+GRASAS EN HECES(CUALITATIVO)              1000         24.00                 24,000.00                         24,000.00
+GRAVOL 50MG TABX100                          0u93     310.00    150.00          288.30           139.50           148.80
+GRUPO GARCIA PRUEBA COVID                   10         49.90                    499.00                            499.00
+GRUPO GARCIA RX TORAX                       10         49.90                    499.00                            499.00
+GRUPO GARCIA VITAMINA C                     10         89.90                    899.00                            899.00
+GRUPO SANGUINEO/FACTOR RH                  983         20.00                 19,660.00                         19,660.00
+GUANTES QUIRURG IDEAL TALLA7 CAJAX50         0u12     250.00     46.00           60.00            11.04            48.96
+GUANTES QUIRUUG TALLA7.5                    33          5.00      2.00          165.00            66.00            99.00
+GUARDIA LAMBLIA,ANTICUERPOS               1000        240.00                240,000.00                        240,000.00
+HAM,TEST DE(HPN)                          1000         55.00                 55,000.00                         55,000.00
+HANTAVIRUS ANTICUERPOS IGG-IGM            1000        390.00                390,000.00                        390,000.00
+HAPTOGLOBINA                              1000         70.00                 70,000.00                         70,000.00
+HCG CADENAS LIBRES BETA                   1000        200.00                200,000.00                        200,000.00
+HCG PRUEBA DE EMBARAZO                     667         15.00                 10,005.00                         10,005.00
+HCG SUB UNIDAD BETA CUANTITATIVO           990         45.00                 44,550.00                         44,550.00
+HCG/HOMBRE                                 999         95.00                 94,905.00                         94,905.00
+HDL COLESTEROL                            1000         20.00                 20,000.00                         20,000.00
+HDL(DEHIDROGENASA LACTICA)                1000         50.00                 50,000.00                         50,000.00
+HELICOBACTER PYLORI  IGG                   958         60.00                 57,480.00                         57,480.00
+HELICOBACTER PYLORI IGM                    556         50.00                 27,800.00                         27,800.00
+HEMOCULTIVO                               1000         70.00                 70,000.00                         70,000.00
+HEMOG. AUTOMATIZADO                        996         35.00                 34,860.00                         34,860.00
+HEMOG. GLICOSILADA                         797         55.00                 43,835.00                         43,835.00
+HEMOGLOBINA A2,CUANTITATIVA               1000        150.00                150,000.00                        150,000.00
+HEMOGLOBINA DESCUENTO VASO DE LECHE        987          5.00                  4,935.00                          4,935.00
+HEMOGLOBINA F,CUANTITATIVA                1000        140.00                140,000.00                        140,000.00
+HEMOGLOBINA HEMATOCRITO(HB-HTO)            997         20.00                 19,940.00                         19,940.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:06
+PRT280()                                                                                                                     Pag.-   13
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+HEMOGLOBINA/HEMATOCRITO                    778         10.00                  7,780.00                          7,780.00
+HEMOGLOBINA/HEMATOCRITO PARA COLEGIO       968          7.00                  6,776.00                          6,776.00
+HEMOGR+PERF LIPIDICO+PERFIL HEPATICO         5        100.00                    500.00                            500.00
+HEMOGRAMA COMPLETO                          33         25.00                    825.00                            825.00
+HEMOSIDERINA ORINA SIMPLE                 1000         45.00                 45,000.00                         45,000.00
+HEPABIONTA DE 2ML AMPOLL CAJAX1             17         19.00      6.00          323.00           102.00           221.00
+HEPABIONTA GRAGEAS CAJAX200                  1u59     500.00    306.00          647.50           396.27           251.23
+HEPATITIS A ANTICUERPOS TOTALES            999         70.00                 69,930.00                         69,930.00
+HEPATITIS A IGM                            997         80.00                 79,760.00                         79,760.00
+HEPATITIS A,HAV IgM                        997         80.00                 79,760.00                         79,760.00
+HEPATITIS B CARGA VIRAL                   1000                                                                          
+HEPATITIS B CORE ANTICUERPOS TOTALES      1000         65.00                 65,000.00                         65,000.00
+HEPATITIS B CORE IGM                      1000         65.00                 65,000.00                         65,000.00
+HEPATITIS B DNA-POLIMERASA                1000        190.00                190,000.00                        190,000.00
+HEPATITIS B,ANTI HB Ag(AUST)               995         60.00                 59,700.00                         59,700.00
+HEPATITIS BE ANTICUERPOS                  1000         80.00                 80,000.00                         80,000.00
+HEPATITIS BE ANTIGENO                     1000         60.00                 60,000.00                         60,000.00
+HEPATITIS BS ANTIC.CUANT                  1000         75.00                 75,000.00                         75,000.00
+HEPATITIS BS ANTIGENO AUSTRALI             999         60.00                 59,940.00                         59,940.00
+HEPATITIS C CARGA VIRAL                   1000                                                                          
+HEPATITIS C GENOTIPIFICACION              1000                                                                          
+HEPATITIS C HCV 3RA GENERACION             998         85.00                 84,830.00                         84,830.00
+HEPATITIS C PCR                           1000        590.00                590,000.00                        590,000.00
+HEPATITIS C-RIBA                          1000        350.00                350,000.00                        350,000.00
+HEPATITIS D ANTICUERPOS IGG               1000        120.00                120,000.00                        120,000.00
+HEPATITIS D ANTICUERPOS IGM               1000        190.00                190,000.00                        190,000.00
+HEPATITIS E ANTICUERPOS IGG               1000        160.00                160,000.00                        160,000.00
+HEPATITIS E ANTICUERPOS IGM               1000        160.00                160,000.00                        160,000.00
+HEPATITISB,ANTI HB Ag(AUST)               1000         60.00                 60,000.00                         60,000.00
+HERPETINO LIP-BALM 10ml unguento labios      3         30.00     21.98           90.00            65.94            24.06
+HIBRIDIZACION IN SITU(PBA.MOLECULAR)      1000        450.00                450,000.00                        450,000.00
+HIDATIDOSIS ELISA                          999        150.00                149,850.00                        149,850.00
+HIDATIDOSIS WESTERN BLOT                  1000        100.00                100,000.00                        100,000.00
+HIDATIDOSIS(ARCO V)                       1000         85.00                 85,000.00                         85,000.00
+HIDROCLOROTIAZIDA 50MG TABX200               0u154     60.00      4.20           46.20             3.23            42.97
+HIDROCORTISONA 100MG AMPOLLA CAJAX10UNID     0u7       80.00     50.00           56.00            35.00            21.00
+HIDROCORTISONA 250MG AMPOLLA CAJAX10UNID     1u5      200.00    100.00          300.00           150.00           150.00
+HIDROXICLOROQUINA 400MG CAJAX30TABLETAS      1        150.00     75.00          150.00            75.00            75.00
+HIDROXIPROLINA ORINA 24HRS                1000         65.00                 65,000.00                         65,000.00
+HIDROXOCOBALAMINA 1MG/ML AMP X25             1u2      425.00    220.00          459.00           237.60           221.40
+HIERRO SERICO                              998         30.00                 29,940.00                         29,940.00
+HIERRO SERICO Y TRANS                     1000         70.00                 70,000.00                         70,000.00
+HILO DE SUTURA                              74          6.00      3.90          444.00           288.60           155.40
+HIOSCINA 20MG AMPOLLA CAJAX25UNID.           1u5      125.00     34.00          150.00            40.80           109.20
+HIRUDOID FORTE POMADA 14GR                   3         19.00     12.00           57.00            36.00            21.00
+HISTONA ANTICUERPOS                       1000         80.00                 80,000.00                         80,000.00
+HISTOPLASMA ANTICUERPOS TOTALES           1000         80.00                 80,000.00                         80,000.00
+HISTOPLASMA ANTIGENO EN ORINA             1000        420.00                420,000.00                        420,000.00
+HIV                                        916         30.00                 27,480.00                         27,480.00
+HIV ANTIGENO ANTICUERPO                    998         70.00                 69,860.00                         69,860.00
+HIV CARGA VIRAL                           1000        720.00                720,000.00                        720,000.00
+HIV PCR                                   1000        960.00                960,000.00                        960,000.00
+HIV-P24                                   1000        200.00                200,000.00                        200,000.00
+HIV-WB                                    1000        230.00                230,000.00                        230,000.00
+HLA-B27                                   1000        350.00                350,000.00                        350,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:07
+PRT280()                                                                                                                     Pag.-   14
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+HOMOCISTEINA SERICA                       1000        200.00                200,000.00                        200,000.00
+HONGOS EXAMEN DIRECTO                      999         30.00                 29,970.00                         29,970.00
+HORM.CRECI.POSTESTIMULACION               1000         60.00                 60,000.00                         60,000.00
+HORMONA ANTI MULLERIANA(AMH/MIS)          1000        340.00                340,000.00                        340,000.00
+HORMONA ANTIDIURETICA(ADH-VASOPRESINA)    1000        220.00                220,000.00                        220,000.00
+HORMONA DE CRECIMIENTO                     998         60.00                 59,880.00                         59,880.00
+HORMONAL FEMENINO(FSH-LH ESTRADIOL)        996        200.00                199,200.00                        199,200.00
+HTLV-1(W.B.)                              1000        200.00                200,000.00                        200,000.00
+HTLV-I/II(EIA)                            1000         85.00                 85,000.00                         85,000.00
+HU ANTICUERPOS                            1000        250.00                250,000.00                        250,000.00
+HYALU-PLUS 30MG/2ML INYECTABLE               1        240.00    190.00          240.00           190.00            50.00
+IBANCHECK/PREGABALINA150MG CAJX30CAPSU       4        120.00     35.00          480.00           140.00           340.00
+ICOV IGA   CUANTITATIVA                    999        150.00    112.10      149,850.00       111,987.90        37,862.10
+ICOV IGG CUANTITATIVA                      994        150.00                149,100.00                        149,100.00
+IDELLE/M ESTRIOL 0.1% CREMA 15GR             3         16.00      7.50           48.00            22.50            25.50
+IDENTIFICACION DE BACTERIA                1000         75.00                 75,000.00                         75,000.00
+IDENTIFICACION DE PARASITO                1000         40.00                 40,000.00                         40,000.00
+IFI VIRAL EN HISOPADO NASAL-FARINGEO      1000        290.00                290,000.00                        290,000.00
+IMNUGLOBULINA(G-M-A)                      1000        130.00                130,000.00                        130,000.00
+INDICE DE SATURACION DE TRANSFERRINA      1000         65.00                 65,000.00                         65,000.00
+INFILTRACION                               999         40.00                 39,960.00                         39,960.00
+INFILTRACION-TRAUMATOLOGIA                1000         40.00                 40,000.00                         40,000.00
+INFILTRACI[ON CICATRIZ                     999         30.00                 29,970.00                         29,970.00
+INFLUENZA TIPO B,ANTICUERPOS              1000        180.00                180,000.00                        180,000.00
+INFLUENZA TIPOA,ANTICUERPOS               1000        220.00                220,000.00                        220,000.00
+INFLUENZA TIPOA/B HISOPADO                1000        320.00                320,000.00                        320,000.00
+INHIBINA A                                1000        150.00                150,000.00                        150,000.00
+INHIBINA B                                1000        250.00                250,000.00                        250,000.00
+INMUNOFIJACION EN ORINA                   1000        190.00                190,000.00                        190,000.00
+INMUNOFIJACION EN SUERO                   1000        170.00                170,000.00                        170,000.00
+INMUNOGLOBULINA A                          998         50.00                 49,900.00                         49,900.00
+INMUNOGLOBULINA E                          968         60.00                 58,080.00                         58,080.00
+INMUNOGLOBULINA G                          999         60.00                 59,940.00                         59,940.00
+INMUNOGLOBULINA G-SUBCLASES               1000        200.00                200,000.00                        200,000.00
+INMUNOGLOBULINA M                          999         50.00                 49,950.00                         49,950.00
+INMUNOGLOBULINAS(G-M-A)                   1000        130.00                130,000.00                        130,000.00
+INMUNOHISTOQUIMICOS,MARCADORES            1000        330.00                330,000.00                        330,000.00
+INSULINA                                   916         50.00                 45,800.00                         45,800.00
+INSULINA 120 MINUTOS                      1000         60.00                 60,000.00                         60,000.00
+INSULINA 180 MINUTOS                      1000         60.00                 60,000.00                         60,000.00
+INSULINA 30 MINUTOS                        999         60.00                 59,940.00                         59,940.00
+INSULINA 60 MINUTOS                        999         60.00                 59,940.00                         59,940.00
+INSULINA 90 MINUTOS                       1000         60.00                 60,000.00                         60,000.00
+INSULINA B,30,60,90,120                   1000        150.00                150,000.00                        150,000.00
+INSULINA B,30,60,90,120,180               1000        160.00                160,000.00                        160,000.00
+INSULINA POST-PRANDIAL                    1000         60.00                 60,000.00                         60,000.00
+INYECTABLE                                 782          3.00                  2,346.00                          2,346.00
+INYECTABLE DOMICILIO DOMINGO                98         50.00                  4,900.00                          4,900.00
+INYECTABLE DOMICILIO INTRAMUSCULAR          96         20.00                  1,920.00                          1,920.00
+ITRACONAZOL 100mg tabletasx16                1u14      84.00     28.00          157.50            52.50           105.00
+IVERMECTINA GOTAS 15ML                       4         50.00                    200.00                            200.00
+IVERMECTINA GOTAS 8ML                        3         40.00     35.00          120.00           105.00            15.00
+JERINGA 10ML CAJAX100UNID.                   5u91     100.00     25.00          591.00           147.75           443.25
+JERINGA 1ML CAJAX1OOUNID.                    0u90     100.00     15.00           90.00            13.50            76.50
+JERINGA 20ML CAJAX50UNID.                    6         50.00     21.00          300.00           126.00           174.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:08
+PRT280()                                                                                                                     Pag.-   15
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+JERINGA 5ML CAJAX100UNID.                    6u10     100.00     19.00          610.00           115.90           494.10
+JERINGA PARA INSULINA CAJAX100UNID           0u70     100.00     51.00           70.00            35.70            34.30
+KETESSE AMPOLLA CAJAX5                       4u1      125.00     60.00          525.00           252.00           273.00
+KETOCONAZOL 2% CREMA 10G                    12          4.00      1.80           48.00            21.60            26.40
+KETOPAN 100MG AMPOLLA\                       1         16.00     11.20           16.00            11.20             4.80
+KETOROLACO 60mg/2ML AMPOLL CAJAX25           0u19     125.00     42.50           95.00            32.30            62.70
+LACTOSA 120 MINUTOS                       1000         20.00                 20,000.00                         20,000.00
+LACTOSA BASAL                             1000         20.00                 20,000.00                         20,000.00
+LACTOSA TOLERANCIA                        1000         75.00                 75,000.00                         75,000.00
+LACTULOSA 3,3G/5ML SOLUCION ORALX120ML       6         15.00      8.00           90.00            48.00            42.00
+LAMINA PERIFERICA                          994         15.00                 14,910.00                         14,910.00
+LAMINA PERIFERICA EST. MEDICO HEMATOLOGO  1000         60.00                 60,000.00                         60,000.00
+LANCIPROX-DX 0,3%+0,1% SUSP OFTX5ML          3         42.00     34.20          126.00           102.60            23.40
+LANSOPRAZOL 30GR CAJAX100TABLETAS            1        100.00     29.00          100.00            29.00            71.00
+LASA(LIPID.ASSCO.SIALIC.ACID.)            1000        130.00                130,000.00                        130,000.00
+LASIX 40MG TABLETAX20                        0u5       30.00     11.00            7.50             2.75             4.75
+LAVADO DE OIDO I                           940         20.00                 18,800.00                         18,800.00
+LAVADO DE OIDO II                          958         30.00                 28,740.00                         28,740.00
+LAXOLAX 7,5/ML SOL ORAL GOT 10ML             3         26.00     18.70           78.00            56.10            21.90
+LDH /LACTATO DESHIDROGENASA                 99         65.00                  6,435.00                          6,435.00
+LDL COLESTEROL                             999         20.00                 19,980.00                         19,980.00
+LECTURA DE TOMOGRAFIA                        8         25.00                    200.00                            200.00
+LEGIONELLA PNEUMOPHILA,ANTICUERPOS        1000        320.00                320,000.00                        320,000.00
+LEISHMANIA,ANTICUERPOS                    1000        250.00                250,000.00                        250,000.00
+LEPTINA,DOSAJE                            1000        110.00                110,000.00                        110,000.00
+LEPTOSPIRA IGG                            1000        150.00                150,000.00                        150,000.00
+LEPTOSPIRA IGM                            1000        150.00                150,000.00                        150,000.00
+LEUCOCITOS,RECUENTO DE                    1000         50.00                 50,000.00                         50,000.00
+LEVOCTRIM FORTE TAB 750MG CAJX7              0u2       56.00     10.00           16.00             2.86            13.14
+LEVOFLOXACINO  500MG CAJAX100TABLETAS        0u98     200.00     38.00          196.00            37.24           158.76
+LEVOTIROXINA SODICA 100MCG CAJAX50TAB        0u5       50.00     16.20            5.00             1.62             3.38
+LH                                         997         55.00                 54,835.00                         54,835.00
+LIDOCAINA 2% FRASCO 20ML                    10          8.00      3.20           80.00            32.00            48.00
+LIDOCAINA INYECTABLE                       525          1.00                    525.00                            525.00
+LIKFERR +MATERIAL DE APLICACION             10         40.00                    400.00                            400.00
+LINF.CD4-CD8                              1000        280.00                280,000.00                        280,000.00
+LINFOCITOS T Y B                          1000        280.00                280,000.00                        280,000.00
+LIPASA                                    1000         40.00                 40,000.00                         40,000.00
+LIPIDOGRAMA ELECTROFORETICO               1000         70.00                 70,000.00                         70,000.00
+LIPIDOS TOTALES                           1000         28.00                 28,000.00                         28,000.00
+LIQUIDO BIOLOGICO-CULTIVO                 1000         75.00                 75,000.00                         75,000.00
+LISTERIA MONOCITOGENA,ANTICUERPOS         1000        110.00                110,000.00                        110,000.00
+LITIO                                     1000         50.00                 50,000.00                         50,000.00
+LITIO,TASA TRANSPORTE                     1000        140.00                140,000.00                        140,000.00
+LLAVE TRIPLE VIA CAJAX200UNID.               0u50    1200.00     81.00          300.00            20.25           279.75
+LORATADINA 10MG TABLX100                     1u24      30.00     18.00           37.20            22.32            14.88
+LORATADINA JBE 5MG/5MLx60ML                  2          8.00      2.00           16.00             4.00            12.00
+LOSAREN 50mg CAJAX30TABLETAS                 2u27      33.00     16.00           95.70            46.40            49.30
+LOSARTAN  50mg CAJAX100TABLETAS              2         50.00     15.00          100.00            30.00            70.00
+LP(A)                                     1000        120.00                120,000.00                        120,000.00
+MAGNESIO                                   995         30.00                 29,850.00                         29,850.00
+MAGNESIO ORINA 24HRS                      1000         40.00                 40,000.00                         40,000.00
+MALARIA GOTA GRUESA                       1000         60.00                 60,000.00                         60,000.00
+MALTOFER GOTAS                               2         48.00     42.00           96.00            84.00            12.00
+MARIHUANA(CANNABINOIDES)                  1000         50.00                 50,000.00                         50,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:09
+PRT280()                                                                                                                     Pag.-   16
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+MASCARILLA DE NEBULIZACION NINO             66         12.00      3.50          792.00           231.00           561.00
+MASCARILLA NEBULIZADORA ADULTO               9         12.00      3.50          108.00            31.50            76.50
+MASCARILLA PLANA  3 PLIEGUES CELESTE        92          4.00                    368.00                            368.00
+MEBO TUBO 15GR                               2         60.00     42.80          120.00            85.60            34.40
+MEBO TUBOX30GR                               1         80.00     64.00           80.00            64.00            16.00
+MEDULA OSEA ESTUDIO MEDICO HEMATOLOGO     1000        150.00                150,000.00                        150,000.00
+MEGACILINA AMP 1'000,000 x1 C/DIS            2         18.50     13.00           37.00            26.00            11.00
+MEGACILINA AMPOLLA 4000000 CAJAX1            5         35.00     17.00          175.00            85.00            90.00
+MEGACILINA ORAL COMx120                      1u6      264.00    150.00          277.20           157.50           119.70
+MELOPRAL 40MG TABLETA X 14                   2         40.00                     80.00                             80.00
+MELOXICAM 15mg tabletax100                   2         90.00     30.00          180.00            60.00           120.00
+MEMBRANA BASAL GLOMERULAR,AUTOANTICUERPO  1000        150.00                150,000.00                        150,000.00
+MEPRECORT 15MG/5MLSOL.ORAL100ML              7         32.00     23.80          224.00           166.60            57.40
+MERCILON TABLETA/CAJAX21                     2         70.00     59.80          140.00           119.60            20.40
+MERCURIO EN SANGRE                        1000        150.00                150,000.00                        150,000.00
+MERCURIO ORINA 24HRS                      1000        150.00                150,000.00                        150,000.00
+METAMIZOL CAJA X100 AMPOLLAS                 0u46     400.00                    184.00                            184.00
+METANEFRINA ORINA 24HS                    1000         80.00                 80,000.00                         80,000.00
+METANEFRINA PLASMATICA                    1000        450.00                450,000.00                        450,000.00
+METANFETAMINA                             1000         65.00                 65,000.00                         65,000.00
+METFORMINA 850MG CAJAX100TABLETAS            0u89      80.00                     71.20                             71.20
+METODO CONCENTRADO BAJO                    999         25.00                 24,975.00                         24,975.00
+METRONIDAZOL 500 TABx100                     2        100.00     25.00          200.00            50.00           150.00
+MICOPLASMA PNEUMONEAAE IGG                1000         60.00                 60,000.00                         60,000.00
+MICOPLASMA PNEUMONEAE IGM                 1000         60.00                 60,000.00                         60,000.00
+MICROALBUMINURIA                           976         65.00                 63,440.00                         63,440.00
+MICROALBUMINURIA ORINA SIMPLE              868         60.00                 52,080.00                         52,080.00
+MICROALBUMINURIA ORINA24HRS               1000         60.00                 60,000.00                         60,000.00
+MIELINA,PROTEINA BASICA DE                1000        459.00                459,000.00                        459,000.00
+MIELOCULTIVO                              1000         70.00                 70,000.00                         70,000.00
+MIOGLOBINA                                1000        100.00                100,000.00                        100,000.00
+MIXEL 2% SUSPENSION ORAL 30ML                5         25.00     16.59          125.00            82.95            42.05
+MOBILISIN GEL 40GR                           4         50.00                    200.00                            200.00
+MOCO FECAL                                1000         60.00                 60,000.00                         60,000.00
+MONONUCLEOSIS PAUL-BUNNEL                 1000         50.00                 50,000.00                         50,000.00
+MONTELUKAST 5MG TABLETAX100UNID.             0u79     100.00     26.00           79.00            20.54            58.46
+MUCOASMAT 600MG CAJAX30SOBRES                0u2      120.00     43.00            8.00             2.87             5.13
+MUCOCAR 100MG/5ML X120ML SOLUCION ORAL       2         26.00     13.00           52.00            26.00            26.00
+MUCOTRIM DILAT GOTx15ML                      1         19.00     12.50           19.00            12.50             6.50
+MULCEROL/ESOMEPRAZOL 40 TAB CAJX30           5u25      90.00     64.50          525.00           376.25           148.75
+MULTIBACTYN NF TUBO 14 GR                    6         25.00     16.30          150.00            97.80            52.20
+MULTIDERM CREMAX10GR                         8         18.00     13.00          144.00           104.00            40.00
+MUNEQUERA TALLA M                            1         55.00                     55.00                             55.00
+MUNEQUERA TALLA XL                           1         55.00                     55.00                             55.00
+NAPROXENO 550 TABx100                        0u55      50.00     27.00           27.50            14.85            12.65
+NEBULIZACION                               445         25.00                 11,125.00                         11,125.00
+NEISSERIA GONORRHOEAE PCR                 1000        280.00                280,000.00                        280,000.00
+NEUROBION 10 000 AMPOLL                      3         30.00     22.00           90.00            66.00            24.00
+NEUROBION 1000 AMPOLLA  CAJAX3AMPOLLAS       2u2       54.00     25.00          144.00            66.67            77.33
+NICOTINA                                  1000         60.00                 60,000.00                         60,000.00
+NIQUEL EN ORINA DE 24HRS                  1000        350.00                350,000.00                        350,000.00
+NISOPREX 20MG  COMPX100                      0u86     120.00     60.00          103.20            51.60            51.60
+NITROGENO UREICO                           980         25.00                 24,500.00                         24,500.00
+NITROGENO UREICO ORINA 24HRS              1000         40.00                 40,000.00                         40,000.00
+NOREPINEFRINA 4MG/4ML CAJAX1 AMPOLLAS        4         15.00      6.80           60.00            27.20            32.80úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:11
+PRT280()                                                                                                                     Pag.-   17
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+NORSPAN 5MG PARCHE                           1         70.00     54.30           70.00            54.30            15.70
+NOTIL NF CREMA10G                            9         15.00      8.00          135.00            72.00            63.00
+NOTIPHARM CREMA 20g TUBO                     2         11.50                     23.00                             23.00
+NSE(NEURON SPECIFIC ENOLASE)              1000        130.00                130,000.00                        130,000.00
+NTX TELOPEPTIDO                           1000        110.00                110,000.00                        110,000.00
+NUCLEO CMP FORTE CAJAX20 CAPSULAS            3        100.00     74.60          300.00           223.80            76.20
+NYLON #0                                     3          8.50      5.50           25.50            16.50             9.00
+NYLON #3                                    36          8.50      3.20          306.00           115.20           190.80
+NYLON #4                                    35          8.50      5.50          297.50           192.50           105.00
+NYLON #5                                    24          8.50      5.50          204.00           132.00            72.00
+OMEGA 3 FRASCOX50 CAPSULAS                   2         75.00     56.00          150.00           112.00            38.00
+OMEPRAZOL 20MG CAJAX100CAPSULAS              0u25      50.00     14.00           12.50             3.50             9.00
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10       9u8       80.00     23.20          784.00           227.36           556.64
+OPIACEOS                                  1000         85.00                 85,000.00                         85,000.00
+ORAVIL 100 000UI/ML SOLC.ORAL                8         60.00     35.00          480.00           280.00           200.00
+ORAVIL+ELECTROCARDIOGRAMA                   10         90.00                    900.00                            900.00
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS        1u10     112.50     30.00          157.50            42.00           115.50
+ORFENADRINA CITRATO 100MG TABX100            2u32     120.00    100.00          278.40           232.00            46.40
+ORINA COMPLETA                              50         13.00                    650.00                            650.00
+OSMOLALIDAD ORINA 24HRS                   1000         60.00                 60,000.00                         60,000.00
+OSMOLALIDAD ORINA SIMPLE                   999         60.00                 59,940.00                         59,940.00
+OSMOLALIDAD SERICA                        1000         60.00                 60,000.00                         60,000.00
+OSTEOBONE D FORTE CAJA X 30 COMPRIMIDOS      1         45.00     19.00           45.00            19.00            26.00
+OSTEOCALCINA                              1000        110.00                110,000.00                        110,000.00
+OTOZAMBON SOLUCION OTICA X10ML               2         21.50     13.50           43.00            27.00            16.00
+OXALATOS ORINA 24HRS                      1000         50.00                 50,000.00                         50,000.00
+PALDOLOR  TABLETAX200                        0u184    200.00    100.35          184.00            92.32            91.68
+PANADOL ANTIGRIPAL NF TABLETAX2 CAJX52       0u22     130.00     98.00           55.00            41.46            13.54
+PANEL DE ALERGIA(41 ALERGENOS)IGE ESPEC.   972        210.00                204,120.00                        204,120.00
+PAP LIQUIDO PLEURAL                        999         80.00                 79,920.00                         79,920.00
+PAPANICOLAOU                               976         35.00                 34,160.00                         34,160.00
+PAPERAS IGG(PAROTIDITIS IGG)              1000         60.00                 60,000.00                         60,000.00
+PAPERAS IGM(PAROTIDITIS IGM)              1000         60.00                 60,000.00                         60,000.00
+PAPILOMA VIRUS HUMANO(14 CEPAS)-MUJER     1000        380.00                380,000.00                        380,000.00
+PAPILOMA VIRUSXPCR(35CEPAS)-HOMBRE         999        680.00                679,320.00                        679,320.00
+PAPP-A(PROT.PLASMAT. ASOC. AL EMBARAZO    1000        150.00                150,000.00                        150,000.00
+PARACETAMOL 100MG/ML SOL.ORAL GOTAS         10          4.00      2.80           40.00            28.00            12.00
+PARACETAMOL 500MG TABX100                    2u93      60.00      6.00          175.80            17.58           158.22
+PARASITO DIRECTO                          1000         28.00                 28,000.00                         28,000.00
+PARASITO SERIADO-3 MUESTRAS               1000         60.00                 60,000.00                         60,000.00
+PARASITOLOGICO SIMPLE                      664         10.00                  6,640.00                          6,640.00
+PARASITOLOGICO X3                          892         23.00                 20,516.00                         20,516.00
+PARASITOS 3 METODOS                       1000         40.00                 40,000.00                         40,000.00
+PARASITOS GRAHAM                          1000         20.00                 20,000.00                         20,000.00
+PARATOHORMONA C TERMINAL(PTH-C-TERMINAL)  1000        120.00                120,000.00                        120,000.00
+PARATOHORMONA INTACTA(PTH-INTACTA)         999         70.00                 69,930.00                         69,930.00
+PARATOHORMONAS                             998        150.00                149,700.00                        149,700.00
+PARVOVIRUS B19 IGG,ANTICUERPOS            1000        160.00                160,000.00                        160,000.00
+PARVOVIRUS B19 IGM,ANTICUERPOS            1000        160.00                160,000.00                        160,000.00
+PCR CUANTITATIVA                           876         80.00                 70,080.00                         70,080.00
+PCR ULTRASENSIBLE                          999         70.00                 69,930.00                         69,930.00
+PENICILINA BENZATINICA 1200000UI CAJX10      2u5       80.00     32.00          200.00            80.00           120.00
+PENICILINA PROCAIN 1000000 CAJAX10           3u4       85.00     15.00          289.00            51.00           238.00
+PEPTIDO C                                 1000        110.00                110,000.00                        110,000.00
+PEPTIDO C POST-PRANDIAL                   1000        110.00                110,000.00                        110,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:12
+PRT280()                                                                                                                     Pag.-   18
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+PERFIL CARDIACO                           1000        210.00                210,000.00                        210,000.00
+PERFIL DE ANEMIA                           999        270.00                269,730.00                        269,730.00
+PERFIL DE COAGULACION                      995        100.00                 99,500.00                         99,500.00
+PERFIL ENA EXTENDIDO LINEBLOT             1000        315.00    242.00      315,000.00       242,000.00        73,000.00
+PERFIL HEPATICO                            388         50.00                 19,400.00                         19,400.00
+PERFIL HORMONAL                            997        200.00                199,400.00                        199,400.00
+PERFIL LIPIDICO                            963         40.00                 38,520.00                         38,520.00
+PERFIL PRE-OPERATORIO                      994        160.00                159,040.00                        159,040.00
+PERFIL PRENATAL                            991        120.00                118,920.00                        118,920.00
+PERFIL RENAL                               540         40.00                 21,600.00                         21,600.00
+PERFIL RENAL SYNLAB                        998         80.00                 79,840.00                         79,840.00
+PERFIL REUMATICO                           212         50.00                 10,600.00                         10,600.00
+PERFIL REUMATICO SYNLAB                    993        100.00                 99,300.00                         99,300.00
+PERFIL TIROIDEO                            982        100.00                 98,200.00                         98,200.00
+PHARMA GRIP  TABLETAX100                     0u26     100.00     34.80           26.00             9.05            16.95
+PHYTO SOYA 17.5 MG CAJAX60 CAPSULAS          0u2      100.00     55.00            3.34             1.83             1.51
+PHYTO SOYA FORTE 35MG CAJAX60 CAPSULAS       2        120.00     82.40          240.00           164.80            75.20
+PLAQUETAS AUTOANTICUERPOS                 1000        150.00                150,000.00                        150,000.00
+PLAQUETAS,AGREGACION                      1000        200.00                200,000.00                        200,000.00
+PLAQUETAS,RECUENTO DE                     1000         20.00                 20,000.00                         20,000.00
+PLASMINOGENO CUANTITATIVO                 1000        300.00                300,000.00                        300,000.00
+PLOMO SANGRE                              1000        120.00                120,000.00                        120,000.00
+PNEUMOCISTIS CARINII-EX DIRECTO           1000         70.00                 70,000.00                         70,000.00
+PORFOBILINOGENO ORINA 24HRS               1000         80.00                 80,000.00                         80,000.00
+PORFOBILINOGENO ORINA SIMPLE(WATSON-SCH)  1000         80.00                 80,000.00                         80,000.00
+PORTIL CREx20GR                              4          8.00      4.10           32.00            16.40            15.60
+POTASIO                                   1000         20.00                 20,000.00                         20,000.00
+POTASIO ORINA 24HRS                       1000         40.00                 40,000.00                         40,000.00
+POTASIO ORINA SIMPLE                       999         40.00                 39,960.00                         39,960.00
+PPD-MANTOUX                               1000         40.00                 40,000.00                         40,000.00
+PREDNISONA 20mg CAJAX100TABLETAS             2u19     100.00                    219.00                            219.00
+PREDNISONA JBE 5MG/5MLx60ML-P                6          7.00      3.50           42.00            21.00            21.00
+PREGNOSTICON                              1000         60.00                 60,000.00                         60,000.00
+PRESION                                    899          2.00                  1,798.00                          1,798.00
+PRO-BNP(PEPTIDO NATRIURETRICO)            1000        260.00                260,000.00                        260,000.00
+PROCALCITONINA-PCT                         999        200.00                199,800.00                        199,800.00
+PROCEDIMIENTO                              988         40.00                 39,520.00                         39,520.00
+PROCEDIMIENTO                               10        360.00                  3,600.00                          3,600.00
+PROCEDIMIENTO 10                           908         10.00                  9,080.00                          9,080.00
+PROCEDIMIENTO 15                           986         15.00                 14,790.00                         14,790.00
+PROCEDIMIENTO 20                           945         20.00                 18,900.00                         18,900.00
+PROCEDIMIENTO BLOQUEO                      996        250.00                249,000.00                        249,000.00
+PROCEDIMIENTO BLOQUEO                      995        600.00                597,000.00                        597,000.00
+PROCEDIMIENTO BLOQUEO                      997        100.00                 99,700.00                         99,700.00
+PROCEDIMIENTO EXTRACCION                     1         80.00                     80.00                             80.00
+PROCEDIMIENTO MEDICO  100                  997        100.00                 99,700.00                         99,700.00
+PROCEDIMIENTO MENOR                        996         60.00                 59,760.00                         59,760.00
+PROFENID AMP 100MGx2ML CAJX6                 6u3      114.00     61.50          741.00           399.75           341.25
+PROFENID GEL /TUBOX30GR                      3         28.00     19.00           84.00            57.00            27.00
+PROGESTERONA                              1000         70.00                 70,000.00                         70,000.00
+PROLACTINA                                 993         50.00                 49,650.00                         49,650.00
+PROLACTINA POOL                           1000         60.00                 60,000.00                         60,000.00
+PROT. TOT. Y FRAG                          999         15.00                 14,985.00                         14,985.00
+PROTEINA C REACTIVA                        686         15.00                 10,290.00                         10,290.00
+PROTEINA C,FUNCIONAL                      1000        110.00                110,000.00                        110,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:13
+PRT280()                                                                                                                     Pag.-   19
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+PROTEINA C,RESISTENCIA                    1000        480.00                480,000.00                        480,000.00
+PROTEINA S,FUNCIONAL                      1000        110.00                110,000.00                        110,000.00
+PROTEINAS BENCES JONES(IEF)ORINA 24HRS    1000         80.00                 80,000.00                         80,000.00
+PROTEINAS EN ORINA SIMPLE                  999         30.00                 29,970.00                         29,970.00
+PROTEINAS TOTALES                          999         40.00                 39,960.00                         39,960.00
+PROTEINAS TOTALES EN LCR                  1000         40.00                 40,000.00                         40,000.00
+PROTEINAS TOTALES Y FRACCIONADAS           999         40.00                 39,960.00                         39,960.00
+PROTEINOGRAMA                             1000         60.00                 60,000.00                         60,000.00
+PROTEINOGRAMA LCR                         1000        110.00                110,000.00                        110,000.00
+PROTEINOGRAMA ORINA 24HRS                 1000         80.00                 80,000.00                         80,000.00
+PROTEINURIA 24Hr.                          981         30.00                 29,430.00                         29,430.00
+PROTROMBINA GEB ANOMALO G20210A           1000       1250.00              1,250,000.00                      1,250,000.00
+PRUEBA COVID CHINA                         777         70.00                 54,390.00                         54,390.00
+PRUEBA COVID-19  AMERICANA                 651         80.00                 52,080.00                         52,080.00
+PRUEBA DE ADDIS                           1000         40.00                 40,000.00                         40,000.00
+PRUEBA DE ALERGIA                          994          5.00                  4,970.00                          4,970.00
+PRUEBA DE MEZCLA                          1000        150.00                150,000.00                        150,000.00
+PRUEBA RAPIDA EMPRESA                        2         60.00                    120.00                            120.00
+PSA LIBRE                                  989         60.00                 59,340.00                         59,340.00
+PSA PANEL COMPLETO                        1000        100.00                100,000.00                        100,000.00
+PSA TOTAL                                  926         50.00                 46,300.00                         46,300.00
+PSA(Ag.PROSTATICO)                         984         50.00                 49,200.00                         49,200.00
+PULSOXIMETRO                                 9         90.00                    810.00                            810.00
+PURINATOR SUSP 100ML                         4         50.00     39.00          200.00           156.00            44.00
+QUEXEL 850MG CAJAX30 TABLETAS                4u10      60.00     35.60          260.00           154.27           105.73
+QUIMIZOL CREMA VAG 60GR                      4         34.00     25.00          136.00           100.00            36.00
+QUINIDINA                                 1000        210.00                210,000.00                        210,000.00
+RA WAALER ROSE                            1000         40.00                 40,000.00                         40,000.00
+RANITIDINA 150MG CAJAX100TABLETAS            1         35.00     13.00           35.00            13.00            22.00
+RANITIDINA 50MG/2ML AMPOLL  CAJX100          0u48     700.00    170.00          336.00            81.60           254.40
+RE CONSULTA MEDICINA/DR. MARIO MOLINA      678         10.00                  6,780.00                          6,780.00
+REACCION INFLAMATORIA EN HECES             733         20.00                 14,660.00                         14,660.00
+RECEPTOR DE TRANSFERRINA SOLUBLE          1000        150.00                150,000.00                        150,000.00
+RECUENTO DE PLAQUETAS                     1000         15.00                 15,000.00                         15,000.00
+REDEX 250MG TABLETA CAJAX140                 0u65     280.00    188.00          130.00            87.29            42.71
+REDEX PLUS75MG+60MG AMPOLLA                  2         15.50     10.50           31.00            21.00            10.00
+REDUCCION DE FACTURA                      1000         50.00                 50,000.00                         50,000.00
+REDUCCION DE LUXACION                     1000         50.00                 50,000.00                         50,000.00
+RENINA,DOSAJE                             1000         80.00                 80,000.00                         80,000.00
+REPRIMAN TAB 500MG CAJAX100                  0u23      40.00     18.00            9.20             4.14             5.06
+RETICULOCITOS                              999         20.00                 19,980.00                         19,980.00
+RETIRO DE PUNTOS                          1000         20.00                 20,000.00                         20,000.00
+RETIRO DE YESO                            1000         20.00                 20,000.00                         20,000.00
+RHINO DAZOL SOL. NASAL 15ML                  1         25.00     17.50           25.00            17.50             7.50
+RICKETTSIA RICKETTSIA IGG                 1000        160.00                160,000.00                        160,000.00
+RICKETTSIA RICKETTSIA IGM                 1000        160.00                160,000.00                        160,000.00
+RIFOCINA 1GR/100 ML                          2         41.00     33.00           82.00            66.00            16.00
+RILATEN 10MG TABLETA CAJAX30                 2         60.00     30.00          120.00            60.00            60.00
+RILATEN 20MG/2ML AMPOLLA CAJAX6              1u5      150.00     60.00          275.00           110.00           165.00
+ROTAVIRUS                                 1000         50.00                 50,000.00                         50,000.00
+ROWACHOL  CAPSULAX100UNID.                   0u48     160.00    105.00           76.80            50.40            26.40
+ROWATINEX TABX100                            2u88     180.00    111.50          518.40           321.12           197.28
+RPR                                        919         15.00                 13,785.00                         13,785.00
+RUBEOLA IGG                               1000         60.00                 60,000.00                         60,000.00
+RUBEOLA IGM                               1000         60.00                 60,000.00                         60,000.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:15
+PRT280()                                                                                                                     Pag.-   20
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+RX  TORAX FRONTAL Y LATERAL               1000        110.00                110,000.00                        110,000.00
+RX ABDOMEN                                 998         75.00                 74,850.00                         74,850.00
+RX ANTEBRAZO FRONTAL Y LATERAL             998         75.00                 74,850.00                         74,850.00
+RX ARTICULACION TEMPORO MANDIBULAR        1000         85.00                 85,000.00                         85,000.00
+RX BRAZO FRONTAL Y LATERAL                 997         75.00                 74,775.00                         74,775.00
+RX CADERA COMPARATIVA                      989         95.00                 93,955.00                         93,955.00
+RX CADERA INCIDENCIA LOWESTEIN            1000         95.00                 95,000.00                         95,000.00
+RX CADERA INCIDENCIA VON ROSSEN           1000         95.00                 95,000.00                         95,000.00
+RX CALCANEO COMPARATIVO                   1000        100.00                100,000.00                        100,000.00
+RX CALCANEO FRONTAL Y LATERAL              997         75.00                 74,775.00                         74,775.00
+RX CAVUM                                   998         85.00                 84,830.00                         84,830.00
+RX CERVICO DORSAL FRONTAL Y LATERAL        997        110.00                109,670.00                        109,670.00
+RX CLAVICULA                               999         85.00                 84,915.00                         84,915.00
+RX CODO FRONTAL Y LATERAL                  997         75.00                 74,775.00                         74,775.00
+RX COLUMNA CERVICAL FRONTAL Y LATERAL      976        110.00                107,360.00                        107,360.00
+RX COLUMNA DORSAL FRONTAL Y LATERAL        994        110.00                109,340.00                        109,340.00
+RX COLUMNA DORSO LUMBAR                    982        150.00                147,300.00                        147,300.00
+RX COLUMNA LUMBAR FRONTAL Y LATERAL        939         90.00                 84,510.00                         84,510.00
+RX COLUMNA LUMBAR FUNCIONAL                997        110.00                109,670.00                        109,670.00
+RX CRANEO FRONTAL Y PERFIL                 997         90.00                 89,730.00                         89,730.00
+RX DE HUESOS PROPIOS DE LA NARIZ           996         85.00                 84,660.00                         84,660.00
+RX DE PIE FRONTAL Y LATERAL                992         75.00                 74,400.00                         74,400.00
+RX DE PIERNA FRONTAL Y LATERAL             997         95.00                 94,715.00                         94,715.00
+RX DE PIES COMPARATIVOS                    998        100.00                 99,800.00                         99,800.00
+RX FEMUR FRONTAL Y LATERAL                1000        100.00                100,000.00                        100,000.00
+RX FRONTAL LATERAL Y OBLICUA              1000         85.00                 85,000.00                         85,000.00
+RX HOMBRO ROTACION INTERNA Y EXTERNA       990         85.00                 84,150.00                         84,150.00
+RX HOMBROS BILATERALES COMPARATIVAS        999         95.00                 94,905.00                         94,905.00
+RX LUMBO SACRO                             958         90.00                 86,220.00                         86,220.00
+RX MANO COMPARATIVO FRONTAL Y OBLICUAS     998        120.00                119,760.00                        119,760.00
+RX MAXILAR INFERIOR                       1000         75.00                 75,000.00                         75,000.00
+RX MAXILAR SUPERIOR                       1000         75.00                 75,000.00                         75,000.00
+RX MESURACION MIEMBROS INFERIORES          999         90.00                 89,910.00                         89,910.00
+RX MUNECA FRONTAL Y LATERAL                986         75.00                 73,950.00                         73,950.00
+RX PARRILLA COSTAL DERECHA                 991         90.00                 89,190.00                         89,190.00
+RX PELVIS ADULTO                          2000         85.00                170,000.00                        170,000.00
+RX PELVIS NINOS                           1000         85.00                 85,000.00                         85,000.00
+RX RODILLA AXIALES ROTULA                  999         75.00                 74,925.00                         74,925.00
+RX RODILLA COMPART.BILATERAL FRONT Y LAT   997        140.00                139,580.00                        139,580.00
+RX RODILLA FRONTAL Y LATERAL               965         75.00                 72,375.00                         72,375.00
+RX SACRO COCCIGEA:FRONTAL Y LATERAL        999         95.00                 94,905.00                         94,905.00
+RX SACRO ILIACA                            997         95.00                 94,715.00                         94,715.00
+RX SENOS PARANASALES                       977         85.00                 83,045.00                         83,045.00
+RX SIMPLE DECUBITO DORSAL Y DE PIE         998         90.00                 89,820.00                         89,820.00
+RX TOBILLO FRONTAL Y LATERAL               995         75.00                 74,625.00                         74,625.00
+RX TORAX FRONTAL                           947         70.00                 66,290.00                         66,290.00
+RX TORAX LATERAL                          1000         75.00                 75,000.00                         75,000.00
+SALBUTAMOL AERO 100MCG FRASCOX200DOSIS       4         15.00      7.50           60.00            30.00            30.00
+SALICILATOS                               1000         90.00                 90,000.00                         90,000.00
+SARAMPION IGG                             1000         70.00                 70,000.00                         70,000.00
+SARAMPION IGM                             1000         70.00                 70,000.00                         70,000.00
+SCC CELULAS ESCAMOSAS                     1000        350.00                350,000.00                        350,000.00
+SCL70                                     1000         60.00                 60,000.00                         60,000.00
+SEDIMENTO URINARIO                        1000         25.00                 25,000.00                         25,000.00
+SEGURO PREVENTIVO PROMOCIONAL              997        180.00                179,460.00                        179,460.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:16
+PRT280()                                                                                                                     Pag.-   21
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+SEROTONINA/5HIDROXITRIPTAMINA             1000        168.00                168,000.00                        168,000.00
+SERTRALINA 50MG GENFAR TABX100               2         80.00     39.00          160.00            78.00            82.00
+SEX HORMONE BINDING GLOBULIN              1000        100.00                100,000.00                        100,000.00
+SICKLING,TEST                             1000         60.00                 60,000.00                         60,000.00
+SIFILIS ELISA                             1000         80.00                 80,000.00                         80,000.00
+SKUDEXA CAJAX20 COMPRIMIDOS                  4         80.00     45.00          320.00           180.00           140.00
+SODIO                                      999         20.00                 19,980.00                         19,980.00
+SODIO EN ORINA 12 HRS                     1000         20.00                 20,000.00                         20,000.00
+SODIO ORINA 24HRS                         1000         20.00                 20,000.00                         20,000.00
+SODIO ORINA SIMPLE                        1000         20.00                 20,000.00                         20,000.00
+SOLUNA AMPx2ML                               3         25.00     12.90           75.00            38.70            36.30
+SOLUTRES AMP 150MG/ML                        5         32.00     18.00          160.00            90.00            70.00
+SOMATOMEDINA C (IGF-I)                     999         60.00                 59,940.00                         59,940.00
+SOMATOMEDINA C(IGF-I)POST                 1000         60.00                 60,000.00                         60,000.00
+SOMATOMEDINA(IGFBP-3)                     1000        110.00                110,000.00                        110,000.00
+SONDA FOLEX DE LATEX 10PIEZAS #14            0u3      100.00                     30.00                             30.00
+SONDA NASOGASTRICA 01/85CM                   5          4.50      2.80           22.50            14.00             8.50
+SONDA PARA SUCCION                           5          5.00      2.80           25.00            14.00            11.00
+SPASMOMEN 40MG TABLETA CAJAX30               0u26     120.00     80.00          104.00            69.33            34.67
+SUCROSA,TEST DE                           1000         60.00                 60,000.00                         60,000.00
+SUERO FISIOLOGICO DE 1 LITRO                 2         10.00      4.50           20.00             9.00            11.00
+SULFADIAZINA DE PLATA 1% CREMA50GR           9         15.00                    135.00                            135.00
+SULFAMET+TRIMET 200MG/40MG/5ML SUPX60ML      4          6.00      2.00           24.00             8.00            16.00
+SULFAMETOX+TRIMT 400MG/80MG/5ML SUSX60ML     1          6.50      2.80            6.50             2.80             3.70
+SULFATO DE MAGNESIO 2% 10ML CAJAX50 AMP      1                                                                          
+SULFATO FERROSO 300MG CAJAX100 TABLETAS      1         20.00      6.00           20.00             6.00            14.00
+SUSTANCIAS REDUCTORAS(BENEDICT)           1000         30.00                 30,000.00                         30,000.00
+SUTURA DE HERIDA CORTA                    1000         25.00                 25,000.00                         25,000.00
+SUTURA DE HERIDA LARGA                    1000         30.00                 30,000.00                         30,000.00
+SYNVISC 2ML                                  1        400.00    275.00          400.00           275.00           125.00
+T.PROTOMBINA                               997         45.00                 44,865.00                         44,865.00
+T.TROMBOPLASTINA                           999         60.00                 59,940.00                         59,940.00
+T3                                         995         45.00                 44,775.00                         44,775.00
+T3 LIBRE                                   986         45.00                 44,370.00                         44,370.00
+T4                                         950         40.00                 38,000.00                         38,000.00
+T4 LIBRE                                   793         40.00                 31,720.00                         31,720.00
+TALIO ORINA SIMPLE                        1000        280.00                280,000.00                        280,000.00
+TAMSULOSINA 0.4MG TABL CAJX50                4u7      150.00     50.00          610.50           203.50           407.00
+TBG THYROID BINDING GLOBULIN              1000        100.00                100,000.00                        100,000.00
+TEOFILINA(AMINOFILINA)                    1000         95.00                 95,000.00                         95,000.00
+TERBINAFINA 1% CREMA 20G                     7          9.00      5.80           63.00            40.60            22.40
+TERBINAFINA 250MG TABX100                    1u62     280.00     45.00          453.60            72.90           380.70
+TERFITIL 1% SOLUCION TOPICA                  3         25.00     16.50           75.00            49.50            25.50
+TERRAMISOL-A OFTALMICO UNGENTOX6GR           7         18.00      8.30          126.00            58.10            67.90
+TEST AMINA                                  99         25.00                  2,475.00                          2,475.00
+TEST DE ALIENTO                            999        190.00                189,810.00                        189,810.00
+TEST GRAHAM                                894         10.00                  8,940.00                          8,940.00
+TEST GRAHAM(OXIURUS)                       848          5.00                  4,240.00                          4,240.00
+TESTOSTERONA                               995         60.00                 59,700.00                         59,700.00
+TESTOSTERONA LIBRE                         999        100.00                 99,900.00                         99,900.00
+TFGE(TASA DE FILTRACION GLOMERULAR EST.)  1000         40.00                 40,000.00                         40,000.00
+THEVENON                                   842         15.00                 12,630.00                         12,630.00
+TIEMPO DE COAGULACION                      988         25.00                 24,700.00                         24,700.00
+TIEMPO DE PROTROMBINA-TP                   988         45.00                 44,460.00                         44,460.00
+TIEMPO DE SANGRIA                          993          8.00                  7,944.00                          7,944.00úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:17
+PRT280()                                                                                                                     Pag.-   22
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+TIEMPO DE TROMBINA-TT                     1000         45.00                 45,000.00                         45,000.00
+TINTA CHINA(CRYPTOCOCOS)                  1000         40.00                 40,000.00                         40,000.00
+TIROGLOBULINA                              995         60.00                 59,700.00                         59,700.00
+TM PERIMETRO 3                            1000         40.00                 40,000.00                         40,000.00
+TM PERIMETRO2                             1000         30.00                 30,000.00                         30,000.00
+TM PROVINCIAS                             1000        230.00                230,000.00                        230,000.00
+TM RECOJO DE MUESTRAS                     1000         20.00                 20,000.00                         20,000.00
+TOBAN F 2MG  CAJAX100                        0u78     150.00     80.00          117.00            62.40            54.60
+TOLERANCIA GLUCOSA                         940         40.00                 37,600.00                         37,600.00
+TOMA DE MUESTRA DOMICILIO                   99         15.00                  1,485.00                          1,485.00
+TOPICALM  CREMA X30GR                        2         30.00     12.50           60.00            25.00            35.00
+TOPIRAMATO                                1000        400.00                400,000.00                        400,000.00
+TORCH IGG                                 1000        200.00                200,000.00                        200,000.00
+TORCH IGM                                  994        200.00                198,800.00                        198,800.00
+TOXACARA IGM                              1000        210.00                210,000.00                        210,000.00
+TOXOCARA IGG                              1000        210.00                210,000.00                        210,000.00
+TOXOPLASMA GONDII IGG                     1000         60.00                 60,000.00                         60,000.00
+TOXOPLASMA GONDII IGM                     1000         70.00                 70,000.00                         70,000.00
+TRAMADOL 50MG CAJAX100TABLETAS               1         70.00     35.00           70.00            35.00            35.00
+TRAMADOL CLORHIDRATO 100MG/2ML AMPOLL        2          8.00      3.00           16.00             6.00            10.00
+TRAMAL 100 AMPOLLA 100MG/2ML                 5         19.00      4.00           95.00            20.00            75.00
+TRANSAMIN 250MG CAJAX12 CAPSULAS             1         72.00     55.00           72.00            55.00            17.00
+TRANSAMIN AMP 10% (250MG/2,5ML)              1         55.00     44.00           55.00            44.00            11.00
+TRANSAMINASA OXALACECETICA                 993         15.00                 14,895.00                         14,895.00
+TRANSAMINASA PIRUVICA                      994         15.00                 14,910.00                         14,910.00
+TRANSFERRINA(T.I.B.C)                     1000         40.00                 40,000.00                         40,000.00
+TRANSGLUTAMINASA,AUTOANTICUERPOS IGA      1000        200.00                200,000.00                        200,000.00
+TRIAMCICORT 40MG/ML                          3         36.50     30.00          109.50            90.00            19.50
+TRIAMCICORT 50MG/5ML AMPOLLA                12         45.00     18.90          540.00           226.80           313.20
+TRICHINELLA ANTICUERPOS IGG               1000        100.00                100,000.00                        100,000.00
+TRIGLICERIDOS                              987         15.00                 14,805.00                         14,805.00
+TRIMICOT CREMA 10GR                          1         10.80      5.80           10.80             5.80             5.00
+TROMBOPLASTINA PARCIAL-TPTK               1000         60.00                 60,000.00                         60,000.00
+TROPONINA I                                998        100.00                 99,800.00                         99,800.00
+TROPONINA T.                              1000        100.00                100,000.00                        100,000.00
+TSH ULTRASENSIBLE                          851         40.00                 34,040.00                         34,040.00
+TUSSIS OM JARABEX100ML                       4         26.00     18.40          104.00            73.60            30.40
+UREA                                       808         15.00                 12,120.00                         12,120.00
+UREA ORINA 24 HRS                         1000         40.00                 40,000.00                         40,000.00
+UROCIT-K TABx14 /CITRATO DE POTASIO          3         25.00     19.50           75.00            58.50            16.50
+UROCULTIVO                                 768         35.00                 26,880.00                         26,880.00
+UROCULTIVO CON MIC                         100         65.00     45.00        6,500.00         4,500.00         2,000.00
+UROFURIN 25MG/5ML SUSPX120ML                 4         38.00     27.00          152.00           108.00            44.00
+UROTAN D 50MG/100MG CAJAX100 CAPSULAS        2        150.00     83.50          300.00           167.00           133.00
+V.D.R.L CUALITATIVO                         99         25.00                  2,475.00                          2,475.00
+VACUNO HEPATITIS A ADULTO                 1000        170.00                170,000.00                        170,000.00
+VARICELA IGG                              1000         70.00                 70,000.00                         70,000.00
+VARICELA IGM                              1000         70.00                 70,000.00                         70,000.00
+VECURONIO 4MG AMPOLLA                       12         35.00     17.00          420.00           204.00           216.00
+VELOC.SEDIMENTACION                        947         10.00                  9,470.00                          9,470.00
+VELOCIDAD DE SEDIMENTACION                 968         15.00                 14,520.00                         14,520.00
+VENDA DE YESO TAGUM 4METROS                 12         15.00     10.50          180.00           126.00            54.00
+VENDA DE YESO TAGUM 6METROS                 10         17.00     15.50          170.00           155.00            15.00
+VENDA DE YESO YESTEL 4 METROS               10         15.00     10.50          150.00           105.00            45.00
+VENDA DE YESO YESTEL 6METROS                 1         17.00     15.50           17.00            15.50             1.50úZethQuark Versi¢n 7.0ú                                                                                                      26/11/2020
+POL.LOS ANGELES                            REPORTE INVENTARIO VALORIZADO ALFABETICO MOSTRADOR                                  16:32:18
+PRT280()                                                                                                                     Pag.-   23
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+VENDA ELAST GALENO MEDID6X5                  8          2.50                     20.00                             20.00
+VENDA ELASTC AKY MEDID2X5                    4          1.00                      4.00                              4.00
+VENDA ELASTC GALENO MED 4X5                 19          2.00                     38.00                             38.00
+VENDA ELASTIC  FAVETEX MEDID 4X5             6          1.80                     10.80                             10.80
+VENDAJE ESPECIAL/TRAUMATOLOGIA            1000         20.00                 20,000.00                         20,000.00
+VENTOLIN 100MCG FRASCO15GR 200DOSIS          3         26.50     16.90           79.50            50.70            28.80
+VERSATIS 5% LIDOCAINA700MG PARCHE            3         25.00     20.00           75.00            60.00            15.00
+VESICULAR BILIAR                          1000         55.00                 55,000.00                         55,000.00
+VIBRIO CHOLERAE-CULTIVO                   1000         80.00                 80,000.00                         80,000.00
+VISCOSIDAD SERICA                         1000         40.00                 40,000.00                         40,000.00
+VITACOSE 2 ML INYECTABLE                    10         18.00      7.00          180.00            70.00           110.00
+VITAMINA A                                1000        350.00                350,000.00                        350,000.00
+VITAMINA B1                               1000        350.00                350,000.00                        350,000.00
+VITAMINA B12                               992         60.00                 59,520.00                         59,520.00
+VITAMINA B2(RIBOFLAVINA)                  1000        350.00                350,000.00                        350,000.00
+VITAMINA B6                               1000        350.00                350,000.00                        350,000.00
+VITAMINA D,25-HIDROXICOLECALCIFEROL        999        350.00                349,650.00                        349,650.00
+VITAMINA E 400UI CAJAX30CAPSULAS             3         90.00     63.00          270.00           189.00            81.00
+VITERNUM VITAMINICO POLV PARA SOLC 150ML     6         35.00     25.10          210.00           150.60            59.40
+VIVERA CAJAX8                                7u3       40.00     25.00          295.00           184.38           110.63
+VLDL COLESTEROL                            998         15.00                 14,970.00                         14,970.00
+WARFARINA 5MG CAJAX100TABLETAS               1        200.00     89.00          200.00            89.00           111.00
+YODO PROTEICO                             1000         60.00                 60,000.00                         60,000.00
+ZETALER 10MG/ML SOLC GOTS 15ML               3         32.00     21.50           96.00            64.50            31.50
+ZINC SERICO                               1000        100.00                100,000.00                        100,000.00
+ZOLEDRON 5MG/100ML INYECTABLE                1       1350.00    900.00        1,350.00           900.00           450.00
+---------------------------------------------------------------------------------------------------------------------------------------
+T O T A L E S :                                                          94,496,209.14       507,123.67    93,989,085.47
+---------------------------------------------------------------------------------------------------------------------------------------

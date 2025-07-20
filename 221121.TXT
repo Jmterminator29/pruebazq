@@ -1,0 +1,67 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 22/11/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/11/2021 AL 22/11/2021                              15:02:05
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+046794           MAR  MAR  22/11/2021 08:08  V                      HILARIO CIPRIANO ROODWIN BENIT C          65.00
+046795           MAR  MAR  22/11/2021 08:10  V                      MORALES VENTOCILLA             C         200.00
+046796           MAR  MAR  22/11/2021 08:22  V                      GONZALES ZAPATA DELFIN         C          35.00
+046797           MAR  MAR  22/11/2021 08:26  V                      GARCIA DIAZ DENIS MARTINH      C         255.00
+046798           MAR  MAR  22/11/2021 08:30  V                      JARA ORTEGA HERMINIA           C          30.00
+046799           MAR  MAR  22/11/2021 08:35  V                      TORIBIO ABANTO MARISOL ESTRHER C          50.00
+046800           MAR  MAR  22/11/2021 08:36  V                      IPANAQUE COBE;AS  JUAN MANUEL  C         155.00
+046801           MAR  MAR  22/11/2021 08:38  V                      IPANAQUE COBE;AS JUAN MANUEL   C          35.00
+046802           MAR  MAR  22/11/2021 08:42  V                      GARCIA DIAZ DENIS MARTIN       C          35.00
+046803           MAR  MAR  22/11/2021 08:50  V                      NIETO MOLINA CARLOS            C          60.00
+046804           MAR  MAR  22/11/2021 08:55  V                      GOMERO PICON OLIMPIO           C          36.50
+046805           MAR  MAR  22/11/2021 08:58  V                      BALABARCA CABALLERO GLORIA     C          55.00
+046806           MAR  MAR  22/11/2021 09:04  V                      SAENZ DIAZ ALFREDO             C          30.00
+046807           MAR  MAR  22/11/2021 09:13  V                      BALTAZAR YANAC MARCIANO        C          30.00
+046808           MAR  MAR  22/11/2021 09:16  V                      CRISOL NU;EZ PABLO             C          30.00
+046809           MAR  MAR  22/11/2021 09:19  V                      BULA GARCIA ANDREA             C           0.01
+046810           MAR  MAR  22/11/2021 09:21  V                      LAGUNA HERRERA PEDRO           C         134.50
+046811           MAR  MAR  22/11/2021 09:28  V                      ORDAYA EVANGELISTA DYLAN GABRI C          21.50
+046812           MAR  MAR  22/11/2021 09:30  V                      LLASHAG COTRINA GAVY           C         155.00
+046813           MAR  MAR  22/11/2021 09:48  V                      LAGUNA HERRERA PEDRO           C          35.00
+046814           MAR  MAR  22/11/2021 10:10  V                      BERNARDO ROMERO EMILIA         C          30.00
+046815           MAR  MAR  22/11/2021 11:15  V                      SIMEON FALCON LUCIA            C          20.00
+046816           MAR  MAR  22/11/2021 11:26  V                      ACOSTA SAMANAMUD               C          25.00
+046817           MAR  MAR  22/11/2021 12:00  V                      GUARDIA BRAVO VICTORIA         C          35.00
+046818           MAR  MAR  22/11/2021 12:19  V                      CONDE LA ROSA CARME            C          35.00
+046819           MAR  MAR  22/11/2021 12:30  V                      LEON BLANCO MARY ALEJANDRA     C          49.00
+046820           MAR  MAR  22/11/2021 12:59  V                      GALVEZ PINTADO ANA MARIA       C          65.00
+046821           MAR  MAR  22/11/2021 12:59  V                      LAOS QUINECHE LUIS ALBERTO     C          65.00
+046822           MAR  MAR  22/11/2021 13:33  V                      HUACHO TRAVESA;O ALE           C          20.00
+046823           MAR  MAR  22/11/2021 13:50  V                      HUERTAS ESPINOZA ANGELICA      C          35.00
+046824           SAN  SAN  22/11/2021 14:09  V                      VILLACORTA AGUSTIN             C          13.00
+046825           SAN  SAN  22/11/2021 14:12  V                      CIEZA RIOS EMERSON             C          32.00
+046826           SAN  SAN  22/11/2021 14:14  V                      VILLACORTA AGUSTIN             C           5.00
+046827           SAN  SAN  22/11/2021 14:18  V                      ATANACIO TOLENTINO MOISES      C          35.00
+046828           SAN  SAN  22/11/2021 14:20  V                      CIEZA RIOS EMERSON             C           4.00
+046829           SAN  SAN  22/11/2021 14:46  V                      VALENCIA GASPAR MAXIMINA       C           6.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Contado       :      36       1,922.01
+Factura       :       0           0.00                                                    Letras        :       0           0.00
+Ticket        :       0           0.00                                                    Credito       :       0           0.00
+Guia Interna V:      36       1,922.01                                                    Credito 10 Dia:       0           0.00
+                          -------------                                                   Tarjeta       :       0           0.00
+                              1,922.01                                                                              -------------
+                                                                                                                        1,922.01
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        293.21
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0úZethQuark Versi¢n 7.0ú                                                                                                 22/11/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/11/2021 AL 22/11/2021                              15:02:05
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Total Documentos Anulados :         0.00

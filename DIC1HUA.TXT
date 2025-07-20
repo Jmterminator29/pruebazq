@@ -1,0 +1,42 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 02/12/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/12/2024 AL 01/12/2024                              08:27:33
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+011705           ELI       01/12/2024 08:40  V                      LAGUNA SANCHEZ GREGORIA        E         240.00
+011706           ELI       01/12/2024 09:25  V                      ASENCIO ALIAGA BRIANA          PL        293.00
+011707           ELI       01/12/2024 09:32  V                      BERNACHEA LAGUNA MIRIAN        E          25.00
+011708           ELI  ELI  01/12/2024 14:29  V                      VILLAFANE TRUJILLO DOMINGA     E          72.70
+011709           ELI  ELI  01/12/2024 14:31  V                      VILLAFANE TRUJILLO DOMINGA     E          41.50
+011710           ELI  ELI  01/12/2024 14:39  V                      DIAZ MARCOS MARCO ANTONIO      PL         16.50
+011711           ELI       01/12/2024 15:09  V                      LIONEL ALIAGUA ALTEZ           PL         75.50
+011712           ELI  ELI  01/12/2024 15:10  V                      LIONEL ALIAGA ALTEZ            PL        189.50
+011713           ELI  ELI  01/12/2024 15:12  V                      DIAZ MARCOS MARCO ANTONIO      PL         45.00
+011714           ELI       01/12/2024 15:24  V                      ROSA MU:OZ HUARACA             E         144.00
+011715           ELI       01/12/2024 15:31  V                      DIAZ MARCOS MARCO              E           1.50
+011716           ELI       01/12/2024 16:11  V                      JAVIER CORZO YOIMAR            E          52.80
+011717           ELI  ELI  01/12/2024 16:19  V                      ASENCIO ALIAGA BRIANA          PL         45.00
+011718           ELI  ELI  01/12/2024 17:00  V                      ASENCIO ALIAGA BRIANA          PL         80.00
+011719           ELI       01/12/2024 17:40  V                      LIONEL ALIAGA ALTEZ            PL         45.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :       7         577.50
+Ticket        :       0           0.00                                                    Plin          :       8         789.50
+Guia Interna V:      15       1,367.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              1,367.00                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        1,367.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        208.51
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

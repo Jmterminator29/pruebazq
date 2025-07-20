@@ -1,0 +1,36 @@
+úZethQuark Versi¢n 7.0ú                                                              13/07/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X GENERICO (SYNLAB)                   10:13:57
+PRT203()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17621 ANTI-MICROSOMALES(PERIOXIDASA-TIROIDEOS) ANAL       70.00               0       9999     
+15523 CHLAMYDIA TRACHOMATIS IGG                ANAL       60.00               0        997     
+15221 CULTIVO DE HONGOS                        ANAL       60.00               0        995     
+15218 CULTIVO DE SEC.VAGINAL                   ANAL       60.00               0        954     
+15220 CULTIVO DE SECRECION FARINGEA            ANAL       60.00               0        929     
+16807 CULTIVO DE SEMEN                         ANAL       60.00               0        974     
+16691 CULTIVO SEC HERIDA                       ANAL       60.00               0        988     
+16780 CULTIVO SECR. URETRAL                    ANAL       60.00               0       9999     
+17506 CULTIVO SECRECION                        ANAL       60.00               0        998     
+16749 CULTIVO SECRECION OTICA                  ANAL       60.00               0        999     
+15205 HELICOBACTER IGG                         ANAL       60.00               0        930     
+15204 HELICOBACTER IGM                         ANAL       55.00               0      10001     
+17195 HELICOBACTER PYORI ANTIGENO FECALES      ANAL      130.00               0       9999     
+16624 HELICOBACTER TES ALIENTO                 ANAL      280.00               0        989     
+15700 HEMOCULTIVO                              ANAL      100.00               0        997     
+15742 HORM.CRECI.POSTESTIMULACION              ANAL       60.00               0       1000     
+15199 HORMONA DE CRECIMIENTO                   ANAL       60.00               0        995     
+15828 PANEL DE ALERGIA(32 ALERGENOS)IGE ESPEC. ANAL      210.00               0        940     
+15830 PAPANICOLAOU                             ANAL       50.00               0        841     
+15881 PSA TOTAL                                ANAL       50.00               0        999     
+15210 T3 LIBRE                                 ANAL       45.00               0        914     
+15208 TSH ULTRASENSIBLE                        ANAL       50.00               0      10000     
+15958 VITAMINA A                               ANAL      220.00               0       1000     
+15959 VITAMINA B1                              ANAL      397.00               0       1000     
+15169 VITAMINA B12                             ANAL       60.00               0        952     
+15961 VITAMINA B6                              ANAL      427.00               0       1000     
+17411 VITAMINA D 1.25                          ANAL      278.00               0       9999     
+15962 VITAMINA D,25-HIDROXICOLECALCIFEROL      ANAL      220.00               0        995     
+17626 VITAMINA E (ALFA TOFEROL) SUERO          ANAL      174.00               0       9999     
+15965 ZINC SERICO                              ANAL      152.00               0       1000     

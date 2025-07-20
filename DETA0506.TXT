@@ -1,0 +1,127 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 05/06/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 04/05/2025                              09:09:42
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015995           CLA       01/05/2025 08:20  V                      CCAPA YAURI YUY CELIA          E         145.00
+015996           CLA       01/05/2025 08:57  V                      ADELINA SOLIS GARCIA           E          55.00
+015997           CLA       01/05/2025 09:43  V                      ROMERO VEGA SILVIA             E          10.00
+015998           CLA       01/05/2025 10:21  V                      RAMIREZ ESPINOZA SHERLIS       E          30.00
+015999           CLA       01/05/2025 13:23  V                      CADILLO LIZARRA ALLISON        E           5.00
+016000           CLA       01/05/2025 15:53  V                      ANTONIA BUITRON ZAVALA         E          45.00
+016001           CLA       01/05/2025 17:40  V                      CCAPA YAURI CELIA              E          45.00
+016002           CLA       01/05/2025 17:53  V                      ANTONIA BUITRON ZAVALA         PL        139.50
+016003           CLA       01/05/2025 18:08  V                      CCAPA YAURI CELIS              E          37.00
+016004           CLA       01/05/2025 18:10  V                      ADELINA SOLIS GARCIA           E          45.00
+016005           CLA       01/05/2025 18:12  V                      PABLO ALEJANDRO KIMBERLY PRICI E          45.00
+016006           CLA       01/05/2025 18:51  V                      ADELINA SOLIS GARCIA           E         102.50
+016007           CLA       01/05/2025 19:13  V                      PABLO ALEJANDRO KIMBERLY       E          65.00
+016008           CLA       01/05/2025 19:18  V                      PABLO ALEJANDRO KENBERLY       E          65.00
+016009           ELI       02/05/2025 08:07  V                      HERMINIA JULCA LAZARO          E         225.00
+016010           ELI       02/05/2025 08:11  V                      WILFREDO PALOMINO LEON         E         106.50
+016011           ELI       02/05/2025 09:13  V                      SUAREZ CALDAS JEAN             PL         45.00
+016012           ELI       02/05/2025 09:41  V                      VENTA ANULADA                  PL          0.00
+016013           ELI       02/05/2025 09:41  V                      SUAREZ CALDAS JEAN             PL          6.00
+016014           ELI       02/05/2025 10:12  V                      HOLGUINO MONTOYA GREGG ALEXAND PL         25.00
+016015           ELI       02/05/2025 10:34  V                      CELIA CAPAC YAURI              PL        120.00
+016016           ELI       02/05/2025 10:34  V                      CELIA CAPAC YAURI              PL         55.00
+016017           ELI       02/05/2025 10:42  V                      ENRIQUE ROCANO SALOME          E          15.00
+016018           ELI       02/05/2025 11:06  V                      YASARI OSTOS PRADA             PL         45.00
+016019           ELI       02/05/2025 12:24  V                      CCAPA YAURI CELIS              E          31.00
+016020           ELI       02/05/2025 12:53  V                      BARTOLO TRINIDAD ROGER         E          80.00
+016021           ELI       02/05/2025 15:06  V                      WENDY PE;A VILLANUEVA          E          15.00
+016022           ELI       02/05/2025 15:46  V                      ANTONIA BUITRON ZAVALA         E          31.00
+016023           ELI       02/05/2025 15:55  V                      GARCIA LOPEZ WALDO             E          62.00
+016024           ELI       02/05/2025 16:24  V                      DIOGENES ROJAS MARTIN          E          70.00
+016025           ELI       02/05/2025 17:22  V                      HUERTA HUATA MAYRA             E          45.00
+016026           ELI       02/05/2025 17:42  V                      HUATA HUANCA MAYRA ALEXANDRA   E          81.50
+016027           ELI       02/05/2025 17:43  V                      HUATA HUANCA MAYRA             E          60.50
+016028           ELI       02/05/2025 17:58  V                      HUANCA HUATA MAYRA             E          14.00
+016029           ELI       02/05/2025 18:02  V                      ROJAS LOAYZA ALISSON DEGIANHIR PL         40.00
+016030           ELI       02/05/2025 18:03  V                      CHANGANA MATURRANO NOLBERTO SA PL         40.00
+016031           ELI       02/05/2025 18:06  V                      ESPERANZA VILLAFUERTA CUEVA    E          45.00
+016032           ELI       02/05/2025 18:07  V                      ESPERANZA VILLAFUERTE   CUEVA  E          30.00
+016033           ELI       02/05/2025 18:39  V                      ADELINA SOLIS GARCIA           E          26.50
+016034           ELI       02/05/2025 19:04  V                      NORMA HUANSHA BAYLON           E          45.00
+016035           ELI       02/05/2025 19:25  V                      NORMA HUASHAN BAILON           E          41.50
+016036           ELI       02/05/2025 19:29  V                      NORMA HUANSHA BAILON           E          26.50
+016037           ELI       02/05/2025 19:31  V                      NORMA HUANSHA LEON             E         160.00
+016038           ELI       02/05/2025 19:40  V                      MAYRA HUATA HUANCA             E          68.50
+016039           ELI       02/05/2025 19:41  V                      MAYRA HUATA HUANCA             PL         40.00
+016040           ELI       02/05/2025 19:57  V                      ALA SANTOS RUBEN               E          45.00
+016041           ELI       02/05/2025 20:14  V                      ALA RUBEN                      E          10.00
+016042           ELI       02/05/2025 20:23  V                      RUBEN ALA                      E         171.50
+016043           ELI       02/05/2025 20:33  V                      RUBEN ALA                      E          10.00
+016044           ELI       02/05/2025 21:16  V                      ROMERO ROMERO ARLET            PL         45.00
+016045           ELI       02/05/2025 21:39  V                      VENTA ANULADA                  PL          0.00
+016046           ELI       02/05/2025 21:43  V                      ARLET ROMERO ROMERO            PL        115.00
+016047           ELI       02/05/2025 21:46  V                      VENTA ANULADA                  E           0.00
+016048           ELI       02/05/2025 21:54  V                      ALA RUBEN                      E          20.50
+016049           JES       03/05/2025 06:23  V                      ADELINA SOLIS GARCIA           E          26.50úZethQuark Versi¢n 7.0ú                                                                                                 05/06/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 04/05/2025                              09:09:43
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016050           CLA       03/05/2025 08:44  V                      PAULA MOGOYON FARRO            E          51.50
+016051           CLA       03/05/2025 09:14  V                      ROJAS JARA YOJUANA             E          45.00
+016052           CLA       03/05/2025 09:30  V                      MEDRANO DE IZQUIERDO GENARA    E          45.00
+016053           CLA       03/05/2025 09:38  V                      ROBLES DE PAZ GISELA           PL         45.00
+016054           CLA       03/05/2025 09:55  V                      CHAVEZ RIOS PEDEGRINA          E          45.00
+016055           CLA       03/05/2025 10:12  V                      ANTONIA BUITRON ZAVALA         E          10.50
+016056           CLA       03/05/2025 10:19  V                      ARTURO ROJAS VERAMENDI         E          45.00
+016057           CLA       03/05/2025 10:25  V                      CESAR VERASTEGUI PAREDES       E          45.00
+016058           CLA       03/05/2025 10:28  V                      CCAPA YAURI YUY                E          45.00
+016059           CLA       03/05/2025 11:05  V                      CCAPA YAURI CELIS              E          31.00
+016060           CLA       03/05/2025 11:15  V                      MEDRANO DE IZQUIERDO GENARA    E          41.00
+016061           CLA       03/05/2025 11:22  V                      MAYRA HUATA HUANCA             E          75.50
+016062           CLA       03/05/2025 11:30  V                      GISELA ROJAS DE PAZ            PL        210.20
+016063           CLA       03/05/2025 12:00  V                      ROJAS JARA YOJUANA             E          37.00
+016064           EFR       03/05/2025 19:43  V                      IVAN LOZANO AGUIRRE            E          45.00
+016065           CLA       03/05/2025 20:01  V                      ARTURO ROJAS VERAMENDI         E           3.00
+016066           CLA       03/05/2025 20:36  V                      IVAN LOZANO AGUIRRE            E          90.00
+016067           CLA       04/05/2025 08:44  V                      HUAYANAY VALVERDE MAXIMINA     PL         45.00
+016068           CLA       04/05/2025 09:02  V                      MEDRANO DE IZQUIERDO GENARA    E          83.00
+016069           CLA       04/05/2025 10:10  V                      HUAYANAY VALVEDE MAXIMINA      E          80.00
+016070           CLA       04/05/2025 10:15  V                      VENTA ANULADA                  PL          0.00
+016071           CLA       04/05/2025 10:32  V                      MIGUEL DIAZ                    E           0.80
+016072           CLA       04/05/2025 11:43  V                      ADELINA SOLIS GARCIA           E          26.50
+016073           CLA       04/05/2025 11:45  V                      ADELINA SOLIS GARCIA           E          55.00
+016074           CLA       04/05/2025 12:06  V                      ADELINA SONIA GARCIA           E           2.00
+016075           CLA       04/05/2025 15:50  V                      CESAR VERASTEGUI PAREDES       E          10.00
+016076           CLA       04/05/2025 16:24  V                      CESAR VERASTEGUI PAREDES       PL         49.00
+016077           CLA       04/05/2025 17:07  V                      ANTONIA BUITRON ZAVALA         E          10.50
+016078           CLA       04/05/2025 17:16  V                      GREG HOLINO MOTOYA             PL         45.00
+016079           CLA       04/05/2025 17:18  V                      NORMA HUANSHA BAILON           E          26.50
+016080           CLA       04/05/2025 17:50  V                      MAYRA HUATA HUANCA             PL         75.50
+016081           CLA       04/05/2025 18:32  V                      ADELINA SOLIS GARCIA           E          17.00
+016082           CLA       04/05/2025 18:48  V                      GISELA ROJAS DE PAZ            PL        153.70
+016083           CLA       04/05/2025 18:50  V                      ROJAS JARA YOJUANA             E          61.00
+016084           CLA       04/05/2025 19:16  V                      CESAR VERASTEGUI PAREDES       C          10.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       1          10.00
+Factura       :       0           0.00                                                    Efectivo      :      66       3,284.30
+Ticket        :       0           0.00                                                    Plin          :      19       1,338.90
+Guia Interna V:      86       4,633.20                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              4,633.20                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        4,633.20
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        706.71
+ÿ
+ÿ
+Nro.  Documentos Anulados :            4úZethQuark Versi¢n 7.0ú                                                                                                 05/06/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 04/05/2025                              09:09:43
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Total Documentos Anulados :         0.00

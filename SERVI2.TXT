@@ -1,0 +1,111 @@
+úZethQuark Versi¢n 7.0ú                                          05/04/2025
+POL.LOS ANGELESREPORTE DE PRODUCTOS X LABORATORIO  (SERVICIO)      13:07:45
+PRT201()                                                         Pag.-    1
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION              LINEA          PVP  PxUNIDAD
+---------------------------------------------------------------------------
+18031 COLOCACION DE YESO                       SE      125.00          
+16564 CONSTANCIA MEDICA                        S        15.00          
+17395 EKG PROMOCION                            EL       55.00          
+17724 MOVILIDAD DR BAYONA                      ZZ       25.00          
+17725 MOVILIDAD DRA MAITA                      ZZ       25.00          
+17799 RC PIELOGRAFIA S/C                       RX       80.00          
+16101 RX ABDOMEN SIMPLE                        RX       80.00          
+17790 RX ABDOMEN SIMPLE DE PIE                 RX       80.00          
+17789 RX ABDOMEN SIMPLE Y CUBITO - PIE         RX      150.00          
+17756 RX AGUJEROS OPTICOS C/LADO               RX       80.00          
+15339 RX ANTEBRAZO F - L                       RX       60.00          
+17757 RX ARCO CIGOMATICOS C/LADO               RX       80.00          
+17758 RX ART.TEMPORO MAXILAR C/LADO (ATM)      RX       80.00          
+17775 RX BRAZO COMPARATIVOS                    RX      110.00          
+17774 RX BRAZO/HUMERO C/LADO                   RX       60.00          
+15341 RX CADERA COMPARATIVA                    RX      160.00          
+17771 RX CADERA COXOFEMORAL                    RX       80.00          
+17770 RX CADERA PEDIATRICA                     RX      130.00          
+15146 RX CALCANEO C/LADO                       RX       60.00          
+16625 RX CALCANEO COMPARATIVOS                 RX      110.00          
+15323 RX CAVUM (B.A-B.C)                       RX       70.00          
+17798 RX CISTOGRAFIA PRE-POST MICCIONAL        RX      200.00          
+15335 RX CLAVICULA                             RX       70.00          
+17776 RX CODO C/LADO                           RX       60.00          
+17777 RX CODO COMPARATIVO                      RX      110.00          
+17794 RX COLON DOBLE CONTRASTE                 RX      340.00          
+17795 RX COLON ENERMA OPACA DOBLE CONTRASTE    RX      340.00          
+17766 RX COLUMNA CERVICAL F - L                RX       90.00          
+15324 RX COLUMNA CERVICAL FUNCIONAL            RX      160.00          
+17767 RX COLUMNA CERVICO DORSAL                RX      160.00          
+15326 RX COLUMNA DORSAL F - L                  RX       80.00          
+17768 RX COLUMNA DORSAL F-P-Os                 RX      170.00          
+15327 RX COLUMNA DORSAL LUMBAR                 RX      180.00          
+15328 RX COLUMNA LUMBAR F - L                  RX      100.00          
+15329 RX COLUMNA LUMBAR FUNCIONAL              RX      180.00          
+16930 RX COLUMNA LUMBAR SACRA F - L            RX      120.00          
+17769 RX COLUMNA SACRO COXIGEA F - L           RX       80.00          
+16854 RX COLUMNA TOTAL                         RX      270.00          
+17788 RX CORAZON GRANDES VASOS C y GV CON/C    RX      260.00          
+17787 RX CORAZON GRANDES VASOS C y GV SIN/C    RX      120.00          
+17772 RX COXIS F - L                           RX       80.00          
+15317 RX CRANEO F y L                          RX       80.00          
+17800 RX CUERPO EXTRA¥O                        RX       80.00          
+17801 RX EDAD OSEA                             RX       60.00          
+17791 RX ESOFAGO C/CONTRASTE                   RX      180.00          
+17786 RX ESTERNON F - L                        RX       80.00          
+17792 RX ESTOMAGO DUODENO C/CONTRASTE          RX      280.00          
+15142 RX FEMUR C/LADO                          RX       70.00          
+17778 RX HOMBRO C/LADO                         RX       70.00          
+15342 RX HOMBROS COMPARATIVOS                  RX      130.00          
+17759 RX HUESOS PROPIOS DE LA NARIZ H.P.N      RX       80.00          
+17793 RX INTESTINO DELGADO (TRANS.GASTROINTES) RX      280.00          
+17779 RX MANO C/LADO                           RX       60.00          
+15138 RX MANO COMPARATIVAS                     RX      110.00          
+17760 RX MASTOIDES C/LADO                      RX       80.00          úZethQuark Versi¢n 7.0ú                                          05/04/2025
+POL.LOS ANGELESREPORTE DE PRODUCTOS X LABORATORIO  (SERVICIO)      13:07:45
+PRT201()                                                         Pag.-    2
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION              LINEA          PVP  PxUNIDAD
+---------------------------------------------------------------------------
+15322 RX MAXILAR INFERIOR                      RX       80.00          
+15319 RX MAXILAR SUPERIOR                      RX       80.00          
+17785 RX MEDICION DE LOS MIEMBROS INFERIORES   RX      180.00          
+15340 RX MU¥ECA F y L C/LADO                   RX       60.00          
+17754 RX MU¥ECAS COMPARATIVAS                  RX      110.00          
+17773 RX OMOPLATO/ESCAPULA C/LADO              RX       70.00          
+17761 RX ORBITAS C/LADO                        RX       80.00          
+16501 RX PARRILLA COSTAL C/LADO                RX       80.00          
+15333 RX PELVIS                                RX       70.00          
+17848 RX PELVIS DOMICILIO                      RX      250.00          
+17762 RX PE¥ASCO C/LADO POSICIONES             RX       80.00          
+17782 RX PIE C/LADO                            RX       60.00          
+17802 RX PIELOGRAFIA S/C                       RX       80.00          
+17781 RX PIERNA F y L                          RX       60.00          
+17780 RX PIERNAS COMPARATIVAS                  RX      110.00          
+17783 RX PIES COMPARATIVOS                     RX      110.00          
+15343 RX RODILLA F y L C/LADO                  RX       60.00          
+15345 RX RODILLAS COMPARATIVAS                 RX      110.00          
+15332 RX SACRO ILIACA C/LADO                   RX       80.00          
+16478 RX SENOS PARANASALES 2T                  RX       80.00          
+17764 RX SENOS PARANASALES 3T                  RX      100.00          
+17765 RX SILLA TURCA                           RX       70.00          
+17763 RX TEMPORAL C/LADO POSICIONES            RX       80.00          
+15144 RX TOBILLO F y L C/LADO                  RX       60.00          
+17784 RX TOBILLOS COMPARATIVOS                 RX      110.00          
+17228 RX TORAX F                               RX       60.00          
+16822 RX TORAX F-L (FRONTAL-LATERAL)           RX      110.00          
+17796 RX URETROCISTOGRAFIA RETROGRADA          RX      330.00          
+17797 RX UROGRAFIA EXCRETORA (PIELOGRAFIA-URO) RX      280.00          
+17326 SERVICIO DOMICILIO TOMA DE MUESTRA       S        10.00          
+17847 SERVICIO EXPRESS 30%                     SE       30.00          
+16899 SIGNOS VITALES                           S         4.00          
+16541 SUTURA DE HERIDA CORTA                   ZZ       30.00          
+17136 SUTURA HERIDA POR PLANOS                 ZZ      250.00          
+17135 SUTURA MAYOR A 5 PUNTOS                  ZZ      150.00          
+17833 SUTURA MAYOR DE 3 A 5 PUNTOS             ZZ      100.00          
+17134 SUTURA MEDIANA 3-5 PUNTOS                ZZ       90.00          
+16542 SUTURA MENOR                             ZZ       50.00          
+17133 SUTURA PEQUE;A 3PUNTOS                   ZZ       70.00          
+16934 TERAPIA ESTANDAR                         S        35.00          
+17377 TERAPIA ESTANDAR X2                      S        55.00          
+17376 TERAPIA ONDA DE CHOQUE                   S        70.00          
+17378 TERAPIA ONDA DE CHOQUE X2                ZZ      115.00          
+16957 TERAPIA PAQUETE SEMANAL                  S       120.00          
+17379 TERAPIA PAQUETE SEMANAL X2               S       200.00          

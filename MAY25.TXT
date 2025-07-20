@@ -1,0 +1,1019 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:43
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015995           CLA       01/05/2025 08:20  V                      CCAPA YAURI YUY CELIA          E         145.00
+015996           CLA       01/05/2025 08:57  V                      ADELINA SOLIS GARCIA           E          55.00
+015997           CLA       01/05/2025 09:43  V                      ROMERO VEGA SILVIA             E          10.00
+015998           CLA       01/05/2025 10:21  V                      RAMIREZ ESPINOZA SHERLIS       E          30.00
+015999           CLA       01/05/2025 13:23  V                      CADILLO LIZARRA ALLISON        E           5.00
+016000           CLA       01/05/2025 15:53  V                      ANTONIA BUITRON ZAVALA         E          45.00
+016001           CLA       01/05/2025 17:40  V                      CCAPA YAURI CELIA              E          45.00
+016002           CLA       01/05/2025 17:53  V                      ANTONIA BUITRON ZAVALA         PL        139.50
+016003           CLA       01/05/2025 18:08  V                      CCAPA YAURI CELIS              E          37.00
+016004           CLA       01/05/2025 18:10  V                      ADELINA SOLIS GARCIA           E          45.00
+016005           CLA       01/05/2025 18:12  V                      PABLO ALEJANDRO KIMBERLY PRICI E          45.00
+016006           CLA       01/05/2025 18:51  V                      ADELINA SOLIS GARCIA           E         102.50
+016007           CLA       01/05/2025 19:13  V                      PABLO ALEJANDRO KIMBERLY       E          65.00
+016008           CLA       01/05/2025 19:18  V                      PABLO ALEJANDRO KENBERLY       E          65.00
+016009           ELI       02/05/2025 08:07  V                      HERMINIA JULCA LAZARO          E         225.00
+016010           ELI       02/05/2025 08:11  V                      WILFREDO PALOMINO LEON         E         106.50
+016011           ELI       02/05/2025 09:13  V                      SUAREZ CALDAS JEAN             PL         45.00
+016012           ELI       02/05/2025 09:41  V                      VENTA ANULADA                  PL          0.00
+016013           ELI       02/05/2025 09:41  V                      SUAREZ CALDAS JEAN             PL          6.00
+016014           ELI       02/05/2025 10:12  V                      HOLGUINO MONTOYA GREGG ALEXAND PL         25.00
+016015           ELI       02/05/2025 10:34  V                      CELIA CAPAC YAURI              PL        120.00
+016016           ELI       02/05/2025 10:34  V                      CELIA CAPAC YAURI              PL         55.00
+016017           ELI       02/05/2025 10:42  V                      ENRIQUE ROCANO SALOME          E          15.00
+016018           ELI       02/05/2025 11:06  V                      YASARI OSTOS PRADA             PL         45.00
+016019           ELI       02/05/2025 12:24  V                      CCAPA YAURI CELIS              E          31.00
+016020           ELI       02/05/2025 12:53  V                      BARTOLO TRINIDAD ROGER         E          80.00
+016021           ELI       02/05/2025 15:06  V                      WENDY PE;A VILLANUEVA          E          15.00
+016022           ELI       02/05/2025 15:46  V                      ANTONIA BUITRON ZAVALA         E          31.00
+016023           ELI       02/05/2025 15:55  V                      GARCIA LOPEZ WALDO             E          62.00
+016024           ELI       02/05/2025 16:24  V                      DIOGENES ROJAS MARTIN          E          70.00
+016025           ELI       02/05/2025 17:22  V                      HUERTA HUATA MAYRA             E          45.00
+016026           ELI       02/05/2025 17:42  V                      HUATA HUANCA MAYRA ALEXANDRA   E          81.50
+016027           ELI       02/05/2025 17:43  V                      HUATA HUANCA MAYRA             E          60.50
+016028           ELI       02/05/2025 17:58  V                      HUANCA HUATA MAYRA             E          14.00
+016029           ELI       02/05/2025 18:02  V                      ROJAS LOAYZA ALISSON DEGIANHIR PL         40.00
+016030           ELI       02/05/2025 18:03  V                      CHANGANA MATURRANO NOLBERTO SA PL         40.00
+016031           ELI       02/05/2025 18:06  V                      ESPERANZA VILLAFUERTA CUEVA    E          45.00
+016032           ELI       02/05/2025 18:07  V                      ESPERANZA VILLAFUERTE   CUEVA  E          30.00
+016033           ELI       02/05/2025 18:39  V                      ADELINA SOLIS GARCIA           E          26.50
+016034           ELI       02/05/2025 19:04  V                      NORMA HUANSHA BAYLON           E          45.00
+016035           ELI       02/05/2025 19:25  V                      NORMA HUASHAN BAILON           E          41.50
+016036           ELI       02/05/2025 19:29  V                      NORMA HUANSHA BAILON           E          26.50
+016037           ELI       02/05/2025 19:31  V                      NORMA HUANSHA LEON             E         160.00
+016038           ELI       02/05/2025 19:40  V                      MAYRA HUATA HUANCA             E          68.50
+016039           ELI       02/05/2025 19:41  V                      MAYRA HUATA HUANCA             PL         40.00
+016040           ELI       02/05/2025 19:57  V                      ALA SANTOS RUBEN               E          45.00
+016041           ELI       02/05/2025 20:14  V                      ALA RUBEN                      E          10.00
+016042           ELI       02/05/2025 20:23  V                      RUBEN ALA                      E         171.50
+016043           ELI       02/05/2025 20:33  V                      RUBEN ALA                      E          10.00
+016044           ELI       02/05/2025 21:16  V                      ROMERO ROMERO ARLET            PL         45.00
+016045           ELI       02/05/2025 21:39  V                      VENTA ANULADA                  PL          0.00
+016046           ELI       02/05/2025 21:43  V                      ARLET ROMERO ROMERO            PL        115.00
+016047           ELI       02/05/2025 21:46  V                      VENTA ANULADA                  E           0.00
+016048           ELI       02/05/2025 21:54  V                      ALA RUBEN                      E          20.50
+016049           JES       03/05/2025 06:23  V                      ADELINA SOLIS GARCIA           E          26.50úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:43
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016050           CLA       03/05/2025 08:44  V                      PAULA MOGOYON FARRO            E          51.50
+016051           CLA       03/05/2025 09:14  V                      ROJAS JARA YOJUANA             E          45.00
+016052           CLA       03/05/2025 09:30  V                      MEDRANO DE IZQUIERDO GENARA    E          45.00
+016053           CLA       03/05/2025 09:38  V                      ROBLES DE PAZ GISELA           PL         45.00
+016054           CLA       03/05/2025 09:55  V                      CHAVEZ RIOS PEDEGRINA          E          45.00
+016055           CLA       03/05/2025 10:12  V                      ANTONIA BUITRON ZAVALA         E          10.50
+016056           CLA       03/05/2025 10:19  V                      ARTURO ROJAS VERAMENDI         E          45.00
+016057           CLA       03/05/2025 10:25  V                      CESAR VERASTEGUI PAREDES       E          45.00
+016058           CLA       03/05/2025 10:28  V                      CCAPA YAURI YUY                E          45.00
+016059           CLA       03/05/2025 11:05  V                      CCAPA YAURI CELIS              E          31.00
+016060           CLA       03/05/2025 11:15  V                      MEDRANO DE IZQUIERDO GENARA    E          41.00
+016061           CLA       03/05/2025 11:22  V                      MAYRA HUATA HUANCA             E          75.50
+016062           CLA       03/05/2025 11:30  V                      GISELA ROJAS DE PAZ            PL        210.20
+016063           CLA       03/05/2025 12:00  V                      ROJAS JARA YOJUANA             E          37.00
+016064           EFR       03/05/2025 19:43  V                      IVAN LOZANO AGUIRRE            E          45.00
+016065           CLA       03/05/2025 20:01  V                      ARTURO ROJAS VERAMENDI         E           3.00
+016066           CLA       03/05/2025 20:36  V                      IVAN LOZANO AGUIRRE            E          90.00
+016067           CLA       04/05/2025 08:44  V                      HUAYANAY VALVERDE MAXIMINA     PL         45.00
+016068           CLA       04/05/2025 09:02  V                      MEDRANO DE IZQUIERDO GENARA    E          83.00
+016069           CLA       04/05/2025 10:10  V                      HUAYANAY VALVEDE MAXIMINA      E          80.00
+016070           CLA       04/05/2025 10:15  V                      VENTA ANULADA                  PL          0.00
+016071           CLA       04/05/2025 10:32  V                      MIGUEL DIAZ                    E           0.80
+016072           CLA       04/05/2025 11:43  V                      ADELINA SOLIS GARCIA           E          26.50
+016073           CLA       04/05/2025 11:45  V                      ADELINA SOLIS GARCIA           E          55.00
+016074           CLA       04/05/2025 12:06  V                      ADELINA SONIA GARCIA           E           2.00
+016075           CLA       04/05/2025 15:50  V                      CESAR VERASTEGUI PAREDES       E          10.00
+016076           CLA       04/05/2025 16:24  V                      CESAR VERASTEGUI PAREDES       PL         49.00
+016077           CLA       04/05/2025 17:07  V                      ANTONIA BUITRON ZAVALA         E          10.50
+016078           CLA       04/05/2025 17:16  V                      GREG HOLINO MOTOYA             PL         45.00
+016079           CLA       04/05/2025 17:18  V                      NORMA HUANSHA BAILON           E          26.50
+016080           CLA       04/05/2025 17:50  V                      MAYRA HUATA HUANCA             PL         75.50
+016081           CLA       04/05/2025 18:32  V                      ADELINA SOLIS GARCIA           E          17.00
+016082           CLA       04/05/2025 18:48  V                      GISELA ROJAS DE PAZ            PL        153.70
+016083           CLA       04/05/2025 18:50  V                      ROJAS JARA YOJUANA             E          61.00
+016084           CLA       04/05/2025 19:16  V                      CESAR VERASTEGUI PAREDES       C          10.00
+016085           CLA       05/05/2025 08:09  V                      GONZALES ZAPATA                E          10.00
+016086           CLA       05/05/2025 08:14  V                      JULIO PUESCAS QUINTANA         E           2.00
+016087           CLA       05/05/2025 08:54  V                      SUSANO NIETO BAZAN             E          35.50
+016088           CLA       05/05/2025 09:04  V                      AVILA CAJALEON LUKAS           E          45.00
+016089           CLA       05/05/2025 09:09  V                      SALAZAR TEODORO ROGER          E          45.00
+016090           CLA       05/05/2025 09:54  V                      MORAN SANCHEZ CERAPIO          E          45.00
+016091           CLA       05/05/2025 10:08  V                      PUESCAS QUINTANA JULIO         E          45.00
+016092           CLA       05/05/2025 10:19  V                      SALAZAR TEODORO ROFER          PL         70.00
+016093           CLA       05/05/2025 10:30  V                      LUCAS AVILA CAJALEON           E          90.00
+016094           CLA       05/05/2025 10:32  V                      VEGA RAMIREZ VILELO            E          70.00
+016095           CLA       05/05/2025 10:32  V                      PINEDA OBREGON EDITH           E          70.00
+016096           CLA       05/05/2025 10:53  V                      MORAN SANCHEZ CERAPIO          E         253.00
+016097           CLA       05/05/2025 11:11  V                      SALAZAR TEODORO ROGER          PL         30.00
+016098           CLA       05/05/2025 11:23  V                      KATHERINE CRUZ CANSINO         PL         70.00
+016099           CLA       05/05/2025 12:03  V                      JAIMES PACHECO MARIA           PL         15.00
+016100           CLA       05/05/2025 12:09  V                      PUESCAS QUINTANA               E           3.00
+016101           CLA       05/05/2025 13:09  V                      TARAZONA ROJAS LUIS            E          45.00
+016102           CLA       05/05/2025 13:42  V                      HUAYANAY VALDERDE MAXIMINA     PL        630.00
+016103           CLA       05/05/2025 16:09  V                      DELGADO SANTAFE OSVALDO        E         100.00
+016104           CLA       05/05/2025 16:32  V                      VALENZUELA MEJIA ARTEMIO       E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016105           CLA       05/05/2025 16:41  V                      PALOMINO LEON WILFREDO         E          45.00
+016106           CLA       05/05/2025 17:27  V                      JEREMY BRAVO QUISPE            PL         45.00
+016107           CLA       05/05/2025 17:55  V                      CALERO TRUJILLO ANGELA         E          45.00
+016108           CLA       05/05/2025 18:02  V                      PALACIN CARRASCOA AQUILES      E          45.00
+016109           CLA       05/05/2025 18:10  V                      ARTEMIO VALENZUELA MEJIA       E         120.00
+016110           CLA       05/05/2025 18:16  V                      FLORENCIA TINBA QUIRO          E          45.00
+016111           CLA       05/05/2025 18:19  V                      PEDRO MELLIZO GUARDIA          E          45.00
+016112           CLA       05/05/2025 18:05  V                      ARTEMIO VALENZUELA MEJIA       E          86.50
+016113           CLA       05/05/2025 18:30  V                      ROBERT REYES LOPEZ             PL         45.00
+016114           CLA       05/05/2025 18:51  V                      CELIA CCAPAC YAURI             PL        355.00
+016115           CLA       05/05/2025 18:53  V                      CALERO TRUJILLO ANGELA         E          16.50
+016116           CLA       05/05/2025 19:02  V                      PALACIN CARRASCO AQUILES       E         175.80
+016117           CLA       05/05/2025 19:03  V                      ADELINA SOLIS GARCIA           E          26.50
+016118           CLA       05/05/2025 19:21  V                      FLORENCIA TIMBA QUIRO          E          30.00
+016119           CLA       05/05/2025 19:33  V                      MADISON RAMIREZ CHINCHAY       E          45.00
+016120           CLA       05/05/2025 19:40  V                      ARTEMIO VALENZUELA             E          65.00
+016121           CLA       05/05/2025 19:46  V                      PEDRO MELLIZO GUARDIA          E          81.50
+016122           CLA       05/05/2025 20:43  V                      WILFREDO PALADIN LEON          E          90.20
+016123           CLA       05/05/2025 20:46  V                      VENTA ANULADA                  E           0.00
+016124           CLA       05/05/2025 20:47  V                      WILFREDO PALADIN LEON          E          97.20
+016125           CLA       05/05/2025 20:50  V                      ANGELA CALERO TRUJILLO         E          48.50
+016126           CLA       05/05/2025 20:53  V                      ANGELA CALERO TRUJILLO         E          53.00
+016127           CLA       05/05/2025 21:13  V                      MARISOL RAMIREZ CHINCHAI       E          63.00
+016128           CLA       05/05/2025 20:51  V                      MARISOL RAMIREZ CHINCHAI       E          48.50
+016129           ELI       06/05/2025 08:06  V                      CRISTHIAN AGUILAR ESCOBAR      E          60.00
+016130           ELI       06/05/2025 08:19  V                      HUACHO RUBINA YONEL AGUSTIN    E          45.00
+016131           ELI       06/05/2025 08:31  V                      PEDRO LUIS MELLIZO GUAARDIA    E         146.00
+016132           ELI       06/05/2025 09:49  V                      PENADILLO MANCO FABRICIO\      E          70.00
+016133           ELI       06/05/2025 10:22  V                      LOPEZ CORONADO CRISANTO        E          53.00
+016134           ELI       06/05/2025 11:39  V                      BALTAZAR CALDERON JULIO        PL         45.00
+016135           ELI       06/05/2025 13:04  V                      BALTAZAR CALDERON ENCARNACION  PL         10.50
+016136           ELI       06/05/2025 13:05  V                      BALTAZAR CALDERON ENCARNACION  PL        102.50
+016137           ELI       06/05/2025 13:06  V                      BALTAZAR CALDERON ENCARNACION  PL         70.00
+016138           ELI       06/05/2025 13:18  V                      TARAZONA ROJAS LUIS            E          16.50
+016139           ELI       06/05/2025 14:28  V                      ARTEMIO VALENZUELA MEJIA       E          31.00
+016140           ELI       06/05/2025 14:52  V                      GARCIA LOPEZ WALDO             E          31.00
+016141           ELI       06/05/2025 16:32  V                      SANEZ CASTILLO HORTENCIA       E          80.00
+016142           ELI       06/05/2025 16:45  V                      SAENZ CASTILLO ORTENSIA        E          45.00
+016143           ELI       06/05/2025 16:49  V                      WALDO GARCIA LOPEZ             E         150.00
+016144           ELI       06/05/2025 16:51  V                      MELISA RAMOS TAFUR             PL         15.00
+016145           ELI       06/05/2025 17:12  V                      JACINTO VALVERDE PEPE          E          45.00
+016146           ELI       06/05/2025 17:17  V                      PEDRO MELLIZA GUARDIA          E          45.00
+016147           ELI       06/05/2025 17:23  V                      PALOMINO LEON WILFREDO         E          95.90
+016148           ELI       06/05/2025 17:26  V                      ADELINA SOLIS GARCIA           E          26.50
+016149           ELI       06/05/2025 17:42  V                      ALARCON AGUIRRE JAVIER         E          45.00
+016150           ELI       06/05/2025 18:02  V                      MAYRA HUATA HUANCA             E          45.00
+016151           ELI       06/05/2025 18:05  V                      RIVERA BEDON RONALDINO         E          70.00
+016152           ELI       06/05/2025 18:08  V                      VENTA ANULADA                  E           0.00
+016153           ELI       06/05/2025 18:29  V                      SAENZ CASTILLO                 TR        131.20
+016154           ELI       06/05/2025 18:31  V                      SAENZ CASTILLO                 TR         15.00
+016155           ELI       06/05/2025 18:43  V                      PEPE JACINTO VALVERDE          E          31.00
+016156           ELI       06/05/2025 18:45  V                      ALARCON AGUIRRE VICENTE        E          65.00
+016157           ELI       06/05/2025 18:45  V                      ALARCON AGUIRRE                E         361.50
+016158           ELI       06/05/2025 18:52  V                      NORMA HUANSHA                  E          26.50
+016159           ELI       06/05/2025 18:53  V                      DELFINA ROJAS DE SANCHEZ       E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016160           ELI       06/05/2025 19:01  V                      PEDRO MELLIZO GUARDIA          E          21.00
+016161           ELI       06/05/2025 19:15  V                      MAYRA HUATA HUANCA             E          78.00
+016162           EFR       06/05/2025 19:30  V                      PEPE JACINTO VALVERDE          E         120.00
+016163           ELI       06/05/2025 19:41  V                      ADOLFO SANCHEZ                 E         283.50
+016164           ELI       06/05/2025 19:53  V                      ADOLFO SANCHEZ                 PL         21.50
+016165           ELI       06/05/2025 20:00  V                      DELFINA SANCHEZ                PL         10.00
+016166           ELI       06/05/2025 20:06  V                      ANDREA MARCOS GUERRERO         TR          6.00
+016167           ELI       06/05/2025 20:09  V                      ANDREA MARCOS GUERRERO         TR         41.50
+016168           ELI       06/05/2025 20:21  V                      JAIME ROSALES ESCUDERO         E          45.00
+016169           ELI       06/05/2025 20:34  V                      JAVIER ALARCON AGUIRRE         E          70.00
+016170           ELI       06/05/2025 21:50  V                      DR MARIO MOLINA                C          20.00
+016171           CLA       07/05/2025 00:41  V                      HUERTA CARDENAS IRENE          E          15.00
+016172           CLA       07/05/2025 04:07  V                      SHERLY RAMIREZ ESPINOZA        E          45.00
+016173           CLA       07/05/2025 04:12  V                      ANTONIA CARMEN BUITRON ZAVALA  E          80.00
+016174           CLA       07/05/2025 04:23  V                      VENTA ANULADA                  E           0.00
+016175           CLA       07/05/2025 04:41  V                      SHERLI RAMIREZ ESPINOZA        E          20.00
+016176           CLA       07/05/2025 04:44  V                      MAXIMILANA HUALLAMAY VALVERDE  E          29.70
+016177           CLA       07/05/2025 06:14  V                      HUAYANAY VALVERDE MAXIMINA     E          55.00
+016178           CLA       07/05/2025 06:15  V                      HUAYAMAY VALVERDE MAXIMILIANA  E          22.50
+016179           CLA       07/05/2025 06:36  V                      TARAZONA ROJAS LUIS            E          16.50
+016180           CLA       07/05/2025 06:39  V                      TARAZONA ROJAS LUIS            E          38.50
+016181           CLA       07/05/2025 08:57  V                      STEVEN CARLOS CABRACANCHA      E          45.00
+016182           CLA       07/05/2025 09:05  V                      GUERRERO DE GIRALDO GLORIA     E          45.00
+016183           CLA       07/05/2025 09:08  V                      PALOMINO LEON WILFREDO         E          95.90
+016184           CLA       07/05/2025 09:20  V                      HANA ARAMDA ENVANGELISTA\      E          45.00
+016185           CLA       07/05/2025 09:21  V                      JOHANA EVANGELISTA MENDOZA     E          45.00
+016186           CLA       07/05/2025 09:25  V                      JORGE RAMIREZ SUAREZ           E          45.00
+016187           CLA       07/05/2025 09:25  V                      FANNY QUICHIZ TOLEDO           E          45.00
+016188           CLA       07/05/2025 09:28  V                      STEFANY RAMIREZ QUICHIZ        E          45.00
+016189           CLA       07/05/2025 09:48  V                      SAENZ CASTILLO                 E         146.20
+016190           CLA       07/05/2025 10:06  V                      MAYRA HUATA HUANCA             E          51.50
+016191           CLA       07/05/2025 10:07  V                      PEDRO MELLIZO GUARDIA          E           2.00
+016192           CLA       07/05/2025 10:32  V                      ANTONIA BUITRON ZAVALA         E          23.50
+016193           CLA       07/05/2025 10:38  V                      ADELINA SOLIS GARCIA           E          26.50
+016194           CLA       07/05/2025 10:49  V                      CALERO TRUJILLO ANGELA         PL         45.00
+016195           CLA       07/05/2025 10:51  V                      CARLOS CABRACANCHA NATHAN      E         121.50
+016196           CLA       07/05/2025 11:04  V                      NATHAN CARLOS CABRACANCHA      PL         78.00
+016197           CLA       07/05/2025 11:17  V                      ALARCON AGUIRRE                PL         37.50
+016198           CLA       07/05/2025 11:20  V                      GLORIA GUERRERO DE GIRALDO     E          80.00
+016199           CLA       07/05/2025 11:21  V                      JAVIER ALARCON                 E           4.00
+016200           CLA       07/05/2025 11:55  V                      JOHANA EVANGELISTA MENDOZA     E          57.50
+016201           CLA       07/05/2025 11:57  V                      ARANDA EVANGELISTA HANNA       E          13.00
+016202           CLA       07/05/2025 11:58  V                      DELIA SALAZAR VALLEJOS         E           2.00
+016203           CLA       07/05/2025 12:04  V                      ALARCON AGUIRRE JAVIER         E          10.00
+016204           CLA       07/05/2025 12:13  V                      JORGE RAMIREZ SUAREZ           E         120.00
+016205           CLA       07/05/2025 12:23  V                      FANNY QUICHIZ TOLEDO           E         120.00
+016206           CLA       07/05/2025 12:50  V                      JORGE RAMIREZ SUAREZ           E         140.50
+016207           CLA       07/05/2025 13:50  V                      JORGE RAMIREZ SUAREZ           E          44.00
+016208           CLA       08/05/2025 09:26  V                      JULIO PUESCAS QUINTANA         C          10.00
+016209           CLA       08/05/2025 09:50  V                      JORGE RAMIREZ SUAREZ           E         110.00
+016210           CLA       08/05/2025 09:52  V                      VENTA ANULADA                  E           0.00
+016211           CLA       08/05/2025 10:03  V                      STEFANY RAMIREZ QUICHIZ        E         190.00
+016212           CLA       08/05/2025 10:30  V                      BERNAL SIPAN HILDANELLI        E          45.00
+016213           CLA       08/05/2025 14:49  V                      TARAZONA ROJAS LUIS            E          16.50
+016214           CLA       08/05/2025 15:20  V                      LUZ CARMEN VENTOCILLA PIO      E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016215           CLA       08/05/2025 16:01  V                      EUCLIDES TIBURCIO LOYOLA       E          45.00
+016216           EFR       08/05/2025 16:51  V                      IRENE HUERTAS CARDENAS         E          45.00
+016217           CLA       08/05/2025 16:58  V                      VENTA ANULADA                  E           0.00
+016218           CLA       08/05/2025 16:58  V                      IRENE CARDENAS HUERTA          E          10.00
+016219           EFR       08/05/2025 17:00  V                      MAYRA HUATA HUANCAR            E         115.00
+016220           CLA       08/05/2025 17:03  V                      IRENE CARDENAS HUERTAS         E           2.00
+016221           CLA       08/05/2025 17:12  V                      LIBERATO GALLARDO ORLANDO      E           5.00
+016222           CLA       08/05/2025 17:28  V                      OLIMPIA EVANGELISTA HUAMAN     E          45.00
+016223           CLA       08/05/2025 17:29  V                      PEDRO MELLIZO                  E           2.00
+016224           CLA       08/05/2025 17:36  V                      MAYRA HUATA HUANCA             PL         51.50
+016225           EFR       08/05/2025 17:51  V                      IRENE HUERTA CARDENAS          E          61.50
+016226           CLA       08/05/2025 17:52  V                      IRENE HUERTA CARDENAS          E         150.00
+016227           CLA       08/05/2025 17:54  V                      EDELVIRA LLARES LEON           E         100.50
+016228           EFR       08/05/2025 18:06  V                      ISABEL CALLAC ESPINOZA         E          45.00
+016229           CLA       08/05/2025 18:09  V                      LOURDES NARVASTA OLIVARES      E         160.00
+016230           CLA       08/05/2025 18:11  V                      SAENZ CASTILLO                 E         146.20
+016231           CLA       08/05/2025 18:16  V                      EUCLIDES TIBURCIO LOYOLA       E         110.00
+016232           CLA       08/05/2025 18:32  V                      ANGULO ALVARADO RAFAEL ERNESTO E          45.00
+016233           CLA       08/05/2025 18:36  V                      VENTOCILLA PIO LUZ             E          80.00
+016234           EFR       08/05/2025 18:46  V                      EUCLIDES TIBURCIO LOYOLA       E         136.00
+016235           EFR       08/05/2025 18:49  V                      MANRRIQUE CHENG ANGELA         PL         15.00
+016236           CLA       08/05/2025 18:53  V                      VENTA ANULADA                  E           0.00
+016237           EFR       08/05/2025 18:53  V                      MARIA ISABEL CUENTAS SU;IGA    PL         15.00
+016238           CLA       08/05/2025 18:58  V                      ERNESTO CARRERA                E         150.00
+016239           CLA       08/05/2025 19:15  V                      ADELINA SOLIS GARCIA           E          70.00
+016240           CLA       08/05/2025 19:24  V                      PALACIN CARRASCO AQUILES       E          42.00
+016241           CLA       08/05/2025 19:46  V                      OLIMPIA EVANGELISTA GUZMAN     E         217.20
+016242           CLA       08/05/2025 19:27  V                      OLIMPIA CARDENAS               E           1.50
+016243           CLA       08/05/2025 19:42  V                      RAFAEL ANGULO ALVARADO         PL        134.70
+016244           CLA       08/05/2025 20:02  V                      CHAVEZ TOCAS SANTA             PL         45.00
+016245           CLA       08/05/2025 20:12  V                      BASILIO SALINAS PRISCILA       E          45.00
+016246           CLA       08/05/2025 20:16  V                      LOURDES NARVASTA OLIVARES      E         150.00
+016247           CLA       08/05/2025 20:28  V                      ADELINA SOLIS GARCIA           E          98.00
+016248           CLA       08/05/2025 20:29  V                      NORMA HUANSHA                  E          26.50
+016249           CLA       08/05/2025 20:56  V                      GISELA RIVERA                  E           2.00
+016250           CLA       08/05/2025 21:07  V                      CHAVEZ TOCAS SANTOLINA         E          68.50
+016251           CLA       08/05/2025 21:15  V                      GISELA RIVERA                  E           2.00
+016252           CLA       08/05/2025 21:38  V                      IRENE HUERTA CARDENAS          PL         41.50
+016253           CLA       08/05/2025 21:42  V                      ADELINA SOLIS GARCIA           E           9.50
+016254           CLA       08/05/2025 22:09  V                      RAFAEL ANGULO ALVARADO         PL         35.00
+016255           CLA       09/05/2025 08:15  V                      ENCARANACION BALTAZAR CALDERON PL         55.00
+016256           CLA       09/05/2025 08:40  V                      VENTA ANULADA                  PL          0.00
+016257           CLA       09/05/2025 09:44  V                      CHAVEZ TOCAS SANTORA           PL        397.00
+016258           CLA       09/05/2025 12:30  V                      MARISOL                        E           2.00
+016259           CLA       09/05/2025 12:58  V                      GISELA RIVERA                  E           2.00
+016260           CLA       09/05/2025 16:17  V                      LIBERATO GALLARDO ORLANDO      E           5.00
+016261           CLA       09/05/2025 16:49  V                      PALOMINO LEON WILFREDO         E          45.00
+016262           CLA       09/05/2025 16:58  V                      MAYRA HUATA HUANCA             E          21.00
+016263           CLA       09/05/2025 17:23  V                      LUIZA LARIANCO VIERA           E          45.00
+016264           CLA       09/05/2025 17:27  V                      PEDRO MELLIZO GUARDIA          E           2.00
+016265           CLA       09/05/2025 18:49  V                      WILFREDO PALOMINO LEON         E          60.90
+016266           CLA       09/05/2025 19:26  V                      STEFANY RAMIREZ QUICHIZ        E          45.00
+016267           CLA       09/05/2025 19:32  V                      RUBEN ALA SANTOS               PL         10.00
+016268           CLA       09/05/2025 19:57  V                      STEFANY RAMIREZ QUICHIZ        E         120.00
+016269           CLA       09/05/2025 20:13  V                      JORGE RAMIREZ                  E          31.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016270           CLA       09/05/2025 20:28  V                      ENCARNACION VALENTIN ETELDRINA E          19.00
+016271           CLA       09/05/2025 20:30  V                      STEFANY RAMIREZ QUICHIZ        E         160.00
+016272           FAB       10/05/2025 09:38  V                      DAYANA MARCONO GOTA            E          60.00
+016273           FAB       10/05/2025 10:39  V                      ZABALA BUITROM                 E           4.00
+016274           FAB       10/05/2025 10:50  V                      MARCANO GOTA DAYANA            E          45.00
+016275           FAB       10/05/2025 11:03  V                      PALAS VENTURO MARIA FERNANDA   PL         55.00
+016276           FAB       10/05/2025 11:13  V                      GOTA DAYANA                    E          33.60
+016277           FAB       10/05/2025 11:23  V                      MORAN SANCHEZ                  E          45.00
+016278           FAB       10/05/2025 11:30  V                      RIVERA CASTILLO GUISELLA       E          70.00
+016279           FAB       10/05/2025 11:31  V                      RIVERA CASTILLO GUISELLA       E           2.00
+016280           FAB       10/05/2025 12:23  V                      ALCANTARA ARANA AMAIA ANTONELL PL         45.00
+016281           FAB       10/05/2025 13:52  V                      VENTA ANULADA                  E           0.00
+016282           FAB       10/05/2025 15:39  V                      CHAVEZ RIOS PEREGRINA          E         130.00
+016283           FAB       10/05/2025 16:19  V                      LIBERATO GALLARDO              E           5.00
+016284           FAB       10/05/2025 16:41  V                      WILFREDO PALOMINO              E          46.90
+016285           FAB       10/05/2025 16:59  V                      DANIELA ROMERO MENDOZA         PL         35.20
+016286           FAB       10/05/2025 17:32  V                      SANCHEZ GARAY ANDRE            E          45.00
+016287           FAB       10/05/2025 17:35  V                      CIVICO RAMOS CIELO             E          45.00
+016288           FAB       10/05/2025 17:46  V                      ESPINOZA JURADO DIEGO          TR         45.00
+016289           FAB       10/05/2025 17:47  V                      QUISPE NARVASTA ARIET          E          45.00
+016290           FAB       10/05/2025 17:51  V                      NORMA HUANSHA                  E          26.50
+016291           FAB       10/05/2025 17:52  V                      PEDRO MELLISO MORALES          E           2.00
+016292           FAB       10/05/2025 17:54  V                      GAMARRA VILLANUEVA FIORELLA    PL         15.00
+016293           FAB       10/05/2025 18:19  V                      CESAR CURIOSO MONTERO          E          58.50
+016294           FAB       10/05/2025 18:31  V                      CURISO MONTERO                 E           5.00
+016295           FAB       10/05/2025 18:34  V                      ENCARNACION VALENTIN ETELDRINA E          16.00
+016296           FAB       10/05/2025 18:40  V                      FALCON MONTES WILIAM           E          45.00
+016297           FAB       10/05/2025 18:57  V                      CIVICO RAMOS CIELO             E         134.70
+016298           FAB       10/05/2025 18:58  V                      CIVICO RAMOS CIELO             E          65.00
+016299           FAB       10/05/2025 19:19  V                      QUISPE NARVASTA ARIET          E          44.00
+016300           FAB       10/05/2025 19:19  V                      QUISPE NARVASTA ARIET          E          65.00
+016301           FAB       10/05/2025 19:26  V                      ESPINOZA JURADO DIEDO          TR         65.00
+016302           FAB       10/05/2025 19:26  V                      ESPINOZA JURADO DIEGO          TR        147.70
+016303           FAB       10/05/2025 20:28  V                      ROSARIO EYSAGUIRRE LOPEZ       PL         71.50
+016304           FAB       10/05/2025 20:35  V                      ESPINOZA JURADO DIEGO          PL         79.00
+016305           FAB       10/05/2025 20:51  V                      CIVICO RAMOS CIELO             E          58.50
+016306           FAB       10/05/2025 20:55  V                      ROSARIO EYSAGUIRRE             E           3.00
+016307           FAB       11/05/2025 01:47  V                      JAVIER DIAZ                    E          71.70
+016308           ELI       11/05/2025 10:28  V                      WILFREDO PALOMINO              E          46.90
+016309           ELI       11/05/2025 10:30  V                      WILFREDO PALOMINO LEON         E           9.00
+016310           ELI       11/05/2025 10:44  V                      ANGELA MELGAREJO MAGNA         E           2.00
+016311           FAB       11/05/2025 03:21  V                      CIELO CIVICO RAMOS             E         126.20
+016312           CLA       12/05/2025 09:12  V                      LIBERATO GALLARDO              E           5.00
+016313           CLA       12/05/2025 09:28  V                      LUNA PI;AN DYLAN               PL        248.00
+016314           CLA       12/05/2025 09:39  V                      JAVIER VIAL ASCENCIOS          TR         66.50
+016315           CLA       12/05/2025 10:25  V                      FLOR BAZAR JAIMES              E          80.00
+016316           CLA       12/05/2025 11:56  V                      ORTIZ ORTEGA ALEJANDRINA       E          45.00
+016317           CLA       12/05/2025 12:00  V                      QUISPE REYNOSO JOSY            E          15.00
+016318           CLA       12/05/2025 13:41  V                      RIVERA CASTILLO                E           2.00
+016319           CLA       12/05/2025 15:56  V                      VARGAS MARCHELA MARIA          E          45.00
+016320           CLA       12/05/2025 16:16  V                      CIVICO RAMOS CIELO             E         131.00
+016321           CLA       12/05/2025 16:16  V                      LILIANA RAMOS SANCHEZ          E          45.00
+016322           CLA       12/05/2025 16:22  V                      DAYANA MARCANO                 E           1.50
+016323           CLA       12/05/2025 16:38  V                      VICTORINO LEON VENTOCILLA      TR         45.00
+016324           CLA       12/05/2025 16:38  V                      VICTORINO LEON VENTOCILLA      PL         70.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016325           CLA       12/05/2025 17:06  V                      CHAVEZ MALLQUI PILAR           E          45.00
+016326           CLA       12/05/2025 17:14  V                      LILIANA RAMOS                  E           4.70
+016327           CLA       12/05/2025 17:21  V                      WILFREDO PALOMINO LEON         E          55.90
+016328           CLA       12/05/2025 17:22  V                      PEDRO MELLIZO GUARDIA          E           2.00
+016329           CLA       12/05/2025 18:07  V                      JUAN ALVARADO OBREGON          E          45.00
+016330           CLA       12/05/2025 18:25  V                      CHAVEZ TOCAS SANTOLINA         E          18.00
+016331           CLA       12/05/2025 18:47  V                      NATHAN CARLOS CABRACANCHA      TR         45.00
+016332           CLA       12/05/2025 18:47  V                      YULISSA CABRACANCHA GO;I       TR         45.00
+016333           CLA       12/05/2025 19:02  V                      SANCHEZ GARAY VALENTINA        E          45.00
+016334           CLA       12/05/2025 19:04  V                      ALEJANDRINA ORTIZ ORTEGA       E         280.00
+016335           CLA       12/05/2025 19:13  V                      MARIA VARGAS MARCHELA          E         110.00
+016336           CLA       12/05/2025 19:29  V                      LILIANA RAMOS SANCHEZ          E          30.20
+016337           CLA       12/05/2025 19:29  V                      CIVICO RAMOS CIELO             E          66.50
+016338           CLA       12/05/2025 19:37  V                      ALEJANDRINA ORTIZ ORTEGA       TR        139.50
+016339           CLA       12/05/2025 19:49  V                      VICTORINO LEON VENTOCILLA      TR        138.20
+016340           CLA       12/05/2025 19:54  V                      PILAR CHAVEZ MALLQUI           E           1.50
+016341           CLA       12/05/2025 20:21  V                      SALY GARAY MELGAREJO           E          16.50
+016342           CLA       12/05/2025 20:39  V                      JUAN ALVARADO OBREGON          E         185.00
+016343           CLA       12/05/2025 20:44  V                      CIELO CIVICO RAMOS             E           3.00
+016344           CLA       12/05/2025 20:56  V                      ALEJANDRINA ORTIZ ORTEGA       E           3.00
+016345           CLA       12/05/2025 21:37  V                      NATHA CARLOS CABRACANCHA       TR         53.00
+016346           CLA       13/05/2025 08:12  V                      TREJO HIDALGO MARCELO          E          10.00
+016347           CLA       13/05/2025 08:17  V                      WILFREDO PALOMINO LEON         E         153.00
+016348           CLA       13/05/2025 08:17  V                      WILFREDO PALOMINO LEON         E          50.00
+016349           CLA       13/05/2025 08:42  V                      ALEJENADRINA ORTIZ ORTEGA      TR        210.00
+016350           CLA       13/05/2025 08:44  V                      YANSARY CLAUDIO ROJAS          E          25.00
+016351           CLA       13/05/2025 09:17  V                      LIBERATO GALLARDO              E           5.00
+016352           CLA       13/05/2025 09:42  V                      PILAR CHAVEZ MALLQUI           E          55.00
+016353           CLA       13/05/2025 09:55  V                      YULISA CABRACANCHA GO;I        E          38.00
+016354           CLA       13/05/2025 09:59  V                      YULISSA CABRACANCHA GO;I       E          60.00
+016355           CLA       13/05/2025 10:39  V                      AURELIA CHABARRIA GUERRA       E         140.00
+016356           CLA       13/05/2025 11:56  V                      VIA ASCENCIOS JAVIER           TR         67.00
+016357           CLA       13/05/2025 13:15  V                      VICTORINO LEON VENTOCILLA      TR         59.70
+016358           CLA       13/05/2025 15:24  V                      ABARCA REYES CLEMENTE          E          60.00
+016359           CLA       13/05/2025 16:05  V                      BUITRON NAZARIO CAROLINA       E          45.00
+016360           CLA       13/05/2025 16:51  V                      LILIANA RAMOS SANCHEZ          E          16.20
+016361           CLA       13/05/2025 16:52  V                      CIELO CIVICO RAMOS             E          19.50
+016362           CLA       13/05/2025 17:10  V                      ZORRILA ASCENSIOS ALMAQUIO     E          45.00
+016363           CLA       13/05/2025 17:23  V                      PEDRO MELLIZO GUARDIA          E          45.00
+016364           CLA       13/05/2025 18:19  V                      CAROLINA BUITRON NAZARIO       E         262.50
+016365           CLA       13/05/2025 16:17  V                      CAROINA BUITRON NAZARIO        E          89.50
+016366           CLA       13/05/2025 17:24  V                      PEDRO MELLIZO GUARDIA          E         174.50
+016367           CLA       13/05/2025 17:29  V                      PEDRO MELLIZO                  E           1.50
+016368           CLA       13/05/2025 17:51  V                      JUAN NAVARRRO ESTUPI;AN        E          45.00
+016369           CLA       13/05/2025 17:54  V                      ZORRILLA ASCENSIOS ALMAQUIO    E          31.00
+016370           CLA       13/05/2025 18:00  V                      ROSA MU;OZ HUARANCA            E          27.00
+016371           CLA       13/05/2025 19:49  V                      JUAN NAVARRO ESTUPI;AN         E         146.50
+016372           ELI       14/05/2025 08:31  V                      JUAN NAVARRO ESTUPI;AN         E         268.00
+016373           ELI       14/05/2025 08:37  V                      ALMAQUIO ZORRILLA ASENCIOS     E          50.00
+016374           ELI       14/05/2025 10:45  V                      BUITRON ZAVALA ANTONIA         E          18.00
+016375           ELI       14/05/2025 12:51  V                      NAVARRO ESTUPI;AN JUAN         E          70.00
+016376           ELI       14/05/2025 12:59  V                      VICTORINO LEON                 PL         59.70
+016377           ELI       14/05/2025 13:20  V                      LILIANA RAMOS SANCHEZ          E          25.20
+016378           ELI       14/05/2025 14:17  V                      ORTIZ ORTEGA ALEJANDRINA       PL         45.00
+016379           ELI       14/05/2025 16:31  V                      CAROINA BUITRON NAZARIO        E          11.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-    8
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016380           ELI       14/05/2025 16:37  V                      CAROINA BUITRON NAZARIO        E           5.00
+016381           ELI       14/05/2025 17:24  V                      WILFREDO PALOMINO LEON         E          45.00
+016382           ELI       14/05/2025 17:34  V                      PEDDRO MELLIZO GUARDIA         E          16.50
+016383           ELI       14/05/2025 17:50  V                      SUAREZ PEREZ NANCY             PL        280.00
+016384           ELI       14/05/2025 17:55  V                      VENTA ANULADA                  E           0.00
+016385           ELI       14/05/2025 18:03  V                      ALEJANDRINA ORTIZ ORTEGA       PL        103.20
+016386           ELI       14/05/2025 18:05  V                      ALMAQUIO ZORRILLA ASENCIO      E          31.00
+016387           ELI       14/05/2025 16:51  V                      ORTIZ ORTEGA ALEJANDRINA       PL         41.50
+016388           ELI       14/05/2025 18:18  V                      WILFREDO PALOMINO LEON         E           6.50
+016389           ELI       14/05/2025 18:29  V                      DIEGO RODRIGUEZ CHAVEZ         PL         45.00
+016390           ELI       14/05/2025 18:43  V                      NAVARRO ESTUPI;AN JUAN CARLOS  E          45.00
+016391           ELI       14/05/2025 18:46  V                      EDUARDO ROMAN QUINTEROS        E          63.50
+016392           ELI       14/05/2025 18:54  V                      ARIET QUISPE NARVASTA          E          32.00
+016393           ELI       14/05/2025 18:56  V                      QUISPE NARVASTA ARIET          E          25.00
+016394           ELI       14/05/2025 19:25  V                      DIEGO RODRIGUEZ                TR        235.00
+016395           ELI       14/05/2025 19:38  V                      JHON AMARO CANCHAN             TR        100.50
+016396           ELI       14/05/2025 20:06  V                      QUISPE NARVASTA ARIET          E          45.00
+016397           ELI       14/05/2025 20:20  V                      JUAN NAVARRO                   E         131.50
+016398           ELI       14/05/2025 20:40  V                      RUBEN ALA                      E          10.00
+016399           MAR       14/05/2025 22:41  V                      VENTA ANULADA                  E           0.00
+016400           MAR       14/05/2025 22:43  V                      VENTA ANULADA                  E           0.00
+016401           MAR       14/05/2025 22:49  V                      VENTA ANULADA                  E           0.00
+016402           MAR       14/05/2025 22:53  V                      VENTA ANULADA                  E           0.00
+016403           MAR       14/05/2025 23:31  V                      VENTA ANULADA                  PL          0.00
+016404           MAR       14/05/2025 23:34  V                      VENTA ANULADA                  E           0.00
+016405           MAR       15/05/2025 00:56  V                      VICTORIONO LEON VENTOCILLA     PL         59.70
+016406           MAR       15/05/2025 02:50  V                      ANDRES YEPES JAIMES            E          63.70
+016407           MAR       15/05/2025 13:33  V                      MIRANDA SUAREZ CONSTANTINA     E         216.00
+016408           MAR       15/05/2025 13:34  V                      CASTINALDO LUCANO HUAMAN       E          10.00
+016409           MAR       15/05/2025 13:34  V                      OLIVA ALVARADO ISAIAS          E          45.00
+016410           MAR       15/05/2025 13:35  V                      OLIVA VIA ELDA MERCEDES        E          70.00
+016411           MAR       15/05/2025 13:35  V                      GONZALES RUIZ CIELO            PL         25.00
+016412           MAR       15/05/2025 13:36  V                      ALEJANDRINA ORTIZ ORTEGA       E          60.20
+016413           MAR       15/05/2025 13:42  V                      ANDRES YEPEZ JAIMES            E          23.00
+016414           MAR       15/05/2025 15:29  V                      WILFREDO PALOMINO LEON         E         123.50
+016415           MAR       15/05/2025 16:23  V                      LUIS CUEVA                     E          45.00
+016416           MAR       15/05/2025 16:25  V                      KIARA BERNACHEA LEZAMETA       E          45.00
+016417           MAR       15/05/2025 16:44  V                      ALMAQUIO ZORRILLA ASENCIOS     E          45.00
+016418           MAR       15/05/2025 16:48  V                      CAROINA BUITRON NAZARIO        E          16.00
+016419           MAR       15/05/2025 16:52  V                      ALMAQUIO ZORRILLA              E          31.00
+016420           MAR       15/05/2025 17:23  V                      PEDRO MELLIZO GUARDIA          E          16.50
+016421           MAR       15/05/2025 17:52  V                      REYNA GAMARRA CANO             PL         45.00
+016422           MAR       15/05/2025 17:58  V                      JAIRO SANCHEZ GAMARRA          E          45.00
+016423           MAR       15/05/2025 18:36  V                      KIARA BERNACHEA LEZAMETA       E          68.00
+016424           MAR       15/05/2025 19:22  V                      CHAVEZ TOCAS SANTORA           PL         45.00
+016425           MAR       15/05/2025 19:36  V                      REYNA GAMARRA                  E          90.00
+016426           MAR       15/05/2025 19:37  V                      JHON AMARO                     PL         20.50
+016427           MAR       15/05/2025 19:50  V                      SANCHEZ GAMARRA JAIRO          E          14.50
+016428           MAR       15/05/2025 20:03  V                      GLORIA GUERRERO DE GIRALDO     E       1,350.00
+016429           MAR       15/05/2025 20:05  V                      ALMAQUIO ZORRILLA              E          45.00
+016430           MAR       15/05/2025 20:11  V                      CHAVEZ TOCAS SANTORA           PL        230.00
+016431           MAR       15/05/2025 20:25  V                      SANCHEZ GAMARRA JAIRO          E          68.00
+016432           MAR       15/05/2025 20:26  V                      WILFREDO OCHOA TRINIDAD        PL         45.00
+016433           MAR       15/05/2025 20:27  V                      WILFREDO OCHOA TRINIDAD        PL         39.50
+016434           MAR       15/05/2025 20:38  V                      SANCHEZ GAMARRA JAIRO          E          29.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-    9
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016435           MAR       15/05/2025 20:51  V                      PAULINO                        E          25.00
+016436           MAR       15/05/2025 20:58  V                      WILFREDO OCHOA TRINIDAD        E          13.00
+016437           CLA       16/05/2025 08:30  V                      NU;EZ PABLO FORTUNATO          E          45.00
+016438           CLA       16/05/2025 08:49  V                      SANCHEZ GARAY VALENTINA        E         190.00
+016439           CLA       16/05/2025 08:53  V                      GARAY MELGAREJO SALY           E         354.00
+016440           CLA       16/05/2025 09:42  V                      LUIS HUERTA GIRALDO            E          12.00
+016441           CLA       16/05/2025 10:05  V                      NU;EZ PABLO FORTUNATO          E          41.50
+016442           CLA       16/05/2025 11:20  V                      BUITRON ZAVALA ANTONIA         E          45.00
+016443           CLA       16/05/2025 11:56  V                      BUITRON ZAVALA ANTONIA         E          16.80
+016444           CLA       16/05/2025 13:30  V                      SALOMENA HUERTO DE ALVINO      E          80.00
+016445           ELI       16/05/2025 14:04  V                      MACEDONA RAMIREZ ROMERO        PL         70.00
+016446           ELI       16/05/2025 14:15  V                      GABRIELA PANTA RODRIGUEZ       PL         57.50
+016447           ELI       16/05/2025 14:18  V                      MACEDONIA RAMIREZ ROMERO       PL         45.00
+016448           ELI       16/05/2025 14:22  V                      ALEJANDRINA ORTIZ ORTEGA       E          60.20
+016449           ELI       16/05/2025 14:48  V                      JUAN ALVARADO OBREGON          E          12.00
+016450           ELI       16/05/2025 15:20  V                      JUAN NAVARRO                   E          26.50
+016451           ELI       16/05/2025 16:30  V                      SUSANA YUMANAQUE PACHERRE      E          45.00
+016452           ELI       16/05/2025 16:38  V                      ANGELICA AGUERO TRUJILLO       E          45.00
+016453           ELI       16/05/2025 16:40  V                      LEONIDAS CARRION MENDOCILLA    E          55.00
+016454           CLA       16/05/2025 16:54  V                      NOEMI VERAMENDI AVENDA;O       E          15.00
+016455           CLA       16/05/2025 17:16  V                      RAMOS SANCHEZ LILIANA          PL         70.00
+016456           CLA       16/05/2025 17:16  V                      RAMOS SANCHEZ LILIANA          PL         41.50
+016457           CLA       16/05/2025 17:21  V                      SUSANA YUMANAQUE PACHERRE      E         174.50
+016458           ELI       16/05/2025 17:29  V                      SUSANA YUMANAQUE PACHERRE      E          94.00
+016459           CLA       16/05/2025 17:34  V                      MACEDONIA RAMIREZ ROMERO       PL        144.50
+016460           CLA       16/05/2025 17:50  V                      MACEDONIA RAMIREZ ROMERO       PL        184.70
+016461           CLA       16/05/2025 18:01  V                      OBREGON SANCHEZ YENY           E          45.00
+016462           ELI       16/05/2025 18:09  V                      AGUERO TRUJILLO ANGELICA       E         264.50
+016463           CLA       16/05/2025 18:34  V                      KIARA BERNACHEA DELSAMETA      E          16.50
+016464           CLA       16/05/2025 18:41  V                      YENY OBREGON SANCHEZ           E          51.50
+016465           CLA       16/05/2025 18:45  V                      YENI OBREGON SANCHEZ           E          12.00
+016466           ELI       16/05/2025 19:31  V                      ALEXIA RIOS CARBAJAL           E          45.00
+016467           ELI       16/05/2025 19:37  V                      YULISA CABRACANCHA GO;I        E          15.50
+016468           ELI       16/05/2025 19:56  V                      SUSANA YAMUNAQUE               E         100.50
+016469           ELI       16/05/2025 20:02  V                      STEVEN CARLOS CABRACANCHA      PL        150.00
+016470           ELI       16/05/2025 20:18  V                      ALEXIA RIOS CARBAJAL           PL         31.50
+016471           CLA       16/05/2025 20:50  V                      MACEDONIA RAMIREZ ROMERO       E         237.00
+016472           CLA       16/05/2025 20:59  V                      RIOS CARBAJAL ALESSIA          PL         29.90
+016473           ELI       16/05/2025 20:59  V                      RIOS CARBAJAL ALESSIA          PL         62.00
+016474           CLA       16/05/2025 21:37  V                      SANTIAGO FALLA ORTIZ           E          65.00
+016475           ELI       16/05/2025 21:37  V                      SANTIAGO FALLA ORTIZ           E          45.00
+016476           ELI       16/05/2025 21:41  V                      PAULINO                        E           1.50
+016477           ELI       17/05/2025 09:29  V                      CANALES RAMIREZ KEVIN          E          45.00
+016478           ELI       17/05/2025 09:38  V                      NAVARRO SALINAS JESUS MAURICIO E          50.00
+016479           ELI       17/05/2025 10:02  V                      CANALES RAMIREZ KEVIN          PL         89.10
+016480           ELI       17/05/2025 10:33  V                      CHAUPIS BUSTAMANTE ZENAIDA     PL        100.00
+016481           ELI       17/05/2025 10:55  V                      RIVERA QUINTO YSAAC            PL        100.00
+016482           ELI       17/05/2025 11:09  V                      NORMA ROQUE ORTIZ              E          70.00
+016483           ELI       17/05/2025 11:09  V                      VENTA ANULADA                  E           0.00
+016484           ELI       17/05/2025 11:54  V                      ROQUE ORTIZ NORMA              E          45.00
+016485           CLA       17/05/2025 15:48  V                      ORTIZ ORTEGA ALEJANDRINA       E          45.00
+016486           CLA       17/05/2025 15:56  V                      JOSE BUSTAMANTE FERNANDEZ      PL         45.00
+016487           CLA       17/05/2025 15:59  V                      RIVERA LOPEZ LILIA             E          45.00
+016488           CLA       17/05/2025 16:01  V                      RIVERA LOPEZ LILIA GRACIELA    E          70.00
+016489           CLA       17/05/2025 16:34  V                      RAMOS SANCHEZ LILIANA          E          67.70úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   10
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016490           CLA       17/05/2025 16:40  V                      GIANCARLO TELLO                E          61.50
+016491           CLA       17/05/2025 17:07  V                      MYA ACHUY COPARA               E          45.00
+016492           CLA       17/05/2025 17:31  V                      CAROLINA BUITRON NAZARIO       E          45.00
+016493           ELI       17/05/2025 17:45  V                      ANGELI DAVAN HUAMAN            E          45.00
+016494           ELI       17/05/2025 17:53  V                      ALEJANDRINA ORTIZ ORTEGA       E          87.40
+016495           ELI       17/05/2025 17:55  V                      ALEJANDRINA ORTIZ ORTEGA       TR        160.00
+016496           ELI       17/05/2025 18:03  V                      RAMOS SANCHEZ LILIANA          E          78.50
+016497           EFR       17/05/2025 18:16  V                      ZENAIDA PAUCHIS BUSTAMANTE     PL        306.50
+016498           ELI       17/05/2025 18:17  V                      BUSTAMANTE FERNANDEZ WILMER    PL         93.00
+016499           ELI       17/05/2025 18:19  V                      YSAAC RIVERA QUINTO            PL         35.00
+016500           ELI       17/05/2025 18:22  V                      BUSTAMANTE FERNANDEZ WILMER    PL         18.50
+016501           ELI       17/05/2025 18:28  V                      BUSTAMANTE FERNANDEZ WILMER    PL         30.00
+016502           ELI       17/05/2025 18:39  V                      MYA ACHUY COPARA               E          80.00
+016503           ELI       17/05/2025 18:51  V                      DENISE ANGELINE BALAREZO BALAR E          15.00
+016504           ELI       17/05/2025 19:10  V                      RIVERA LOPEZ LILIA             E          30.50
+016505           ELI       17/05/2025 19:12  V                      KIARA BERNACHEA LEZAMETA       E          16.00
+016506           ELI       17/05/2025 19:27  V                      CAROLINA BUITRON               E         165.00
+016507           ELI       17/05/2025 19:34  V                      MARGOT RIVERA CHAUPIS          PL         39.00
+016508           ELI       17/05/2025 19:38  V                      ANDREA MARCO GUERRERO          E          14.40
+016509           ELI       17/05/2025 19:41  V                      ANGELLI DAVAN HUAMAN           E          92.00
+016510           ELI       17/05/2025 19:59  V                      MELENDEZ MINAYA                E          45.00
+016511           ELI       17/05/2025 20:23  V                      ALVARADO OBREGON               E          27.00
+016512           ELI       17/05/2025 20:40  V                      MELENDEZ MINAYA LUIS           E         228.00
+016513           ELI       17/05/2025 20:43  V                      LUIS MELENDEZ                  E          35.00
+016514           ELI       17/05/2025 20:45  V                      FABIOLA VILLAFANE BARRERA      E          45.00
+016515           ELI       17/05/2025 21:10  V                      VILLAFANE BARRERA DELIA        E         142.60
+016516           FAB       17/05/2025 23:32  V                      VENTA ANULADA                  E           0.00
+016517           FAB       17/05/2025 23:35  V                      VENTA ANULADA                  E           0.00
+016518           FAB       18/05/2025 10:07  V                      TRUJILLO TRUJILLO LOHAN GADIEL E          45.00
+016519           FAB       18/05/2025 10:41  V                      TRUJILLO TRUJILLO              E          97.50
+016520           ELI       18/05/2025 10:51  V                      REYES TOLEDO AITA              E           8.00
+016521           FAB       18/05/2025 12:05  V                      EVANGELISTA MENDOZA JHOANA     E          57.50
+016522           FAB       18/05/2025 12:13  V                      RAMOS SANCHEZ LILIANA          PL         67.70
+016523           FAB       18/05/2025 12:29  V                      JUAN NAVARRI                   E          26.50
+016524           FAB       18/05/2025 12:45  V                      MIGUEL DIAZ                    E           6.90
+016525           FAB       18/05/2025 14:13  V                      REYES TOLEDO AITANA            E          45.00
+016526           FAB       18/05/2025 14:14  V                      MABEL CARRE;O VERAMENDI        E          13.00
+016527           ELI       18/05/2025 16:09  V                      VENTA ANULADA                  E           0.00
+016528           FAB       18/05/2025 18:17  V                      ZENAIDA PAUCHIS BUSTAMANTE     E         270.70
+016529           ELI       19/05/2025 08:16  V                      BRAVO ROMERO ALEXANDRA         PL         15.00
+016530           ELI       19/05/2025 08:22  V                      JUAN NAVARRO ESTUPI;AN         E         196.00
+016531           ELI       19/05/2025 15:23  V                      PAUCHIS BUSTAMANTE             E         345.20
+016532           ELI       19/05/2025 15:52  V                      VENTOCILLA CARRERA MELANIO     E          45.00
+016533           ELI       19/05/2025 16:05  V                      ROBERTO ITALO TRUJILLO FERNAND E          80.00
+016534           ELI       19/05/2025 16:21  V                      FUKUDA PICHILINGUE SULEMA      E          45.00
+016535           ELI       19/05/2025 17:00  V                      ROMERO DIAZ BRIANA             PL         45.00
+016536           ELI       19/05/2025 17:23  V                      ROCHA DIAZ BRANDON             E          45.00
+016537           ELI       19/05/2025 17:43  V                      ROJAS ALOR NICOLAS             E          45.00
+016538           ELI       19/05/2025 17:53  V                      JAIME VENTOCILLA CARRERA       E          77.00
+016539           ELI       19/05/2025 18:08  V                      FUKUDA PICHILINGUE             TR        138.00
+016540           ELI       19/05/2025 18:29  V                      TRIANA ROMERO                  PL          3.00
+016541           ELI       19/05/2025 18:47  V                      GUERRERO SANCHEZ FLORES        E          90.00
+016542           ELI       19/05/2025 18:51  V                      ROCHA DIAZ BRANDON             PL         70.00
+016543           ELI       19/05/2025 19:01  V                      ROCHA MEJIA BRANDON            E          75.00
+016544           ELI       19/05/2025 19:06  V                      NICOLAS ROJAS ALOR             E          79.50úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   11
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016545           ELI       19/05/2025 19:06  V                      NICOLAS ROJAS ALOR             E          95.50
+016546           ELI       19/05/2025 19:49  V                      PAUCHIS BUSTAMANTE ZENAIDA     E         100.00
+016547           ELI       19/05/2025 20:00  V                      YABAR SAENZ JULIA              PL        150.00
+016548           FAB       19/05/2025 23:54  V                      VENTA ANULADA                  E           0.00
+016550           FAB       19/05/2025 00:48  V                      VENTA ANULADA                  E           0.00
+016549           FAB       20/05/2025 00:35  V                      LUIS MELENDEZ MINAYA           E          35.00
+016551           FAB       20/05/2025 00:54  V                      ROJAS ALOR NICOLAS             E         103.00
+016552           FAB       20/05/2025 01:20  V                      VENTA ANULADA                  E           0.00
+016553           FAB       20/05/2025 01:32  V                      EUSTAQUIA TENORIO ROSA         E          25.00
+016554           FAB       20/05/2025 02:33  V                      ESPINOZA PE;A PONCIANO         PL         29.00
+016555           FAB       20/05/2025 02:57  V                      VENTA ANULADA                  E           0.00
+016556           FAB       20/05/2025 03:08  V                      MARGOT RIVERA CHAUPIS          E         210.70
+016557           FAB       20/05/2025 14:52  V                      JUAN NAVARRI                   E          26.50
+016558           FAB       20/05/2025 16:21  V                      JOSEFINA CARRE;O GOMEZ         PL         15.00
+016559           FAB       20/05/2025 16:36  V                      CARLOS SOSA ESTUPI;AN          E          45.00
+016560           FAB       20/05/2025 16:45  V                      YULISSA CABRACANCHA GO;I       E          45.00
+016561           FAB       20/05/2025 16:57  V                      LIAN IBA;EZ ARIAS              E          45.00
+016562           FAB       20/05/2025 17:15  V                      CASTILLO PICON GEANLUCA        E          45.00
+016563           FAB       20/05/2025 17:45  V                      VARGAS VALENZUELA ANTHONY      PL        120.00
+016564           FAB       20/05/2025 17:56  V                      ACHUI COPARA MYA               PL         45.00
+016565           FAB       20/05/2025 18:01  V                      HUAMAN CHIRITO FRANK           E          45.00
+016566           FAB       20/05/2025 18:19  V                      CABRACANCHA GO;I JULISSA       PL        164.90
+016567           FAB       20/05/2025 18:20  V                      FUCUDA PICHILINGUE             E          16.00
+016568           FAB       20/05/2025 18:33  V                      RUBEN MALQUI ALBORNOZ          E          45.00
+016569           FAB       20/05/2025 18:38  V                      PICON CASTILLO JEANLUCA        E          46.90
+016570           FAB       20/05/2025 19:22  V                      CHANGANAQUI VEGA ELIAN         E          45.00
+016571           FAB       20/05/2025 19:30  V                      ROJAS ALOR ENZO                E         122.50
+016572           FAB       20/05/2025 19:31  V                      MELENDEZ MINAYA LUIS           E          45.00
+016573           FAB       20/05/2025 19:34  V                      JUDITH MAYO QUISPE             E          68.90
+016574           FAB       20/05/2025 19:35  V                      MAYO QUISPE JUDITH             E          40.00
+016575           FAB       20/05/2025 19:40  V                      ROJAS ALOR                     E          12.00
+016576           FAB       20/05/2025 20:12  V                      HUAMAN CHIRITO FRANK           PL        265.00
+016577           FAB       20/05/2025 20:38  V                      MALLQUI ALBORNOZ HUMBERTO      E         159.50
+016578           FAB       20/05/2025 20:40  V                      MALLQUI ALBORNOZ HUMBERTO      E          60.00
+016579           FAB       20/05/2025 20:58  V                      VENTA ANULADA                  E           0.00
+016580           EFR       20/05/2025 20:59  V                      MELENDEZ MINAYA LUIS           PL        364.50
+016581           FAB       20/05/2025 21:09  V                      MELENDEZ MINAYA LUIS           PL        307.50
+016582           CLA       21/05/2025 03:09  V                      MOZON GARFIAS                  E          26.50
+016583           CLA       21/05/2025 05:26  V                      LILIANA RAMOS                  E          35.00
+016584           CLA       21/05/2025 07:55  V                      ANGELICA AGUERO TRUJILLO       E          45.00
+016585           CLA       21/05/2025 08:07  V                      NICOLAS ROJAS ALOR             E          45.00
+016586           CLA       21/05/2025 08:13  V                      ANGELIZA AGUERO TRUJILLO       TR         30.00
+016587           CLA       21/05/2025 08:29  V                      ANGELIZA AGUERO                TR         14.50
+016588           CLA       21/05/2025 08:31  V                      AITANA SALAZAR EMITERIO        E          45.00
+016589           CLA       21/05/2025 08:50  V                      CABRACANCHA GO;I JULISSA       E          75.40
+016590           CLA       21/05/2025 08:55  V                      ROSA ENCARNACION VALENTIN      E          80.00
+016591           CLA       21/05/2025 09:52  V                      ROJAS ALOR NICOLAS             E          78.00
+016592           CLA       21/05/2025 09:55  V                      ROJAS ALOR                     E           3.00
+016593           CLA       21/05/2025 10:04  V                      ROJAS ALOR NICOLAS EVANOT      E         250.00
+016594           CLA       21/05/2025 18:29  V                      AITANA SALAZAR                 E          10.50
+016595           CLA       21/05/2025 18:32  V                      FUCUDA PICHILINGUE             E          16.00
+016596           CLA       21/05/2025 18:54  V                      ANGELIZA AGUERO TRUJILLO       TR          5.50
+016597           CLA       21/05/2025 18:55  V                      AGUERO TRUJILLO ANGELICA       TR         41.50
+016598           CLA       21/05/2025 19:21  V                      JIMENEZ ARELLAN PERCY          E          45.00
+016599           CLA       21/05/2025 19:25  V                      LUIS MELENDEZ MINAYA           E          71.50úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   12
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016600           CLA       21/05/2025 19:46  V                      JIMENEZ ARELLANO               TR         34.00
+016601           CLA       21/05/2025 19:47  V                      JIMENEZ ARELLANO PERCY         TR        195.00
+016602           CLA       21/05/2025 20:03  V                      MALQUI ALBORNOZ HUMBERTO       TR         57.50
+016603           CLA       21/05/2025 20:22  V                      MALQUI ALBORNOZ                E          10.00
+016604           CLA       22/05/2025 12:16  V                      MOZON GARFIAS                  E          26.50
+016605           CLA       22/05/2025 12:19  V                      CORDOVA DE ALEJOS DIDUBINA     E          28.01
+016606           CLA       22/05/2025 13:14  V                      CORZO ROTTA STEFANY            PL         15.00
+016607           CLA       22/05/2025 14:15  V                      CABRACANCHA GO;I JULISSA       PL         75.90
+016608           CLA       22/05/2025 14:51  V                      JUAN NAVARRO                   E          26.50
+016609           CLA       22/05/2025 15:28  V                      NORMA HUANSHA BAILON           E          45.00
+016610           CLA       22/05/2025 16:05  V                      LESLY LOSPEZ                   E           6.50
+016611           CLA       22/05/2025 16:46  V                      ROJAS ALOR NICOLAS             E          68.00
+016612           CLA       22/05/2025 17:27  V                      NORMA HUANSHA BAILON           E          16.50
+016613           CLA       22/05/2025 17:28  V                      NORMA HUANSHA BAILON           E          68.00
+016614           CLA       22/05/2025 18:20  V                      SULEMA FUKUDA PICHILINGUE      E          45.00
+016615           CLA       22/05/2025 18:28  V                      ROJAS FERNANDEZ YOLANDA        PL         45.00
+016616           CLA       22/05/2025 18:39  V                      RIOS CARBAJAL ALESSIA CATALEYA E          45.00
+016617           CLA       22/05/2025 18:47  V                      MALQUI ALBORNOZ HUMBERTO       E          57.50
+016618           CLA       22/05/2025 18:54  V                      NAVARRO ESTUPI;AN JUAN         E          45.00
+016619           CLA       22/05/2025 18:56  V                      NORMA HUANSHA BAILON           E          51.90
+016620           CLA       22/05/2025 19:08  V                      ZULEMA FUKUDA PICHILINGUE      E          20.00
+016621           CLA       22/05/2025 19:10  V                      NORMA HUANSHA                  E          16.50
+016622           CLA       22/05/2025 19:11  V                      NORMA HUANSHA                  E          68.00
+016623           CLA       22/05/2025 19:34  V                      LAZARO VILCA JUVIEXA LEONELA   E          45.00
+016624           CLA       22/05/2025 19:52  V                      ALESSIA RIOS CARBAJAL          E          36.00
+016625           CLA       22/05/2025 20:02  V                      MELENDEZ MINAYA LUIS           E          71.50
+016626           CLA       22/05/2025 20:50  V                      LEONELA LAZARO VILCA           E          39.00
+016627           CLA       22/05/2025 20:52  V                      LEONELA LAZARO VILCA           E           3.00
+016628           ELI       22/05/2025 00:02  V                      VENTA ANULADA                  E           0.00
+016629           ELI       23/05/2025 08:48  V                      LAZARO VILCA JUVIEXA LEONELA   E         295.00
+016630           ELI       23/05/2025 10:03  V                      DIAZ MIGUEL                    PL          4.50
+016631           ELI       23/05/2025 10:27  V                      MARITZA CAYETANO LEON          E          45.00
+016632           ELI       23/05/2025 11:27  V                      MOZON GARFIAS                  E          26.50
+016633           ELI       23/05/2025 16:53  V                      ROJAS ALOR NICOLAS             E          64.00
+016634           ELI       23/05/2025 16:57  V                      CAYETANO LEON                  E          45.50
+016635           ELI       23/05/2025 17:07  V                      LUCIA VILCHEZ ZAPATA           PL         70.00
+016636           ELI       23/05/2025 17:18  V                      PACHERES GUERRERO JESUS        PL         45.00
+016637           ELI       23/05/2025 17:52  V                      JESUS PACHERRE                 PL         51.00
+016638           ELI       23/05/2025 18:02  V                      JESUS PACHERRE                 PL         35.00
+016639           ELI       23/05/2025 18:13  V                      VENTA ANULADA                  E           0.00
+016640           ELI       23/05/2025 18:24  V                      FUKUDA PICHILINGUE             E          52.00
+016641           ELI       23/05/2025 19:08  V                      JULISSA CABRACANCHA            E          51.90
+016642           FAB       23/05/2025 21:26  V                      VENTA ANULADA                  E           0.00
+016643           FAB       23/05/2025 23:34  V                      VENTA ANULADA                  PL          0.00
+016644           FAB       24/05/2025 00:36  V                      SANCHEZ CRISSANTOS SINDY]      PL         13.00
+016645           FAB       24/05/2025 00:41  V                      SANCHEZ CRISSANTOS SINDY       PL          8.00
+016646           FAB       24/05/2025 01:27  V                      ESTHER CHAGUA CHAVEZ           PL         15.00
+016647           FAB       24/05/2025 02:41  V                      PAULINO CAMPOS                 PL         20.50
+016648           FAB       24/05/2025 03:07  V                      SALIS ESPINOZA CORINA          E          80.00
+016649           FAB       24/05/2025 03:50  V                      TRAVEZA;O LOPEZ NERIDA GESICA  PL         45.00
+016650           FAB       24/05/2025 03:52  V                      SANTOS AVALOS JAMES            E          45.00
+016651           FAB       24/05/2025 05:20  V                      TRAVEZA;O LOPEZ NERIDA GESICA  PL         17.30
+016652           FAB       24/05/2025 05:36  V                      ROJAS ALOR NICOLAS             E          78.00
+016653           FAB       24/05/2025 05:38  V                      PEDRO LUIS MELLIZO GUARDIA     E         146.00
+016654           FAB       24/05/2025 05:55  V                      SANTOS BARMACHEA MARCELINO     E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   13
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016655           FAB       24/05/2025 05:58  V                      BERNACHEA SANCHEZ YRMA         E          45.00
+016656           FAB       24/05/2025 06:28  V                      ESPINOZA AGUIRRE SOFIA         E          45.00
+016657           FAB       24/05/2025 06:38  V                      SANTOS BERMACHEA MARCELINO     E         105.00
+016658           FAB       24/05/2025 06:43  V                      SANTOS BERNACHEA MARCELINO     PL         16.70
+016659           FAB       24/05/2025 06:49  V                      JULISSA CABRACANCHA            E          46.90
+016660           FAB       24/05/2025 17:57  V                      VENTA ANULADA                  E           0.00
+016661           FAB       24/05/2025 18:35  V                      BERNABE SANCHEZ YRMA           E         237.90
+016662           FAB       25/05/2025 13:07  V                      JUAN NAVARRO ESTUPI;AN         E          26.50
+016663           FAB       25/05/2025 16:23  V                      CABRACANCHA GO;I JULISSA       E          46.90
+016664           FAB       25/05/2025 17:22  V                      ROJAS ALOR NICOLAS             E          64.00
+016665           AUD       26/05/2025 08:35  V                      AUDREY GIRON                   E           1.50
+016666           AUD       26/05/2025 09:16  V                      VENTA ANULADA                  E           0.00
+016667           AUD       26/05/2025 10:12  V                      ROSA ELENA MONZON GONZALES     E          15.00
+016668           AUD       26/05/2025 10:27  V                      CALERO ESQUIVEL DANNA CRISBELL E          45.00
+016669           AUD       26/05/2025 10:39  V                      ESPINOZA GARAY                 E          57.20
+016670           AUD       26/05/2025 10:44  V                      ESPINOZA GARAY                 E          20.00
+016671           AUD       26/05/2025 10:50  V                      CALERO ESQUIVEL                E           6.00
+016672           AUD       26/05/2025 11:08  V                      TIRADO BLANCO EMELY            E          70.00
+016673           AUD       26/05/2025 11:25  V                      NORMA HUANSHA                  E          46.90
+016674           JES       26/05/2025 12:12  V                      ESPINOZA GARAY                 E          45.00
+016675           JES       26/05/2025 12:56  V                      NORMA HUANSHA                  E           5.00
+016676           JES       26/05/2025 13:44  V                      PANTA RODRIGUEZ GABRIELA       PL         57.50
+016677           JES       26/05/2025 14:48  V                      MAMANI YUFRA JOSE ANTONIO      E          70.00
+016678           JES       26/05/2025 15:04  V                      MIRANDA SUAREZ VICTORIA        E          45.00
+016679           AUD       26/05/2025 15:18  V                      SIFUENTES VILLAORDU;A GRESLY   E          25.00
+016680           AUD       26/05/2025 16:43  V                      REYES TOLEDO AITANA            E          45.00
+016681           AUD       26/05/2025 16:45  V                      LARREA GUERRERO MIRIAN         PL         45.00
+016682           AUD       26/05/2025 16:51  V                      PALOMINO LEON WILFREDO         E          45.00
+016683           JES       26/05/2025 17:04  V                      ESPINOZA AGUIRRE               E          45.00
+016684           JES       26/05/2025 17:12  V                      CABRACANCHA GO;I               E          46.90
+016685           JES       26/05/2025 17:12  V                      CABRERA RAMIREZ EVER           E          45.00
+016686           JES       26/05/2025 17:15  V                      CARLOS CABRACANCHA             PL         45.00
+016687           JES       26/05/2025 17:16  V                      ESPINOZA AGUIRRE               E          25.00
+016688           AUD       26/05/2025 17:26  V                      BEATINA TORRES                 E          45.00
+016689           AUD       26/05/2025 18:13  V                      AYTANA REYES TOLEDO            E          63.50
+016690           JES       26/05/2025 18:28  V                      VENTA ANULADA                  E           0.00
+016691           JES       26/05/2025 18:30  V                      CONSTANTINA MIRANDA SUAREZ     E          31.00
+016692           AUD       26/05/2025 18:42  V                      ROJAS FERNANDEZ YOLANDA        PL         45.00
+016693           AUD       26/05/2025 18:48  V                      CHAVEZ MALLQUI PILAR           E          15.20
+016694           AUD       26/05/2025 18:57  V                      MAZA LEON                      PL         45.00
+016695           AUD       26/05/2025 19:12  V                      LAZARO VILCA                   E          45.00
+016696           AUD       26/05/2025 19:13  V                      SOFIA ESPINOZA                 PL         30.00
+016697           AUD       26/05/2025 19:17  V                      SOFIA ESPINOZA AGUIRRE         E          15.20
+016698           AUD       26/05/2025 19:26  V                      RAMIREZ CABRERA EBER           E          16.50
+016699           AUD       26/05/2025 19:30  V                      JIMENEZ ARELLAN PERCY          PL         45.00
+016700           AUD       26/05/2025 19:34  V                      ALEJANDRO CARRERA OBREGON      E         104.00
+016701           AUD       26/05/2025 19:51  V                      NATHAN CARLOS                  PL         90.00
+016702           AUD       26/05/2025 20:00  V                      TORRES DE HUAMAN BEATINA       E          70.00
+016703           AUD       26/05/2025 20:07  V                      EBER RAMIREZ                   E         135.00
+016704           AUD       26/05/2025 20:15  V                      CARRERA OLIVARES               E          10.00
+016705           AUD       26/05/2025 20:30  V                      REGINA MAZA                    PL        127.00
+016706           AUD       26/05/2025 20:38  V                      LAZARO VILCA JUVEIXA           E          41.50
+016707           AUD       26/05/2025 20:43  V                      BEATINA TORRES DE HUAMAN       E         111.00
+016708           AUD       26/05/2025 20:46  V                      TORRES DE HUAMAN               E          10.00
+016709           AUD       26/05/2025 21:08  V                      JIMENEZ PERCY                  PL        237.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   14
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016710           AUD       26/05/2025 21:19  V                      TORRES DE HUAMAN               E          19.50
+016711           AUD       26/05/2025 21:30  V                      TORRES DE HUAMAN BEATINA       E          65.00
+016712           AUD       26/05/2025 21:55  V                      BEATINA TORRES                 E          14.00
+016713           AUD       26/05/2025 21:57  V                      BEATINA TORRES                 E           3.00
+016714           AUD       27/05/2025 01:08  V                      MAGUI;A MATOS IRENE            E          58.00
+016715           AUD       27/05/2025 01:11  V                      OLIVAS HUERTAS ISABEL          PL         38.00
+016716           AUD       27/05/2025 01:14  V                      SACHA CURO RAUL                PL         43.00
+016717           AUD       27/05/2025 01:25  V                      CLAUDIO ROJAS YANSARI          E          40.00
+016718           AUD       27/05/2025 01:59  V                      ESPINOZA GARAY LAURA           E         307.50
+016719           AUD       27/05/2025 01:59  V                      ESPINOZA GARAY LAURA           E          70.00
+016720           AUD       27/05/2025 02:52  V                      NORMA HUANSHA                  E          41.90
+016721           AUD       27/05/2025 03:10  V                      TORRES DE HUAMAN BEATINA       E          15.00
+016722           AUD       27/05/2025 03:12  V                      ELMER MOYA                     E          80.50
+016723           AUD       27/05/2025 04:56  V                      ROQUE CARLOS FELIX             E          15.00
+016724           AUD       27/05/2025 14:43  V                      JUAN NAVARRO                   E          29.50
+016725           AUD       27/05/2025 17:14  V                      CARLOS MEDRANO ELIZABETH       E          70.00
+016726           AUD       27/05/2025 17:22  V                      MELLIZO GUARDIA PEDRO          E          45.00
+016727           AUD       27/05/2025 18:20  V                      TORRES DE HUAMAN BEATINA       E          57.50
+016728           AUD       27/05/2025 18:22  V                      TORRES DE HUAMAN BEATINA       E          40.00
+016729           AUD       27/05/2025 18:24  V                      CHAVES MALLQUI PILAR           E           7.20
+016730           AUD       27/05/2025 18:26  V                      AITANA REYES TOLEDO            PL         51.50
+016731           AUD       27/05/2025 18:28  V                      MELLIZO GUARDIA                E         148.00
+016732           AUD       27/05/2025 18:30  V                      MELLIZO GUARDIA                E           1.50
+016733           AUD       27/05/2025 18:33  V                      BITANCUR GARRIDO CELIA         E          45.00
+016734           AUD       27/05/2025 18:48  V                      ALEJANDRO CARRERA              E          16.00
+016735           AUD       27/05/2025 18:51  V                      PERCY JIMENEZ                  E          26.50
+016736           AUD       27/05/2025 19:10  V                      CONSTANTINA MIRANDA            E          31.00
+016737           AUD       27/05/2025 19:12  V                                                     C          25.00
+016738           AUD       27/05/2025 19:39  V                      LIAM IBA;EZ ARIAS              PL         45.00
+016739           AUD       27/05/2025 20:04  V                      IBA;EZ ARIAS LIAM              PL         10.00
+016740           AUD       27/05/2025 20:26  V                      VENTA ANULADA                  PL          0.00
+016741           AUD       27/05/2025 08:56  V                      VENTA ANULADA                  E           0.00
+016742           AUD       28/05/2025 09:35  V                      VENTOCILLA ZU;IGA DIONISIO     E          85.00
+016743           AUD       28/05/2025 09:36  V                      VENTOCILLA                     E           1.50
+016744           AUD       28/05/2025 09:43  V                      VENTOCILLA                     E          25.00
+016745           AUD       28/05/2025 10:45  V                      MONTOYA PACHECO IVAN           E          45.00
+016746           AUD       28/05/2025 11:34  V                      PE;A CABELLO VILMA             E          41.50
+016747           AUD       28/05/2025 11:35  V                      GONZALES PE;A ANGELA SOLEDAD   E          41.50
+016748           AUD       28/05/2025 11:44  V                      HUAMAN TORRES FERMIN           E          40.00
+016749           AUD       28/05/2025 14:36  V                      RIVERA CASTILLO GISELLA        E           2.00
+016750           AUD       28/05/2025 16:00  V                      VENTOCILLA ZU;IGA DIONICIO     E          45.00
+016751           AUD       28/05/2025 16:10  V                      NORMA HUANSHA                  E          41.90
+016752           AUD       28/05/2025 16:13  V                      NORMA                          E           5.00
+016753           AUD       28/05/2025 16:19  V                      DOMINGA PIO CARRERA            E          70.20
+016754           AUD       28/05/2025 17:04  V                      TORRES DE HUAMAN               E          57.50
+016755           AUD       28/05/2025 17:10  V                      CORONADO ALEJANDRO CENON       E          45.00
+016756           AUD       28/05/2025 17:37  V                      NOVOA ALOR ANDREA VALENTINA    E          45.00
+016757           AUD       28/05/2025 17:40  V                      CABELLO AGUIRRE DONATA         E          45.00
+016758           ELI       28/05/2025 18:07  V                      CORONADO ALEJANDRO ZENON       PL        135.00
+016759           AUD       28/05/2025 05:49  V                      VENTOCILLA ZU;IGA DIONICIO     E          78.50
+016760           AUD       28/05/2025 05:56  V                      CHAVES MALLQUI PILAR           E           7.20
+016761           AUD       28/05/2025 06:03  V                      MONTOYA PACHECO                E          52.10
+016762           AUD       28/05/2025 18:36  V                      LOPEZ YANAC DENIS              E         100.00
+016763           AUD       28/05/2025 06:50  V                      CORONADO ALEJANDRO             PL         95.50
+016764           AUD       28/05/2025 07:02  V                      CORONADO ALEJANDRO             E          25.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   15
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016765           AUD       28/05/2025 07:06  V                      LUCIANA SALDA;A ROSALES        E          45.00
+016766           AUD       28/05/2025 07:22  V                      CABELLO AGUIRRE                E          66.50
+016767           AUD       28/05/2025 07:35  V                      CABELLO AGUIRRE                E           7.00
+016768           AUD       28/05/2025 19:12  V                      ALEJANDRO CARRERA              E          16.00
+016769           AUD       28/05/2025 19:20  V                      CONSTANTINA MIRANDA            E          31.00
+016770           AUD       28/05/2025 07:56  V                      SALDA;A ROSALES                E          14.90
+016771           AUD       28/05/2025 19:38  V                      SALDA;A ROSALES                E          44.00
+016772           AUD       28/05/2025 19:41  V                      PERCY JIMENEZ                  E          26.50
+016773           AUD       28/05/2025 19:48  V                      VENTOCILLA ZU;IGA              E          33.70
+016774           AUD       28/05/2025 19:54  V                      VENTOCILLA ZU;IGA              E           5.00
+016775           AUD       28/05/2025 20:17  V                      VENTA ANULADA                  PL          0.00
+016776           AUD       28/05/2025 20:18  V                      MAZA LEON REGINA               E          45.00
+016777           AUD       28/05/2025 20:21  V                      CABELLO AGUIRRE                E          44.00
+016778           AUD       28/05/2025 20:23  V                      VENTOCILLA ZU;IGA              E          17.00
+016779           AUD       28/05/2025 08:56  V                      CORONADO ALEJANDRO             PL         96.50
+016780           AUD       28/05/2025 20:35  V                      REGINA MAZA                    PL         47.00
+016781           AUD       28/05/2025 20:55  V                      REGINA MAZA                    E          26.50
+016782           AUD       28/05/2025 20:57  V                      REGINA MAZA                    E          20.00
+016783           AUD       29/05/2025 08:16  V                      FUCUDA PICHILINGUE ZULEMA      E          86.50
+016784           AUD       29/05/2025 08:38  V                      CASTILEJO PRETEL JULIO         E          45.00
+016785           AUD       29/05/2025 08:46  V                      ALVARADO GOMERO BRIGGITE       E          45.00
+016786           AUD       29/05/2025 09:09  V                      LEANDRA MAMANI TURCO           E          45.00
+016787           AUD       29/05/2025 09:28  V                      CASTILLEJO JULIO               E         129.20
+016788           AUD       29/05/2025 09:32  V                      CASTILLEJO PRETEL JULIO        E          70.00
+016789           AUD       29/05/2025 09:33  V                      CASTILLEJO PRETEL JULIO        E          65.00
+016790           AUD       29/05/2025 09:44  V                      AROSTE ALVARADO LUIS           E          45.00
+016791           AUD       29/05/2025 09:49  V                      ALVARADO GOMERO                E          43.90
+016792           AUD       29/05/2025 09:54  V                      ALVARADO GOMERO BRIGGITTE      PL        289.50
+016793           AUD       29/05/2025 09:59  V                      GUARDIA TADEO GAEL             PL         45.00
+016794           AUD       29/05/2025 10:07  V                      MAMANI TURPO LEANDRA           E         130.00
+016795           AUD       29/05/2025 10:08  V                      CARLOS ESPINOZA SALVADOR       E           2.00
+016796           AUD       29/05/2025 10:24  V                      LUIS AROSTE ALVARADO           E         164.50
+016797           AUD       29/05/2025 10:52  V                      JULIO CASTILLEJO               E         212.40
+016798           AUD       29/05/2025 10:55  V                      GAELL GUARDIA TADEO            PL         63.50
+016799           AUD       29/05/2025 13:15  V                      GAEL GUARDIA TADEO             PL         86.00
+016800           AUD       29/05/2025 14:42  V                      SALDA;A ROSALES LUCIANA        E          75.00
+016801           AUD       29/05/2025 16:06  V                      FUKUDA PICHILINGUE             E          45.00
+016802           AUD       29/05/2025 16:12  V                      CORONADO ALEJANDRO             E          70.70
+016803           AUD       29/05/2025 16:21  V                      AGUERO TRUJILLO ANGELICA       E          45.00
+016804           AUD       29/05/2025 17:07  V                      CABELLO AGUIRRE DONATO         PL        132.50
+016805           AUD       29/05/2025 17:19  V                      DOMINGA PIO CARRERA            E          65.20
+016806           AUD       29/05/2025 17:25  V                      VENTOCILLA ZU;IGA              E          47.70
+016807           AUD       29/05/2025 17:33  V                      NICOLAS ROJAS ALOR             E          45.00
+016808           AUD       29/05/2025 17:42  V                      ZULEYKA RAMOS HENOSTROZA       E          45.00
+016809           AUD       29/05/2025 17:47  V                      FUKUDA PICHILINGUE SULEMA      E          40.00
+016810           AUD       29/05/2025 17:52  V                      CABRACANCHA GO;I               E          20.90
+016811           AUD       29/05/2025 18:04  V                      AGUERO TRUJILLO ANGELICA       PL        230.50
+016812           AUD       29/05/2025 18:08  V                      DOMINGA PIO CARRERA            E          45.00
+016813           AUD       29/05/2025 18:09  V                      EVER RAMIREZ CABRERA           E          45.00
+016814           AUD       29/05/2025 18:23  V                      ALVARADO GOMERO BRIGGITE       E         238.00
+016815           AUD       29/05/2025 18:26  V                      ALVARADO                       E           1.50
+016816           AUD       29/05/2025 18:29  V                      ALVARADO GOMERO BRIGGITE       E          75.90
+016817           AUD       29/05/2025 18:42  V                      CHAVEZ MALLQUI                 E           7.20
+016818           AUD       29/05/2025 18:43  V                      GISELLA RIVERA CASTILLO        E          45.00
+016819           AUD       29/05/2025 18:55  V                      ROJAS ALOR NICOLAS             E          43.00úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   16
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016820           AUD       29/05/2025 19:09  V                      ROJAS ALOR NICOLAS             E          50.00
+016821           AUD       29/05/2025 19:18  V                      ZULEYKA RAMOS                  E         191.50
+016822           AUD       29/05/2025 19:19  V                      JIMENES PERCY                  PL         26.50
+016823           AUD       29/05/2025 19:21  V                      EBER RAMIREZ CABRERA           E         106.50
+016824           AUD       29/05/2025 19:24  V                      EBER RAMIREZ                   E          31.00
+016825           AUD       29/05/2025 19:27  V                      CHRISTIAM MEDINA               E          25.20
+016826           AUD       29/05/2025 19:27  V                                                     E           3.00
+016827           AUD       29/05/2025 19:42  V                      RAMIREZ CABRERA EBER           E         120.00
+016828           AUD       29/05/2025 20:24  V                      GISSELLA RIVERA CASTILLO       E           3.00
+016829           AUD       29/05/2025 20:31  V                      CHRISTIAN                      E           1.50
+016830           AUD       29/05/2025 20:39  V                      GISELLA RIVERA CASTILLO        E         134.50
+016831           AUD       29/05/2025 20:54  V                      DIONICIO VENTOCILLA            E          35.00
+016832           AUD       30/05/2025 08:05  V                      TREJO HIDALGO MARCELO          E          10.00
+016833           AUD       30/05/2025 11:44  V                      FRANCOISE PRIGENT              E          75.00
+016834           AUD       30/05/2025 16:05  V                      CORONADO ALEJANDRO             E          57.70
+016835           AUD       30/05/2025 16:07  V                      ALEJANDRO CORONADO             E          35.00
+016836           AUD       30/05/2025 16:18  V                      ALVARADO GOMERO                PL         65.90
+016837           AUD       30/05/2025 16:28  V                      HUERTAS VILLANUEVA CARMEN      E          45.00
+016838           AUD       30/05/2025 17:14  V                      OLGA CORNELIO GARCIA           E           2.00
+016839           AUD       30/05/2025 17:55  V                      ESPINOZA GARAY LAURA           E          45.00
+016840           AUD       30/05/2025 18:09  V                      BEATINA TORRES DE HUAMAN       E          45.00
+016841           AUD       30/05/2025 18:12  V                      MELENDEZ MINAYA                E          45.00
+016842           AUD       30/05/2025 18:40  V                      ARAINDIA BARRETO MATEO         E          60.00
+016843           AUD       30/05/2025 18:50  V                      QUISPE REYNOSO NESTOR          E          45.00
+016844           AUD       30/05/2025 18:53  V                      CABRACANCHA GO;I               E          12.90
+016845           AUD       30/05/2025 18:59  V                      CHAVEZ MALLQUI                 E           7.20
+016846           AUD       30/05/2025 19:01  V                      ESPINOZA GARAY                 E         169.00
+016847           AUD       30/05/2025 19:11  V                      ARAINDIA BARRETO MATEO         E          60.00
+016848           AUD       30/05/2025 19:18  V                      VENTA ANULADA                  E           0.00
+016849           AUD       30/05/2025 19:20  V                      EBER RAMIREZ                   E          31.00
+016850           AUD       30/05/2025 19:25  V                      TORRES DE HUAMAN BEATINA       E          46.50
+016851           AUD       30/05/2025 19:28  V                      LUIS MELENDEZ                  E          81.50
+016852           AUD       30/05/2025 19:33  V                      AITANA REYES                   E          35.00
+016853           AUD       30/05/2025 19:36  V                      JIMENEZ ARELLAN PERCY          PL         26.50
+016854           AUD       30/05/2025 19:56  V                      NESTOR QUISPE                  PL        139.00
+016855           AUD       30/05/2025 19:57  V                      QUISPE REYNOSO                 E           3.00
+016856           AUD       30/05/2025 20:07  V                      CABELLO AGUIRRE                E          24.00
+016857           AUD       30/05/2025 20:11  V                      EBER RAMIREZ CABRERA           E          46.00
+016858           AUD       30/05/2025 20:26  V                      ERNESTO CARRERA                E          31.00
+016859           AUD       30/05/2025 20:33  V                      ESPINOZA GARAY                 E          26.50
+016860           AUD       30/05/2025 20:37  V                      CHRISTIAM MEDINA               E          17.20
+016861           AUD       30/05/2025 20:42  V                      MEDINA CHRISTIAM               E           1.50
+016862           AUD       31/05/2025 01:23  V                      VIA ASENCIOS JAVIER ENRIQUE    PL        128.00
+016863           AUD       31/05/2025 01:28  V                      BELTRAN BAUTISTA MARIA         E          85.00
+016864           AUD       31/05/2025 01:32  V                      QUISOE REYNOSO JOSEIM NESTOR   PL        230.00
+016865           AUD       31/05/2025 01:36  V                      TORIBIO CRUZ LUCIA             E          92.00
+016866           AUD       31/05/2025 01:38  V                      BELTRAN BAUTISTA               E          80.00
+016867           AUD       31/05/2025 01:45  V                      TORIBIO CRUZ LUCIA             E           3.00
+016868           AUD       31/05/2025 01:52  V                      VIA ASENCIOS JAVIER ENRIQUE    PL         60.00
+016869           AUD       31/05/2025 01:52  V                      JAVIER VIA ASENCIOS            PL          1.50
+016870           AUD       31/05/2025 01:54  V                      BELTRAM BAUTISTA MARIA         E          45.00
+016871           AUD       31/05/2025 01:57  V                      AITANA REYES TOLEDO            E          87.00
+016872           AUD       31/05/2025 02:14  V                      GISELLA EVELYN RIVERA CASTILLO E         273.00
+016873           AUD       31/05/2025 02:18  V                      GISELLA RIVERA CASTILLO        E          45.00
+016874           AUD       31/05/2025 02:42  V                      FELIX ROQUE CARLOS             E           1.50úZethQuark Versi¢n 7.0ú                                                                                                 09/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 01/05/2025 AL 31/05/2025                              10:47:44
+PRT102()                                                                                                                Pag.-   17
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016875           AUD       31/05/2025 02:54  V                      FELIX ROQUE CARLOS             PL         90.00
+016876           AUD       31/05/2025 04:26  V                      HILDA NELLY BERNAL SIPAN       E         120.00
+016877           AUD       31/05/2025 05:15  V                      FLOR ALBINO BLAS               E           6.50
+016878           AUD       31/05/2025 07:18  V                      MEDRANO CUEVAS SANDRA          PL         15.00
+016879           AUD       31/05/2025 07:46  V                      LEONIDAS LUCIO CARRION MENDOCI E          45.00
+016880           AUD       31/05/2025 08:34  V                      ALVARADO GOMERO                PL         65.90
+016881           AUD       31/05/2025 08:50  V                      LEONIDAS CARRION MENDOCILLA    E          10.00
+016882           AUD       31/05/2025 16:35  V                      ANA MERCEDES MAGUI;A           E          45.00
+016883           AUD       31/05/2025 16:56  V                      ESPINOZA GARAY                 E          31.00
+016884           AUD       31/05/2025 17:03  V                      ZENAIDA ROMERO APONTE          E          70.00
+016885           AUD       31/05/2025 17:16  V                      LEONIDAS CARRION MENTOCILLA    E          53.00
+016886           AUD       31/05/2025 17:17  V                      ALVARADO                       E          10.00
+016887           AUD       31/05/2025 17:33  V                      HILDA NELLY BERNAL             E          45.00
+016888           AUD       31/05/2025 17:33  V                      LILIANA RAMOS SANCHEZ          E          45.00
+016889           AUD       31/05/2025 17:49  V                      CABELLO AGUIRRE                E           9.50
+016890           AUD       31/05/2025 17:51  V                      MAGUI;A TORRES                 PL        206.00
+016891           AUD       31/05/2025 18:03  V                      TEODOLINDA BELTRAM BAUTISTA    E          95.00
+016892           AUD       31/05/2025 18:09  V                      CHAVEZ MALLQUI                 E           7.20
+016893           AUD       31/05/2025 18:13  V                      VENTA ANULADA                  E           0.00
+016894           AUD       31/05/2025 18:26  V                      HILDA BERNAL                   PL        134.50
+016895           AUD       31/05/2025 18:34  V                      BELTRAM TEODOLINDA             E          75.90
+016896           AUD       31/05/2025 18:35  V                      LAZARO VILCA JUVIEXA           E          45.00
+016897           AUD       31/05/2025 18:52  V                      LILIANA RAMOS                  E         247.00
+016898           AUD       31/05/2025 18:55  V                      CHRISTIAM MEDINA               E          18.70
+016899           AUD       31/05/2025 19:30  V                      TEODOLINDA BELTRAM             E          45.00
+016900           AUD       31/05/2025 19:36  V                      ANA MERCED MAGUI;A             E           1.50
+016901           AUD       31/05/2025 19:49  V                      EBER RAMIREZ                   PL         31.00
+016902           AUD       31/05/2025 19:51  V                      CABRACANCHA GO;I               PL         12.90
+016903           AUD       31/05/2025 20:12  V                      PERCY JIMENEZ                  PL         26.50
+016904           AUD       31/05/2025 20:15  V                      GISELLA RIVERA CASTILLO        E         108.50
+016905           AUD       31/05/2025 20:17  V                      GISELLA RIVERA                 E          30.50
+016906           AUD       31/05/2025 20:33  V                      VILLAFANIA BARRERA DELIA       E          45.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       4          65.00
+Factura       :       0           0.00                                                    Efectivo      :     680      40,330.01
+Ticket        :       0           0.00                                                    Plin          :     160      12,851.80
+Guia Interna V:     872      55,578.61                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :      28       2,331.80
+                             55,578.61                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                       55,578.61
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      8,477.42
+ÿ
+ÿ
+Nro.  Documentos Anulados :           40
+Total Documentos Anulados :         0.00

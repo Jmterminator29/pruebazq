@@ -1,0 +1,44 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 03/03/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/03/2025 AL 02/03/2025                              08:57:21
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+014303           ELI       01/03/2025 08:36  V                      GEFFERSON MONTES CORDOVA       E         185.00
+014304           ELI       01/03/2025 10:01  V                      VENTA ANULADA                  E           0.00
+014305           ELI       01/03/2025 12:01  V                      CENIA OLORTEGUI                E          27.00
+014306           ELI       01/03/2025 16:07  V                      CESAR GUARDIA                  E          64.50
+014307           ELI       01/03/2025 16:36  V                      NIETO SOTO RAUL                E          31.00
+014308           ELI       01/03/2025 17:09  V                      CESAR VERASTEGUI               E          10.00
+014309           ELI       01/03/2025 17:10  V                      CESAR VERASTEGUI PAREDES       E          45.00
+014310           ELI       01/03/2025 17:16  V                      NAYELI PAREDES AYALA           TR         45.00
+014311           ELI       01/03/2025 17:47  V                      CAMERON AZAF CELIS ROJAS       E          45.00
+014312           ELI       01/03/2025 18:37  V                      CESAR VERASTEGUI PAREDES       TR        120.00
+014313           ELI       01/03/2025 18:40  V                      CESAR VERASTEGUI               E           2.00
+014314           ELI       02/03/2025 12:07  V                      MENDOZA CASTILLO PRIMITIVA     E          45.00
+014315           EFR       02/03/2025 13:51  V                      MENDOZA CASTILLO PRIMITIVA     E          79.50
+014316           EFR       02/03/2025 13:52  V                      MENDOZA CASTILLO PRIMITIVA     E           1.50
+014317           EFR       02/03/2025 16:51  V                      CESAR GULI;O GUARDIA           E          64.50
+014318           EFR       02/03/2025 16:54  V                      ZENA UNSUETA VILLANUEVA        E          30.00
+014319           EFR       02/03/2025 18:04  V                      ORLANDO LIBERATO               E           5.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      14         635.00
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      16         800.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       2         165.00
+                                800.00                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                          800.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        122.04
+ÿ
+ÿ
+Nro.  Documentos Anulados :            1
+Total Documentos Anulados :         0.00

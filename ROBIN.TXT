@@ -1,0 +1,88 @@
+úZethQuark Versi¢n 7.0ú                                               03/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 02/02/2022 AL 02/02/2022        17:44:08
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT#24 CAJAX50UNID                           1u12           0u1         SAN
+AGLUTINACIONES                                256              1           SAN
+AGUJA #18 CAJAX100UNID.                         0u99           0u14        SAN
+ALBENDAZOL 100MG/5ML  SUSPX20ML                 5              1           SAN
+ANEURIN 10,000 SOLUCION INYECTABLE             13              8           SAN
+ANTIGENO HISOPADO ENERO 2022                   19              3           SAN
+ASCORBIC-C + MATERIAL DE APLICACION             6              7           SAN
+ASSIS 400 SUSPX220ML                            3              2           SAN
+BROMELIN 0,88GR SUSP ORALX100ML                 2              3           SAN
+CEFALOGEN 1GR IM CAJA X 1 INYECTABLE           12              1           SAN
+CEFTRIAXONA 1g AMP CAJAX1OUNID                  1u7            0u2         SAN
+CETIRIZINA 10mg ANTIHISTAMINICO                 1u36           0u12        SAN
+CIPROFIBRATO 100MG CAPSULA CAJAX100             1u86           0u20        SAN
+CLARITROMICINA 500MG CAJAX100                   0u68           0u20        SAN
+CLORURO DE SODIO 100ML 0,9%                    18              1           SAN
+CONSULT. PSICOLOGIA                           836              2           ISA
+CONSULTA DR MARIO                            9958             16           SAN
+CONSULTA OBSTETRICIA                          888              2           ISA
+CULTIVO DE SEC.VAGINAL                       1843              1           ISA
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100             0u57           0u1         SAN
+DEXTROMETORFANO 15MG/5ML JARABE                 4              1           SAN
+DICLOFENACO AMP 75MGx3ML CAJX100                0u43           0u6         SAN
+ENDOVENOSO INTERNO CLINICA                    413              1           SAN
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN        0u23           0u1         SAN
+ESPASMO ANTALGINA AMPOLLA                      13              1           SAN
+ESPECULO TALLA M                               12              2           ISA
+FLAGYL 500MG TABX20                            14u9            1           SAN
+FLAGYL SUSPENSION 250MG/5ML                     0              1           SAN
+FLUIMICAR 600MG CAJA X 20 TABLETAS              3u7            0u26        SAN
+FRASCO ORINA ESTERIL                           20              3           SAN
+GASA ESTERIL  5X5 CAJAX20UNID                   1u6            0u1         ISA
+GLUCOSA                                      9735              2           ISA
+GLUCOTECH                                      10              1           ISA
+HCG PRUEBA DE EMBARAZO                        474              1           SAN
+HCG PRUEBA DE EMBARAZO CAMPANA                 39              2           SAN
+HELICOBACTER PYLORI IGM                      1187              1           SAN
+HEMOGLOBINA HEMATOCRITO                       921              1           SAN
+HEMOGRAMA COMPLETO                            834              5           SAN
+HEPABIONTA DE 2ML AMPOLL CAJAX1               136              7           SAN
+JERINGA 10ML CAJAX100UNID.                      0u29           0u11        SAN
+JERINGA 20ML CAJAX50UNID.                       0u20           0u4         SAN
+JERINGA 3ML                                     1u65           0u1         SAN
+JERINGA 5ML CAJAX100UNID.                       1              0u7         SAN
+LAVADO DE OIDO II                            1928              1           ISA
+LIDOCAINA 1% AMPOLLA 3,5ML                     64              2           SAN
+LIKFERR +MATERIAL DE APLICACION                 9              1           SAN
+LLAVE TRIPLE VIA CAJAX200UNID.                  0u94           0u3         SAN
+LORATADINA 10MG TABLX100                        9u44           0u10        SAN
+METAMIZOL CAJA X100 AMPOLLAS                    0u31           0u1         SAN
+METRONIDAZOL AMP 500MGx100ML FRASC100ML         5              1           SAN
+MULCEROL/ESOMEPRAZOL 40 TAB CAJX30             20u26           0u40        SAN
+NAPROXENO 550 TABx100                           0u44           0u16        SAN
+NEOALERGINE PLUS CAJA X 30CAPSULAS              1u16           0u6         SAN
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10          7u5            0u1         SAN
+ONDA DE CHOQUE                                871              1           ISAúZethQuark Versi¢n 7.0ú                                               03/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 02/02/2022 AL 02/02/2022        17:44:10
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS           5u2            0u5         SAN
+ORINA COMPLETA                                281              3           SAN
+PAPANICOLAOU                                  932              1           ISA
+PARASITOLOGICO SIMPLE                        1657              1           SAN
+PARASITOLOGICO X3                            1867              2           SAN
+PCR CUANTITATIVA                              112              2           SAN
+PENICILINA PROCAIN 1000000 CAJAX10              2u8            0u3         SAN
+PERFIL HEPATICO                               369              3           SAN
+PERFIL LIPIDICO                               767              3           SAN
+PERFIL REUMATICO                              681              1           ISA
+PROFENID AMP 100MGx2ML CAJX6                    4u1            0u1         SAN
+PRUEBA RAPIDA ENERO                            14              1           SAN
+RX COLUMNA LUMBO SACRO                        960              1           ISA
+RX TORAX FRONTAL                              413              3           SAN
+TERAPIA COVID                                 366              4           ISA
+TRAUMATOLOGIA DR CORAL                        908              1           SAN
+UROCULTIVO                                    465              2           SAN
+VIVERA CAJAX8                                   3u6            1           SAN
+ZOLEDRON 5MG/100ML INYECTABLE                   3              1           ISA
+--------------------------------------------------------------------------------
+T O T A L:    74
+--------------------------------------------------------------------------------

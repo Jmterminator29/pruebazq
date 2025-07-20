@@ -1,0 +1,286 @@
+úZethQuark Versi¢n 7.0ú                                               03/01/2024
+POL.LOS ANGELES      VERIFICACION STOCK MAYOR IGUAL QUE 0u1             09:15:34
+PRT286()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  STKMIN   STKMAX     TOTSTK
+--------------------------------------------------------------------------------
+QM PHARMA                               
+---------
+LASANTE                                 
+-------
+FARMAKONSUMA                            
+------------
+MENARINI                                
+--------
+16243 KETESSE 25MG TABLETA CAJAX20                  0        0        0u9    
+16245 KETESSE AMPOLLA CAJAX5                        0        0        0u2    
+16247 RILATEN 20MG/2ML AMPOLLA CAJAX6               0        0        0u1    
+16249 SPASMOMEN 40MG TABLETA CAJAX30                0        0        0u15   
+ABBOT LABORATORIO                       
+-----------------
+ABEEFE S.A.                             
+-----------
+ABL PHARMA INTERNACIONAL                
+------------------------
+AC FARMA LABORATORIOS S.A               
+-------------------------
+15254 CIPROFIBRATO 100MG CAPSULA CAJAX100           0        0        0u2    
+AMERICA S.R.L                           
+-------------
+ANALISIS                                
+--------
+ANDREU DOCTOR Q.F.,S.A.                 
+-----------------------
+ARKOPHARMA                              
+----------
+16546 PHYTO SOYA 17.5 MG CAJAX60 CAPSULAS           0        0        0u5    
+     BAHIA SOLAR                        
+-----------
+BAYER PERU S.A.                         
+---------------
+BRATON S.A.C.DROGUERIA                  
+----------------------
+CAFERMA S.A.C.                          
+--------------
+CIPA S.A.                               
+---------
+CONSULTA                                
+--------
+D'OLAPHARM                              
+----------
+16314 ALERCHECK PLUS 10MG CAPSULA/CAJAX30           0        0        0u18   
+DANY                                    
+----
+16815 AGUA ESTERIL PARA INYEC. CAJAX100 AMPOLL      0        0        0u15   
+16388 AMIKACINA 500MG AMPOLLA CAJAX25               0        0        0u3    
+02262 CEFTRIAXONA 1g AMP CAJAX1OUNID                0        0        1u3    
+02764 CLINDAMICINA AMP 600MG/4ML  CAJAX25           0        0        0u22   
+16753 EPINEFRINA 1MG/ML CAJAX10AMPOLLAS             0        0        0u8    
+06731 KETOROLACO 60mg/2ML AMPOLL CAJAX25            0        0        0u5    
+14934 PENICILINA PROCAIN 1000000 CAJAX10            0        0        0u2    
+DEUTSCHE PHARMA S.A.                    úZethQuark Versi¢n 7.0ú                                               03/01/2024
+POL.LOS ANGELES      VERIFICACION STOCK MAYOR IGUAL QUE 0u1             09:15:35
+PRT286()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  STKMIN   STKMAX     TOTSTK
+--------------------------------------------------------------------------------
+--------------------
+ECOGRAFIA                               
+---------
+ELIFARMA S.A.                           
+-------------
+EMCURE                                  
+------
+EUROFARMA                               
+---------
+FAES FARMA LABORATORIOS                 
+-----------------------
+LABORATORIOS FARCOS E.I.R.L             
+---------------------------
+FARMINDUSTRIA                           
+-------------
+14903 ALPRAZOLAM 0,5MG TABX200 V01/2023             0        0        0u185  
+16832 CEFALEXINA 500MG CAJAX100 TABLETAS            0        0        0u73   
+16584 ENALAPRIL 10MG CAJAX100                       0        0        0u70   
+15086 GENTAMICINA  160MG/2ML AMPOLL CAJAX25         0        0        0u14   
+08266 NAPROXENO 550 TABx100                         0        0        0u6    
+08974 ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS         0        0        0u10   
+15011 RANITIDINA 50MG/2ML AMPOLL  CAJX100           0        0        0u6    
+FARVET                                  
+------
+FERRER INTERNACIONAL S.A.               
+-------------------------
+FRASCOS                                 
+-------
+GENCOPHARMACEUTICAL                     
+-------------------
+GENCOFARMA                              
+----------
+GEN-FAR PERU S.A.                       
+-----------------
+17096 MINOCICLINA 100MG X10 CAPSULAS                0        0        0u5    
+GILSAN                                  
+------
+GRUNENTHAL PERUANA S.A.                 
+-----------------------
+GSK                                     
+---
+HERSIL S.A.                             
+-----------
+INTIPHARMA S.A.C                        
+----------------
+INTRALAB                                
+--------
+INTIPHARM [PROMEDICA]                   
+---------------------
+INYECTABLE                              
+----------
+IQFARMA                                 
+-------
+00326 ALBENDAZOL 200MG TABX100                      0        0        0u18   
+16813 AMOXICILINA 500MG CAJAX100 TABLE              0        0        0u68   úZethQuark Versi¢n 7.0ú                                               03/01/2024
+POL.LOS ANGELES      VERIFICACION STOCK MAYOR IGUAL QUE 0u1             09:15:35
+PRT286()                                                              Pag.-    3
+--------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  STKMIN   STKMAX     TOTSTK
+--------------------------------------------------------------------------------
+04770 ESOMEPRAZOL 40MG TABX30                       0        0        2u29   
+16335 FENAZOPIRIDINA 100mg TABLETA CAJA X 100       0        0        0u69   
+15060 HIDROCLOROTIAZIDA 50MG TABX200                0        0        0u108  
+JPS DISTRIBUCIONES                      
+------------------
+LABOT                                   
+-----
+16936 ACIDO ACETILSALICILICO 100MG CAJA X 100       0        0        0u10   
+14829 DEXAMETASONA 4MG/1ML AMPOLL CAJX100           0        0        0u25   
+03825 DICLOFENACO AMP 75MGx3ML CAJX100              0        0        0u17   
+LABOFAR                                 
+-------
+LANSIER                                 
+-------
+LIPHARMA SAC DROGUERIA                  
+----------------------
+LOBOGEN                                 
+-------
+LUSA UNIDOS LABORATORIOS                
+------------------------
+MEDIDERM                                
+--------
+MARFAN LABORATORIOS S.A                 
+-----------------------
+MARKOS S.A.                             
+-----------
+MEDROCK                                 
+-------
+MEDIFARMA                               
+---------
+03524 DEQUAZOL ORAL CAJAX60TABLETAS                 0        0        0u19   
+MERCK PERUANA S.A.                      
+------------------
+17216 EUTIROX 50MCG X 50TAB                         0        0        0u3    
+16401 GLUCOPHAGE  XR 750 MG X 30 TABLETAS           0        0        1u25   
+16722 HEPABIONTA GRAGEAS CAJAX200                   0        0        0u65   
+NATURGEN                                
+--------
+01077 ATORVASTATINA  10MG TABX100                   0        0        1u80   
+01989 CAPTOPRIL 25mg TABx100                        0        0        0u28   
+14868 CLORFENAMINA MALEATO 4MG TABX100              0        0        0u20   
+07018 LEVOFLOXACINO  500MG CAJAX100TABLETAS         0        0        0u56   
+15071 PARACETAMOL 500MG TABX100                     0        0        0u47   
+NEBULIZACION                            
+------------
+OM PHARMA                               
+---------
+OQ PHARMA S.A.C.                        
+----------------
+LABORAT.PER.SERV.FARM.OYSA              
+--------------------------
+PERUFARMA                               
+---------
+01078 ATORVASTATINA 20MG TABX100                    0        0        0u70   
+16652 LOSARTAN  50mg CAJAX100TABLETAS               0        0        0u48   úZethQuark Versi¢n 7.0ú                                               03/01/2024
+POL.LOS ANGELES      VERIFICACION STOCK MAYOR IGUAL QUE 0u1             09:15:36
+PRT286()                                                              Pag.-    4
+--------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  STKMIN   STKMAX     TOTSTK
+--------------------------------------------------------------------------------
+16968 MELOXICAM 15 MG CAJAX100                      0        0        0u4    
+PERU LAB                                
+--------
+12765 ACIDO FOLICO 0.5mg tabletax100                0        0        0u30   
+16063 CLONAZEPAM 0.5mg tabletax100                  0        0        0u31   
+PHARMED CORPORACION S.A.C. LAB.         
+-------------------------------
+PHARMA INVESTI PERU S.A.                
+------------------------
+PHARMAGEN                               
+---------
+15010 DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25        0        0        3u20   
+05445 FUROSEMIDA AMP 20MGx2ML AMP X50               0        0        0u35   
+16394 HIDROCORTISONA 250MG AMPOLLA CAJAX10UNID      0        0        0u3    
+PHARMATECH                              
+----------
+PORTUGAL                                
+--------
+15257 LORATADINA 10MG TABLX100                      0        0        0u25   
+16874 SULFAMET + TRIMET 800MG/160MG CAJAX100TA      0        0        0u90   
+14795 TERBINAFINA 250MG TABX100                     0        0        0u26   
+Q PHARMA                                
+--------
+QUILAB                                  
+------
+QUIMICA SUIZA                           
+-------------
+ROEMMERS S.A.                           
+-------------
+ROKER                                   
+-----
+ROXFARMA                                
+--------
+RAYOS X                                 
+-------
+SANOFI PHARMA                           
+-------------
+15055 FLAGYL 500MG TABX20                           0        0        3u11   
+SERVICIO                                
+--------
+SHERFARMA LABORATORIOS                  
+----------------------
+SIEGFRIED S.A.                          
+--------------
+TECNOFARMA S.A.                         
+---------------
+TEVA                                    
+----
+16672 ANTALGINA 500MG CAJAX100TABLETAS              0        0        0u27   
+15137 GLIBENCLAMIDA 5MG CAJAX100TABLETAS            0        0        1u75   
+TOPICO                                  
+------
+14988 ABOCAT #20CAJAX50UNID                         0        0        0u40   
+15967 ABOCAT#22 CAJAX50UNID                         0        0        0u3    
+15968 ABOCAT#24 CAJAX50UNID                         0        0        0u9    úZethQuark Versi¢n 7.0ú                                               03/01/2024
+POL.LOS ANGELES      VERIFICACION STOCK MAYOR IGUAL QUE 0u1             09:15:36
+PRT286()                                                              Pag.-    5
+--------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  STKMIN   STKMAX     TOTSTK
+--------------------------------------------------------------------------------
+14984 AGUJA #18 CAJAX100UNID.                       0        0        0u62   
+14985 AGUJA #21 CAJAX100                            0        0        0u69   
+14986 AGUJA #23 CAJAX100UNID.                       0        0        0u81   
+14987 AGUJA #25 CAJAX100UNI.                        0        0        0u99   
+16350 ALITAS 23G LONG30CM CJA100UNID.               0        0        0u94   
+15157 BISTURI #10 CAJAX100 UNIDADES                 0        0        0u56   
+14947 EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN      0        0        0u11   
+14971 GASA ESTERIL  5X5 CAJAX20UNID                 0        0        1u17   
+15091 JERINGA 10ML CAJAX100UNID.                    0        0        0u29   
+16354 JERINGA 1ML CAJAX1OOUNID.                     0        0        0u5    
+15090 JERINGA 20ML CAJAX50UNID.                     0        0        1u9    
+16351 JERINGA 5ML CAJAX100UNID.                     0        0        0u97   
+16347 LLAVE TRIPLE VIA CAJAX50UNID.                 0        0        0u5    
+UNILEVER ANDINA PERU S.A.               
+-------------------------
+VIFOR                                   
+-----
+VITALIS PERU S.A.C.                     
+-------------------
+14981 OMEPRAZOL 40MG POLVO INYECTABLE CAJX10        0        0        0u8    
+NO CLASIFICADO                          
+--------------
+17124 ACICLAV AMOX+ACIDO CLAVULANICO 875+125        0        0        1u1    
+17409 AGUJA #22 CAJAX100                            0        0        0u95   
+17467 BAGOLIFE CAJAX30 CAPSULAS                     0        0        0u15   
+17422 CONCOR 5MG CAJAX30 TABLETAS                   0        0        0u12   
+17340 DEXIDE SR 1000 CAJAX30 CAPSULAS               0        0        1u5    
+15255 DOBESILATO CALCICO 500MG TABX100              0        0        0u37   
+17457 EUTIROX 25MG  X50 UNID                        0        0        0u24   
+17252 EUTIROX 88MG CAJAX10 TABLETAS                 0        0        0u7    
+17342 FLOREA CAJAX60 CAPSULAS                       0        0        0u55   
+17253 GLUCOVANCE 500/2.5MG CAJAX30 UNID             0        0        0u27   
+16375 HIDROCORTISONA 100MG AMPOLLA CAJAX10UNID      0        0        0u1    
+16883 JERINGA 3ML X100                              0        0        1u16   
+16700 METAMIZOL SODICO 1G/2ML AMPOLLA X25           0        0        0u3    
+16321 OMEPRAZOL 20MG CAJAX100CAPSULAS               0        0        0u80   
+15074 ROWACHOL  CAPSULAX100UNID.                    0        0        0u49   
+17374 TAMSULOSINA 0.4MG X30                         0        0        1u10   
+--------------------------------------------------------------------------------
+Total De Productos:      86

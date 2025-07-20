@@ -1,0 +1,87 @@
+úZethQuark Versi¢n 7.0ú                                                              19/12/2024
+POL.LOS ANGELES          REPORTE DE PRODUCTOS X LINEA (INSUMOS MEDICOS)                08:34:26
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+14989 ABOCAT #18 CAJAX50UNID                   AB        250.00      5.00     0          0     
+14988 ABOCAT #20CAJAX50UNID                    TOP       250.00      5.00     0          1u15  
+15967 ABOCAT#22 CAJAX50UNID                    TOP       250.00      5.00     0          1u48  
+15968 ABOCAT#24 CAJAX50UNID                    TOP       250.00      5.00     0          7u36  
+16915 AEROCAMARA ADULTO                        ZZZZ       20.00               0          5     
+14984 AGUJA #18 CAJAX100UNID.                  TOP        50.00      0.50     0          1u48  
+14985 AGUJA #21 CAJAX100                       TOP        50.00      0.50     0          3u39  
+17409 AGUJA #22 CAJAX100                       TOP        50.00      0.50     0          4u2   
+14986 AGUJA #23 CAJAX100UNID.                  TOP        50.00      0.50     0          0u21  
+14987 AGUJA #25 CAJAX100UNI.                   TOP        50.00      0.50     0          1u79  
+16350 ALITAS 23G LONG30CM CJA100UNID.          TOP       300.00      3.00     0          0u82  
+17539 ALITAS 25G LONG30CM CAJA X 100UND        ZZZZ      300.00      3.00     0          0u90  
+17005 BATA DESCARTABLE                         ZZZZ       12.00               0          5     
+15157 BISTURI #10 CAJAX100 UNIDADES            TOP       200.00      2.00     0          0u33  
+16592 BOLSA COLECTORA DE ADULTO                TOP        10.00               0         15     
+16634 CANULA BINASAL L ADULTO                  ZZZZ        5.00               0         63     
+16633 CANULA BINASAL TALLA M                   ZZZZ        5.00               0          0     
+16896 CANULA DE YANKAUER                       ZZZZ       15.00               0          0     
+17412 CLORURO 250ML                            ZZZZ        9.50               0         42     
+17559 CLORURO 500ML                            ZZZZ        9.50               0          3     
+16229 CLORURO DE DECUALINIO                    ZZZZ                           0          0     
+16205 CLORURO DE POTASIO                       ZZZZ                           0          0     
+16070 CLORURO DE SODIO                         ZZZZ                           0          0     
+14948 CLORURO DE SODIO 100ML 0,9%              PHAR        7.00               0        254     
+17591 DEXTROSA 33.3% 20ML UNIDAD               ZZZZ        5.00               0          2     
+14962 DEXTROSA 5% CONT 1000ML                  ZZZZ       10.00               0          4     
+14947 EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN TOP       100.00      4.00     0         12u23  
+16806 EQUIPO MICROGOTERO CON VOLUTROL 100ML    ZZZZ       15.00               0         10     
+17082 ESPECULO TALLA L                         ZZZZ        5.00               0          3     
+17083 ESPECULO TALLA M                         ZZZZ        5.00               0         21     
+16479 ESPECULO TALLA S                         TOP         5.00               0          0     
+17553 EXTENSION DISS 50CM                      ZZZZ                           0          8     
+16348 FRASCO DE HECES                          FRAS        1.50               0         60     
+16521 FRASCO ORINA ESTERIL                     ZZZZ        1.50               0         25     
+14971 GASA ESTERIL  5X5 CAJAX20UNID            TOP        50.00      2.50     0          0     
+14976 GASA ESTERIL 7.5X7.5CM CAJAX20           TOP        60.00      3.00     0          0     
+14975 GASA ESTERIL MED.10X10CM CAJAX20UNID     TOP        60.00      3.00     0         10u17  
+16840 GASA PARAFINADA PARA QUEMADURAS          ZZZZ       10.00               0          0     
+16734 GLUCOTECH                                ZZZZ       10.00               0         14     
+16662 GUANTES                                  ZZZZ        1.50      0.03     0          0     
+17176 GUANTES #7                               ZZZZ        4.00               0          0     
+17177 GUANTES #8                               ZZZZ        5.00               0          0     
+14979 GUANTES QUIRURGICO TALLA 7.5             ZZZZ        5.00               0         20     
+15091 JERINGA 10ML CAJAX100UNID.               TOP       100.00      1.00     0          5u50  
+16354 JERINGA 1ML CAJAX1OOUNID.                TOP       100.00      1.00     0          2     
+15090 JERINGA 20ML CAJAX50UNID.                TOP        50.00      1.00     0          5u47  
+16883 JERINGA 3ML X100                         ZZZZ       50.00      0.50     0          2u8   
+16351 JERINGA 5ML CAJAX100UNID.                TOP       100.00      1.00     0          1u44  
+16424 JERINGA DE INSULINA CAJAX100UNIDADES     TOP       100.00      1.00     0          0     
+16347 LLAVE TRIPLE VIA CAJAX50UNID.            TOP       250.00      5.00     0          3u33  
+16988 LLAVE TRIPLE VIA CON EXTENSION           ZZZZ        6.00               0          0     
+17387 LOVEGEST 450G VAINILLA                   ZZZZ       80.00               0          0     
+17533 MASCARA CON RESERVORIO ADULTO            ZZZZ       20.00               0          2     
+17507 MASCARILLA DE OXIGENO ADULTO             ZZZZ       12.00              35          0     
+17000 MASCARILLA DE OXIGENO PEDIATRICA         ZZZZ       12.00              38          0     úZethQuark Versi¢n 7.0ú                                                              19/12/2024
+POL.LOS ANGELES          REPORTE DE PRODUCTOS X LINEA (INSUMOS MEDICOS)                08:34:28
+PRT202()                                                                             Pag.-    2
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16868 MASCARILLA DE RESERVORIO PARA BEBE       ZZZZ       20.00               0          0     
+14284 MASCARILLA NEBULIZADORA ADULTO           UNIL       12.00               0         14     
+16079 MASCARILLA NEBULIZADORA NINO             ZZZZ       12.00               0         25     
+16869 MASCARILLA PARA RESERVORIO PEDIATRICO    ZZZZ       12.00               0          1     
+16884 MASCARILLA VENTURI NEONATL               ZZZZ       15.00               0          0     
+16637 MASCARILLA VENTURI PEDIATRICO            ZZZZ       15.00               0          0     
+17445 MASCARRILLA NEONATAL NEBULIZAR           ZZZZ       20.00               0          0     
+16580 NYLON #0                                 TOP         8.50               0          0     
+16886 NYLON #2                                 ZZZZ        8.50               0          0     
+16805 NYLON #3                                 ZZZZ        8.50               0          2     
+16581 NYLON #4                                 TOP       204.00      8.50     0          0u17  
+16582 NYLON #5                                 TOP        10.00               0          0     
+16885 NYLON #6                                 ZZZZ        8.50               0          0     
+14950 SONDA FOLEX DE LATEX #14                 TOP        10.00               0          6     
+16898 SONDA FOLEY #16                          ZZZZ       12.00               0          8     
+14990 SONDA NASOGASTRICA 01/85CM               TOP         4.50               0          0     
+16514 SUERO FISIOLOGICO DE 1 LITRO             MEDI       10.00               0         21     
+17203 VENDA ELAST GALENO 8X5                   ZZZZ        3.50               0          0     
+14967 VENDA ELAST GALENO MED 6X5               ZZZZ        2.50               0          0     
+14969 VENDA ELASTC AKY MEDID2X5                ZZZZ        1.00               0          0     
+14968 VENDA ELASTC MEDIDA 5X5                  ZZZZ        3.00               0          2     

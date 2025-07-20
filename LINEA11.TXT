@@ -1,0 +1,57 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES              REPORTE DE PRODUCTOS X LINEA (RAYOS X)                    18:21:29
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16101 RX ABDOMEN                               RX         75.00               0        995     
+15339 RX ANTEBRAZO FRONTAL Y LATERAL           RX         75.00               0        995     
+15321 RX ARTICULACION TEMPORO MANDIBULAR       RX         85.00            1000       1000     
+15337 RX BRAZO FRONTAL Y LATERAL               RX         75.00            1000        990     
+15341 RX CADERA COMPARATIVA                    RX         95.00            1000        974     
+15139 RX CADERA INCIDENCIA LOWESTEIN           RX         95.00            1000        996     
+15140 RX CADERA INCIDENCIA VON ROSSEN          RX         95.00            1000       1000     
+16625 RX CALCANEO COMPARATIVO                  RX        100.00               0        999     
+15146 RX CALCANEO FRONTAL Y LATERAL            RX         75.00            1000        995     
+15323 RX CAVUM                                 RX         85.00            1000        998     
+15325 RX CERVICO DORSAL FRONTAL Y LATERAL      RX        110.00            1000        993     
+15335 RX CLAVICULA                             RX         85.00            1000        996     
+15338 RX CODO FRONTAL Y LATERAL                RX         75.00            1000        987     
+15324 RX COLUMNA CERVICAL FRONTAL Y LATERAL    RX        110.00               0        943     
+15326 RX COLUMNA DORSAL FRONTAL Y LATERAL      RX        110.00            1000        985     
+15327 RX COLUMNA DORSO LUMBAR                  RX        150.00            1000        969     
+15328 RX COLUMNA LUMBAR FRONTAL Y LATERAL      RX         90.00            1000        933     
+15329 RX COLUMNA LUMBAR FUNCIONAL              RX        110.00            1000        997     
+16930 RX COLUMNA LUMBO SACRO                   RX         90.00               0        817     
+16854 RX COLUMNA TOTAL                         RX        280.00               0        999     
+15317 RX CRANEO FRONTAL Y PERFIL               RX         90.00            1000        991     
+15320 RX DE HUESOS PROPIOS DE LA NARIZ         RX         85.00            1000        995     
+15147 RX DE PIE FRONTAL Y LATERAL              RX         75.00            1000        963     
+15143 RX DE PIERNA FRONTAL Y LATERAL           RX         95.00            1000        987     
+15148 RX DE PIES COMPARATIVOS                  RX        100.00               0        998     
+15142 RX FEMUR FRONTAL Y LATERAL               RX        100.00            1000        999     
+15145 RX FRONTAL LATERAL Y OBLICUA             RX         85.00            1000        999     
+15336 RX HOMBRO ROTACION INTERNA Y EXTERNA     RX         85.00            1000        965     
+15342 RX HOMBROS BILATERALES COMPARATIVAS      RX         95.00            1000        998     
+16913 RX MADURACION OSEA                       RX         95.00               0        997     
+15138 RX MANO COMPARATIVO FRONTAL Y OBLICUAS   RX        120.00            1000        995     
+15322 RX MAXILAR INFERIOR                      RX         75.00            1000       1000     
+15319 RX MAXILAR SUPERIOR                      RX         75.00            1000       1000     
+16600 RX MESURACION MIEMBROS INFERIORES        RX         90.00               0        998     
+15340 RX MUNECA FRONTAL Y LATERAL              RX         75.00            1000        955     
+16501 RX PARRILLA COSTAL DERECHA               RX         90.00            1000        968     
+15333 RX PELVIS ADULTO                         RX         85.00               0       1997     
+15334 RX PELVIS NINOS                          RX         85.00            1000       1000     
+15344 RX RODILLA AXIALES ROTULA                RX         75.00            1000        989     
+15345 RX RODILLA COMPART.BILATERAL FRONT Y LAT RX        140.00            1000        965     
+15343 RX RODILLA FRONTAL Y LATERAL             RX         75.00            1000        913     
+15330 RX SACRO COCCIGEA:FRONTAL Y LATERAL      RX         95.00            1000        999     
+15332 RX SACRO ILIACA                          RX         95.00            1000        997     
+16478 RX SENOS PARANASALES                     RX         85.00               0        957     
+16518 RX SIMPLE DECUBITO DORSAL Y DE PIE       RX         90.00               0        998     
+15144 RX TOBILLO FRONTAL Y LATERAL             RX         75.00            1000        980     
+17363 RX TORAX AP                              RX         70.00               0       1000     
+17228 RX TORAX FRONTAL                         RX         75.00               0        889     
+17356 RX TORAX FRONTAL                         RX         70.00               0        999     
+16515 RX TORAX FRONTAL PROMOCION               RX         65.00               0        271     
+16821 RX TORAX LATERAL                         RX         75.00               0        999     

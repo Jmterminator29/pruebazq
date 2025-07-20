@@ -1,0 +1,165 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 15/01/2022
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 14/01/2022 AL 14/01/2022                              08:06:03
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+050228           MAR  MAR  14/01/2022 08:04  V                      GARCIA ABAD ELAUDIA DELIA      C          35.00
+050229           MAR  MAR  14/01/2022 08:08  V                      CHUMIOQUE GONZALES JUAN        C          25.00
+050230           MAR  MAR  14/01/2022 08:18  V                      ARIAS CALDERON ALEJANDRO JUNIO C          10.00
+050231           MAR  MAR  14/01/2022 08:27  V                      JARA ORTEGA HERMINIA           C          30.00
+050232           MAR  MAR  14/01/2022 08:37  V                      SALAZAR ROSALES ROSARIO MARTHA C          60.00
+050233           MAR  MAR  14/01/2022 08:46  V                      ESTRADA MEJIA LILY YOLANDA     C          10.00
+050234           MAR  MAR  14/01/2022 08:47  V                      MEJIA FLORES LUZMILA YOLANDA   C          10.00
+050235           MAR  MAR  14/01/2022 08:50  V                      GONZALES PUNTILLO PAMELA VICTO C         200.00
+050236           MAR  MAR  14/01/2022 09:04  V                      MONTES CUARESMA MELISSA NOELIA C          49.00
+050237           MAR  MAR  14/01/2022 09:14  V                      CORNEJO SANTOS MIGUEL ANGEL    C          35.00
+050238           MAR  MAR  14/01/2022 09:32  V                      BERNABE SANTOS MARITZA         C         147.00
+050239           MAR  MAR  14/01/2022 09:35  V                      RODRIGUEZ ROBLES DAYANA ROSMER C          49.00
+050240           MAR  MAR  14/01/2022 10:16  V                      RIOS VELA CRISKELY             C          35.00
+050241           MAR  MAR  14/01/2022 10:24  V                      ROMERO SHAPIAMA GEILIN ERCILIA C          49.00
+050242           MAR  MAR  14/01/2022 10:41  V                      ANTON FIESTAS SANTOS GREGORIO  C          36.50
+050243           MAR  MAR  14/01/2022 10:48  V                      BERNABE SANTOS MARITZA         C          35.00
+050244           MAR  MAR  14/01/2022 10:57  V                      NERY RODRIGUEZ ANA             C         133.00
+050245           MAR  MAR  14/01/2022 11:05  V                      NAZARIO DIONISIO HENRY LEONARD C          49.00
+050246           MAR  MAR  14/01/2022 11:08  V                      NERY RODRIGUEZ ANA             C          35.00
+050247           MAR  MAR  14/01/2022 11:24  V                      GAMARRA VERA STEFANY           C          10.00
+050248           MAR  MAR  14/01/2022 11:30  V                      CASTILLO TAMARA JUAN           C          70.00
+050249           MAR  MAR  14/01/2022 11:39  V                      VENTA ANULADA                  C           0.00
+050250           MAR  MAR  14/01/2022 11:41  V                      SANCHEZ BRAVO LOURDES YOSALI   C          25.00
+050251           MAR  MAR  14/01/2022 11:42  V                      LOPEZ TOVAR KIODY FIORELA      C          25.00
+050252           MAR  MAR  14/01/2022 11:43  V                      SANCHEZ BRAVO RILDER           C          25.00
+050253           MAR  MAR  14/01/2022 11:49  V                      CALZADO LEON HUGO              C          70.00
+050254           MAR  MAR  14/01/2022 11:55  V                      RUIZ TOLEDO SANDRA             C          49.00
+050255           MAR  MAR  14/01/2022 11:58  V                      MATOS RAMIREZ SHIRLEY XIOMARA  C          70.00
+050256           MAR  MAR  14/01/2022 12:17  V                      MARIN INOSTROZA JULIO          C           6.50
+050257           MAR  MAR  14/01/2022 12:18  V                      TRUJILLO ORTIZ DIONICIA        C          70.00
+050258           MAR  MAR  14/01/2022 12:24  V                      ROMERO SHAPIAMA GEILIN         C          35.00
+050259           MAR  MAR  14/01/2022 12:46  V                      ALVARADO DULANTO CLAUDIA STEPA C          49.00
+050260           MAR  MAR  14/01/2022 12:48  V                      JIMENEZ REYES LUIS ALBERTO     C          49.00
+050261           MAR  MAR  14/01/2022 12:49  V                      PEREYRA CALDERON JUAN CARLOS   C          49.00
+050262           MAR  MAR  14/01/2022 12:51  V                      PALOMARES CONCHUCOS JULIO      C          70.00
+050263           MAR  MAR  14/01/2022 12:56  V                      ROMAN DE PALOMARES MIDA        C          35.00
+050264           MAR  MAR  14/01/2022 13:01  V                      ROMERO BAZALAR LUIS IVAN       C          35.00
+050265           MAR  MAR  14/01/2022 13:02  V                      RAMOS LOPEZ ENRIQUE            C          35.00
+050266           MAR  MAR  14/01/2022 13:05  V                      RODRIGUEZ ROSALES FREDY        C          35.00
+050267           MAR  MAR  14/01/2022 13:25  V                      RODRIGUEZ ROSALES FREDY        C          49.00
+050268           MAR  MAR  14/01/2022 13:31  V                      DOMICILIO FERNANDA             C         735.00
+050269           MAR  MAR  14/01/2022 13:34  V                      DOMICILIO FERNANDA             C         294.00
+050270           MAR  MAR  14/01/2022 13:35  V                      DOMICILIO FERNANDA             C          35.00
+050271           MAR  MAR  14/01/2022 13:45  V                      GONZALES PUNTILLO PAMELA       C          34.50
+050272           MAR  MAR  14/01/2022 13:46  V                      GONZALES PUNTILLO PAMELA       C          34.50
+050273           MAR  MAR  14/01/2022 13:57  V                      VELA DE ROMERO ZENAIDA         C          70.00
+050274           MAR  MAR  14/01/2022 13:58  V                      DOMICILIO FERNANDA             C          35.00
+050275           ISA  ISA  14/01/2022 14:16  V                      SANCHEZ GUERRERO MAR           C          19.00
+050276           ISA  ISA  14/01/2022 14:19  V                      MORALES CHAVEZ LUCINDA         C          49.00
+050277           ISA  ISA  14/01/2022 14:24  V                      CALZADO LEON HUGO              C         100.00
+050278           ISA  ISA  14/01/2022 14:35  V                      ARQUINIGO ROJAS ELSA           C          35.00
+050279           ISA  ISA  14/01/2022 14:43  V                      CALZADO LEON HUGO              C           1.50
+050280           ISA  ISA  14/01/2022 15:08  V                      MAZA OSORIO JOSE               C          35.00
+050281           ISA  ISA  14/01/2022 15:18  V                      SHUAN HUANE GABRIELA           C          49.00
+050282           ISA  ISA  14/01/2022 15:22  V                      YARLEQUE INGA LUIS             C          80.00úZethQuark Versi¢n 7.0ú                                                                                                 15/01/2022
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 14/01/2022 AL 14/01/2022                              08:06:03
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+050283           ISA  ISA  14/01/2022 15:28  V                      RODRIGUEZ ROSALES              C          49.00
+050284           ISA  ISA  14/01/2022 15:36  V                      SALVADOR ROJAS BENIGNA         C          35.00
+050285           ISA  ISA  14/01/2022 15:40  V                      MEJIA FLORES YOLANDA           C          80.00
+050286           ISA  ISA  14/01/2022 15:43  V                      ESTRADA MEJIA YOLANDA          C          80.00
+050287           ISA  ISA  14/01/2022 15:47  V                      SAMANAMU LEON MAXIMO           C          49.00
+050288           ISA  ISA  14/01/2022 15:54  V                      MARIN INOSTROZA JULIO          C          35.00
+050289           ISA  ISA  14/01/2022 15:55  V                      VENTA ANULADA                  C           0.00
+050290           ISA  ISA  14/01/2022 16:01  V                      AGUILAR QUICHE MARIA           C          80.00
+050291           ISA  ISA  14/01/2022 16:09  V                      MAZ OSORIO JOSE                C          49.00
+050292           ISA  ISA  14/01/2022 16:12  V                      SALVADOR VARILLAS GENMA        C          35.00
+050293           ISA  ISA  14/01/2022 16:17  V                      SALVADOR VARILLAS KELLY        C         100.00
+050294           ISA  ISA  14/01/2022 16:18  V                      SALVADOR VARILLAS GENMA        C         100.00
+050295           ISA  ISA  14/01/2022 16:21  V                      SALVADOR VARILLAS KELLY        C          35.00
+050296           ISA  ISA  14/01/2022 16:26  V                      CANDELARIO PALOMARES BERLTS    C         165.00
+050297           ISA  ISA  14/01/2022 16:27  V                      CANDELARIO PALOMARES BE        C          35.00
+050298           ISA  ISA  14/01/2022 16:29  V                      ASTOVILCA MENDOZA              C          80.00
+050299           ISA  ISA  14/01/2022 16:33  V                      LANDA DE LA CRUZ               C          28.00
+050300           ISA  ISA  14/01/2022 16:35  V                      RIVERA CALDERON                C           5.00
+050301           ISA  ISA  14/01/2022 16:37  V                      JARA MANRIQUE MARIA            C          49.00
+050302           ISA  ISA  14/01/2022 16:43  V                      FRANCISCO FLORES               C          23.00
+050303           ISA  ISA  14/01/2022 16:45  V                      MONTES JAVIER SATURNINA        C          35.00
+050304           ISA  ISA  14/01/2022 16:46  V                      ALVA ROJAS ROSI                C          49.00
+050305           ISA  ISA  14/01/2022 16:48  V                                                     C          49.00
+050306           ISA  ISA  14/01/2022 16:52  V                      CHUQUIPAN SOLANO               C          49.00
+050307           ISA  ISA  14/01/2022 16:56  V                      NAZARIO DIONISIO HENRY         C         100.00
+050308           ISA  ISA  14/01/2022 16:56  V                      NAZARIO DIONISIO HENRY         C          35.00
+050309           ISA  ISA  14/01/2022 17:02  V                      BUITRON ZAVALA                 C          35.00
+050310           ISA  ISA  14/01/2022 17:03  V                      IZQUIUERDO ALVARADO            C          35.00
+050311           ISA  ISA  14/01/2022 17:05  V                      RAMOS LOPEZ ENRIQUE            C         100.00
+050312           ISA  ISA  14/01/2022 17:06  V                      ROMERO BAZALAR IVAN            C         100.00
+050313           ISA  ISA  14/01/2022 17:08  V                      RAMOS LOPEZ ENRIQUE            C          65.00
+050314           ISA  ISA  14/01/2022 17:09  V                      ROMERO BAZALAR IVAN            C          65.00
+050315           ISA  ISA  14/01/2022 17:15  V                      RODRIGUES                      C          78.30
+050316           ISA  ISA  14/01/2022 17:19  V                      HURTADO GUARDIA JOSE           C          25.00
+050317           ISA  ISA  14/01/2022 17:21  V                      SALVADOR ROJAS                 C          49.00
+050318           ISA  ISA  14/01/2022 17:24  V                      CASTILLO TAVARA JUAN           C          49.00
+050319           ISA  ISA  14/01/2022 17:27  V                      JURADO OSORIO NAVEL            C          35.00
+050320           ISA  ISA  14/01/2022 17:33  V                      VERANO RIVERA JUAN JOSE        C          80.00
+050321           ISA  ISA  14/01/2022 17:40  V                      MEZA QUEVEDO CECILIA           C          49.00
+050322           ISA  ISA  14/01/2022 17:48  V                      IBARRA MONTES                  C          35.00
+050323           ISA  ISA  14/01/2022 17:49  V                      MONTES JAVIER                  C           1.50
+050324           ISA  ISA  14/01/2022 17:52  V                      PI;AN CALDERON                 C          35.00
+050325           ISA  ISA  14/01/2022 17:56  V                      DE LA CRUZ QUEVE               C          19.50
+050326           ISA  ISA  14/01/2022 17:59  V                      ALCEDO MU;OS                   C          35.00
+050327           ISA  ISA  14/01/2022 18:05  V                      DE LOS SANTOS WILLIAN          C          65.00
+050328           ISA  ISA  14/01/2022 18:07  V                      DE LOS SANTOS MARCO            C          35.00
+050329           ISA  ISA  14/01/2022 18:08  V                      MEZA QUEVEDO CECILIA           C          35.00
+050330           ISA  ISA  14/01/2022 18:12  V                      IZQUIERDO ALVARADO             C          54.00
+050331           ISA  ISA  14/01/2022 18:15  V                      GONZALES CHIRRE                C          35.00
+050332           ISA  ISA  14/01/2022 18:19  V                      DULANTO COLLANTES JES          C         140.00
+050333           ISA  ISA  14/01/2022 18:20  V                      VENTA ANULADA                  C           0.00
+050334           ISA  ISA  14/01/2022 18:32  V                      CALERO MENDOZA                 C           6.50
+050335           ISA  ISA  14/01/2022 18:33  V                      JIRON GARCIA                   C          49.00
+050336           ISA  ISA  14/01/2022 18:35  V                      ESPINOZA RODRIGUES             C          49.00
+050337           ISA  ISA  14/01/2022 18:40  V                      ROMERO CHAPIANA                C          94.80úZethQuark Versi¢n 7.0ú                                                                                                 15/01/2022
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 14/01/2022 AL 14/01/2022                              08:06:04
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+050338           ISA  ISA  14/01/2022 18:46  V                      WILFREDO LUCERO                C          60.00
+050339           ISA  ISA  14/01/2022 18:52  V                      SALVADOR ROJAS                 C          19.50
+050340           ISA  ISA  14/01/2022 19:05  V                      MAZA OSORIO                    C         126.50
+050341           ISA  ISA  14/01/2022 19:18  V                      PI;AN CALDERON RAFA            C         103.00
+050342           ISA  ISA  14/01/2022 19:26  V                      VENTA ANULADA                  C           0.00
+050343           ISA  ISA  14/01/2022 20:01  V                      DE LOS SANTOS MARCOS           C          34.00
+050344           ISA  ISA  14/01/2022 20:06  V                      VENTA ANULADA                  C           0.00
+050345           MAR  MAR  14/01/2022 20:10  V                      LAURENTE NU;ES GLADIS          C          66.00
+050346           MAR  MAR  14/01/2022 20:12  V                      LAURENTE NU;ES GLADYS          C          51.50
+050347           MAR  MAR  14/01/2022 20:14  V                      LAURA GRAUS                    C          49.00
+050348           MAR  MAR  14/01/2022 20:18  V                      VENTA ANULADA                  C           0.00
+050349           MAR  MAR  14/01/2022 20:21  V                      ROMAN DE PALOMARES             C          14.50
+050350           MAR  MAR  14/01/2022 20:32  V                      SANDRA RUIZ TOLEDO             C          13.20
+050351           MAR  MAR  14/01/2022 20:37  V                      MARITZA                        C          23.00
+050352           MAR  MAR  14/01/2022 20:47  V                      GONZALES CHIRRE                C          48.00
+050353           MAR  MAR  14/01/2022 20:51  V                      OSORIO                         C         248.20
+050354           MAR  MAR  14/01/2022 21:07  V                      MARISOL TORIBIO                C          39.00
+050355           MAR  MAR  14/01/2022 21:11  V                      GRAUS                          C          36.10
+050356           DEM  DEM  14/01/2022 21:24  V                      SALVADOR VARILLAS              C          22.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Contado       :     123       7,338.10
+Factura       :       0           0.00                                                    Letras        :       0           0.00
+Ticket        :       0           0.00                                                    Credito       :       0           0.00
+Guia Interna V:     123       7,338.10                                                    Credito 10 Dia:       0           0.00
+                          -------------                                                   Tarjeta       :       0           0.00
+                              7,338.10                                                                              -------------
+                                                                                                                        7,338.10
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      1,119.27
+ÿ
+ÿ
+Nro.  Documentos Anulados :            6
+Total Documentos Anulados :         0.00

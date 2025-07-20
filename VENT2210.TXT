@@ -1,0 +1,1635 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:08
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043517           MAR  MAR  01/10/2021 08:08  V                      RODRIGUEZ LEON AMADEO          C         211.00
+043518           MAR  MAR  01/10/2021 08:14  V                      LOPEZ QUISPE DARIA             C         416.00
+043519           MAR  MAR  01/10/2021 08:19  V                      COTRINA AGUIRRE VINTON         C          30.00
+043520           MAR  MAR  01/10/2021 08:20  V                      PASAJE ROMERO                  C          50.00
+043521           MAR  MAR  01/10/2021 08:30  V                      JARA ORTEGA HERMINIA           C          60.00
+043522           MAR  MAR  01/10/2021 08:31  V                      ORTIZ PEREZ EDWIN              C          90.00
+043523           MAR  MAR  01/10/2021 08:32  V                      ORTIZ PERREZ EDWIN             C          35.00
+043524           MAR  MAR  01/10/2021 08:38  V                      MONTES JAVIER SATIRNINA        C          90.00
+043525           MAR  MAR  01/10/2021 08:54  V                      ARRIVASPLATA LEA;O LILIANA ELI C         105.00
+043526           MAR  MAR  01/10/2021 09:03  V                      ZAPANA MAMANI PERCY            C          35.00
+043527           MAR  MAR  01/10/2021 09:11  V                      MINAYA BAZALAR MARIA           C         186.50
+043528           MAR  MAR  01/10/2021 09:12  V                      BAZALAR MEZA LUCIA             C          50.00
+043529           MAR  MAR  01/10/2021 09:17  V                      JUSTO GOMERO                   C           2.00
+043530           MAR  MAR  01/10/2021 09:23  V                      CORNELIO MAURICIO HENRY        C          60.00
+043531           MAR  MAR  01/10/2021 09:43  V                      JAIMES DE LAO FORTUNATA        C          30.00
+043532           MAR  MAR  01/10/2021 09:50  V                      MATURRANO CERQUIN CAMILA ROXAN C         139.50
+043533           MAR  MAR  01/10/2021 09:55  V                      DIAZ DESPOSORIO JOSE           C          30.00
+043534           MAR  MAR  01/10/2021 10:07  V                      CAVERO LOPEZ GLORIA EDITH      C         103.00
+043535           MAR  MAR  01/10/2021 10:21  V                      AZO LUGARDO RUTH               C          30.00
+043536           MAR  MAR  01/10/2021 10:23  V                      AZO LUGARDO RUTH               C         135.00
+043537           MAR  MAR  01/10/2021 10:27  V                      HUI;API ATAUCHI LUIS           C         100.00
+043538           MAR  MAR  01/10/2021 10:30  V                      PE;A CORONADO FELICIA          C          30.00
+043539           MAR  MAR  01/10/2021 10:31  V                      PE;A CORONADO FELICIA          C          21.30
+043540           MAR  MAR  01/10/2021 10:33  V                      TOLEDO OBREGON RUBELINDA       C         100.00
+043541           MAR  MAR  01/10/2021 10:48  V                      GUERRERO CHUCHON NATHALI       C          30.00
+043542           MAR  MAR  01/10/2021 10:49  V                      LOPEZ PARIACHI NISAY           C         120.00
+043543           MAR  MAR  01/10/2021 10:50  V                      HUASUPOMA QUISPE EDY           C          30.00
+043544           MAR  MAR  01/10/2021 10:55  V                      ESPINOZA SERNA THALIA          C          15.00
+043545           MAR  MAR  01/10/2021 11:06  V                      LEZAMA MORILLO MARIA           C         100.00
+043546           MAR  MAR  01/10/2021 11:27  V                      ALCANTARA LOZANO BRITANY       C          23.00
+043547           MAR  MAR  01/10/2021 11:48  V                      YATACO PE;A LUIS               C          26.50
+043548           MAR  MAR  01/10/2021 12:53  V                      PEREYRA CAUCHE ELIAS           C          54.50
+043549           SAN  SAN  01/10/2021 14:21  V                      SOLIS PALOMARES ALFREDO        C          25.00
+043550           SAN  SAN  01/10/2021 14:33  V                      CORDOVA ARTICA SARA            C          15.00
+043551           SAN  SAN  01/10/2021 15:01  V                      ALVARADO HOCES DOMINGA         C          25.00
+043552           SAN  SAN  01/10/2021 15:11  V                      TOCON AREVALO BEATRIZ          C          35.00
+043553           SAN  SAN  01/10/2021 15:13  V                      CABRERA ACEVEDO CESAR          C          35.00
+043554           SAN  SAN  01/10/2021 15:15  V                      QUICHIZ CASTILLO GILMER        C          35.00
+043555           SAN  SAN  01/10/2021 15:18  V                      TOCON AREVALO BEATRIZ          C          10.00
+043556           SAN  SAN  01/10/2021 15:33  V                      SILVERIO RAMOS EDITH           C          35.00
+043557           SAN  SAN  01/10/2021 15:36  V                      SANTOS CIERTO ESTELITA         C          35.00
+043558           SAN  SAN  01/10/2021 15:45  V                      SAAVEDRA VARILLAS MARIELA      C          35.00
+043559           SAN  SAN  01/10/2021 15:54  V                      GONZALES PUNTILLO DE           C          35.00
+043560           SAN  SAN  01/10/2021 16:11  V                      ZAMUDIO REQUENA                C          44.50
+043561           SAN  SAN  01/10/2021 16:18  V                      CORDOVA DE ALEJOS LIDUVINA     C          35.00
+043562           SAN  SAN  01/10/2021 16:24  V                      BERNARDO ROMERO MARIA          C          35.00
+043563           SAN  SAN  01/10/2021 16:28  V                      ALBINO BENITO HERMELINDA       C          27.50
+043564           SAN  SAN  01/10/2021 16:35  V                      AZA;ERO TORIBIA ROSARIO        C          57.50
+043565           SAN  SAN  01/10/2021 16:40  V                      QUICHIZ CASTILLO               C          20.00
+043566           SAN  SAN  01/10/2021 16:42  V                      QUICHIZ CASTILLO GILMER        C         315.00
+043567           SAN  SAN  01/10/2021 16:47  V                      SANTOS CIERTO ESTELITA         C          49.00
+043568           SAN  SAN  01/10/2021 16:50  V                      SANTOS CIERTO ESTELITA         C          10.00
+043569           SAN  SAN  01/10/2021 16:54  V                      TRUJILLO CRIOLLA AGUSTINA      C          35.00
+043570           SAN  SAN  01/10/2021 17:06  V                      CORDOVA DE ALEJOS LIDUVINA     C          45.00
+043571           SAN  SAN  01/10/2021 17:08  V                      CORDOVA DE ALEJOS LIDUVINA     C         224.50úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:09
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043572           SAN  SAN  01/10/2021 17:14  V                      LLANQUE PE;A PAULINO           C          15.00
+043573           SAN  SAN  01/10/2021 17:19  V                      BERNARDO ROMERO                C           3.00
+043574           SAN  SAN  01/10/2021 17:26  V                                                     C           0.50
+043575           SAN  SAN  01/10/2021 17:30  V                      SILVERIO RAMOS EDITH           C           1.50
+043576           SAN  SAN  01/10/2021 17:32  V                      CORDOVA DE ALEJOS LID          C          35.00
+043577           SAN  SAN  01/10/2021 17:34  V                      MAYO QUINTEROS ANA             C          35.00
+043578           SAN  SAN  01/10/2021 17:40  V                      CARLOS OBISPO HERMEGILDO       C          15.00
+043579           SAN  SAN  01/10/2021 17:49  V                      GONZALES PUNTILLO DE ZAMUDIO   C          16.00
+043580           SAN  SAN  01/10/2021 17:59  V                      SAAVEDRA VARILLA MARIELA       C          43.00
+043581           SAN  SAN  01/10/2021 18:01  V                      GONZALES PUNTILLO              C          30.00
+043582           SAN  SAN  01/10/2021 18:03  V                      LUNA GOICOCHEA ANGIE           C          35.00
+043583           SAN  SAN  01/10/2021 18:10  V                      BALTAZAR LAUREANO EDITH        C          35.00
+043584           SAN  SAN  01/10/2021 18:19  V                      SANTOS CIERTO ESTELITA         C          45.00
+043585           SAN  SAN  01/10/2021 18:22  V                      LINO CHUMBES HERMELINDA        C          35.00
+043586           SAN  SAN  01/10/2021 18:50  V                      GORGUES PICHILINGUE LUCIANA    C          35.00
+043587           SAN  SAN  01/10/2021 19:00  V                      CRUZ VENTOCILLA PAULINA        C          35.00
+043588           SAN  SAN  01/10/2021 19:01  V                      CORDOVA CRUZ CONSUELO          C          35.00
+043589           SAN  SAN  01/10/2021 19:05  V                      MAYO QUINTEROS ANA             C           3.00
+043590           SAN  SAN  01/10/2021 19:07  V                      CHAGUA MONTALVO DARLING        C          35.00
+043591           SAN  SAN  01/10/2021 19:08  V                      CHAGUA MONTALVO DARIEL         C          35.00
+043592           SAN  SAN  01/10/2021 19:10  V                      ESTUPI;AN SALVADOR EDGAR       C          35.00
+043593           SAN  SAN  01/10/2021 19:23  V                      LINARES BERNABE KENZY          C          35.00
+043594           SAN  SAN  01/10/2021 19:26  V                      LINO CHUMBES HERMELINDA        C          10.00
+043595           SAN  SAN  01/10/2021 19:37  V                      LUNA GOICOCHEA ANGIE           C          85.00
+043596           SAN  SAN  01/10/2021 19:40  V                      LUNA GOICOCHEA ANGIE           C          40.50
+043597           SAN  SAN  01/10/2021 20:14  V                      CLEMENTE QUISPE                C         111.50
+043598           SAN  SAN  01/10/2021 20:16  V                      CLEMENTE QUISPE                C           1.50
+043599           SAN  SAN  01/10/2021 20:26  V                      ESTUPI;AN SALVADOR             C           3.00
+043600           SAN  SAN  01/10/2021 21:07  V                      CORDOVA CRUZ CONSUELO          C           3.00
+043601           SAN  SAN  01/10/2021 21:34  V                      BERNARDO ROMERO                C          30.00
+043602           MAR  MAR  02/10/2021 08:07  V                      CAVERO LOPEZ GLORIA            C          95.00
+043603           MAR  MAR  02/10/2021 08:15  V                      RUBINA CRUZ EDGAR              C          35.00
+043604           MAR  MAR  02/10/2021 08:22  V                      ROLANDO ESPINOZA HUANCA        C         100.00
+043605           MAR  MAR  02/10/2021 08:37  V                      TRUJILLO CRIOLLO AGUSTINA      C         233.00
+043606           MAR  MAR  02/10/2021 08:40  V                      HUACHO TRAVEZA;O YADIRA        C          50.00
+043607           MAR  MAR  02/10/2021 08:48  V                      TRUJILLO CRIOLLO AGUSTINA      C          35.00
+043608           MAR  MAR  02/10/2021 08:50  V                      VENTA ANULADA                  C           0.00
+043609           MAR  MAR  02/10/2021 08:51  V                      VENTA ANULADA                  C           0.00
+043610           MAR  MAR  02/10/2021 08:52  V                      REMENTERIA CAPCHA DE GRADOS CA C          50.00
+043611           MAR  MAR  02/10/2021 08:57  V                      LOPEZ VENTURA ALEJANDRO        C          49.00
+043612           MAR  MAR  02/10/2021 08:58  V                      OLIVAS ASENCIOS FLAVIO         C          65.00
+043613           MAR  MAR  02/10/2021 09:02  V                      ALBINO MALLQUI JOSUE           C          80.00
+043614           MAR  MAR  02/10/2021 09:04  V                      FLORES HURTADO EVAN ABDIEL     C          10.00
+043615           MAR  MAR  02/10/2021 09:06  V                      LOPEZ BARDALES FRANCISCO       C          23.00
+043616           MAR  MAR  02/10/2021 09:09  V                      FLORES HURTADO EDRICK JEYCOB   C          10.00
+043617           MAR  MAR  02/10/2021 09:13  V                      BERNARDO ROMERO MARIA          C         257.50
+043618           MAR  MAR  02/10/2021 09:15  V                      RAMIREZ BERNILLA MARIA CANDELA C          90.00
+043619           MAR  MAR  02/10/2021 09:16  V                      MARIA VASQUEZ PAREDES          C         290.00
+043620           MAR  MAR  02/10/2021 09:31  V                      HUI;API TAPIA LUIS ANTHONY     C          49.00
+043621           MAR  MAR  02/10/2021 09:53  V                      AMADO GARAY ANANIAS            C          80.00
+043622           MAR  MAR  02/10/2021 10:08  V                      MAYO QUINTEROS ANA BERTHA      C         173.00
+043623           MAR  MAR  02/10/2021 10:51  V                      ROMERO DE ROJAS GERTRUDIS      C          35.00
+043624           MAR  MAR  02/10/2021 10:53  V                      CORDOVA DE  ALEJOS LIDUVINA    C          75.00
+043625           MAR  MAR  02/10/2021 11:10  V                      SANCHEZ RAMIREZ NELLY          C          35.00
+043626           MAR  MAR  02/10/2021 11:18  V                      HEREDIA DE SANTILLAN ALEJANDRI C       1,350.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:09
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043627           MAR  MAR  02/10/2021 11:22  V                      MAYO QUINTEROS ANA             C          35.00
+043628           MAR  MAR  02/10/2021 11:36  V                      MORALES VENTOCILLA EUSTAQUIA   C          35.00
+043629           MAR  MAR  02/10/2021 12:00  V                      CARLOS ALEJO FERMINA           C          35.00
+043630           MAR  MAR  02/10/2021 12:01  V                      ALCANTAQRA LOZANO BRITANY      C          35.00
+043631           MAR  MAR  02/10/2021 12:15  V                      OYOLA CARRERA LUIS             C          20.00
+043632           MAR  MAR  02/10/2021 12:17  V                                                     C           4.00
+043633           MAR  MAR  02/10/2021 12:21  V                      MATURRANO CERQUIN CAMILA       C          35.00
+043634           MAR  MAR  02/10/2021 12:33  V                      YOL CARRERA                    C           5.00
+043635           MAR  MAR  02/10/2021 12:33  V                      ESCUDERO MIRANDA GUNDER        C          35.00
+043636           MAR  MAR  02/10/2021 12:35  V                      CAMPOS DIAZ PAULINO            C          80.00
+043637           MAR  MAR  02/10/2021 12:43  V                      ALVINO MALLQUI JOSUE           C          90.00
+043638           MAR  MAR  02/10/2021 12:51  V                      MORAN VALENZUELA MARCOS        C          75.00
+043639           MAR  MAR  02/10/2021 12:52  V                      MORAN VALENZUELA MARCO         C          35.00
+043640           MAR  MAR  02/10/2021 12:56  V                      MATURRANO TOLEDO JOSE          C          80.00
+043641           MAR  MAR  02/10/2021 13:16  V                      ALBINO MALLQUI                 C          73.00
+043642           MAR  MAR  02/10/2021 13:20  V                                                     C           5.00
+043643           MAR  MAR  02/10/2021 13:24  V                      MORALES VENTOCILLA EUSTAQUIA   C         150.00
+043644           MAR  MAR  02/10/2021 13:48  V                      CMPOS DIAZ PAULINO             C          31.00
+043645           MAR  MAR  02/10/2021 13:58  V                      MESTANZA DOMINGUEZ             C          45.00
+043646           MAR  MAR  02/10/2021 14:01  V                      ESCUDERO                       C          26.50
+043647           MAR  MAR  02/10/2021 14:03  V                      HEREDIA DE SANTILLAN ALEJANDRI C          35.00
+043648           MAR  MAR  02/10/2021 14:08  V                      SERPA SEGOVIA CRISTEL          C          39.00
+043649           SAN  SAN  02/10/2021 14:32  V                      MORAN VALENZUELA               C          45.00
+043650           SAN  SAN  02/10/2021 14:34  V                      MERCEDES CACHA JUANA           C          35.00
+043651           SAN  SAN  02/10/2021 14:40  V                      QUICHIZ CASTILLO               C          28.00
+043652           SAN  SAN  02/10/2021 14:40  V                      QUICHIZ CASTILLO               C           1.00
+043653           SAN  SAN  02/10/2021 14:45  V                      VENTA ANULADA                  C           0.00
+043654           SAN  SAN  02/10/2021 14:54  V                      GONZALES MEDINA EDWIN          C          35.00
+043655           SAN  SAN  02/10/2021 15:20  V                      MERCEDES JUANA                 C           3.00
+043656           SAN  SAN  02/10/2021 15:29  V                      RUBINA CRUZ EDGAR              C          96.00
+043657           SAN  SAN  02/10/2021 15:34  V                      RUBINA CRUZ EDGAR              C         196.00
+043658           SAN  SAN  02/10/2021 15:37  V                      ARBULU TAJA CESAR              C          35.00
+043659           SAN  SAN  02/10/2021 15:40  V                      GONZALES MEDINA EDWIN          C          68.00
+043660           SAN  SAN  02/10/2021 15:44  V                      YATACO                         C          61.00
+043661           SAN  SAN  02/10/2021 15:45  V                      SANTOS BENITES ANGELICA        C          35.00
+043662           SAN  SAN  02/10/2021 15:51  V                      SANTOS CIERTO ESTELITA         C          39.00
+043663           SAN  SAN  02/10/2021 15:55  V                      OCA;A MILLA EUGENIA            C          35.00
+043664           SAN  SAN  02/10/2021 16:07  V                      YATACO                         C           5.00
+043665           SAN  SAN  02/10/2021 16:07  V                      SANTOS BENITES                 C           0.50
+043666           SAN  SAN  02/10/2021 16:16  V                      ESPINOZA MORALES CARLOS        C          35.00
+043667           SAN  SAN  02/10/2021 16:31  V                      QUICHIZ CASTILLO               C          35.00
+043668           SAN  SAN  02/10/2021 16:35  V                      RAMOS DE BALTAZAR ELIZA        C          35.00
+043669           SAN  SAN  02/10/2021 16:43  V                      GARCIA ESPINOZA YONNER         C          35.00
+043670           SAN  SAN  02/10/2021 16:46  V                      ASCENCIOS RAMIREZ JHON         C          35.00
+043671           SAN  SAN  02/10/2021 16:52  V                      ZU;IGA ORE FABIO               C          35.00
+043672           SAN  SAN  02/10/2021 16:53  V                      LOPEZ QUISPE                   C           1.50
+043673           SAN  SAN  02/10/2021 16:55  V                      LOPEZ QUISPE DARIA             C          35.00
+043674           SAN  SAN  02/10/2021 16:56  V                      RODRIGUEZ LEON AMADEO          C          35.00
+043675           SAN  SAN  02/10/2021 16:58  V                      LOPEZ QUISPE                   C           1.00
+043676           SAN  SAN  02/10/2021 17:02  V                      AZA;ERO TORIBIA ROSA           C          72.50
+043677           SAN  SAN  02/10/2021 17:05  V                      CORDOVA DE ALEJOS              C         300.00
+043678           SAN  SAN  02/10/2021 17:09  V                      TELLO MOY GEANCARLO            C          35.00
+043679           SAN  SAN  02/10/2021 17:17  V                      TRUJILLO CRIOLLO AGUSTINA      C          50.00
+043680           SAN  SAN  02/10/2021 17:41  V                      JIMENEZ AZA;ERO CONSUELO       C          45.00
+043681           SAN  SAN  02/10/2021 17:42  V                      VASQUEZ TELLO LIZAURA          C          35.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:10
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043682           SAN  SAN  02/10/2021 17:57  V                      ABARCA TOLENTINO OLGA          C          35.00
+043683           SAN  SAN  02/10/2021 18:08  V                      AZA;ERO TORIBIA ROSA           C          56.50
+043684           SAN  SAN  02/10/2021 18:23  V                      EGUIZABAL FELIPA               C          45.00
+043685           SAN  SAN  02/10/2021 18:26  V                      ALBINO BENITO HERMELINDA       C          27.50
+043686           SAN  SAN  02/10/2021 18:32  V                      RAMOS DE BALTAZAR ELIZA        C          32.50
+043687           SAN  SAN  02/10/2021 18:44  V                      ASCENCIOS JHON                 C          22.50
+043688           SAN  SAN  02/10/2021 18:49  V                      ESPINOZA MORALES CARLOS        C          34.00
+043689           SAN  SAN  02/10/2021 19:07  V                      OCA;A MILLA EUGENIA            C          45.00
+043690           SAN  SAN  02/10/2021 19:08  V                      OCA;A MILLA EUGENIA            C          45.00
+043691           SAN  SAN  02/10/2021 19:11  V                      CARLOS OBISPO HERMENEGILDO     C          15.00
+043692           SAN  SAN  02/10/2021 19:15  V                      CARLOS OBISPO HERMENEGILDO     C          15.00
+043693           SAN  SAN  02/10/2021 19:17  V                      OCA;A MILLA                    C           1.50
+043694           SAN  SAN  02/10/2021 19:21  V                      VASQUEZ TELLO LIZAURA          C          45.00
+043695           SAN  SAN  02/10/2021 19:28  V                      GARCIA ESPINOZA YONNER         C          25.00
+043696           SAN  SAN  02/10/2021 19:32  V                      ZU;IGA ORE FABIO               C          52.00
+043697           SAN  SAN  02/10/2021 19:48  V                      SAAVEDRA VARILLA               C          19.00
+043698           SAN  SAN  02/10/2021 20:00  V                      LOPEZ QUICHE DARIA             C          58.00
+043699           SAN  SAN  02/10/2021 20:17  V                      ABARCA TOLENTINO OLGA          C          59.00
+043700           SAN  SAN  02/10/2021 20:18  V                      RODRIGUEZ AMADEO               C         205.60
+043701           SAN  SAN  02/10/2021 20:54  V                      SANCHEZ ANSELMO ALLISON        C          86.50
+043702           SAN  SAN  02/10/2021 20:56  V                      SANCHEZ ANSELMO ALLISON        C          35.00
+043703           MAR  MAR  04/10/2021 08:08  V                      VENTA ANULADA                  C           0.00
+043704           MAR  MAR  04/10/2021 08:11  V                      SILVERIO RAMOS EDITH           C         163.00
+043705           MAR  MAR  04/10/2021 08:12  V                      SILVERIO RAMOS EDITH           C          35.00
+043706           MAR  MAR  04/10/2021 08:15  V                      LOPEZ BARDALES FRANCISCO       C         175.00
+043707           MAR  MAR  04/10/2021 08:20  V                      ASENCIOS RAMIREZ JHON          C         181.00
+043708           MAR  MAR  04/10/2021 08:23  V                      ESPINOZA MORALES CARLOS        C         236.00
+043709           MAR  MAR  04/10/2021 08:24  V                      ESPINOZA MORALES CARLOS        C          90.00
+043710           MAR  MAR  04/10/2021 08:27  V                      JAIMES DE LAO FORTUNATA        C          30.00
+043711           MAR  MAR  04/10/2021 08:28  V                      JARA ORTEGA HERMINIA           C          30.00
+043712           MAR  MAR  04/10/2021 08:30  V                      MORALES VENTOCILLA EUSTANIA    C          54.50
+043713           MAR  MAR  04/10/2021 08:31  V                      MORALES VENTOCILLA EUSTANIA    C          35.00
+043714           MAR  MAR  04/10/2021 08:34  V                      ESTUPI;AN DALVADOR EDGAR       C         273.00
+043715           MAR  MAR  04/10/2021 08:38  V                      ESTUPI;AN SALVADOR EDGAR       C          35.00
+043716           MAR  MAR  04/10/2021 08:39  V                      HUI;API ATAUCHE LUIS           C          30.00
+043717           MAR  MAR  04/10/2021 08:43  V                      OCA;A MILLA EUGENIA            C         236.00
+043718           MAR  MAR  04/10/2021 08:51  V                      VALDEOS ARELLANO MIGUEL ANGEL  C          10.00
+043719           MAR  MAR  04/10/2021 08:56  V                      VALDEOS ARELLANO MIGUEL ANGEL  C          35.00
+043720           MAR  MAR  04/10/2021 09:06  V                      RAMOS BALTAZAR EL              C          32.50
+043721           MAR  MAR  04/10/2021 09:08  V                      BENITES CAQUI LIZ ANGFELICA    C          70.00
+043722           MAR  MAR  04/10/2021 09:20  V                      CIVICO GMARRA                  C         135.00
+043723           MAR  MAR  04/10/2021 09:30  V                      SALINAS MENDOZA JENA PIERRE    C          70.00
+043724           MAR  MAR  04/10/2021 09:32  V                      DAVILA ORIHUELA JESUS          C          30.00
+043725           MAR  MAR  04/10/2021 09:37  V                      JAIMES CATILLO LUIS ANGEL      C         100.00
+043726           MAR  MAR  04/10/2021 09:43  V                      VARGAS FERRO DOLORES SOFIA     C         249.50
+043727           MAR  MAR  04/10/2021 09:46  V                      TORRES ACU;A JUANA             C          35.00
+043728           MAR  MAR  04/10/2021 09:46  V                      REYES ACU;A PASCUAL            C          35.00
+043729           MAR  MAR  04/10/2021 09:48  V                      TOLEDO OBREGON RUBELINDA       C          30.00
+043730           MAR  MAR  04/10/2021 10:04  V                      LUNA CANO LUISA                C         130.00
+043731           MAR  MAR  04/10/2021 10:14  V                      VELA DE ROMERO ZENAIDA         C          35.00
+043732           MAR  MAR  04/10/2021 10:16  V                      GUERRERO CHUCHON NATHALI       C          30.00
+043733           MAR  MAR  04/10/2021 10:19  V                      CRISTOPHER CALERO ZU;IGA       C          30.00
+043734           MAR  MAR  04/10/2021 10:20  V                      HUASUPOMA QUISPE EDI           C          30.00
+043735           MAR  MAR  04/10/2021 10:24  V                      PE;A CORONADO FELICIA          C          30.00
+043736           MAR  MAR  04/10/2021 10:27  V                      VARGAS FERRO DOLORES           C          72.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:10
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043737           MAR  MAR  04/10/2021 10:30  V                      DIAZ DESPOSORIO JOSE           C          30.00
+043738           MAR  MAR  04/10/2021 10:38  V                      ENCARNACION VALENTIN ETELDRITA C          35.00
+043739           MAR  MAR  04/10/2021 10:49  V                      VENTA ANULADA                  C           0.00
+043740           MAR  MAR  04/10/2021 10:57  V                      ROMERO DE ROJAS GERTRUDIS      C          90.00
+043741           MAR  MAR  04/10/2021 11:15  V                      AZO LUGARDO RUTH               C         100.00
+043742           MAR  MAR  04/10/2021 11:21  V                      MENDOZA CHAVARRI ROSA          C          35.00
+043743           MAR  MAR  04/10/2021 11:48  V                      CAMPOS DIAZ P                  C           5.50
+043744           MAR  MAR  04/10/2021 11:51  V                                                     C           3.00
+043745           MAR  MAR  04/10/2021 12:10  V                      VENTA ANULADA                  C           0.00
+043746           MAR  MAR  04/10/2021 12:24  V                      JARA ACU;A YORIDA              C          15.00
+043747           MAR  MAR  04/10/2021 13:02  V                      VARGAS FERRO DOLORES           C          30.00
+043748           MAR  MAR  04/10/2021 13:30  V                      RIOS ANDRES CRHISTIAM          C          49.00
+043749           MAR  MAR  04/10/2021 13:50  V                      CARLOS OBISPO HERMENEGILDO     C          30.00
+043750           MAR  MAR  04/10/2021 13:52  V                      COTRINA AGUIRRE VINTON         C          35.00
+043751           MAR  MAR  04/10/2021 14:24  V                      QUISPE FALCON MAGNA            C          35.00
+043752           SAN  SAN  04/10/2021 15:16  V                      VELARDE KONJA MIGUEL           C          35.00
+043753           SAN  SAN  04/10/2021 15:19  V                      ESPINOZA MORALES CARLOS        C          35.00
+043754           SAN  SAN  04/10/2021 15:20  V                      OCA;A MILLA EUGENIA            C          35.00
+043755           SAN  SAN  04/10/2021 15:29  V                      ACU;A POLO VDA DE TRUCIOS      C          35.00
+043756           SAN  SAN  04/10/2021 15:38  V                      VALDEOS ARELLANO MIGUEL        C          28.00
+043757           SAN  SAN  04/10/2021 15:52  V                      SANTOS BENITES ANGELICA        C          40.00
+043758           SAN  SAN  04/10/2021 15:56  V                      BAZAN FONSECA                  C          15.00
+043759           SAN  SAN  04/10/2021 16:06  V                      JARAMILLO PANCA MARGARITA      C          55.00
+043760           SAN  SAN  04/10/2021 16:08  V                      VERGARA GUERRERO               C          75.00
+043761           SAN  SAN  04/10/2021 16:15  V                      ACU;A POLO HILDA               C          59.50
+043762           SAN  SAN  04/10/2021 16:19  V                      ACU;A POLO HILDA               C           7.00
+043763           SAN  SAN  04/10/2021 16:24  V                      ACU;A POLO HILDA               C          20.00
+043764           SAN  SAN  04/10/2021 16:29  V                      QUISPE FALCON MAGNA            C         206.00
+043765           SAN  SAN  04/10/2021 16:30  V                      LLANQUE PE;A PAULINO           C          15.00
+043766           SAN  SAN  04/10/2021 16:32  V                      PAISIG SANCHEZ LADISLAO        C          35.00
+043767           SAN  SAN  04/10/2021 16:40  V                      COTRINA AGUIRRE VINTON         C         130.50
+043768           SAN  SAN  04/10/2021 16:42  V                      ARELLANO CARHUAPOMA            C          35.00
+043769           SAN  SAN  04/10/2021 16:51  V                      VASQUEZ TELLO LIZAURA          C          45.00
+043770           SAN  SAN  04/10/2021 16:57  V                      SALIS ESPINOZA LUISA           C          35.00
+043771           SAN  SAN  04/10/2021 17:18  V                      ACU;A POLO HILDA               C          15.00
+043772           SAN  SAN  04/10/2021 17:20  V                      SOLIS RAMIREZ SKILER           C          20.00
+043773           SAN  SAN  04/10/2021 17:29  V                      CAQUI UGALDE EYDER             C          35.00
+043774           SAN  SAN  04/10/2021 17:31  V                      VARGAS FARRO DOLORES           C         329.50
+043775           SAN  SAN  04/10/2021 17:32  V                      VARGAS FARRO DOLORES           C          81.50
+043776           SAN  SAN  04/10/2021 17:40  V                      RIVERA MONZON EDILBERTO        C          49.00
+043777           SAN  SAN  04/10/2021 17:48  V                      RAMIREZ SERNA AZAEL            C          35.00
+043778           SAN  SAN  04/10/2021 17:52  V                      MILLA PEREZ EDILSON            C          75.00
+043779           SAN  SAN  04/10/2021 18:02  V                      VALDEOS ARELLANO               C          10.00
+043780           SAN  SAN  04/10/2021 18:02  V                      VALDEOS ARELLANO               C           1.50
+043781           SAN  SAN  04/10/2021 18:09  V                      CAPRISTAN BERROCAL             C          20.00
+043782           SAN  SAN  04/10/2021 18:15  V                      ENCARNACION VALENTIN           C         140.00
+043783           SAN  SAN  04/10/2021 18:16  V                      VALDEOS                        C           0.20
+043784           SAN  SAN  04/10/2021 18:18  V                      CAVERO LOPEZ GLORIA            C          35.00
+043785           SAN  SAN  04/10/2021 18:20  V                      LASTRE GONZALES NIDIA          C          35.00
+043786           SAN  SAN  04/10/2021 18:26  V                      VALDEOS ARELLANO               C          65.00
+043787           SAN  SAN  04/10/2021 18:35  V                      VARGAS FERRO                   C           4.50
+043788           SAN  SAN  04/10/2021 18:40  V                      LOPEZ CABRACANCHA DIANA        C          35.00
+043789           SAN  SAN  04/10/2021 18:49  V                      ACU;A HILDA                    C          18.50
+043790           SAN  SAN  04/10/2021 19:04  V                      REYES ACU;A PASCUAL            C          65.00
+043791           SAN  SAN  04/10/2021 19:10  V                      TORRES ACU;A DE REYES          C          45.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:11
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043792           SAN  SAN  04/10/2021 19:29  V                      LOPEZ CABRACANCHA DIANA        C           1.50
+043793           SAN  SAN  04/10/2021 19:32  V                      MINAYA BAZALAR MARIA           C          35.00
+043794           SAN  SAN  04/10/2021 19:40  V                      GORGUES PICHILINGUE            C          35.00
+043795           SAN  SAN  04/10/2021 19:52  V                      ESTUPI;AN SALVADOR             C          51.00
+043796           SAN  SAN  04/10/2021 19:58  V                      GABRIELA AYRAVILCA             C          35.00
+043797           SAN  SAN  04/10/2021 20:09  V                      RAMIREZ SERNA                  C           5.00
+043798           SAN  SAN  04/10/2021 20:15  V                      VALDEOS                        C          10.00
+043799           SAN  SAN  04/10/2021 20:29  V                      LASTRES GONZALES NIDIA         C         186.00
+043800           SAN  SAN  04/10/2021 20:31  V                      LASTRES GONZALES               C          35.00
+043801           SAN  SAN  04/10/2021 20:34  V                      CAVERO LOPEZ GLORIA            C          80.00
+043802           SAN  SAN  04/10/2021 20:37  V                      GORGUES PICHILINGUE            C          52.00
+043803           SAN  SAN  04/10/2021 20:50  V                      MENDOZA CHAVARRI ROSA          C          45.00
+043804           SAN  SAN  04/10/2021 20:58  V                      MENDOZA CHAVARRIA              C           3.00
+043805           SAN  SAN  04/10/2021 21:12  V                      MINAYA BAZALAR MARIA           C           7.20
+043806           MAR  MAR  05/10/2021 08:07  V                      RAMOS SILVERIO JAQUELINE       C          35.00
+043807           MAR  MAR  05/10/2021 08:10  V                      MENDOZA CHAVARRI ROSA ALICIA   C         333.00
+043808           MAR  MAR  05/10/2021 08:12  V                      MENDOZA CHAVARRI ROSA ALICIA   C          90.00
+043809           MAR  MAR  05/10/2021 08:14  V                      TINEO PUPUCHE HIPOLITO         C          63.00
+043810           MAR  MAR  05/10/2021 08:15  V                      TINEO PUPUCHE HIPOLITO         C          35.00
+043811           MAR  MAR  05/10/2021 08:19  V                      ALVARADO CARBAJAL VICTOR HUGO  C          35.00
+043812           MAR  MAR  05/10/2021 08:22  V                      LOPEZ CABRACANCHA DIANA ROSARI C         115.00
+043813           MAR  MAR  05/10/2021 08:26  V                      VENTA ANULADA                  C           0.00
+043814           MAR  MAR  05/10/2021 08:27  V                      OSTOS PRADA YASARY             C         100.00
+043815           MAR  MAR  05/10/2021 08:30  V                      MENDOZA CHAVARRI ROSA ALICIA   C          35.00
+043816           MAR  MAR  05/10/2021 08:36  V                      VALDEOS ARELLANO MIGUEL ANGEL  C         313.00
+043817           MAR  MAR  05/10/2021 08:47  V                      VALDEOS ARELLANO MIGUEL ANFEL  C          35.00
+043818           MAR  MAR  05/10/2021 08:59  V                      RAMOS DE BALTAZAR              C          11.00
+043819           MAR  MAR  05/10/2021 09:14  V                      MORALES VENTOCILLA EUSTANIA    C          30.00
+043820           MAR  MAR  05/10/2021 09:28  V                      VERDE EGUIZABAL AURORA         C          30.00
+043821           MAR  MAR  05/10/2021 09:34  V                      CARLOS ALEJO FERMINA JULIA     C         128.00
+043822           MAR  MAR  05/10/2021 09:35  V                      CARLOS ALEJO FERMINA           C          40.00
+043823           MAR  MAR  05/10/2021 09:54  V                      REYES ACU;A PASCUAL            C         309.50
+043824           MAR  MAR  05/10/2021 10:15  V                      VELA DE ROMERO ZENAIDA         C          30.00
+043825           MAR  MAR  05/10/2021 10:29  V                      VELA DE ROMERO                 C          83.00
+043826           MAR  MAR  05/10/2021 10:56  V                      SERNA PALOMARES JAYRO          C          20.00
+043827           MAR  MAR  05/10/2021 10:59  V                      ALARCON UGALDE MARCO           C          35.00
+043828           MAR  MAR  05/10/2021 11:29  V                      TORRES BAZAN DANIEL            C          65.00
+043829           MAR  MAR  05/10/2021 11:29  V                      LLANOS BALLARDO MILDER EVELIN  C          65.00
+043830           MAR  MAR  05/10/2021 11:50  V                      MIRANDA RAMIREZ CARMEN         C          35.00
+043831           MAR  MAR  05/10/2021 14:00  V                      SERNA SALAZAR DAVID            C          65.00
+043832           SAN  SAN  05/10/2021 14:29  V                      VENTA ANULADA                  C           0.00
+043833           SAN  SAN  05/10/2021 14:41  V                      VENTA ANULADA                  C           0.00
+043834           SAN  SAN  05/10/2021 14:46  V                      ARQUINIGO DE CRISOL            C          35.00
+043835           SAN  SAN  05/10/2021 14:51  V                      ARQUINIGO DE CRISOL            C          10.00
+043836           SAN  SAN  05/10/2021 15:02  V                      SANCHEZ VILLANUEVA YERSY       C          35.00
+043837           SAN  SAN  05/10/2021 15:04  V                      HERNANDEZ CALDERON             C          35.00
+043838           SAN  SAN  05/10/2021 15:40  V                      SANTILLAN PE;A CILIA           C          35.00
+043839           SAN  SAN  05/10/2021 15:45  V                      MATOS GALARZA EUGENIA          C          35.00
+043840           SAN  SAN  05/10/2021 15:49  V                      CASTRO HORNA ABRAHAM           C          35.00
+043841           SAN  SAN  05/10/2021 16:03  V                      RAMOS SILVERIO JACQUELINE      C          45.00
+043842           SAN  SAN  05/10/2021 16:03  V                      RAMOS SILVERIO JACQUELINE      C          90.00
+043843           SAN  SAN  05/10/2021 16:14  V                      PATI;O ESPINOZA PAUL           C          49.00
+043844           SAN  SAN  05/10/2021 16:17  V                      ARQUINIGO DE CRISOL            C          35.00
+043845           SAN  SAN  05/10/2021 16:40  V                      PE;A DE COLLPA MARIA           C          35.00
+043846           SAN  SAN  05/10/2021 16:56  V                      SANCHEZ VILLANUEVA             C          30.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:11
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043847           SAN  SAN  05/10/2021 17:09  V                      RAMIREZ MIRANDA LIDIA          C          35.00
+043848           SAN  SAN  05/10/2021 17:15  V                      SANTILLAN PE;A CILIA           C         120.00
+043849           SAN  SAN  05/10/2021 17:27  V                      LUNA FLORES ANTHONY            C          35.00
+043850           SAN  SAN  05/10/2021 17:31  V                      CARLOS ALEJO FERNANDA          C          35.00
+043851           SAN  SAN  05/10/2021 17:37  V                      CASTRO HORNA ABRAHAM           C         291.00
+043852           SAN  SAN  05/10/2021 17:38  V                      CASTRO HORNA ABRAHAM           C          67.00
+043853           SAN  SAN  05/10/2021 17:49  V                      REYES ACU;A PASCUAL            C          35.00
+043854           SAN  SAN  05/10/2021 17:55  V                      MEDINA TIRADO ELI              C          35.00
+043855           SAN  SAN  05/10/2021 17:58  V                      ROBLES DE PAZ GISELA           C          35.00
+043856           SAN  SAN  05/10/2021 18:03  V                      TIRADO GALVEZ LUZ              C         115.00
+043857           SAN  SAN  05/10/2021 18:09  V                      SALVADOR POLO CARMEN           C          35.00
+043858           SAN  SAN  05/10/2021 18:12  V                      SELAYA SOLIS CERAFINA          C          35.00
+043859           SAN  SAN  05/10/2021 18:15  V                      GARCIA PIMENTEL DIEGO          C          35.00
+043860           SAN  SAN  05/10/2021 18:21  V                      REYES ACU;A PASCUAL            C          62.00
+043861           SAN  SAN  05/10/2021 18:22  V                      TORRES ACU;A DE REYES          C          45.00
+043862           SAN  SAN  05/10/2021 18:26  V                      CHUQUIMANGO GUEVARA            C          22.50
+043863           SAN  SAN  05/10/2021 18:28  V                      ORTIZ CHIRITO LUDOMILA         C          35.00
+043864           SAN  SAN  05/10/2021 18:30  V                      ESPINOZA HURTADO KALESSI       C          35.00
+043865           SAN  SAN  05/10/2021 18:35  V                      RAMIREZ MIRANDA LIDIA          C           3.00
+043866           SAN  SAN  05/10/2021 18:39  V                      ESTUPI;AN SALVADOR             C          48.00
+043867           SAN  SAN  05/10/2021 18:43  V                      ROBLES DE PAZ GISELA           C          35.00
+043868           SAN  SAN  05/10/2021 18:50  V                      ESPINOZA HURTADO               C          15.00
+043869           SAN  SAN  05/10/2021 18:58  V                      MENDOZA CHAVARRI ROSA          C          79.00
+043870           SAN  SAN  05/10/2021 19:01  V                      ASTETE MAATOS ANA              C          35.00
+043871           SAN  SAN  05/10/2021 19:03  V                      ANDRADE CALZADO CRISTIAN       C          35.00
+043872           SAN  SAN  05/10/2021 19:16  V                      PE;A DE COLLPA                 C          45.00
+043873           SAN  SAN  05/10/2021 19:16  V                      PE;A DE COLLPA MARIA           C           1.50
+043874           SAN  SAN  05/10/2021 19:20  V                      HERNANDEZ CALDERON             C          45.00
+043875           SAN  SAN  05/10/2021 19:22  V                      ENCARNACION VALENTIN           C          45.00
+043876           SAN  SAN  05/10/2021 19:25  V                      CARLOS ALEJOS FERMINA          C         115.00
+043877           SAN  SAN  05/10/2021 19:29  V                      CARLOS ALEJO FERMINA           C          50.00
+043878           SAN  SAN  05/10/2021 19:33  V                      VENTA ANULADA                  C           0.00
+043879           SAN  SAN  05/10/2021 19:34  V                      MEDINA TIRADO                  C          22.80
+043880           SAN  SAN  05/10/2021 19:43  V                      LEON DE LA CRUZ LENIN          C          35.00
+043881           SAN  SAN  05/10/2021 19:53  V                      ESPINOZA MORALES CARLOS        C          50.00
+043882           SAN  SAN  05/10/2021 19:57  V                      SAAVEDRA TIRADO                C          20.00
+043883           SAN  SAN  05/10/2021 20:04  V                      SALVADOR POLO CARMEN           C          54.50
+043884           SAN  SAN  05/10/2021 20:30  V                      SELAYA SOLIS CERAFINA          C          25.00
+043885           SAN  SAN  05/10/2021 20:32  V                      ASTETE MATOS ANA               C          49.00
+043886           SAN  SAN  05/10/2021 20:35  V                      SELAYA SOLIS CERAFINA          C           3.00
+043887           SAN  SAN  05/10/2021 21:04  V                      CALZADO ANDRADE                C         113.50
+043888           MAR  MAR  06/10/2021 08:06  V                      PE;A DE COLLPA MARIA FRANCISCA C         158.00
+043889           MAR  MAR  06/10/2021 08:09  V                      MENESES RUMICHE ELIAS          C          35.00
+043890           MAR  MAR  06/10/2021 08:11  V                      HUERTO DE ALBINO SALOMENA      C          30.00
+043891           MAR  MAR  06/10/2021 08:13  V                      VIVIAN ENTEL                   C         218.00
+043892           MAR  MAR  06/10/2021 08:19  V                      RAMIREZ MIRANDA LIDIA          C         108.00
+043893           MAR  MAR  06/10/2021 08:24  V                      PE;A DE COLLPA MARIA FRANCISCA C          35.00
+043894           MAR  MAR  06/10/2021 08:29  V                      PAISIG SANCHEZ                 C          92.00
+043895           MAR  MAR  06/10/2021 08:36  V                      JARA ORTEGA HERMINIA           C          30.00
+043896           MAR  MAR  06/10/2021 08:37  V                      VENTA ANULADA                  C           0.00
+043897           MAR  MAR  06/10/2021 08:39  V                      JARA ORTEGA HERMINIA           C          30.00
+043898           MAR  MAR  06/10/2021 08:47  V                      SALVADOR POLO DORIS            C         225.00
+043899           MAR  MAR  06/10/2021 08:47  V                      SALVADOR POLO DORIS            C         185.00
+043900           MAR  MAR  06/10/2021 08:56  V                      VENTA ANULADA                  C           0.00
+043901           MAR  MAR  06/10/2021 08:59  V                                                     C           1.50úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:11
+PRT102()                                                                                                                Pag.-    8
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043902           MAR  MAR  06/10/2021 09:05  V                      RAMOS DE BALTAZAR ELIZA        C         135.00
+043903           MAR  MAR  06/10/2021 09:12  V                      OCA;A CARRERA SMITH            C         100.00
+043904           MAR  MAR  06/10/2021 09:16  V                      DAVILA ORIHUELA JESUS          C          30.00
+043905           MAR  MAR  06/10/2021 09:22  V                      ORIHUELA ANDRES NELLY          C         199.50
+043906           MAR  MAR  06/10/2021 09:28  V                      VELA DE ROMERO ZENAIDA         C          30.00
+043907           MAR  MAR  06/10/2021 09:32  V                      SELAYA SOLIS CERAFINA          C         233.00
+043908           MAR  MAR  06/10/2021 09:34  V                      SELAYA SOLIS CERAFINA          C          90.00
+043909           MAR  MAR  06/10/2021 09:45  V                      MEDRANO STEFANO ANDRIU         C          35.00
+043910           MAR  MAR  06/10/2021 09:49  V                      RIVERA EUSCATIGUE ADELA        C          33.00
+043911           MAR  MAR  06/10/2021 09:53  V                      SALVADOR POLO DORIS            C          35.00
+043912           MAR  MAR  06/10/2021 10:03  V                      VILLANUEVA NONATO ELMER        C         100.00
+043913           MAR  MAR  06/10/2021 10:20  V                      TOLEDO OBREGON RUBELINDA       C          30.00
+043914           MAR  MAR  06/10/2021 10:23  V                      AZO DE LUGARDO RUTH            C          30.00
+043915           MAR  MAR  06/10/2021 10:26  V                      CARRERA OLIVARES CLAUDIO       C           9.00
+043916           MAR  MAR  06/10/2021 10:28  V                      PE;A CORONADO FELICIA          C          30.00
+043917           MAR  MAR  06/10/2021 10:53  V                      HUERTO DE ALBINO SALOMENA      C         100.00
+043918           MAR  MAR  06/10/2021 10:56  V                      TINEO PUPUCHE HIPOLITO         C         361.00
+043919           MAR  MAR  06/10/2021 11:03  V                      TARAZONA MONTES MARIANA        C          13.00
+043920           MAR  MAR  06/10/2021 11:39  V                      MEDINA TIRADO ELI              C          59.50
+043921           MAR  MAR  06/10/2021 11:41  V                      MEDINA TIRADO ELI OMAR         C          35.00
+043922           MAR  MAR  06/10/2021 12:28  V                      CURITIMA YAHUARCANI ORLANDO    C          25.00
+043923           MAR  MAR  06/10/2021 12:28  V                      LLAPAPASCA SANCHEZ JHAN CARLOS C          25.00
+043924           MAR  MAR  06/10/2021 12:29  V                      CURITIMA YAHUARCANI JAVIER     C          25.00
+043925           MAR  MAR  06/10/2021 12:30  V                      VASQUEZ RENGIFO ALEXIS ALBERTO C          25.00
+043926           MAR  MAR  06/10/2021 12:37  V                      REYES HUERTAS MAYRA ALEJANDRA  C          25.00
+043927           MAR  MAR  06/10/2021 12:44  V                                                     C           1.50
+043928           MAR  MAR  06/10/2021 13:32  V                      ARELLANO RAMIREZ JULIA         C           3.00
+043929           MAR  MAR  06/10/2021 13:49  V                      VASQUEZ AGUILAR MARIA          C          35.00
+043930           SAN  SAN  06/10/2021 14:13  V                      RODRIGUEZ ROSALES              C          20.00
+043931           SAN  SAN  06/10/2021 14:44  V                      ALEJOS LOARTE LUZ ESPERANZA    C          50.00
+043932           SAN  SAN  06/10/2021 14:47  V                      ALVA TORRES LESLIE             C          20.00
+043933           SAN  SAN  06/10/2021 14:50  V                      HUESA CADILLA GUISELA          C          60.00
+043934           SAN  SAN  06/10/2021 14:51  V                      HUESA CADILLA GUISELA          C          35.00
+043935           SAN  SAN  06/10/2021 15:12  V                      TRUJILLO CRIOLLO AGUSTINA      C          35.00
+043936           SAN  SAN  06/10/2021 15:13  V                      GARAY HUALLANE LIAM            C          35.00
+043937           SAN  SAN  06/10/2021 15:15  V                      CORDOVA DE ALEJOS LIDUVINA     C          40.00
+043938           SAN  SAN  06/10/2021 15:17  V                      SELAYA SOLIS CERAFINA          C          35.00
+043939           SAN  SAN  06/10/2021 15:24  V                      BERNARDO ROMERO MARIA          C          35.00
+043940           SAN  SAN  06/10/2021 15:30  V                      VILLANUEVA MENDOZA SANTIAGO    C          60.00
+043941           SAN  SAN  06/10/2021 15:44  V                      ALMAZAN FAUSTINO SANTA         C          35.00
+043942           SAN  SAN  06/10/2021 15:57  V                      ROBLES DE PAZ GISELA           C         125.00
+043943           SAN  SAN  06/10/2021 16:00  V                      DEXTRE SANCHEZ JAMILETH        C          35.00
+043944           SAN  SAN  06/10/2021 16:03  V                      GARAY HUAYANE LIAM             C          72.00
+043945           SAN  SAN  06/10/2021 16:04  V                      GARAY HUAYANE LIAM             C          36.50
+043946           SAN  SAN  06/10/2021 16:14  V                      ALMAZAN FAUSTINO               C          25.00
+043947           SAN  SAN  06/10/2021 16:24  V                      GARCIA JARAMILLO RICARDO       C          35.00
+043948           SAN  SAN  06/10/2021 16:28  V                      CASTILLO MU;OZ SONIA           C          35.00
+043949           SAN  SAN  06/10/2021 16:54  V                      GARCIA JARAMILLO RICARDO       C          40.00
+043950           SAN  SAN  06/10/2021 16:58  V                      LUNA GOICOCHEA ANGIE           C          35.00
+043951           SAN  SAN  06/10/2021 17:06  V                      HAYANE TRUJILLO KATHE          C          35.00
+043952           SAN  SAN  06/10/2021 17:24  V                      MENESES RUMICHE ELIAS          C         146.50
+043953           SAN  SAN  06/10/2021 17:26  V                      MENESES RUMICHE ELIAS          C          85.00
+043954           SAN  SAN  06/10/2021 17:36  V                      PE;A DE COLLPA MARIA           C          57.00
+043955           SAN  SAN  06/10/2021 17:38  V                      PE;A DE COLLPA                 C           1.50
+043956           SAN  SAN  06/10/2021 17:39  V                      VENTA ANULADA                  C           0.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:12
+PRT102()                                                                                                                Pag.-    9
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+043957           SAN  SAN  06/10/2021 17:40  V                      LONGA DE LA CRUZ               C          40.00
+043958           SAN  SAN  06/10/2021 17:46  V                      GARCIA JARAMILLO RICARDO       C           3.00
+043959           SAN  SAN  06/10/2021 17:49  V                      MENDOZA MURILLO ALEXANDER      C          35.00
+043960           SAN  SAN  06/10/2021 17:56  V                      FLORES ALOR LORENA             C          35.00
+043961           SAN  SAN  06/10/2021 17:57  V                      VARGAS TOLEDO JUAN             C          35.00
+043962           SAN  SAN  06/10/2021 18:04  V                      VASQUEZ AGUILAR MARIA          C         120.00
+043963           SAN  SAN  06/10/2021 18:06  V                      VASQUEZ AGUILAR MARIA          C           6.00
+043964           SAN  SAN  06/10/2021 18:17  V                      MEDRANO MATOS ANDRIU           C          67.80
+043965           SAN  SAN  06/10/2021 18:23  V                      VARGAS TOLEDO JUAN             C         161.00
+043966           SAN  SAN  06/10/2021 18:25  V                      VARGAS TOLEDO JUAN             C         116.50
+043967           SAN  SAN  06/10/2021 18:27  V                      TOLEDO OBREGON RUBELINDA       C         100.00
+043968           SAN  SAN  06/10/2021 18:31  V                      ENCARNACION VALENTIN           C          45.00
+043969           SAN  SAN  06/10/2021 18:32  V                      AGUERO ZAMUDIO MAXIMO          C          35.00
+043970           SAN  SAN  06/10/2021 18:35  V                      FLORES ALOR LORENA             C          55.00
+043971           SAN  SAN  06/10/2021 18:42  V                      YOVERA ALVINO LUIS             C          35.00
+043972           SAN  SAN  06/10/2021 18:51  V                      CASTILLO ROBLES TRIANA         C          35.00
+043973           SAN  SAN  06/10/2021 19:00  V                      MEDINA TIRADO ELI              C           1.50
+043974           SAN  SAN  06/10/2021 19:16  V                      DEXTRE SANCHEZ KALESSY         C          71.00
+043975           SAN  SAN  06/10/2021 19:18  V                      DEXTRE SANCHEZ JAMILETH        C         171.00
+043976           SAN  SAN  06/10/2021 19:27  V                      NAVARRO CANO ANGELA            C          35.00
+043977           SAN  SAN  06/10/2021 19:30  V                      CASTILLO MU;OZ SONIA           C          29.00
+043978           SAN  SAN  06/10/2021 19:31  V                      CASTILLO MU;OZ SONIA           C         171.00
+043979           SAN  SAN  06/10/2021 19:50  V                      YOVERA ALBINO LUIS ALBERTO     C          39.00
+043980           SAN  SAN  06/10/2021 20:19  V                      HUAYANE TRUJILLO KATHERINE     C          55.00
+043981           SAN  SAN  06/10/2021 20:27  V                      YOVERA ALBINO LUIS ALBERTO     C          21.50
+043982           SAN  SAN  06/10/2021 20:33  V                      HUAYANE TRUJILLO KATHERINE     C           3.50
+043983           MAR  MAR  07/10/2021 08:15  V                      MARISOL TORIBIO                C           7.60
+043984           MAR  MAR  07/10/2021 08:22  V                      CASTILLO MU;OZ SONIA           C          21.00
+043985           MAR  MAR  07/10/2021 08:31  V                      JARA ORTEGA HERMINIA           C          30.00
+043986           MAR  MAR  07/10/2021 08:32  V                      CASTILLO COLLANTES             C          15.00
+043987           MAR  MAR  07/10/2021 08:35  V                      ROLANDO ESPINOZA HUANCA        C          63.00
+043988           MAR  MAR  07/10/2021 08:48  V                      AGUERO ZAMUDIO MAXIMO ALBERTO  C         309.50
+043989           MAR  MAR  07/10/2021 08:57  V                      ARELLANO RAMIREZ JULIA         C          30.00
+043990           MAR  MAR  07/10/2021 09:24  V                      MENESES RUMICHE ELIAS          C          35.00
+043991           MAR  MAR  07/10/2021 09:31  V                      DIAZ DESPOSORIO JOSE           C          30.00
+043992           MAR  MAR  07/10/2021 09:33  V                      MEDINA TIRADO ELI              C          60.00
+043993           MAR  MAR  07/10/2021 09:36  V                      ROMERO GUILLEN PAMELA          C          40.00
+043994           MAR  MAR  07/10/2021 09:38  V                      VELA DE ROMERO ZENAIDA         C          30.00
+043995           MAR  MAR  07/10/2021 09:47  V                      RAMOS DE BALTAZAR ELIZA        C          90.00
+043996           MAR  MAR  07/10/2021 09:50  V                      RAMOS DE BALTAZAR ELIZA        C          30.00
+043997           MAR  MAR  07/10/2021 09:57  V                      ALMAZAN FAUSTINO SANTA         C         276.00
+043998           MAR  MAR  07/10/2021 10:00  V                      ALVARADO DOMINGA               C         135.00
+043999           MAR  MAR  07/10/2021 10:03  V                      CAMPOS SANCHEZ ELVIRA          C          35.00
+044000           MAR  MAR  07/10/2021 10:10  V                      CANAZA MINAYA LIZ              C          20.00
+044001           MAR  MAR  07/10/2021 10:22  V                      NIETO PIEDRA FABIAN            C          20.00
+044002           MAR  MAR  07/10/2021 10:30  V                      ARELLANO RAMIREZ JULIA         C           3.00
+044003           MAR  MAR  07/10/2021 10:33  V                      PE;A CORONADO FELICIA          C          30.00
+044004           MAR  MAR  07/10/2021 10:36  V                      PE;A CORONADO                  C          13.80
+044005           MAR  MAR  07/10/2021 10:50  V                      NIETO PIEDRA                   C          21.50
+044006           MAR  MAR  07/10/2021 11:32  V                      JAIMES BUSTAMANTE ALEJANDRO    C          21.50
+044007           MAR  MAR  07/10/2021 11:35  V                      TENA ROJAS ANA LUZ             C          10.00
+044008           MAR  MAR  07/10/2021 11:54  V                      LLANQUE PE;A PAULINO           C          15.00
+044009           MAR  MAR  07/10/2021 11:56  V                      LLANQUE PE;A PAULINO           C          15.20
+044010           MAR  MAR  07/10/2021 12:12  V                      MEJIA SALVATIERRA ALEJANDRO    C          10.00
+044011           MAR  MAR  07/10/2021 12:29  V                      PAULINO                        C           1.50úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:12
+PRT102()                                                                                                                Pag.-   10
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044012           SAN  SAN  07/10/2021 14:18  V                      VEGA TARAZONA JULIA            C          35.00
+044013           SAN  SAN  07/10/2021 14:31  V                      VENTA ANULADA                  C           0.00
+044014           SAN  SAN  07/10/2021 15:09  V                      RAMIREZ MIRANDA LIDIA          C          35.00
+044015           SAN  SAN  07/10/2021 15:12  V                      CORDERO DE RIVERA ANGELICA     C          13.00
+044016           SAN  SAN  07/10/2021 15:15  V                      DOMICILIO                      C         113.00
+044017           SAN  SAN  07/10/2021 15:18  V                      ESPINOZA PARDO WILLINGTON      C          90.00
+044018           SAN  SAN  07/10/2021 15:19  V                      SELAYA SOLIS CERAFINA          C          46.50
+044019           SAN  SAN  07/10/2021 15:20  V                      SELAYA SOLIS CERAFINA          C          35.00
+044020           SAN  SAN  07/10/2021 15:22  V                      ESPINOZA PARDO WILLINGTON      C          45.00
+044021           SAN  SAN  07/10/2021 15:28  V                      YOVERA MONTOYA JORGE           C          35.00
+044022           SAN  SAN  07/10/2021 15:32  V                      GARCIA PALOMINO LADY           C          55.00
+044023           SAN  SAN  07/10/2021 15:38  V                      ROMERO ROSALES ISABEL          C          35.00
+044024           SAN  SAN  07/10/2021 15:41  V                      CAMPOS SANCHEZ ELVIRA          C          25.00
+044025           SAN  SAN  07/10/2021 15:47  V                      MILLA COBOS JULIO              C         128.00
+044026           SAN  SAN  07/10/2021 15:52  V                      MU;OZ LINARES ROBERTINA        C          35.00
+044027           SAN  SAN  07/10/2021 15:54  V                      TOCAS HUAMAN TEODOSIA          C          15.00
+044028           SAN  SAN  07/10/2021 15:56  V                      BUSTILLOS ESCOBEDO MARLENE     C          30.00
+044029           SAN  SAN  07/10/2021 15:56  V                      ARMAS BUSTILLOS MARYORI        C          30.00
+044030           SAN  SAN  07/10/2021 16:09  V                      LOPEZ BARDALES EFRAIN          C          35.00
+044031           SAN  SAN  07/10/2021 16:12  V                      YOVERA ALBINO                  C           4.00
+044032           SAN  SAN  07/10/2021 16:15  V                      SILVERIO RAMOS IDALIA          C          90.00
+044033           SAN  SAN  07/10/2021 16:50  V                      CANTU LIMA  LEYDI              C          25.00
+044034           SAN  SAN  07/10/2021 16:53  V                      JIMENEZ AZA;ERO CONSUELO       C          90.00
+044035           SAN  SAN  07/10/2021 16:57  V                      ROMERO ROSALES ISABEL          C          92.50
+044036           SAN  SAN  07/10/2021 17:01  V                      ROMERO ROSALES ISABEL          C         306.50
+044037           SAN  SAN  07/10/2021 17:12  V                      ARELLANO CARHUAPOMA            C         263.00
+044038           SAN  SAN  07/10/2021 17:13  V                      MESTANZA DOMINGUEZ LORENZO     C          22.50
+044039           SAN  SAN  07/10/2021 17:18  V                      INGA CALERO JOSUE              C          30.00
+044040           SAN  SAN  07/10/2021 17:20  V                      CASTILLO MU;OZ SONIA           C          35.00
+044041           SAN  SAN  07/10/2021 17:24  V                      SALIZ ESPINOZA CRISTIAN        C          35.00
+044042           SAN  SAN  07/10/2021 17:27  V                      SALIZ ESPINOZA CORINA          C          30.00
+044043           SAN  SAN  07/10/2021 17:28  V                      CASTILLO COLLANTES PATRICIA    C          35.00
+044044           SAN  SAN  07/10/2021 17:30  V                      ARBULU TAJA CESAR              C          35.00
+044045           SAN  SAN  07/10/2021 17:32  V                      YOPAN CHOCACA CARMELA          C           1.50
+044046           SAN  SAN  07/10/2021 17:33  V                      CABANILLAS CADILLO CRISTINA    C          35.00
+044047           SAN  SAN  07/10/2021 17:46  V                      CAMPOS SANCHEZ ELVIRA          C          66.50
+044048           SAN  SAN  07/10/2021 17:55  V                      LAZARO OSORIO ANA              C          35.00
+044049           SAN  SAN  07/10/2021 18:06  V                      MILLA COBOS JULIO              C          11.50
+044050           SAN  SAN  07/10/2021 18:08  V                      SALIZ ESPINOZA CRISTIAN        C          51.50
+044051           SAN  SAN  07/10/2021 18:12  V                      SALIZ ESPINOZA                 C           3.00
+044052           SAN  SAN  07/10/2021 18:12  V                      ROBLES DE PAZ GISELA           C          35.00
+044053           SAN  SAN  07/10/2021 18:16  V                      VENTA ANULADA                  C           0.00
+044054           SAN  SAN  07/10/2021 18:21  V                      REYES ACU;A PASCUAL            C          62.00
+044055           SAN  SAN  07/10/2021 18:22  V                      TORRES ACU;A DE REYES          C          45.00
+044056           SAN  SAN  07/10/2021 18:41  V                      CABANILLAS CADILLO CRISTINA    C          15.00
+044057           SAN  SAN  07/10/2021 18:49  V                      INGA CALERO                    C           1.00
+044058           SAN  SAN  07/10/2021 19:02  V                      VEGA TARAZONA JULIA            C         100.00
+044059           SAN  SAN  07/10/2021 19:03  V                      VEGA TARAZONA JULIA            C           3.00
+044060           SAN  SAN  07/10/2021 19:21  V                      PEREZ JARA FELIPA              C           6.00
+044061           SAN  SAN  07/10/2021 19:29  V                      SALVADOR POLO CARMEN           C          26.00
+044062           SAN  SAN  07/10/2021 19:31  V                      SALVADOR POLO CARMEN           C          92.00
+044063           SAN  SAN  07/10/2021 19:33  V                      SALVADOR POLO CARMEN           C          26.00
+044064           SAN  SAN  07/10/2021 19:38  V                      LEON SAENZ EDWARD              C          35.00
+044065           SAN  SAN  07/10/2021 20:04  V                      ROBLES DE PAZ GISELA           C          46.50
+044066           SAN  SAN  07/10/2021 20:20  V                      LEON SAENZ EDWARD              C          58.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:13
+PRT102()                                                                                                                Pag.-   11
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044067           SAN  SAN  07/10/2021 20:25  V                      LEON SAENZ                     C           1.00
+044068           MAR  MAR  09/10/2021 08:07  V                      VEGA TARAZONA JULIA            C         218.00
+044069           MAR  MAR  09/10/2021 08:19  V                      NIETO YAMUNAQUE ITZEL          C          35.00
+044070           MAR  MAR  09/10/2021 08:26  V                      MU;OZ SILVA RIGNOBERTO CARLOS  C          35.00
+044071           MAR  MAR  09/10/2021 08:32  V                      ALBINO MALLQUI JOSUE           C          80.00
+044072           MAR  MAR  09/10/2021 08:36  V                      BLAS LUCAS LEOPOLDO LUCIO      C          40.00
+044073           MAR  MAR  09/10/2021 08:41  V                      GARCIA JARAMILLO RICARDO PEDRO C         273.00
+044074           MAR  MAR  09/10/2021 08:44  V                      ROBLES DE PAZ GISELA           C          20.00
+044075           MAR  MAR  09/10/2021 08:45  V                      USHI;AHUA IHUARAQUI TESS IBIS  C          10.00
+044076           MAR  MAR  09/10/2021 08:49  V                      BLAS LUCAS LEOPOLDO            C          35.00
+044077           MAR  MAR  09/10/2021 09:12  V                      CIRIACO CALIXTO SANTOSA        C          10.00
+044078           MAR  MAR  09/10/2021 09:19  V                      ALVINO MALLQUI JOSUE           C          10.00
+044079           MAR  MAR  09/10/2021 09:33  V                      ALVA MUNDO EDSON JHONG DEL CAR C          80.00
+044080           MAR  MAR  09/10/2021 09:36  V                      CAMPOS DIAZ PAULINO            C          80.00
+044081           MAR  MAR  09/10/2021 10:14  V                      HERRERA CERDAN ROSALUZ         C          35.00
+044082           MAR  MAR  09/10/2021 10:17  V                      VALENZUELA RIOS MAURA          C          35.00
+044083           MAR  MAR  09/10/2021 11:05  V                      DIESTRA ARAMBURU CARMEN ROCIO  C          10.00
+044084           MAR  MAR  09/10/2021 11:46  V                      CAMPOS DIAZ PAULINO            C           1.50
+044085           MAR  MAR  09/10/2021 12:23  V                      QUISPE RODRIGUEZ KASSANDRA HAR C          49.00
+044086           MAR  MAR  09/10/2021 12:39  V                      GARCIA QUINECHE DE PRINCIPE MA C          35.00
+044087           SAN  SAN  09/10/2021 14:07  V                      CHANGANA KLER LUZBENIA         C          10.00
+044088           SAN  SAN  09/10/2021 14:42  V                      ROJAS ESTRELLA CARLOS          C          35.00
+044089           SAN  SAN  09/10/2021 14:46  V                      NIETO YAMUNAQUE                C          12.00
+044090           SAN  SAN  09/10/2021 14:47  V                      EVANGELISTA MAGUI;A ARTURO     C          35.00
+044091           SAN  SAN  09/10/2021 14:49  V                      GARCIA JARAMILLO RICARDO       C          35.00
+044092           SAN  SAN  09/10/2021 15:06  V                      NIETO YAMUNAQUE                C           5.50
+044093           SAN  SAN  09/10/2021 15:21  V                      ANGELES LAYNES HILDA           C          35.00
+044094           SAN  SAN  09/10/2021 15:47  V                      HEREDIA DE SANTILLAN           C          37.50
+044095           SAN  SAN  09/10/2021 15:51  V                      VALERIO MARTINEZ FRANCISCA     C          35.00
+044096           SAN  SAN  09/10/2021 16:19  V                      ASTETE MATOS ANA               C          35.00
+044097           SAN  SAN  09/10/2021 16:23  V                      NIETO YAMUNAQUE                C          78.00
+044098           SAN  SAN  09/10/2021 16:32  V                      ROJAS ESTRELLA CARLOS          C          45.00
+044099           SAN  SAN  09/10/2021 16:35  V                      MAYO QUINTEROS ANA             C          35.00
+044100           SAN  SAN  09/10/2021 16:37  V                      LOPEZ CABRACANCHA              C          35.00
+044101           SAN  SAN  09/10/2021 16:56  V                      EVANGELISTA MAGUINA ARTURO     C         146.50
+044102           SAN  SAN  09/10/2021 17:00  V                      EVANGELISTA MAGUI;A ARTURO     C          77.80
+044103           SAN  SAN  09/10/2021 17:02  V                      GORGUES PICHILINGUE            C          35.00
+044104           SAN  SAN  09/10/2021 17:13  V                      SILVA GONZALES SABINO          C          35.00
+044105           SAN  SAN  09/10/2021 17:13  V                      BLAS REYES SOLEDAD             C          35.00
+044106           SAN  SAN  09/10/2021 17:20  V                      CABANILLAS CADILLO CRISTINA    C         165.00
+044107           SAN  SAN  09/10/2021 17:35  V                      BENITES MONTALVO FILOMENA      C          35.00
+044108           SAN  SAN  09/10/2021 17:40  V                      KAQUI UGALDE EIDER             C          35.00
+044109           SAN  SAN  09/10/2021 17:47  V                      GORGUES PICHILINGUE            C          40.00
+044110           SAN  SAN  09/10/2021 17:51  V                      VENTA ANULADA                  C           0.00
+044111           SAN  SAN  09/10/2021 17:51  V                      CABANILLAS CADILLO             C           3.00
+044112           SAN  SAN  09/10/2021 17:56  V                      GORGUES PICHILINGUE            C           8.00
+044113           SAN  SAN  09/10/2021 17:58  V                      VENTA ANULADA                  C           0.00
+044114           SAN  SAN  09/10/2021 17:59  V                      HERRERA CERDAN                 C          52.80
+044115           SAN  SAN  09/10/2021 18:12  V                      RODRIGUEZ LEON AMADEO          C          35.00
+044116           SAN  SAN  09/10/2021 18:17  V                      VALENZUELA RIOS MAURA          C          51.50
+044117           SAN  SAN  09/10/2021 18:21  V                      SALVADOR CORAL EBERARDO        C          35.00
+044118           SAN  SAN  09/10/2021 18:29  V                      FLORES CAURINO LEONARDA        C          35.00
+044119           SAN  SAN  09/10/2021 18:37  V                      BLAS REYES SOLEDAD             C          52.80
+044120           SAN  SAN  09/10/2021 19:01  V                      RAMOS CANCINO ALDO             C          35.00
+044121           SAN  SAN  09/10/2021 19:08  V                      ALEJANDRO TRUJILLO             C          35.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:13
+PRT102()                                                                                                                Pag.-   12
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044122           SAN  SAN  09/10/2021 19:17  V                      KAQUI UGALDE EIDER             C          51.50
+044123           SAN  SAN  09/10/2021 19:25  V                      VENTA ANULADA                  C           0.00
+044124           SAN  SAN  09/10/2021 19:25  V                      GARAY GUAYANE LIAM             C          35.00
+044125           SAN  SAN  09/10/2021 19:37  V                      RODRIGUEZ LEON AMADEO          C          50.00
+044126           SAN  SAN  09/10/2021 19:44  V                      MU;OZ SILVA RIGOBERTO          C          25.00
+044127           SAN  SAN  09/10/2021 19:46  V                      FALCON MONTES WILLIAM          C          35.00
+044128           SAN  SAN  09/10/2021 19:49  V                      VENTA ANULADA                  C           0.00
+044129           SAN  SAN  09/10/2021 19:51  V                      RAMOS CANCINO ALDO             C          49.00
+044130           SAN  SAN  09/10/2021 19:56  V                      RODRIGUEZ LEON AMADEO          C         143.00
+044131           SAN  SAN  09/10/2021 20:00  V                      TRUJILLO CRIOLLO AGUSTINA      C          35.00
+044132           SAN  SAN  09/10/2021 20:02  V                      TRUJILLO CRIOLLO AGUSTINA      C       1,050.00
+044133           SAN  SAN  09/10/2021 20:05  V                      ALEJANDRO TRUJILLO JOSELYN     C          60.00
+044134           SAN  SAN  09/10/2021 20:07  V                      KAQUI UGALDE                   C          30.00
+044135           SAN  SAN  09/10/2021 20:10  V                      GARCIA QUINECHE DE PRINCIPE    C          91.50
+044136           SAN  SAN  09/10/2021 20:15  V                      FALCON MONTES WILLIAM          C          80.50
+044137           SAN  SAN  09/10/2021 20:16  V                      FALCON MONTES WILLIAM          C           6.00
+044138           SAN  SAN  09/10/2021 20:19  V                      BENITES MONTALVO FILOMENA      C          90.00
+044139           SAN  SAN  09/10/2021 20:21  V                      GARCIA QUINECHE                C           7.00
+044140           SAN  SAN  09/10/2021 20:51  V                      FLORES CAURINO LEONARDA        C          28.00
+044141           MAR  MAR  11/10/2021 08:10  V                      ARELLANO RAMIREZ JULIA         C          30.00
+044142           MAR  MAR  11/10/2021 08:26  V                      JARA ORTEGA HERMINIA           C          30.00
+044143           MAR  MAR  11/10/2021 08:27  V                      ESPINOZA HUANCA ROLANDO        C           1.50
+044144           MAR  MAR  11/10/2021 08:28  V                      DR MARIO MOLINA                C           8.00
+044145           MAR  MAR  11/10/2021 08:55  V                      ROBLES DE PAZ GUISELA          C          15.00
+044146           MAR  MAR  11/10/2021 09:02  V                      VALENCIA GASPAR MAXIMINA       C          50.00
+044147           MAR  MAR  11/10/2021 09:03  V                      VALENCIA GASPAR MAXIMINA       C          25.00
+044148           MAR  MAR  11/10/2021 09:08  V                      VALENCIA GASPAR MAXIMINA       C          40.00
+044149           MAR  MAR  11/10/2021 09:39  V                      DAVILA ORIHUELA JESUS          C          30.00
+044150           MAR  MAR  11/10/2021 09:57  V                      VALENCIA GASPAR MAXIMINA       C          35.00
+044151           MAR  MAR  11/10/2021 10:02  V                      PE;PA CORONADO FELICIA         C          30.00
+044152           MAR  MAR  11/10/2021 10:07  V                      ZELAYA SOLIS SERAFINA          C          35.00
+044153           MAR  MAR  11/10/2021 10:11  V                      DIAZ DESPOSORIO JOSE           C          30.00
+044154           MAR  MAR  11/10/2021 10:28  V                      VELA DE ROMERO ZENAIDA         C         100.00
+044155           MAR  MAR  11/10/2021 10:28  V                      VENTA ANULADA                  C           0.00
+044156           MAR  MAR  11/10/2021 10:34  V                      ALBINO HUERTO                  C          90.00
+044157           MAR  MAR  11/10/2021 10:35  V                      TOLEDO OBREGON RUBEOLINDA      C          30.00
+044158           MAR  MAR  11/10/2021 10:42  V                                                     C           5.00
+044159           MAR  MAR  11/10/2021 10:57  V                      VENTA ANULADA                  C           0.00
+044160           MAR  MAR  11/10/2021 10:59  V                      PENADILLO ZORRILLA JUJSTA      C          49.00
+044161           MAR  MAR  11/10/2021 11:46  V                      SANCHEZ REYES JESENIA          C          15.00
+044162           MAR  MAR  11/10/2021 12:21  V                      ORIUNDO PADILLA CAROLINA       C          25.00
+044163           MAR  MAR  11/10/2021 12:34  V                      HUERTO DE ALBINO SALOMENA      C         100.00
+044164           MAR  MAR  11/10/2021 12:54  V                      IGARUCA GERONIMO LUIS          C          35.00
+044165           MAR  MAR  11/10/2021 13:16  V                      BUSTILLOS CAM ISABEL           C          35.00
+044166           MAR  MAR  11/10/2021 13:16  V                      MEDRANO GUERRERO MARCOS        C          25.00
+044167           MAR  MAR  11/10/2021 13:18  V                                                     C          10.00
+044168           MAR  MAR  11/10/2021 13:40  V                      CAROLAY VALLADARES             C          20.00
+044169           MAR  MAR  11/10/2021 14:00  V                      LEOPOLDO BLAS LUCAS            C          27.00
+044170           SAN  SAN  11/10/2021 14:24  V                      GLADYS LAURENTE                C          15.00
+044171           SAN  SAN  11/10/2021 14:38  V                      CASTILLO COLLANTES             C          90.00
+044172           SAN  SAN  11/10/2021 14:44  V                      GAMARRA GARRO ELISEO           C          35.00
+044173           SAN  SAN  11/10/2021 14:48  V                      VASQUEZ SAAVEDRA ELEUTERIO     C          25.00
+044174           SAN  SAN  11/10/2021 14:48  V                      VASQUEZ SAAVEDRA ELEUTERIO     C          49.00
+044175           SAN  SAN  11/10/2021 14:54  V                      VENTOCILLA PIO LUZ CARMEN      C          35.00
+044176           SAN  SAN  11/10/2021 14:59  V                      ARQUINIGO DE CRISOL            C          10.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:14
+PRT102()                                                                                                                Pag.-   13
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044177           SAN  SAN  11/10/2021 15:11  V                      MERCEDES CACHA JUANA           C          35.00
+044178           SAN  SAN  11/10/2021 15:17  V                      REYES MIGO GERALDINE           C          55.00
+044179           SAN  SAN  11/10/2021 15:20  V                      RIVAS LUNA GINA                C          35.00
+044180           SAN  SAN  11/10/2021 15:37  V                      PE;A DE COLLPA MARIA           C          10.00
+044181           SAN  SAN  11/10/2021 15:42  V                      VALENZUELA RIOS MAURA          C           3.00
+044182           SAN  SAN  11/10/2021 15:58  V                      GAMARRA GARRO ELISEO           C          55.00
+044183           SAN  SAN  11/10/2021 15:59  V                      AGUERO ZAMUDIO MAXIMO          C          35.00
+044184           SAN  SAN  11/10/2021 16:02  V                      CASTILLO COLLANTES             C          20.00
+044185           SAN  SAN  11/10/2021 16:13  V                      RIVAS LUNA GINA                C          60.00
+044186           SAN  SAN  11/10/2021 16:15  V                      FLORES CALDERON ALESSANDRO     C          35.00
+044187           SAN  SAN  11/10/2021 16:26  V                      MOGOLLON RIVERA JUAN           C         232.00
+044188           SAN  SAN  11/10/2021 16:28  V                      RAMOS HUAMAN VICTOR            C          35.00
+044189           SAN  SAN  11/10/2021 16:30  V                      REYES ACU;A PASCUAL            C          62.00
+044190           SAN  SAN  11/10/2021 16:32  V                      LASTRES GONZALES LIDIA         C          35.00
+044191           SAN  SAN  11/10/2021 16:35  V                      ARQUINIGO DE CRISOL GRACIELA   C          15.00
+044192           SAN  SAN  11/10/2021 16:41  V                      MONTOYA HUAMAN                 C          63.00
+044193           SAN  SAN  11/10/2021 16:45  V                      MERCEDES CACHA JUANA           C          19.00
+044194           SAN  SAN  11/10/2021 16:47  V                      MERCEDES CACHA JUANA           C          61.00
+044195           SAN  SAN  11/10/2021 16:50  V                      YOCHAVEL CRISOL                C          90.00
+044196           SAN  SAN  11/10/2021 16:54  V                      BLAS REYES CRUZ SOLEDAD        C         203.00
+044197           SAN  SAN  11/10/2021 16:57  V                      SILVA GONZALES                 C         146.00
+044198           SAN  SAN  11/10/2021 16:58  V                      BLAS REYES CRUZ                C          30.00
+044199           SAN  SAN  11/10/2021 17:03  V                      VALENCIA GASPAR MAXIMINA       C          85.00
+044200           SAN  SAN  11/10/2021 17:06  V                      VALENCIA GASPAR MAXIMINA       C          34.00
+044201           SAN  SAN  11/10/2021 17:09  V                      DEXTRE SANCHEZ JAMILETH        C          35.00
+044202           SAN  SAN  11/10/2021 17:10  V                      DEXTRE SANCHEZ KALESSY         C          35.00
+044203           SAN  SAN  11/10/2021 17:12  V                      ABANTO AZA;ERO ROSA            C          35.00
+044204           SAN  SAN  11/10/2021 17:13  V                      ESPINOZA LEON CARLOS           C          35.00
+044205           SAN  SAN  11/10/2021 17:27  V                      SELAYA SOLIS CERAFINA          C           1.50
+044206           SAN  SAN  11/10/2021 17:29  V                      KARINA                         C           9.00
+044207           SAN  SAN  11/10/2021 17:32  V                      CAYETANO QUISPE                C          20.00
+044208           SAN  SAN  11/10/2021 17:39  V                      CAVERO LOPEZ GLORIA            C          35.00
+044209           SAN  SAN  11/10/2021 17:46  V                      RAMOS HUAMAN VICTOR            C          20.00
+044210           SAN  SAN  11/10/2021 17:49  V                      ARQUINIGO DE CRISOL            C          90.00
+044211           SAN  SAN  11/10/2021 17:50  V                      ARQUINIGO DE CRISOL            C          90.00
+044212           SAN  SAN  11/10/2021 17:54  V                      BERNARDO ROMERO EMILIA         C          35.00
+044213           SAN  SAN  11/10/2021 17:59  V                      LASTRES GONZALES NIDIA         C          38.50
+044214           SAN  SAN  11/10/2021 18:01  V                      LEON PINEDA RODRIGO            C          35.00
+044215           SAN  SAN  11/10/2021 18:13  V                      ABANTO AZA;ERO ROSA            C          25.00
+044216           SAN  SAN  11/10/2021 18:16  V                      ABANTO AZA;ERO ROSA            C          53.00
+044217           SAN  SAN  11/10/2021 18:37  V                      MEJIA OYOLA FLOR               C          35.00
+044218           SAN  SAN  11/10/2021 18:46  V                      MEJIA                          C           0.50
+044219           SAN  SAN  11/10/2021 18:47  V                      VENTOCILLA PIO LUZ             C         154.50
+044220           SAN  SAN  11/10/2021 18:48  V                      VENTOCILLA PIO LUZ             C          76.00
+044221           SAN  SAN  11/10/2021 18:55  V                      ESPINOZA LEON CARLOS           C          45.00
+044222           SAN  SAN  11/10/2021 18:56  V                      ESPINOZA LEON CARLOS           C          90.00
+044223           SAN  SAN  11/10/2021 18:58  V                      CARRERA OLIVARES ALEJANDRO     C          35.00
+044224           SAN  SAN  11/10/2021 19:14  V                      VENTOCILLA PIO LUZ             C          35.00
+044225           SAN  SAN  11/10/2021 19:37  V                      HUAYANE ORTIZ JACINTO          C          35.00
+044226           SAN  SAN  11/10/2021 19:42  V                      INGAROCA GERONIMO              C         116.50
+044227           SAN  SAN  11/10/2021 19:45  V                      INGAROCA GERONIMO              C          60.00
+044228           SAN  SAN  11/10/2021 19:58  V                      CARRERA OLIVARES ALEJANDRO     C          61.50
+044229           SAN  SAN  11/10/2021 20:00  V                      CARRERA OLIVARES ALEJANDRO     C           3.00
+044230           SAN  SAN  11/10/2021 20:11  V                      MEJIA OYOLA FLOR               C          45.00
+044231           SAN  SAN  11/10/2021 20:30  V                      ABANTO AZA;ERO ROSA            C          45.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:14
+PRT102()                                                                                                                Pag.-   14
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044232           SAN  SAN  11/10/2021 20:38  V                      HUAYANE ORTIZ JACINTO          C          55.00
+044233           MAR  MAR  12/10/2021 08:12  V                      VALENZUELA RIOS MAURA          C         208.00
+044234           MAR  MAR  12/10/2021 08:16  V                      PANDO NAVARRO MARIO            C          50.00
+044235           MAR  MAR  12/10/2021 08:21  V                      CADENAS GAVINO DAYSI           C          35.00
+044236           MAR  MAR  12/10/2021 08:30  V                      SALVADOR CORAL EVERARDO NECLER C         336.00
+044237           MAR  MAR  12/10/2021 08:33  V                      INGAROCA GERONIMO LUIS FRANCIS C          35.00
+044238           MAR  MAR  12/10/2021 08:43  V                      PABLO ALVA NAZARIO             C         115.00
+044239           MAR  MAR  12/10/2021 08:46  V                      CARRERA OLIVARES AJELANDRO     C         118.00
+044240           MAR  MAR  12/10/2021 08:51  V                      IMAN TORRES JUAN ALBERTO       C          50.00
+044241           MAR  MAR  12/10/2021 08:54  V                      RIOS BETETA CLORINDA           C          50.00
+044242           MAR  MAR  12/10/2021 08:57  V                      PABLO ALVA NAZARIO             C          49.00
+044243           MAR  MAR  12/10/2021 09:03  V                      SANCHEZ ROJAS JACINTO          C          35.00
+044244           MAR  MAR  12/10/2021 09:15  V                      BONIFACIO FELICES FRANCO VALEN C          16.50
+044245           MAR  MAR  12/10/2021 09:20  V                      ANGELES LAYNES HILDA           C         139.50
+044246           MAR  MAR  12/10/2021 09:32  V                      GOMERO PICON OLIMPIO           C          35.00
+044247           MAR  MAR  12/10/2021 09:34  V                      MEDRANO GUERRERO MARCOS        C          95.00
+044248           MAR  MAR  12/10/2021 09:42  V                      VENTA ANULADA                  C           0.00
+044249           MAR  MAR  12/10/2021 09:45  V                      BONILLA RODRIGUEZ GLORIA       C          40.00
+044250           MAR  MAR  12/10/2021 09:49  V                      BONILLA RODRIGUEZ GLORIA       C          35.00
+044251           MAR  MAR  12/10/2021 09:52  V                      SALINAS LARIANCO PILAR         C          35.00
+044252           MAR  MAR  12/10/2021 09:56  V                      MATA DE CUSQUI DOMINGA         C          35.00
+044253           MAR  MAR  12/10/2021 10:07  V                      JULCA CRUZ SABINA              C          75.00
+044254           MAR  MAR  12/10/2021 10:26  V                      ALOR ZABALETA JUAN DAVID       C          35.00
+044255           MAR  MAR  12/10/2021 10:42  V                      JULCA CRUZ SABINA              C          35.00
+044256           MAR  MAR  12/10/2021 10:47  V                      SALINAS LARIANCO PILAR         C           0.01
+044257           MAR  MAR  12/10/2021 10:48  V                      VILLANUEVA LOPEZ NICODEMO      C           0.01
+044258           MAR  MAR  12/10/2021 11:02  V                      MONTOYA HUAMAN                 C          60.00
+044259           MAR  MAR  12/10/2021 11:08  V                                                     C           4.00
+044260           MAR  MAR  12/10/2021 11:17  V                      VENTOCILLA PIO ESTANISLADA MAG C          35.00
+044261           MAR  MAR  12/10/2021 11:28  V                      ARRIVASPLATA LEA;O DIANA ELIZA C           0.01
+044262           MAR  MAR  12/10/2021 11:29  V                      FARFAN VALLEJOS KLIDER         C           0.01
+044263           MAR  MAR  12/10/2021 11:55  V                      ROBLES DE PAZ                  C          15.00
+044264           MAR  MAR  12/10/2021 12:05  V                      TRUJILLO ZELAYA RUTH JUSTINA   C          10.00
+044265           MAR  MAR  12/10/2021 13:10  V                      ZELAYA SOLIS SERAFINA          C          35.00
+044266           MAR  MAR  12/10/2021 13:32  V                      RIVERA MONZON EDILBERTO        C          49.00
+044267           SAN  SAN  12/10/2021 14:15  V                      VALENCIA GASPAR MAXIMINA       C          20.00
+044268           SAN  SAN  12/10/2021 14:36  V                      PE;A DE COLLPA MARIA           C          35.00
+044269           SAN  SAN  12/10/2021 14:55  V                      CAURINO SIFUENTES HELLEN       C         250.00
+044270           SAN  SAN  12/10/2021 15:02  V                      LLANQUE PE;A PAULINO           C          15.00
+044271           SAN  SAN  12/10/2021 15:04  V                      LLANQUE PE;A PAULINO           C          22.80
+044272           SAN  SAN  12/10/2021 15:06  V                      SILVA DAMIAN CARLOS            C          10.00
+044273           SAN  SAN  12/10/2021 15:13  V                      CHUMBES GRADOS NOEMI           C          25.00
+044274           SAN  SAN  12/10/2021 15:20  V                      LLANQUE PE;A PAULINO           C          35.00
+044275           SAN  SAN  12/10/2021 15:34  V                      SALINAS LARIANCO PILAR         C         276.00
+044276           SAN  SAN  12/10/2021 15:42  V                      PE;A DE COLLPA MARIA           C          15.00
+044277           SAN  SAN  12/10/2021 15:50  V                      KAQUI UGALDE EIDER             C          35.00
+044278           SAN  SAN  12/10/2021 15:53  V                      VEGA SALAZAR YACO              C          35.00
+044279           SAN  SAN  12/10/2021 15:53  V                      VEGA SALAZAR JEANPOOL          C          35.00
+044280           SAN  SAN  12/10/2021 15:58  V                      SANCHEZ ROJAS JACINTO          C         105.00
+044281           SAN  SAN  12/10/2021 15:58  V                      SANCHEZ ROJAS JACINTO          C          65.00
+044282           SAN  SAN  12/10/2021 16:04  V                                                     C         174.00
+044283           SAN  SAN  12/10/2021 16:06  V                      REYES ACU;A PASCUAL            C          35.00
+044284           SAN  SAN  12/10/2021 16:08  V                      MEDINA TIRADO ELI              C          35.00
+044285           SAN  SAN  12/10/2021 16:09  V                      DIAZ DESPOSORIO JOSE           C          35.00
+044286           SAN  SAN  12/10/2021 16:16  V                      TIRADO CHAVEZ EDELMA           C          20.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:14
+PRT102()                                                                                                                Pag.-   15
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044287           SAN  SAN  12/10/2021 16:33  V                      CADENAS GAVINO DAYSI           C          10.00
+044288           SAN  SAN  12/10/2021 16:35  V                      VALERIO MARTINEZ FRANCISCA     C          35.00
+044289           SAN  SAN  12/10/2021 16:39  V                      CAVERO LOPEZ GLORIA            C          40.00
+044290           SAN  SAN  12/10/2021 16:55  V                      SANCHEZ ROJAS JACINTO          C          13.50
+044291           SAN  SAN  12/10/2021 16:56  V                      KAQUI                          C           3.00
+044292           SAN  SAN  12/10/2021 16:59  V                      CADENAS GAVINO DAYSI           C           1.50
+044293           SAN  SAN  12/10/2021 17:01  V                      VEGA SALAZAR YACO              C          53.00
+044294           SAN  SAN  12/10/2021 17:02  V                      VEGA SALAZAR JEANPOOL          C          41.00
+044295           SAN  SAN  12/10/2021 17:05  V                      VEGA SALAZAR JEANPOOL          C           7.00
+044296           SAN  SAN  12/10/2021 17:11  V                      MEDINA TIRADO ELI              C          28.00
+044297           SAN  SAN  12/10/2021 17:21  V                      ESCOBAR SALAZAR JORGE          C          35.00
+044298           SAN  SAN  12/10/2021 17:32  V                      GUTIERREZ ASENCIO SAMMY        C          35.00
+044299           SAN  SAN  12/10/2021 17:33  V                      BAZAN                          C          50.00
+044300           SAN  SAN  12/10/2021 17:40  V                      JARA LOPEZ DANNY               C          25.00
+044301           SAN  SAN  12/10/2021 17:41  V                      JARA LOPEZ MARDOQEO            C          25.00
+044302           SAN  SAN  12/10/2021 17:44  V                      REYES ACU;A PASCUAL            C         100.00
+044303           SAN  SAN  12/10/2021 17:48  V                      CASTILLO ALVAREZ MARGARITA     C          35.00
+044304           SAN  SAN  12/10/2021 17:50  V                      CORDOVA JIMENEZ ELIF           C          35.00
+044305           SAN  SAN  12/10/2021 17:51  V                      ESCOBAR SALAZAR                C          10.00
+044306           SAN  SAN  12/10/2021 17:52  V                      CASTRO HORNA ABRAHAM           C          35.00
+044307           SAN  SAN  12/10/2021 17:53  V                      SANCHEZ RODRIGUEZ SHIRLEY      C          35.00
+044308           SAN  SAN  12/10/2021 17:57  V                      JULCA CRUZ SABINA              C         185.00
+044309           SAN  SAN  12/10/2021 18:07  V                      MATA DE CUZQUI DOMINGA         C          46.50
+044310           SAN  SAN  12/10/2021 18:09  V                      MATA DE CUZQUI                 C           3.00
+044311           SAN  SAN  12/10/2021 18:21  V                      SANCHEZ ROJAS JACINTO          C         760.00
+044312           SAN  SAN  12/10/2021 18:27  V                      VENTA ANULADA                  C           0.00
+044313           SAN  SAN  12/10/2021 18:28  V                      MATEO GARCIA GABRIEL           C          35.00
+044314           SAN  SAN  12/10/2021 18:30  V                      CARLOS ORTEGA ANGHELO          C          35.00
+044315           SAN  SAN  12/10/2021 18:34  V                      DIAZ DESPOSORIO                C           3.00
+044316           SAN  SAN  12/10/2021 18:45  V                      ESCOBAR SALAZAR JORGE          C          61.50
+044317           SAN  SAN  12/10/2021 18:47  V                      MATEO GARCIA GABRIEL           C          10.00
+044318           SAN  SAN  12/10/2021 18:55  V                      ESCOBAR SALAZAR                C           1.00
+044319           SAN  SAN  12/10/2021 19:01  V                      SANCHEZ RODRIGUEZ SHIRLEY      C          49.00
+044320           SAN  SAN  12/10/2021 19:16  V                      VENTOCILLA PIO                 C          45.00
+044321           SAN  SAN  12/10/2021 19:24  V                      VENTOCILLA PIO ESTANISLADA     C         313.00
+044322           SAN  SAN  12/10/2021 19:34  V                      GUTIERREZ ASENCIOS SAMMY       C          36.00
+044323           SAN  SAN  12/10/2021 19:41  V                      VEGA SALAZAR JEANPOOL          C          65.20
+044324           SAN  SAN  12/10/2021 19:49  V                      DEXTRE SANCHEZ KALESSY         C         156.00
+044325           SAN  SAN  12/10/2021 19:54  V                      CASTRO HORNA ABRAHAM           C          83.00
+044326           SAN  SAN  12/10/2021 20:03  V                      CASTILLO ALVAREZ MARGARITA     C          19.00
+044327           SAN  SAN  12/10/2021 20:38  V                      MATEO GARCIA GABRIEL           C          56.50
+044328           SAN  SAN  12/10/2021 20:53  V                      MATEO GARCIA GABRIEL           C           3.00
+044329           MAR  MAR  13/10/2021 08:05  V                      VALDEZ ROSALES BALVINA         C          55.00
+044330           MAR  MAR  13/10/2021 08:10  V                      CUSQUI VARA MARIANO            C          35.00
+044331           MAR  MAR  13/10/2021 08:15  V                      MATA DE CUSQUI DOMINGA         C         273.00
+044332           MAR  MAR  13/10/2021 08:18  V                      CADENAS GAVINO DEYSI           C          13.00
+044333           MAR  MAR  13/10/2021 08:23  V                      MATA DE CUSQUI DOMINGA         C          35.00
+044334           MAR  MAR  13/10/2021 08:31  V                      BERROSPI ROMERO WALTER         C         140.00
+044335           MAR  MAR  13/10/2021 08:32  V                      CALERO ZU;IGA CRISTOPHER       C          30.00
+044336           MAR  MAR  13/10/2021 08:33  V                      JARA ORTEGA HERMINIA           C          30.00
+044337           MAR  MAR  13/10/2021 08:36  V                      JARA ORTEGA HERMINIA           C          30.00
+044338           MAR  MAR  13/10/2021 08:36  V                      SANCHEZ NU;EZ ASTGERIA         C          35.00
+044339           MAR  MAR  13/10/2021 10:47  V                      ESPINOZA LARIANCO PILAR        C          35.00
+044340           MAR  MAR  13/10/2021 10:49  V                      TOLEDO OBREGON RUBELINDA       C         100.00
+044341           MAR  MAR  13/10/2021 10:51  V                      ESCOBAR SALAZAR JORGE          C          73.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:15
+PRT102()                                                                                                                Pag.-   16
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044342           MAR  MAR  13/10/2021 10:51  V                      ESCOBAR SALAZAR JORGE          C          90.00
+044343           MAR  MAR  13/10/2021 10:53  V                      ESCOBAR SALAZAR JORGE          C          35.00
+044344           MAR  MAR  13/10/2021 10:54  V                      VENTOCILLA PIO MAGDA           C          35.00
+044345           MAR  MAR  13/10/2021 10:56  V                      RIQUELME PIMENTEL CESAR        C          35.00
+044346           MAR  MAR  13/10/2021 10:56  V                      MARTINEZ                       C          90.60
+044347           MAR  MAR  13/10/2021 10:57  V                      BALTAZAR YANAC MARCIANO        C          35.00
+044348           MAR  MAR  13/10/2021 10:58  V                      ARELLANO RAMIREZ HERLINDA      C         100.00
+044349           MAR  MAR  13/10/2021 11:03  V                      MU;OZ ALCANTARA GILBERTO       C          40.00
+044350           MAR  MAR  13/10/2021 11:07  V                      DIAZ DESPOSORIO JOSE           C          30.00
+044351           MAR  MAR  13/10/2021 11:09  V                      ESPINOZA MAGUI;A NERIDA        C          35.00
+044352           MAR  MAR  13/10/2021 11:09  V                      TORIBIO PEREZ CONVERSION       C         180.00
+044353           MAR  MAR  13/10/2021 11:14  V                      DIAZ DESPOSORIO JOSE           C          35.00
+044354           MAR  MAR  13/10/2021 11:15  V                      JARA MONTALVO JOSE RICARDO     C          25.00
+044355           MAR  MAR  13/10/2021 11:24  V                      CASTRO HORNA ABRAHAM           C          95.00
+044356           MAR  MAR  13/10/2021 11:25  V                      VILLANUEVA NONATO ELMER        C         100.00
+044357           MAR  MAR  13/10/2021 11:30  V                      DIAZ DESPOSORIO JOSE           C         118.00
+044358           MAR  MAR  13/10/2021 11:31  V                      RAMOS DE BALTAZAR ELIZA        C         100.00
+044359           MAR  MAR  13/10/2021 11:32  V                      MATEO GARCIA GABRIEL           C         290.00
+044360           MAR  MAR  13/10/2021 11:33  V                      TORIBIO ABANTO MARISOL         C          13.00
+044361           MAR  MAR  13/10/2021 11:34  V                      BAZAN CARRANZA YOLVER          C          25.00
+044362           MAR  MAR  13/10/2021 11:35  V                      MU;OZ SAAVEDRA YENNY PAOLA     C          40.00
+044363           MAR  MAR  13/10/2021 12:37  V                      ROBLES DE PAZ                  C          15.00
+044364           MAR  MAR  13/10/2021 13:31  V                      TRUJILLO VILLARREAL ANA        C          65.00
+044365           MAR  MAR  13/10/2021 14:07  V                      CASTILLO ALVAREZ MARGARITA     C          65.00
+044366           MAR  MAR  13/10/2021 14:07  V                      CASTILLO ALVAREZ MARGARITA     C          35.00
+044367           MAR  MAR  13/10/2021 14:08  V                      DAMASO ALVAEZ CINTHIA          C          35.00
+044368           SAN  SAN  13/10/2021 14:47  V                      VEGA TARAZONA JULIA            C          35.00
+044369           SAN  SAN  13/10/2021 15:02  V                      GUTIERREZ ASENCIO SAMMY        C          58.00
+044370           SAN  SAN  13/10/2021 15:03  V                      GUTIERREZ ASENCIO FRANCO       C          58.00
+044371           SAN  SAN  13/10/2021 15:14  V                      AZABACHE CHUMBES ROMULO        C          20.00
+044372           SAN  SAN  13/10/2021 15:18  V                      NIETO ESPINOZA VITALIANA       C          90.00
+044373           SAN  SAN  13/10/2021 15:34  V                      SERRANO SANDOVAL RODRIGO       C          50.00
+044374           SAN  SAN  13/10/2021 16:03  V                      SALINAS LARIANCO PILAR         C          28.50
+044375           SAN  SAN  13/10/2021 16:11  V                      GUARDIA BRAVO VICTORIA         C          35.00
+044376           SAN  SAN  13/10/2021 16:17  V                      SANCHEZ NU;EZ ASTERIA          C          31.00
+044377           SAN  SAN  13/10/2021 16:19  V                      VALENCIA GASPAR MAXIMINA       C          20.00
+044378           SAN  SAN  13/10/2021 16:24  V                      PE;A BERNALDO AVELINDA         C          35.00
+044379           SAN  SAN  13/10/2021 16:28  V                      DAMAZO ALVAREZ CINTHIA         C          22.50
+044380           SAN  SAN  13/10/2021 16:31  V                      CASTILLO ALVAREZ MARGARITA     C          19.00
+044381           SAN  SAN  13/10/2021 16:36  V                      LEON PINEDA RODRIGO            C          50.00
+044382           SAN  SAN  13/10/2021 16:37  V                      VEGA TARAZONA JULIA            C         150.00
+044383           SAN  SAN  13/10/2021 16:39  V                      CARRERA OLIVARES ALEJANDRO     C          35.00
+044384           SAN  SAN  13/10/2021 16:53  V                      JULCA CRUZ SABINA              C          61.00
+044385           SAN  SAN  13/10/2021 16:58  V                      KOJIMA AMAYA BRIANA            C           3.00
+044386           SAN  SAN  13/10/2021 17:02  V                      ALOR ZAVALETA JUAN             C           3.00
+044387           SAN  SAN  13/10/2021 17:07  V                      BONIFACIO FELICES FRANCO       C          35.00
+044388           SAN  SAN  13/10/2021 17:16  V                      MATA DE CUSQUI DOMINGA         C         104.50
+044389           SAN  SAN  13/10/2021 17:18  V                      ACOSTA GRANDEZ LIA             C          50.00
+044390           SAN  SAN  13/10/2021 17:20  V                      CUZQUI VARA MARIANO            C         135.00
+044391           SAN  SAN  13/10/2021 17:24  V                      CUZQUI VARA                    C           1.50
+044392           SAN  SAN  13/10/2021 17:31  V                      CUZQUI VARA MARIANO            C          90.00
+044393           SAN  SAN  13/10/2021 17:33  V                      CUZQUI VARA MARIANO            C         223.00
+044394           SAN  SAN  13/10/2021 17:40  V                      FERRER MEJIA ROSA              C          35.00
+044395           SAN  SAN  13/10/2021 17:48  V                      GUARDIA BRAVO VICTORIA         C          19.00
+044396           SAN  SAN  13/10/2021 17:50  V                      TRUJILLO                       C         135.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:15
+PRT102()                                                                                                                Pag.-   17
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044397           SAN  SAN  13/10/2021 18:06  V                      PE;A BERNALDO AVELINDA         C          41.00
+044398           SAN  SAN  13/10/2021 18:08  V                      PE;A BERNALDO AVELINDA         C         226.00
+044399           SAN  SAN  13/10/2021 18:12  V                      LLARES LEON EDELMIRA           C          15.00
+044400           SAN  SAN  13/10/2021 18:26  V                      SALVADOR CORAL EVERARDO        C          35.00
+044401           SAN  SAN  13/10/2021 18:32  V                      VENTOCILLA PIO                 C          22.50
+044402           SAN  SAN  13/10/2021 18:33  V                      VENTOCILLA PIO ESTANISLADA     C          50.00
+044403           SAN  SAN  13/10/2021 18:39  V                      POZO MORA JUANA                C          35.00
+044404           SAN  SAN  13/10/2021 18:53  V                      ESCOBAR SALAZAR                C          10.00
+044405           SAN  SAN  13/10/2021 18:59  V                      CARRERA OLIVARES ALEJANDRO     C         117.80
+044406           SAN  SAN  13/10/2021 19:05  V                      MATEO GARCIA GABRIEL           C          35.00
+044407           SAN  SAN  13/10/2021 19:11  V                      FERRER MEJIA                   C           1.50
+044408           SAN  SAN  13/10/2021 19:19  V                      RIQUELME PIMENTEL CESAR        C          86.00
+044409           SAN  SAN  13/10/2021 19:19  V                      RIQUELME PIMENTEL CESAR        C          40.00
+044410           SAN  SAN  13/10/2021 19:49  V                      VENTA ANULADA                  C           0.00
+044411           SAN  SAN  13/10/2021 19:54  V                      ESCOBAR SALAZAR JORGE          C         122.00
+044412           SAN  SAN  13/10/2021 19:58  V                      POZO MORA JUANA                C          76.50
+044413           SAN  SAN  13/10/2021 20:37  V                      MATEO GARCIA GABRIEL           C          56.50
+044414           SAN  SAN  13/10/2021 20:50  V                      LAZARO OSORIO ANA              C          22.70
+044415           SAN  SAN  13/10/2021 20:51  V                      LAZARO OSORIO ANA              C          35.00
+044416           MAR  MAR  14/10/2021 08:05  V                      GUARDIA BRAVO                  C          19.00
+044417           MAR  MAR  14/10/2021 08:07  V                      ALOR ZAVALETA JUAN DAVID       C         273.00
+044418           MAR  MAR  14/10/2021 08:10  V                      FERRER MEJIA ROSA              C         143.00
+044419           MAR  MAR  14/10/2021 08:13  V                      FERRER MEJIA ROSA              C          35.00
+044420           MAR  MAR  14/10/2021 08:15  V                      ALOR ZAVALETA JUAN             C          65.00
+044421           MAR  MAR  14/10/2021 08:20  V                      SOSA RAMOS VILMA ROSA          C         268.00
+044422           MAR  MAR  14/10/2021 08:26  V                      SOU                            C          50.00
+044423           MAR  MAR  14/10/2021 08:26  V                      SOU                            C          50.00
+044424           MAR  MAR  14/10/2021 08:31  V                      ALOR ZAVALETA JUAN             C          57.00
+044425           MAR  MAR  14/10/2021 08:43  V                      SOLORZANO SIGUE;AS BENJA ROSOL C         152.00
+044426           MAR  MAR  14/10/2021 08:47  V                      SOLORZANO SIGUE;AS BEJAR RODOL C          35.00
+044427           MAR  MAR  14/10/2021 08:53  V                      PE;A BERNARDO ABELINA          C          35.00
+044428           MAR  MAR  14/10/2021 09:01  V                      ASENCIOS JAVIER JASMILA CRISTE C          75.00
+044429           MAR  MAR  14/10/2021 09:04  V                      ESPINOZA MAGUI;A NELIA         C         118.00
+044430           MAR  MAR  14/10/2021 09:08  V                      ESPINOZA MAGUI;A NELIA         C          35.00
+044431           MAR  MAR  14/10/2021 09:11  V                      MORALES VENTOCILLLA EUSTANIA   C         110.00
+044432           MAR  MAR  14/10/2021 09:15  V                      SANCHEZ NU;EZ ASTERIA          C          39.50
+044433           MAR  MAR  14/10/2021 09:17  V                                                     C           1.50
+044434           MAR  MAR  14/10/2021 09:21  V                      MEJIA PAUCAR EMILIA            C          49.50
+044435           MAR  MAR  14/10/2021 09:41  V                      LOPEZ SANCHEZ LIZBETH          C          35.00
+044436           MAR  MAR  14/10/2021 09:56  V                      GILMER TRUJILLO                C         375.00
+044437           MAR  MAR  14/10/2021 09:57  V                      ROBLES DE PAZ                  C          15.00
+044438           MAR  MAR  14/10/2021 10:27  V                      LEGUIA MIURA GIANFRANCO        C          49.00
+044439           MAR  MAR  14/10/2021 10:53  V                      SILVA SANTIESTEBAN GRADOS CLAU C          25.00
+044440           MAR  MAR  14/10/2021 11:44  V                      ESTUPI;AN                      C          11.40
+044441           MAR  MAR  14/10/2021 12:16  V                      VILANUEVA SERNA FANNY          C          35.00
+044442           MAR  MAR  14/10/2021 13:26  V                      SANTOS CORONEL MARIA           C          20.00
+044443           SAN  SAN  14/10/2021 14:30  V                      VALENCIA GASPAR MAXIMINA       C          20.00
+044444           SAN  SAN  14/10/2021 14:31  V                      VALENCIA GASPAR MAXIMINA       C          35.00
+044445           SAN  SAN  14/10/2021 15:00  V                      CARBAJAL ESPINOZA MARIA        C          35.00
+044446           SAN  SAN  14/10/2021 15:25  V                      EVANGELISTA MAGUI;A ARTURO     C          35.00
+044447           SAN  SAN  14/10/2021 15:44  V                      ENCARNACION VALENTIN           C           5.00
+044448           SAN  SAN  14/10/2021 15:45  V                      MONTOYA QUISPE GUIDO           C          49.00
+044449           SAN  SAN  14/10/2021 15:54  V                      ADRIANO UTRILLA                C           2.00
+044450           SAN  SAN  14/10/2021 16:05  V                      SANCHEZ ROJAS JACINTO          C           7.50
+044451           SAN  SAN  14/10/2021 16:15  V                      SANCHEZ ROJAS JACINTO          C         185.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:16
+PRT102()                                                                                                                Pag.-   18
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044452           SAN  SAN  14/10/2021 16:31  V                      CARBAJAL ESPINOZA MARIA        C          89.50
+044453           SAN  SAN  14/10/2021 16:39  V                      VILLANUEVA SERNA               C           9.50
+044454           SAN  SAN  14/10/2021 16:48  V                      EVANGELISTA MAGUI;A ARTURO     C         150.00
+044455           SAN  SAN  14/10/2021 16:50  V                      JULCA CRUZ SABINA              C          61.00
+044456           SAN  SAN  14/10/2021 16:53  V                      PASCACIO SALINAS               C           0.01
+044457           SAN  SAN  14/10/2021 16:54  V                      VILLANUEVA SERNA FANNY         C          25.00
+044458           SAN  SAN  14/10/2021 16:56  V                      LLANOS BRAVO ALEJANDRO         C          35.00
+044459           SAN  SAN  14/10/2021 16:59  V                      DIAZ BAJONERO NELLY            C          35.00
+044460           SAN  SAN  14/10/2021 17:07  V                      PAUCAR ESPINOZA JUAN           C          35.00
+044461           SAN  SAN  14/10/2021 17:27  V                      SOLORZANO SIGUE;AS             C          10.00
+044462           SAN  SAN  14/10/2021 17:29  V                      BALTAZAR YANAC MARCIANO        C         218.00
+044463           SAN  SAN  14/10/2021 17:31  V                      BALTAZAR YANAC MARCIANO        C          75.00
+044464           SAN  SAN  14/10/2021 17:33  V                      BALTAZAR YANAC MARCIANO        C          61.00
+044465           SAN  SAN  14/10/2021 17:38  V                      DIAZ BAJONERO NELLY            C         109.50
+044466           SAN  SAN  14/10/2021 17:40  V                      DIAZ BAJONERO NELLY            C          30.00
+044467           SAN  SAN  14/10/2021 17:47  V                      LLANOS BRAVO ALEJANDRO         C          96.50
+044468           SAN  SAN  14/10/2021 17:56  V                      VILLANUEVA SERNA FANNY         C          13.20
+044469           SAN  SAN  14/10/2021 18:02  V                      OBREGON TARAZONA DE ROMERO     C          35.00
+044470           SAN  SAN  14/10/2021 18:06  V                      VENTOCILLA PIO                 C          22.50
+044471           SAN  SAN  14/10/2021 18:16  V                      VENTA ANULADA                  C           0.00
+044472           SAN  SAN  14/10/2021 18:22  V                      VENTA ANULADA                  C           0.00
+044473           SAN  SAN  14/10/2021 18:26  V                      VARGAS ACU;A PABLO             C          35.00
+044474           SAN  SAN  14/10/2021 18:28  V                      CABANILLAS CADILLO             C          35.00
+044475           SAN  SAN  14/10/2021 18:30  V                      GARCIA QUINECHE ROSA           C          35.00
+044476           SAN  SAN  14/10/2021 18:34  V                                                     C         142.50
+044477           SAN  SAN  14/10/2021 18:36  V                      ESPINOZA MAGUI;A NELLY         C          41.00
+044478           SAN  SAN  14/10/2021 19:04  V                      LOPEZ FERRER MARCELINO         C          35.00
+044479           SAN  SAN  14/10/2021 19:36  V                      GARCIA QUINECHE                C          58.00
+044480           SAN  SAN  14/10/2021 20:27  V                      SANCHEZ ROJAS JACINTO          C          35.00
+044481           MAR  MAR  15/10/2021 08:05  V                      LOPEZ CABRACANCHA DIANA        C          10.00
+044482           MAR  MAR  15/10/2021 08:12  V                      GUARDIA BRAVO VICTORIA         C         330.00
+044483           MAR  MAR  15/10/2021 08:23  V                      CUSQUI VARA MARIANBO           C          35.00
+044484           MAR  MAR  15/10/2021 08:23  V                      MATA DE CUSQUI DOMINGA         C          35.00
+044485           MAR  MAR  15/10/2021 08:29  V                      JIMENEZ BAUTISTA FRANCISCO     C          59.00
+044486           MAR  MAR  15/10/2021 08:29  V                                                     C           1.50
+044487           MAR  MAR  15/10/2021 08:31  V                      JIMENEZ BAUTISTA FRANCISCO     C          35.00
+044488           MAR  MAR  15/10/2021 08:35  V                      JARA ORTEGA HERMINIA           C          30.00
+044489           MAR  MAR  15/10/2021 08:41  V                      SOLORZANO SIGUE;AS BEJA RODOLF C          65.00
+044490           MAR  MAR  15/10/2021 08:48  V                      BALTAZAR YANAC MARCIANO        C          35.00
+044491           MAR  MAR  15/10/2021 08:51  V                      BALTAZAR RAMOS IRMA            C          35.00
+044492           MAR  MAR  15/10/2021 08:54  V                      SOLORZANO SIGUE;AS BEJAR RODOL C          35.00
+044493           MAR  MAR  15/10/2021 08:56  V                      GRADOS                         C          32.00
+044494           MAR  MAR  15/10/2021 08:58  V                      MATEO GARCIA GABRIEL           C          60.00
+044495           MAR  MAR  15/10/2021 09:07  V                      HIDALGO LAURENTE ROSALINDA     C          90.00
+044496           MAR  MAR  15/10/2021 09:15  V                      ORTIZ ORTEGA YOVANA            C          70.00
+044497           MAR  MAR  15/10/2021 09:15  V                      ORTIZ ORTEGA LUIS ANIBAL       C          70.00
+044498           MAR  MAR  15/10/2021 09:19  V                      ARELLAQNO RAMIREZ HERLINDA     C          30.00
+044499           MAR  MAR  15/10/2021 09:20  V                      ANGELES LAYNES HILDA           C          35.00
+044500           MAR  MAR  15/10/2021 09:23  V                      JIMENEZ BAUTISTA FRANCISCO     C          70.00
+044501           MAR  MAR  15/10/2021 09:25  V                      MELGAREJO VILCA NAYDU          C          35.00
+044502           MAR  MAR  15/10/2021 09:33  V                      LLANOS BRAVO ALEJANDRO         C         164.50
+044503           MAR  MAR  15/10/2021 09:39  V                      LLANOS BRAVO ALEJANDRO         C          35.00
+044504           MAR  MAR  15/10/2021 09:43  V                      DIAZ BAJONERO NELLY            C         139.50
+044505           MAR  MAR  15/10/2021 09:51  V                      DAVILA ORIHUELA JESUS          C          30.00
+044506           MAR  MAR  15/10/2021 09:54  V                      DIAZ BAJONERO NELLY            C          35.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:16
+PRT102()                                                                                                                Pag.-   19
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044507           MAR  MAR  15/10/2021 09:57  V                      LLANQUE PE;A PAULINA           C          15.00
+044508           MAR  MAR  15/10/2021 09:59  V                      SANCHEZ JACINTO                C          39.00
+044509           MAR  MAR  15/10/2021 10:01  V                      MORALES VENTOCILLA EUSTANIA    C          30.00
+044510           MAR  MAR  15/10/2021 10:03  V                      RAMOS DE BALTAZAR ELIZA        C          30.00
+044511           MAR  MAR  15/10/2021 10:11  V                      PE;A BERNARDO ABELINA          C          42.50
+044512           MAR  MAR  15/10/2021 10:19  V                      PE;A CORONADO FELICIA          C          30.00
+044513           MAR  MAR  15/10/2021 10:23  V                      DIAZ DESPOSORIO JOSE           C          30.00
+044514           MAR  MAR  15/10/2021 10:24  V                      TOLEDO OBREGON RUBELINDA       C          30.00
+044515           MAR  MAR  15/10/2021 10:25  V                      BONILLA RODRIGUEZ GLORIA       C          50.00
+044516           MAR  MAR  15/10/2021 10:31  V                      PE;A JULCA MARIA ANTOLINA      C          90.00
+044517           MAR  MAR  15/10/2021 10:32  V                      BONILLA RODRIGUEZ GLORIA       C          13.00
+044518           MAR  MAR  15/10/2021 10:32  V                      BONILLA RODRIGUEZ\ GLORIA      C          35.00
+044519           MAR  MAR  15/10/2021 10:34  V                      VILLANUEVA CERNA FANNY         C          10.00
+044520           MAR  MAR  15/10/2021 10:37  V                      PAUCAR ESPINOZA JUAN CARLOS    C         191.00
+044521           MAR  MAR  15/10/2021 10:40  V                      ROBLES DE PAZ                  C          15.00
+044522           MAR  MAR  15/10/2021 11:00  V                      PE;A JULCA MARIA ANTOLINA      C          30.00
+044523           MAR  MAR  15/10/2021 11:25  V                      LUNA BAUTISTA JUAN             C          70.00
+044524           MAR  MAR  15/10/2021 11:30  V                      CASTILO ARANA DENISSE          C          25.00
+044525           MAR  MAR  15/10/2021 11:55  V                      MARTINEZ SALVADOR              C          49.00
+044526           MAR  MAR  15/10/2021 12:10  V                      PARDO ALVARADO PERFECTA        C          85.00
+044527           MAR  MAR  15/10/2021 12:26  V                      ROMERO TORIBIO MARICIELO       C          35.00
+044528           MAR  MAR  15/10/2021 12:52  V                                                     C           1.50
+044529           MAR  MAR  15/10/2021 12:54  V                      BUENO VILLANUEVA HECTOR        C          70.00
+044530           MAR  MAR  15/10/2021 14:07  V                                                     C           1.50
+044531           SAN  SAN  15/10/2021 15:05  V                      VILLANUEVA MENDOZA SANTIAGO    C          15.00
+044532           SAN  SAN  15/10/2021 15:27  V                      RAMOS SILVERIO LITA            C          35.00
+044533           SAN  SAN  15/10/2021 15:40  V                      MERCEDES CACHA JUANA           C          35.00
+044534           SAN  SAN  15/10/2021 15:55  V                      GUARDIA BRAVO                  C          19.00
+044535           SAN  SAN  15/10/2021 16:01  V                      RIOS BETETA CLORINDA           C          35.00
+044536           SAN  SAN  15/10/2021 16:04  V                      ALOR ZAVALETA JUAN             C          35.00
+044537           SAN  SAN  15/10/2021 16:07  V                      GUARDIA BRAVO                  C           4.50
+044538           SAN  SAN  15/10/2021 16:11  V                      ROMERO TORIBIO MARICIELO       C          49.00
+044539           SAN  SAN  15/10/2021 16:14  V                      DIAZ BAJONERO NELLY            C          22.50
+044540           SAN  SAN  15/10/2021 16:37  V                      MERCEDES CACHA JUANA           C         203.00
+044541           SAN  SAN  15/10/2021 16:37  V                      MERCEDES CACHA JUANA           C          90.00
+044542           SAN  SAN  15/10/2021 16:38  V                      MERCEDES CACHA JUANA           C          45.00
+044543           SAN  SAN  15/10/2021 16:41  V                      DIAZ DESPOSORIO JOSE           C           9.20
+044544           SAN  SAN  15/10/2021 16:45  V                      RAMOS SILVERIO                 C           5.00
+044545           SAN  SAN  15/10/2021 16:57  V                      ALOR ZAVALETA JUAN             C         200.00
+044546           SAN  SAN  15/10/2021 17:01  V                      ROMERO TORIBIO MARICIELO       C          58.00
+044547           SAN  SAN  15/10/2021 17:04  V                      BALTAZAR YANAC MARCIANO        C          61.00
+044548           SAN  SAN  15/10/2021 17:12  V                      FALCON MONTES WILLIAM          C          35.00
+044549           SAN  SAN  15/10/2021 17:16  V                      TRUJILLO BRONCANO GAELA        C          35.00
+044550           SAN  SAN  15/10/2021 17:21  V                      RAMOS SILVERIO JACKELINE       C          85.00
+044551           SAN  SAN  15/10/2021 17:25  V                      VENTOCILLA PIO                 C          22.50
+044552           SAN  SAN  15/10/2021 17:31  V                      VALENCIA GASPAR MAXIMINA       C          35.00
+044553           SAN  SAN  15/10/2021 17:47  V                      ESPINOZA CADILLO MONICA        C          35.00
+044554           SAN  SAN  15/10/2021 18:20  V                      VENTA ANULADA                  C           0.00
+044555           SAN  SAN  15/10/2021 18:21  V                      VARGAS ACU;A PABLO             C          70.00
+044556           SAN  SAN  15/10/2021 18:23  V                      CARRE;O DIAZ LYANA             C          35.00
+044557           SAN  SAN  15/10/2021 18:27  V                      MATEO GARCIA GABRIEL           C          35.00
+044558           SAN  SAN  15/10/2021 18:43  V                      BALTAZAR RAMOS IRMA            C          35.00
+044559           SAN  SAN  15/10/2021 18:45  V                      LLANOS BRAVO ALEJANDRO         C          20.00
+044560           SAN  SAN  15/10/2021 18:52  V                      FALCON MONTES WILLIAM          C           3.00
+044561           SAN  SAN  15/10/2021 18:54  V                      FALCON MONTES WILLIAM          C           3.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:16
+PRT102()                                                                                                                Pag.-   20
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044562           SAN  SAN  15/10/2021 18:58  V                      BALTAZAR YANAC MARCIANO        C         225.00
+044563           SAN  SAN  15/10/2021 19:00  V                      CHAVEZ VOLCOCHEA JULIO         C          35.00
+044564           SAN  SAN  15/10/2021 19:03  V                      BALTAZAR RAMOS IRMA            C         153.00
+044565           SAN  SAN  15/10/2021 19:08  V                      RAMOS BALTAZAR                 C           7.60
+044566           SAN  SAN  15/10/2021 19:10  V                      INGAROCA GERONIMO LUIS         C          57.00
+044567           SAN  SAN  15/10/2021 19:33  V                      CARRE;O DIAZ LYANA             C          33.50
+044568           SAN  SAN  15/10/2021 20:19  V                      MATEO GARCIA GABRIEL           C         110.00
+044569           MAR  MAR  16/10/2021 08:06  V                      LOPEZ CABRACANCHA DIANA        C          65.00
+044570           MAR  MAR  16/10/2021 08:15  V                      FLORES FALCON CARLOS HERNAN    C          80.00
+044571           MAR  MAR  16/10/2021 08:27  V                      CARRE;O DIAZ LYANA             C          98.00
+044572           MAR  MAR  16/10/2021 08:40  V                      ORTIZ ORTEGA YOBANA            C          35.00
+044573           MAR  MAR  16/10/2021 08:45  V                      ALVA MUNDO EDSON               C          80.00
+044574           MAR  MAR  16/10/2021 08:49  V                      CUSQUI VARA MARIAQNO           C          30.00
+044575           MAR  MAR  16/10/2021 08:51  V                                                     C           1.00
+044576           MAR  MAR  16/10/2021 08:59  V                      CUSQUI VARA MARIANO            C         210.50
+044577           MAR  MAR  16/10/2021 09:02  V                                                     C           1.00
+044578           MAR  MAR  16/10/2021 09:03  V                      GARCIA RAMIREZ JULIO           C          80.00
+044579           MAR  MAR  16/10/2021 09:21  V                      BALTAZAR IRMA                  C          35.50
+044580           MAR  MAR  16/10/2021 09:27  V                      AREVALO VILACORTA LOURDES ELEN C          50.00
+044581           MAR  MAR  16/10/2021 09:37  V                      BALTAZAR RAMOS IRMA            C          27.50
+044582           MAR  MAR  16/10/2021 09:47  V                      RAMOS BALTAZAR IRMA FLOR       C          35.00
+044583           MAR  MAR  16/10/2021 09:52  V                      CARRE;O DIAZ LILIANA           C          35.00
+044584           MAR  MAR  16/10/2021 09:55  V                      LA  ROSA SALINAS ROSA ANALY    C          10.00
+044585           MAR  MAR  16/10/2021 10:17  V                      SANCHEZ ROJAS JACINTO          C         180.00
+044586           MAR  MAR  16/10/2021 10:17  V                      SANCHEZ ROJAS JACINTO          C           4.00
+044587           MAR  MAR  16/10/2021 10:28  V                      LA ROSA SALINAS ROSA           C          35.00
+044588           MAR  MAR  16/10/2021 10:57  V                      DIANA GONZALES                 C           1.50
+044589           MAR  MAR  16/10/2021 11:16  V                      ROSSI LEIVA CECILIA            C          40.00
+044590           MAR  MAR  16/10/2021 11:31  V                      CARBAJAL ESPINOZA MARIA        C          35.00
+044591           MAR  MAR  16/10/2021 11:37  V                      PAUCAR ESPINOZA JUAN           C          35.00
+044592           MAR  MAR  16/10/2021 11:50  V                      ALCANTARA LOZANO BRITANY       C          35.00
+044593           MAR  MAR  16/10/2021 12:38  V                      JIMENEZ BAUTISTA FRANCISCO     C          90.00
+044594           MAR  MAR  16/10/2021 12:39  V                      ROBLES DE PAZ GISELA           C          35.00
+044595           MAR  MAR  16/10/2021 12:57  V                      CORDOVA ROSARIO GERALDINE      C          35.00
+044596           MAR  MAR  16/10/2021 13:04  V                      ESPINOZA CADILLO MONICA        C          55.00
+044597           MAR  MAR  16/10/2021 13:09  V                      CARBAJAL ESPINOZA MARIA        C          21.00
+044598           MAR  MAR  16/10/2021 13:19  V                                                     C           3.00
+044599           MAR  MAR  16/10/2021 13:22  V                      ROBLE DE PAZ GISELA            C          11.40
+044600           MAR  MAR  16/10/2021 13:29  V                      VENTA ANULADA                  C           0.00
+044601           MAR  MAR  16/10/2021 13:43  V                      BAZAN FONSECA DEKER            C          35.00
+044602           MAR  MAR  16/10/2021 13:52  V                      CORDOVA ROSARIO JERALDI        C          30.50
+044603           MAR  MAR  16/10/2021 13:57  V                      ARANA YOVERA NOEL GUSTAVO      C          25.00
+044604           MAR  MAR  16/10/2021 14:03  V                      LINARES TRINIDAD CARLOS        C          70.00
+044605           MAR  MAR  16/10/2021 14:07  V                      CAJALEON HUERTO NOMELIN        C          35.00
+044606           MAR  MAR  16/10/2021 14:11  V                      PADILLA SALVADOR ANDRE         C          70.00
+044607           MAR  MAR  16/10/2021 14:14  V                      LINARES TRINIDAD               C          25.00
+044608           SAN  SAN  16/10/2021 14:37  V                      NI;O HUAROMO ESTEFANI          C          35.00
+044609           SAN  SAN  16/10/2021 14:41  V                      PICON CERVANTES                C          90.00
+044610           SAN  SAN  16/10/2021 14:44  V                      HUANUCO ROJAS CLAUDIA          C          70.00
+044611           SAN  SAN  16/10/2021 14:50  V                      CAJALEON HUERTA                C           0.60
+044612           SAN  SAN  16/10/2021 14:51  V                      CAJALEON                       C           0.60
+044613           SAN  SAN  16/10/2021 14:55  V                      GUTIERREZ ASENCIOS SAMMY       C          35.00
+044614           SAN  SAN  16/10/2021 15:03  V                      VENTA ANULADA                  C           0.00
+044615           SAN  SAN  16/10/2021 15:09  V                      PE;A ANAYA PINELA              C         120.00
+044616           SAN  SAN  16/10/2021 15:11  V                      LOPEZ CABRACANCHA              C          35.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:17
+PRT102()                                                                                                                Pag.-   21
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044617           SAN  SAN  16/10/2021 15:14  V                      UGARTE BAZAN YOSHEP            C          49.00
+044618           SAN  SAN  16/10/2021 15:15  V                      PICON CERVANTES                C           3.00
+044619           SAN  SAN  16/10/2021 15:21  V                      PI;AN CALDERON LETICIA         C          35.00
+044620           SAN  SAN  16/10/2021 15:33  V                      JARA ALBINO FELIX              C          35.00
+044621           SAN  SAN  16/10/2021 15:37  V                      CAJALEON HUERTA                C          59.50
+044622           SAN  SAN  16/10/2021 15:39  V                      CAJALEON HUERTO GAMELIN        C          25.00
+044623           SAN  SAN  16/10/2021 15:43  V                      CONDE CHIRITO EDITH            C          55.00
+044624           SAN  SAN  16/10/2021 15:45  V                      AGUERO VALERIO BEATRIZ         C          15.00
+044625           SAN  SAN  16/10/2021 15:49  V                      RODRIGUEZ LEON                 C          45.00
+044626           SAN  SAN  16/10/2021 16:02  V                      MATA DE CUSQUI DOMINGA         C         125.00
+044627           SAN  SAN  16/10/2021 16:06  V                      VENTOCILLA LUCAS               C          35.00
+044628           SAN  SAN  16/10/2021 16:08  V                      LOPEZ CABRACANCHA              C          90.00
+044629           SAN  SAN  16/10/2021 16:15  V                      VENTOCILLA LUCAS               C          88.50
+044630           SAN  SAN  16/10/2021 16:16  V                      CAJALEON                       C           7.00
+044631           SAN  SAN  16/10/2021 16:18  V                      GUTIERREZ ASENCIOS SAMMY       C          54.00
+044632           SAN  SAN  16/10/2021 16:25  V                      VENTA ANULADA                  C           0.00
+044633           SAN  SAN  16/10/2021 16:42  V                      DIAZ BAJONERO NELLY            C          51.00
+044634           SAN  SAN  16/10/2021 16:43  V                      CARQUIN CHINCHAY ROLANDO       C          49.00
+044635           SAN  SAN  16/10/2021 16:46  V                      LA ROSA OROSCO ROBERTO         C         130.00
+044636           SAN  SAN  16/10/2021 16:50  V                      VALENCIA GASPAR MAXIMINA       C          31.20
+044637           SAN  SAN  16/10/2021 16:52  V                      GUTIERREZ GUERRERO MARILUZ     C          35.00
+044638           SAN  SAN  16/10/2021 17:01  V                      JARA ALBINO FELIX              C          48.00
+044639           SAN  SAN  16/10/2021 17:03  V                      JARA ALBINO FELIX              C           3.00
+044640           SAN  SAN  16/10/2021 17:12  V                      HUANUCO ROJAS                  C         123.50
+044641           SAN  SAN  16/10/2021 17:15  V                      VENTOCILLA PIO                 C          18.50
+044642           SAN  SAN  16/10/2021 17:17  V                      ABARCA TOLENTINO               C          23.00
+044643           SAN  SAN  16/10/2021 17:19  V                      FONSECA HUERTAS ELSA           C         105.00
+044644           SAN  SAN  16/10/2021 17:21  V                      BALTAZAR YANAC MARCIANO        C          61.00
+044645           SAN  SAN  16/10/2021 17:29  V                      BALTAZAR YANAC                 C          81.50
+044646           SAN  SAN  16/10/2021 17:44  V                      VENTOCILLA PIO                 C          18.50
+044647           SAN  SAN  16/10/2021 17:47  V                      NIETO SALIZ GERALD             C          35.00
+044648           SAN  SAN  16/10/2021 17:49  V                      NI;O HUAROMO ESTEFANI          C          39.50
+044649           SAN  SAN  16/10/2021 17:51  V                      NI;O HUAROMO                   C          22.80
+044650           SAN  SAN  16/10/2021 18:23  V                      VENTOCILLA LUCAS               C          41.50
+044651           SAN  SAN  16/10/2021 18:25  V                      FONSECA HUERTAS                C           1.50
+044652           SAN  SAN  16/10/2021 18:29  V                      VARGAS ACU;A PABLO             C         115.00
+044653           SAN  SAN  16/10/2021 18:33  V                      ANGELES LAYNES                 C          42.00
+044654           SAN  SAN  16/10/2021 18:37  V                      GUTIERREZ GUERRERO MARILUZ     C          80.80
+044655           SAN  SAN  16/10/2021 18:41  V                      GARCIA QUINECHE MARIA          C          10.00
+044656           SAN  SAN  16/10/2021 18:55  V                      NIETO SALIZ                    C          35.00
+044657           SAN  SAN  16/10/2021 19:06  V                      SANCHEZ ROJAS JACINTO          C         135.00
+044658           MAR  MAR  18/10/2021 08:03  V                      GAMARRA CRUZ TIMOTEO           C          35.00
+044659           MAR  MAR  18/10/2021 08:06  V                      GUTIERRES GUERRERO MARIA LUZ   C         193.00
+044660           MAR  MAR  18/10/2021 08:11  V                      SOPLAPUCO FERNANDEZ DANIELA    C          35.00
+044661           MAR  MAR  18/10/2021 08:13  V                      VENTA ANULADA                  C           0.00
+044662           MAR  MAR  18/10/2021 08:15  V                      GARCIA QUINECHE DE PRINCIPE MA C          50.00
+044663           MAR  MAR  18/10/2021 08:20  V                      CARBAJAL ESPINOZA MARIA        C          30.00
+044664           MAR  MAR  18/10/2021 08:24  V                      JARA ORTEGA HERMINIA           C          30.00
+044665           MAR  MAR  18/10/2021 08:50  V                      FONSECA HUERTA ELZA            C         168.00
+044666           MAR  MAR  18/10/2021 08:56  V                      FOSECA HUERTA                  C          15.00
+044667           MAR  MAR  18/10/2021 09:10  V                      YUPA CALDERON FLORA MARIA      C          59.00
+044668           MAR  MAR  18/10/2021 09:12  V                      YUPA CALDERON FLORA MARIA      C          35.00
+044669           MAR  MAR  18/10/2021 09:29  V                      VELA DE ROMERO ZENAIDA         C         100.00
+044670           MAR  MAR  18/10/2021 09:34  V                      FERNANDEZ BUSTAMANTE LUIS ANTO C          35.00
+044671           MAR  MAR  18/10/2021 09:42  V                      BALTAZAR RAMOS IRMA            C         102.50úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:17
+PRT102()                                                                                                                Pag.-   22
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044672           MAR  MAR  18/10/2021 09:48  V                      BALTAZAR RAMOS IRMA            C          35.50
+044673           MAR  MAR  18/10/2021 10:02  V                      MORALES VENTOCILLA EUSTANIA    C         200.00
+044674           MAR  MAR  18/10/2021 10:03  V                      FERNANDEZ BUSTAMANTE           C          20.00
+044675           MAR  MAR  18/10/2021 10:05  V                      PASION CORNELIO VICTOR ALBERTO C          20.00
+044676           MAR  MAR  18/10/2021 10:16  V                      DIAZ DESPOSORIO JUAN           C          30.00
+044677           MAR  MAR  18/10/2021 10:23  V                      CAJALEON HUERTO                C          13.50
+044678           MAR  MAR  18/10/2021 10:27  V                      BALTAZAR YANAC MARCIANO        C          15.00
+044679           MAR  MAR  18/10/2021 10:29  V                      RAMOS DE BALTAZAR ELIZA        C         100.00
+044680           MAR  MAR  18/10/2021 10:31  V                                                     C          15.00
+044681           MAR  MAR  18/10/2021 10:37  V                                                     C           3.80
+044682           MAR  MAR  18/10/2021 10:38  V                                                     C           3.80
+044683           MAR  MAR  18/10/2021 10:43  V                      TOMAS VASQUEZ PELAGIA SIMONA   C          49.00
+044684           MAR  MAR  18/10/2021 10:44  V                      PE;A CORONADO FELICIA          C          30.00
+044685           MAR  MAR  18/10/2021 10:53  V                      TOCON AREVALO BEATRIZ          C         173.00
+044686           MAR  MAR  18/10/2021 11:16  V                      FALCON MONTES WILLER           C          70.00
+044687           MAR  MAR  18/10/2021 11:27  V                      YATACO SALINAS YAMIL ALBERTO   C          66.00
+044688           MAR  MAR  18/10/2021 11:32  V                      CLEMENTE QUISPE CRISTINHA      C          90.00
+044689           MAR  MAR  18/10/2021 11:35  V                      CUSQUI VARA MARIANO            C          30.00
+044690           MAR  MAR  18/10/2021 11:48  V                      LANQUE PE;A PAULINA            C          15.00
+044691           MAR  MAR  18/10/2021 11:52  V                      CORDOVA GOMEZ FABIOLA          C          15.00
+044692           MAR  MAR  18/10/2021 12:57  V                      LOPEZ EGUIZABAL MAGALY         C          15.00
+044693           MAR  MAR  18/10/2021 13:12  V                      DIAZ CABREL HECTOR JUVENAL     C         120.00
+044694           MAR  MAR  18/10/2021 13:34  V                      SANCHEZ ROJAS JACINTO          C          35.00
+044695           MAR  MAR  18/10/2021 13:38  V                      DIAZ CABREL HECTOR             C          35.00
+044696           MAR  MAR  18/10/2021 13:54  V                      MARISOL TORIBIO                C           8.00
+044697           SAN  SAN  18/10/2021 14:18  V                      SANCHEZ ROJAS JACINTO          C          65.00
+044698           SAN  SAN  18/10/2021 14:21  V                      ARIAS RIVERA MAYUMI            C          10.00
+044699           SAN  SAN  18/10/2021 14:33  V                      OLIVER SALAS TANIA             C         105.00
+044700           SAN  SAN  18/10/2021 15:01  V                      AYALA CALDAS                   C           3.00
+044701           SAN  SAN  18/10/2021 15:07  V                      ORRILLO HERRERA WILTON         C          35.00
+044702           SAN  SAN  18/10/2021 15:10  V                      VENTOCILLA PIO ESTAND          C          35.00
+044703           SAN  SAN  18/10/2021 15:14  V                      SALINAS LARIANCO PILAR         C          35.00
+044704           SAN  SAN  18/10/2021 15:49  V                      MEDINA GONZALES JHONATAN       C          15.00
+044705           SAN  SAN  18/10/2021 15:57  V                      CHIRRE MENDOZA REMIGIA         C          35.00
+044706           SAN  SAN  18/10/2021 16:20  V                      VENTA ANULADA                  C           0.00
+044707           SAN  SAN  18/10/2021 16:21  V                      SANCHEZ ROJAS JACINTO          C         144.50
+044708           SAN  SAN  18/10/2021 16:23  V                      SANCHEZ ROJAS JACINTO          C          80.00
+044709           SAN  SAN  18/10/2021 16:30  V                      GAMARRA CRUZ TIMOTEO           C         420.00
+044710           SAN  SAN  18/10/2021 16:31  V                      GAMARRA CRUZ TIMOTEO           C         194.50
+044711           SAN  SAN  18/10/2021 16:36  V                      LOPEZ CABRACANCHA              C           5.00
+044712           SAN  SAN  18/10/2021 16:37  V                      CHIRRE MENDOZA REMIGIA         C          49.00
+044713           SAN  SAN  18/10/2021 16:39  V                      QUISPE ZU;IGA ELIAS            C          35.00
+044714           SAN  SAN  18/10/2021 16:47  V                      DIAZ DESPOSORIO JOSE           C          35.00
+044715           SAN  SAN  18/10/2021 16:49  V                      PUNTILLO VARELA JUANA          C          35.00
+044716           SAN  SAN  18/10/2021 16:59  V                      SANCHEZ ROJAS PILAR            C           1.50
+044717           SAN  SAN  18/10/2021 17:01  V                      IBARCENA ESQUIAGOLA ROSARIO    C          35.00
+044718           SAN  SAN  18/10/2021 17:07  V                      SANCHEZ ROJAS JACINTO          C         340.50
+044719           SAN  SAN  18/10/2021 17:15  V                      FERNANDEZ BUSTAMANTE LUIS      C          10.00
+044720           SAN  SAN  18/10/2021 17:21  V                      ESPINOZA POMA ANGHELO          C          35.00
+044721           SAN  SAN  18/10/2021 17:33  V                      FERNANDEZ BUSTAMANTE LUIS      C          63.00
+044722           SAN  SAN  18/10/2021 17:46  V                      CANCHA MILLA ROMEL             C          25.00
+044723           SAN  SAN  18/10/2021 18:01  V                      IBARCENA ESQUIAGOLA            C          45.00
+044724           SAN  SAN  18/10/2021 18:07  V                      CHIRRE MENDOZA REMIGIA         C         105.00
+044725           SAN  SAN  18/10/2021 18:08  V                      CHIRRE MENDOZA REMIGIA         C          65.00
+044726           SAN  SAN  18/10/2021 18:21  V                      MATA DE CUSQUI DOMINGA         C           7.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:18
+PRT102()                                                                                                                Pag.-   23
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044727           SAN  SAN  18/10/2021 18:24  V                      VALENCIA GASPAR MAXIMINA       C          20.00
+044728           SAN  SAN  18/10/2021 18:31  V                      QUISPE ZU;IGA ELIAS            C         161.00
+044729           SAN  SAN  18/10/2021 18:34  V                      MARISOL                        C           8.00
+044730           SAN  SAN  18/10/2021 18:35  V                      QUISPE ZU;IGA ELIAS            C          58.00
+044731           SAN  SAN  18/10/2021 18:38  V                      VARGAS ACU;A PABLO             C          25.00
+044732           SAN  SAN  18/10/2021 18:43  V                      BALTAZAR YANAC MARCIANO        C          42.50
+044733           SAN  SAN  18/10/2021 18:50  V                      ESPINOZA POMA                  C          50.00
+044734           SAN  SAN  18/10/2021 18:53  V                      MEJIA OYOLA FLOR               C          35.00
+044735           SAN  SAN  18/10/2021 18:56  V                      ORRILLO HERRERA WILTON         C          10.00
+044736           SAN  SAN  18/10/2021 19:04  V                      VENTA ANULADA                  C           0.00
+044737           SAN  SAN  18/10/2021 19:10  V                      DIAZ ROJAS AUGUSTO             C          39.50
+044738           SAN  SAN  18/10/2021 19:26  V                      CALZADO ANDRADE CRISTIAN       C          35.00
+044739           SAN  SAN  18/10/2021 19:38  V                      CHIRRE MENDOZA                 C          57.00
+044740           SAN  SAN  18/10/2021 19:54  V                      CALZADO ANDRADE                C         193.00
+044741           MAR  MAR  19/10/2021 08:07  V                      HUERTA JULCA MARIBEL           C         140.00
+044742           MAR  MAR  19/10/2021 08:15  V                      VERANO RIVERA JUAN JOSE        C         120.00
+044743           MAR  MAR  19/10/2021 08:19  V                      ROMERO MANRIQUE CARLOS         C          40.00
+044744           MAR  MAR  19/10/2021 08:21  V                      ROMERO MANRIQUE CARLOS         C          35.00
+044745           MAR  MAR  19/10/2021 08:24  V                      VENTA ANULADA                  C           0.00
+044746           MAR  MAR  19/10/2021 08:27  V                      GIRALDO VEGA JUAN CARLOS       C          90.00
+044747           MAR  MAR  19/10/2021 08:54  V                      VENTA ANULADA                  C           0.00
+044748           MAR  MAR  19/10/2021 08:57  V                      LEA;O GO;E SEBASTIANA          C          35.00
+044749           MAR  MAR  19/10/2021 09:02  V                      GONZALES ROJAS JUANA           C         155.00
+044750           MAR  MAR  19/10/2021 09:18  V                      MARCOS MARQUEZ NORMA           C          35.00
+044751           MAR  MAR  19/10/2021 09:25  V                      FERNANDEZ BUSTAMANTE           C           1.00
+044752           MAR  MAR  19/10/2021 09:27  V                      VENTA ANULADA                  C           0.00
+044753           MAR  MAR  19/10/2021 09:30  V                      ORILLO HERRERA WILLTON         C          56.50
+044754           MAR  MAR  19/10/2021 09:30  V                      ORILLO HERRERA WILLTON         C          65.00
+044755           MAR  MAR  19/10/2021 09:48  V                      LEA;O GO;E EUTENIA SEBASTIANA  C         249.50
+044756           MAR  MAR  19/10/2021 09:49  V                      ORILLO HERRERA WILLTON         C          35.00
+044757           MAR  MAR  19/10/2021 10:03  V                      VEGA FLORENTINO                C          16.00
+044758           MAR  MAR  19/10/2021 10:05  V                      BARRANECHEA TADEO CASIMIRA     C          10.00
+044759           MAR  MAR  19/10/2021 10:09  V                      SOPLAPUCO FERNANDEZ DANIELA    C          75.00
+044760           MAR  MAR  19/10/2021 10:11  V                      SOPLAPUCO FERNANDEZ DANIELA    C          59.50
+044761           MAR  MAR  19/10/2021 10:24  V                      CALERO ORTEGA JOHN             C          49.00
+044762           MAR  MAR  19/10/2021 10:27  V                      PAJUELO ACU;A MARIO            C           0.01
+044763           MAR  MAR  19/10/2021 10:44  V                      SOPLAPUCO FERNANDEZ            C          28.00
+044764           MAR  MAR  19/10/2021 10:54  V                      CAURINO SIFUENTES HELLEN SARAY C          25.00
+044765           MAR  MAR  19/10/2021 11:09  V                      GAMARRA CALIXTO JIMMY SMITH    C          50.00
+044766           MAR  MAR  19/10/2021 11:11  V                      OLIVER SALAS TANIA             C          35.00
+044767           MAR  MAR  19/10/2021 11:15  V                      SERNA RIVERA GLADYS            C          75.00
+044768           MAR  MAR  19/10/2021 11:52  V                      OLIVER SALAS                   C          57.00
+044769           MAR  MAR  19/10/2021 12:22  V                      RIVERA MONZAON EDILBERTO]      C          49.00
+044770           MAR  MAR  19/10/2021 13:40  V                      ALEJO DE LA CRUZ CRISPIN       C          35.00
+044771           MAR  MAR  19/10/2021 13:48  V                      SANCHEZ NU;EZ SEDILA           C          65.00
+044772           MAR  MAR  19/10/2021 13:50  V                      SANCHEZ NU;EZ SEDILA           C          35.00
+044773           SAN  SAN  19/10/2021 14:17  V                      DURAN GARCIA MARIA             C          35.00
+044774           SAN  SAN  19/10/2021 14:35  V                      PALOMARES MEJIA CLAUDIA        C          35.00
+044775           SAN  SAN  19/10/2021 15:32  V                      PARDO TIMO ANTONIO             C          35.00
+044776           SAN  SAN  19/10/2021 15:49  V                      SALVADOR LOPEZ CARMEN          C          35.00
+044777           SAN  SAN  19/10/2021 15:55  V                      GUARDIA BRAVO VICTORIA         C          35.00
+044778           SAN  SAN  19/10/2021 15:58  V                      SANCHEZ NU;EZ                  C          25.00
+044779           SAN  SAN  19/10/2021 16:02  V                      SANCHEZ NU;EZ CIRILA           C           3.00
+044780           SAN  SAN  19/10/2021 16:04  V                      CASTILLO ALVAREZ MARGARITA     C          35.00
+044781           SAN  SAN  19/10/2021 16:06  V                      GAMARRA CRUZ TIMOTEO           C          35.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:18
+PRT102()                                                                                                                Pag.-   24
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044782           SAN  SAN  19/10/2021 16:22  V                      BRAVO CERVANTES LISBETH        C           0.01
+044783           SAN  SAN  19/10/2021 16:24  V                      CHIRRE MENDOZA                 C          10.00
+044784           SAN  SAN  19/10/2021 16:25  V                      ESPINOZA POMA ANGHELO          C          40.00
+044785           SAN  SAN  19/10/2021 16:27  V                      SOPLAPUCO FERNANDEZ            C         132.50
+044786           SAN  SAN  19/10/2021 16:28  V                      SOPLAPUCO FERNANDEZ            C         100.00
+044787           SAN  SAN  19/10/2021 16:47  V                      GUARDIA BRAVO VICTORIA         C          34.50
+044788           SAN  SAN  19/10/2021 16:50  V                      MEDINA GONZALES JHONATAN       C          35.00
+044789           SAN  SAN  19/10/2021 16:54  V                      PALOMARES MEJIA CLAUDIA        C          53.00
+044790           SAN  SAN  19/10/2021 16:56  V                      ESPINOZA PARDO WILLINTONG      C          90.00
+044791           SAN  SAN  19/10/2021 16:57  V                      ESPINOZA PARDO WILLINTONG      C          35.00
+044792           SAN  SAN  19/10/2021 17:04  V                      PARDO TIMO ANTONIO             C          86.00
+044793           SAN  SAN  19/10/2021 17:07  V                      PARDO TIMO ANTONIO             C         150.00
+044794           SAN  SAN  19/10/2021 17:07  V                      PARDO TIMO ANTONIO             C          25.00
+044795           SAN  SAN  19/10/2021 17:10  V                      MELGAREJO PACHECO SAMIR        C          35.00
+044796           SAN  SAN  19/10/2021 17:14  V                      MOYA HUAYTAN YAQUELINE         C          35.00
+044797           SAN  SAN  19/10/2021 17:18  V                      ALEJOS DE LA CRUZ              C           3.00
+044798           SAN  SAN  19/10/2021 17:21  V                      DIAZ DESPOSORIO                C          16.00
+044799           SAN  SAN  19/10/2021 17:47  V                      GAMARRA CRUZ TIMOTEO           C           2.50
+044800           SAN  SAN  19/10/2021 17:48  V                      GAMARRA CRUZ TIMOTEO           C          75.00
+044801           SAN  SAN  19/10/2021 18:09  V                      CASTILLO ALVAREZ MARGARITA     C         105.00
+044802           SAN  SAN  19/10/2021 18:13  V                      ESPINOZA PARDO WILLINGTON      C          27.00
+044803           SAN  SAN  19/10/2021 18:27  V                      MEDINA GONZALES JHONATAN       C          76.40
+044804           SAN  SAN  19/10/2021 18:30  V                      CABANILLAS CADILLO             C          35.00
+044805           SAN  SAN  19/10/2021 18:38  V                      DE LOS SANTOS REYES            C          49.00
+044806           SAN  SAN  19/10/2021 18:43  V                      VENTA ANULADA                  C           0.00
+044807           SAN  SAN  19/10/2021 18:50  V                      MELGAREJO PACHECO              C          39.00
+044808           SAN  SAN  19/10/2021 18:51  V                      REYES RUIZ ROSARIO             C          90.00
+044809           SAN  SAN  19/10/2021 19:05  V                      LEA;O GO;E EUTEMIA             C          20.00
+044810           SAN  SAN  19/10/2021 20:08  V                      SOPLAPUCO FERNANDEZ DANIELA    C          40.00
+044811           MAR  MAR  20/10/2021 08:03  V                      SANCHEZ NU;EZ CIVILA           C         153.00
+044812           MAR  MAR  20/10/2021 08:13  V                      ALOR ZAVALETA JUAN DAVID       C          35.00
+044813           MAR  MAR  20/10/2021 08:15  V                      SANTOS BENITS ANGELICA ESPERAN C          83.00
+044814           MAR  MAR  20/10/2021 08:19  V                      SANTOS BENITES ANGELICA ESPERA C          35.00
+044815           MAR  MAR  20/10/2021 08:26  V                      ROMERO                         C          11.20
+044816           MAR  MAR  20/10/2021 08:29  V                      TORIBIO ABANTO MARISOL         C          25.00
+044817           MAR  MAR  20/10/2021 08:30  V                      JARA ORTEGA HERMINIA           C          30.00
+044818           MAR  MAR  20/10/2021 08:48  V                      SERRANO CALDERON GUSTAVO       C          75.00
+044819           MAR  MAR  20/10/2021 08:51  V                      GONZALES PADILLA DIGNA         C          80.00
+044820           MAR  MAR  20/10/2021 09:03  V                      PARDO TIMO ANTONIO             C          35.00
+044821           MAR  MAR  20/10/2021 09:23  V                      ESCOBAR SALAZAR JORGE          C         100.00
+044822           MAR  MAR  20/10/2021 09:25  V                      OCA;A CARRERA SMITH            C         100.00
+044823           MAR  MAR  20/10/2021 09:30  V                      GIRON MONTOYA ELADIA           C          80.00
+044824           MAR  MAR  20/10/2021 09:39  V                      MORALES VENTOCILLA EUSTANIA    C         200.00
+044825           MAR  MAR  20/10/2021 09:45  V                      REBATTA PISCOYA ERICKA ROXANA  C          80.00
+044826           MAR  MAR  20/10/2021 09:46  V                      REYES SOTELO ALFREDO           C          80.00
+044827           MAR  MAR  20/10/2021 09:50  V                      RAMOS DE SOLANO MARIELENA      C          80.00
+044828           MAR  MAR  20/10/2021 09:54  V                      BRAVO ESPINOZA FLORENCIO       C         273.00
+044829           MAR  MAR  20/10/2021 10:02  V                      SANCHEZ NEYRA DIANA            C          40.00
+044830           MAR  MAR  20/10/2021 10:06  V                      PE;A CORONADO FELICIA          C          30.00
+044831           MAR  MAR  20/10/2021 10:06  V                      PE;A CORONADO FELICIA          C          35.00
+044832           MAR  MAR  20/10/2021 10:11  V                      CALERO MORRI JULIO MARTIN      C          60.00
+044833           MAR  MAR  20/10/2021 10:13  V                      CALERO MORRI JULIO MARTIN      C          35.00
+044834           MAR  MAR  20/10/2021 10:15  V                      RIQUELME PIMENTEL CESAR LEONAR C          35.00
+044835           MAR  MAR  20/10/2021 10:21  V                      BRAVO ESPINOZA FLORENCIO       C          75.00
+044836           MAR  MAR  20/10/2021 10:25  V                      BALTAZAR RAMOS IRMA            C          27.50úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:19
+PRT102()                                                                                                                Pag.-   25
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044837           MAR  MAR  20/10/2021 10:28  V                      BALTAZAR YANAC MARCIANO        C          15.00
+044838           MAR  MAR  20/10/2021 10:37  V                      RAMOS DE BALTAZAR ELIZA        C          30.00
+044839           MAR  MAR  20/10/2021 10:38  V                      TOLEDO OBREGON RUBELINDA       C         100.00
+044840           MAR  MAR  20/10/2021 10:40  V                      DIAZ DESPOSORIO JOSE           C          30.00
+044841           MAR  MAR  20/10/2021 10:44  V                      CUSQUI VARA MARIANO            C          30.00
+044842           MAR  MAR  20/10/2021 10:46  V                      LEZAMA MORILLO MARIA           C         100.00
+044843           MAR  MAR  20/10/2021 10:47  V                      PAUCAR GARRO GHERSON ALIGHIERI C         120.00
+044844           MAR  MAR  20/10/2021 10:48  V                                                     C           1.50
+044845           MAR  MAR  20/10/2021 10:52  V                      SANCHEZ ROJAS JACINTO          C         160.00
+044846           MAR  MAR  20/10/2021 10:53  V                      RAMIREZ ARIZA INGRID           C          80.00
+044847           MAR  MAR  20/10/2021 11:03  V                      HUERTO DE ALBINO SALOMENA      C         100.00
+044848           MAR  MAR  20/10/2021 11:15  V                      ALEJOS DE LA CRUZ  CRISPIN JUL C         218.00
+044849           MAR  MAR  20/10/2021 11:16  V                      ALEJOS DE LA CRUZ CRISPIN      C          90.00
+044850           MAR  MAR  20/10/2021 11:30  V                      ALCANTARA LOZANO BRITANY       C          33.00
+044851           MAR  MAR  20/10/2021 11:35  V                      MAURICIO TADEO LEOCADIA        C          80.00
+044852           MAR  MAR  20/10/2021 11:38  V                      ALA SANTOS MIGUEL              C          80.00
+044853           MAR  MAR  20/10/2021 11:40  V                      REYES SOTELO ALFREDO           C         135.00
+044854           MAR  MAR  20/10/2021 11:41  V                      REBATTA PISCOYA ERIKA          C         120.00
+044855           MAR  MAR  20/10/2021 12:01  V                      PALOMARES MEJIA CLAUDIA        C          41.00
+044856           MAR  MAR  20/10/2021 12:08  V                      MORALES SIPAN RUTH             C          70.00
+044857           MAR  MAR  20/10/2021 12:35  V                      SILVERIO PASCUAL TRUJILLO      C          80.00
+044858           MAR  MAR  20/10/2021 12:45  V                      SANCHEZ ROJAS JACINTO          C          10.00
+044859           MAR  MAR  20/10/2021 12:50  V                                                     C           6.00
+044860           MAR  MAR  20/10/2021 12:51  V                      MAURICIO CASTRO PABLO          C          20.00
+044861           MAR  MAR  20/10/2021 13:12  V                      TORIBIO ABANTO MARISOL         C         102.50
+044862           MAR  MAR  20/10/2021 13:52  V                      BERNILLA MANAYALLE CANDELARIA  C          70.00
+044863           MAR  MAR  20/10/2021 13:53  V                      RAMIREZ BERNILLA MARIA         C          90.00
+044864           MAR  MAR  20/10/2021 13:58  V                      ESPINOZA JAIMES CECILIA        C          30.00
+044865           MAR  MAR  20/10/2021 14:00  V                      SANCHEZ NU;EZ CIRILA           C          35.00
+044866           MAR  MAR  20/10/2021 14:05  V                      SANCHEZ ROJAS JACINTO          C          35.00
+044867           MAR  MAR  20/10/2021 14:08  V                      BLAS REYES                     C         100.00
+044868           MAR  MAR  20/10/2021 14:09  V                      BLAS PARDO REYES               C          90.00
+044869           SAN  SAN  20/10/2021 14:39  V                      SOPLAPUCO FERNANDEZ            C         117.50
+044870           SAN  SAN  20/10/2021 14:41  V                      AYALA                          C           3.00
+044871           SAN  SAN  20/10/2021 14:44  V                      GUARDIA BRAVO VICTORIA         C          22.50
+044872           SAN  SAN  20/10/2021 14:49  V                      SAAVEDRA ASENCIOS VIKI         C          60.00
+044873           SAN  SAN  20/10/2021 14:50  V                      MEJIA OSORNO PEPE              C          60.00
+044874           SAN  SAN  20/10/2021 14:54  V                      MATA DE CUSQUI DOMINGA         C          35.00
+044875           SAN  SAN  20/10/2021 14:57  V                      RAMOS SILVERIO LITA            C          35.00
+044876           SAN  SAN  20/10/2021 15:00  V                      LONGA DE LA CRUZ YENNY         C          40.00
+044877           SAN  SAN  20/10/2021 15:16  V                      SANCHEZ NU;EZ CIRILA           C          90.00
+044878           SAN  SAN  20/10/2021 15:17  V                      SANCHEZ NU;EZ CIRILA           C           0.01
+044879           SAN  SAN  20/10/2021 15:30  V                      FALCON ESPINOZA ALEJANDRO      C          35.00
+044880           SAN  SAN  20/10/2021 15:33  V                      MARTOS RODRIGUEZ VALERIA       C          70.00
+044881           SAN  SAN  20/10/2021 15:42  V                      MARCHENA HUAYANAY ANIBAL       C          60.00
+044882           SAN  SAN  20/10/2021 15:45  V                      PARIHUAMAN ARIVILCA JORGE      C          70.00
+044883           SAN  SAN  20/10/2021 15:54  V                      NI;O HUAROMO ESTEFANI          C           0.01
+044884           SAN  SAN  20/10/2021 15:58  V                      MORENO MAYRA MILAGROS          C           0.01
+044885           SAN  SAN  20/10/2021 16:05  V                      CHIRRE MENDOZA REMIGIA         C          10.00
+044886           SAN  SAN  20/10/2021 16:11  V                      MATA DE CUSQUI DOMINGA         C         260.00
+044887           SAN  SAN  20/10/2021 16:13  V                      BERNILLA MANAYALLE CANDELARIA  C          60.00
+044888           SAN  SAN  20/10/2021 16:17  V                      ROQUE SANCHEZ GABRIEL          C          35.00
+044889           SAN  SAN  20/10/2021 16:35  V                      PARDO TIMO ANTONIO             C         140.60
+044890           SAN  SAN  20/10/2021 16:37  V                      SOPLAPUCO FERNANDEZ DANIELA    C          55.00
+044891           SAN  SAN  20/10/2021 16:41  V                      LEA;O GO;E EUTEMIA             C          35.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:19
+PRT102()                                                                                                                Pag.-   26
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044892           SAN  SAN  20/10/2021 16:43  V                      LEA;O GO;E EUTEMIA             C           0.01
+044893           SAN  SAN  20/10/2021 16:44  V                      GUTIERRES GUERRERO MARIA       C          35.00
+044894           SAN  SAN  20/10/2021 16:56  V                      BALTAZAR YANAC MARCIANO        C       1,050.00
+044895           SAN  SAN  20/10/2021 16:58  V                      FALCON MONTES WILLIAM          C           9.00
+044896           SAN  SAN  20/10/2021 17:06  V                      MEJIA SANTILLAN PAMELA         C          35.00
+044897           SAN  SAN  20/10/2021 17:11  V                      ROQUE SANCHEZ GABRIEL          C          45.00
+044898           SAN  SAN  20/10/2021 17:23  V                      PE;A CORONADO FELICIA          C          39.80
+044899           SAN  SAN  20/10/2021 17:24  V                      PE;A CORONADO FELICIA          C         263.00
+044900           SAN  SAN  20/10/2021 17:34  V                      NIETO SOTO RAUL                C          35.00
+044901           SAN  SAN  20/10/2021 17:43  V                      BALTAZAR YANAC MARCIANO        C          22.80
+044902           SAN  SAN  20/10/2021 17:53  V                      LOPEZ PARIACHI RAMIREZ         C          35.00
+044903           SAN  SAN  20/10/2021 17:59  V                      EVARISTO DAMAZO GIL            C          35.00
+044904           SAN  SAN  20/10/2021 18:04  V                      GLADYS LAURENTE                C           1.20
+044905           SAN  SAN  20/10/2021 18:10  V                      CALERO MORRI JULIO             C           1.50
+044906           SAN  SAN  20/10/2021 18:14  V                      CHIRRE MENDOZA                 C          10.00
+044907           SAN  SAN  20/10/2021 18:17  V                      MATURRANO NICHO ARMANDA        C          35.00
+044908           SAN  SAN  20/10/2021 18:32  V                      FALCON ESPINOZA ALEJANDRO      C         185.00
+044909           SAN  SAN  20/10/2021 18:32  V                      FALCON ESPINOZA ALEJANDRO      C           1.50
+044910           SAN  SAN  20/10/2021 18:39  V                      GAMARRA CRUZ TIMOTEO           C       1,050.00
+044911           SAN  SAN  20/10/2021 18:54  V                      NIETO SOTO RAUL                C          25.00
+044912           SAN  SAN  20/10/2021 19:13  V                      LEA;O GO;E                     C          23.00
+044913           SAN  SAN  20/10/2021 19:14  V                      LEA;O GO;E EUTEMIA             C          40.00
+044914           SAN  SAN  20/10/2021 19:22  V                      CHIRRE MENDOZA REMIGIA         C          10.00
+044915           SAN  SAN  20/10/2021 19:31  V                      MATA DE CUSQUI DOMINGA         C         256.50
+044916           SAN  SAN  20/10/2021 19:36  V                      LEA;O GO;E                     C          12.00
+044917           SAN  SAN  20/10/2021 19:48  V                      EVARISTO DAMAZO GIL            C         175.00
+044918           SAN  SAN  20/10/2021 19:54  V                      GAVY LLASHAG                   C           1.50
+044919           MAR  MAR  21/10/2021 08:21  V                      CARMIN PACHECO EMILIANO        C         290.00
+044920           MAR  MAR  21/10/2021 08:34  V                      LUIS CRUZ SALINAS              C           1.50
+044921           MAR  MAR  21/10/2021 08:44  V                      GIL EVARISTO                   C          49.00
+044922           MAR  MAR  21/10/2021 09:34  V                      SANCHEZ ASTERIA                C           8.00
+044923           MAR  MAR  21/10/2021 09:38  V                      DE LA CRUZ VALENZUELA FRANCISC C         144.80
+044924           MAR  MAR  21/10/2021 09:42  V                      SANCHEZ ROJAS JACINTO          C          20.00
+044925           MAR  MAR  21/10/2021 10:00  V                      ALOR CHAMPA VICTOR             C         180.00
+044926           MAR  MAR  21/10/2021 10:05  V                      DUENAS VILLANUEVA AMERICO      C          70.00
+044927           MAR  MAR  21/10/2021 10:10  V                      OLIVER SALAS TANIA             C          65.00
+044928           MAR  MAR  21/10/2021 10:12  V                      OLIVER SALAS TANIA             C          35.00
+044929           MAR  MAR  21/10/2021 10:13  V                      OLIVER SALAS TANIA             C          18.00
+044930           MAR  MAR  21/10/2021 10:21  V                      CANAZA MINAYA LIZ              C         100.00
+044931           MAR  MAR  21/10/2021 10:23  V                      BARRUETA OSORIO TANIA          C          15.00
+044932           MAR  MAR  21/10/2021 10:34  V                      BALTAZAR YANAC MARCIANO        C          15.00
+044933           MAR  MAR  21/10/2021 10:34  V                                                     C           5.00
+044934           MAR  MAR  21/10/2021 10:45  V                                                     C           2.00
+044935           MAR  MAR  21/10/2021 10:59  V                      VENTA ANULADA                  C           0.00
+044936           MAR  MAR  21/10/2021 11:15  V                      HILARIO LIZANDRO SANTA         C          49.00
+044937           MAR  MAR  21/10/2021 11:25  V                      VENTA ANULADA                  C           0.00
+044938           MAR  MAR  21/10/2021 11:32  V                      DOMICILIO ALDO TORRES          C          45.00
+044939           MAR  MAR  21/10/2021 11:39  V                      CCAJIA ARONI MARCIAL ESTEBAN   C          95.00
+044940           MAR  MAR  21/10/2021 12:28  V                      GALILEA LYNNET VASCULLOA VALDE C          25.00
+044941           MAR  MAR  21/10/2021 12:34  V                      SHIRLEY / DOMICILIO            C          45.00
+044942           MAR  MAR  21/10/2021 12:38  V                      LEA;O GO;E EUTEMIA             C          19.00
+044943           MAR  MAR  21/10/2021 12:39  V                      LEA;O GO;E EUTEMIA             C          81.00
+044944           MAR  MAR  21/10/2021 12:41  V                      ALOR CHAMPA VICTOR             C          20.00
+044945           MAR  MAR  21/10/2021 13:06  V                      CCAJIA ARONI MARCIAL\          C          10.00
+044946           MAR  MAR  21/10/2021 14:00  V                      LA ROSA MARCOS LIDIA           C          10.00úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:19
+PRT102()                                                                                                                Pag.-   27
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+044947           SAN  SAN  21/10/2021 14:17  V                      MARCOS PINTO LUCIA             C          15.00
+044948           SAN  SAN  21/10/2021 14:38  V                      DOMINGUEZ SUSANO MARIA         C          35.00
+044949           SAN  SAN  21/10/2021 15:27  V                      DOMINGUEZ SUSANO MARIA         C          60.00
+044950           SAN  SAN  21/10/2021 15:50  V                      LLANQUE PE;A PAULINO           C          15.00
+044951           SAN  SAN  21/10/2021 15:55  V                      REYES MIGO GERALDINE           C          20.00
+044952           SAN  SAN  21/10/2021 16:07  V                      REYES MIGO GERALDINE           C          20.50
+044953           SAN  SAN  21/10/2021 16:13  V                      SULCA AZA;ERO SANDRA           C          25.00
+044954           SAN  SAN  21/10/2021 16:25  V                      GUTIERREZ ASENCIOS SAMMY       C          42.00
+044955           SAN  SAN  21/10/2021 16:29  V                      LLANOS BRAVO SANTA             C          35.00
+044956           SAN  SAN  21/10/2021 16:32  V                      LLANOS NICHO YANNIRA           C          10.00
+044957           SAN  SAN  21/10/2021 16:32  V                      NICHO RIOS SILVIA              C          10.00
+044958           SAN  SAN  21/10/2021 16:33  V                      GUARDIA BRAVO VICTORIA         C          22.50
+044959           SAN  SAN  21/10/2021 16:53  V                      BARTOLO DAVILA                 C          10.00
+044960           SAN  SAN  21/10/2021 16:56  V                      CABANILLAS CADILLO CRISTINA    C          20.00
+044961           SAN  SAN  21/10/2021 18:23  V                      SANDOVAL ESCUDERO DENNIS       C          10.00
+044962           MAR  MAR  22/10/2021 08:14  V                      VILLANUEVA NONATO ELMER        C          30.00
+044963           MAR  MAR  22/10/2021 08:15  V                      VILLANUEVA NONATO ELMER        C          35.00
+044964           MAR  MAR  22/10/2021 08:16  V                      VILLANUEVA NONATO ELMER        C          70.00
+044965           MAR  MAR  22/10/2021 08:17  V                      SOSA RAMOS VILMA               C          15.00
+044966           MAR  MAR  22/10/2021 08:33  V                      BERNAL SANTOS MERITZA          C         155.00
+044967           MAR  MAR  22/10/2021 08:33  V                      JARA ORTEGA HERMINIA           C          60.00
+044968           MAR  MAR  22/10/2021 08:45  V                      MATURRANO NICHO ARMINDA        C         203.00
+044969           MAR  MAR  22/10/2021 09:00  V                      MATURRANO NICHO ARMINDA        C          35.00
+044970           MAR  MAR  22/10/2021 09:08  V                      ESPNOZA JAMIMES CECILIA        C          30.00
+044971           MAR  MAR  22/10/2021 09:17  V                      PE;ABERNARDO ABELINA           C          35.50
+044972           MAR  MAR  22/10/2021 09:17  V                      PE;A BERNARDO ABELINA          C          24.50
+044973           MAR  MAR  22/10/2021 09:18  V                      PE;A BERNARDO ABELINA          C          35.00
+044974           MAR  MAR  22/10/2021 09:24  V                                                     C           1.50
+044975           MAR  MAR  22/10/2021 09:26  V                      TORIBIO PEREZ CONVERSION       C          49.00
+044976           MAR  MAR  22/10/2021 10:11  V                      ESPINOZA ALARCON YSVET         C          10.00
+044977           MAR  MAR  22/10/2021 10:17  V                      LEZAMA MORILLO MARIA           C          30.00
+044978           MAR  MAR  22/10/2021 10:19  V                      BALTAZAR YANAC MARCIANO        C          15.00
+044979           MAR  MAR  22/10/2021 10:23  V                      ROMOS DE BALTAZAR ELIZA        C          90.00
+044980           MAR  MAR  22/10/2021 10:29  V                      VELA DE ROMERO ZENAIDA         C          30.00
+044981           MAR  MAR  22/10/2021 10:30  V                      DAMIAN NIEVES JULIO            C          10.00
+044982           MAR  MAR  22/10/2021 10:34  V                      CADILLO PRETEL FLOR            C          30.00
+044983           MAR  MAR  22/10/2021 10:48  V                      TOLEDO OBREGON RUBELINDA       C          10.00
+044984           MAR  MAR  22/10/2021 10:49  V                      HUERTA JARA MERCEDES           C          10.00
+044985           MAR  MAR  22/10/2021 10:49  V                      CARRERA HUERTA KAROL           C          10.00
+044986           MAR  MAR  22/10/2021 10:53  V                      RAMOS DE BALTAZAR              C          11.40
+044987           MAR  MAR  22/10/2021 11:06  V                      CARRERA HUERT CAROL            C          21.50
+044988           MAR  MAR  22/10/2021 11:12  V                                                     C           1.50
+044989           MAR  MAR  22/10/2021 11:29  V                      PUJADA PIMENTEL                C          42.00
+044990           MAR  MAR  22/10/2021 11:37  V                      DURAND GARCIA MARIA            C          60.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Contado       :   1,435      84,491.21
+Factura       :       0           0.00                                                    Letras        :       0           0.00
+Ticket        :       0           0.00                                                    Credito       :       0           0.00
+Guia Interna V:   1,435      84,491.21                                                    Credito 10 Dia:       0           0.00
+                          -------------                                                   Tarjeta       :       0           0.00
+                             84,491.21                                                                              -------------
+                                                                                                                       84,491.21úZethQuark Versi¢n 7.0ú                                                                                                 22/10/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/10/2021 AL 22/10/2021                              12:02:20
+PRT102()                                                                                                                Pag.-   28
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :     12,889.11
+ÿ
+ÿ
+Nro.  Documentos Anulados :           39
+Total Documentos Anulados :         0.00

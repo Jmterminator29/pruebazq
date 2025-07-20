@@ -1,0 +1,100 @@
+úZethQuark Versi¢n 7.0ú                                                              20/02/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    09:23:55
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16243 KETESSE 25MG TABLETA CAJAX20             0014       90.00      4.50     0          2u1   
+16245 KETESSE AMPOLLA CAJAX5                   0014      125.00     25.00     0          0     
+16830 KETOCONAZOL 2% CREMA 10G                 FARM        4.00               0          0     
+16618 KETOPAN 100MG AMPOLLA\                   ZZZZ       16.00               0          0     
+06731 KETOROLACO 60mg/2ML AMPOLL CAJAX25       DA        125.00      5.00     0          0u5   
+17380 KIDS IBUPROFENO X120ML                   GENF       15.00               0          0     
+15067 LACTULOSA 3,3G/5ML SOLUCION ORALX200ML   PORT       20.00               0          0     
+17360 LACTULOSA 3.3/5ML 120ML                  PORT       21.00               0          3     
+17361 LACTULOSA 3.3/5ML X180ML                 ACFA       28.50               0          1     
+15062 LANCIPROX-DX 0,3%+0,1% SUSP OFTX5ML      LANS       42.00               0          0     
+16727 LANSOPRAZOL 30GR CAJAX100TABLETAS        PORT      100.00      1.00     0          0     
+15251 LASIX 40MG TABLETAX20                    SANO       30.00      1.50     0          0     
+15063 LAXOLAX 7,5/ML SOL ORAL GOT 10ML         ROXF       26.00               0          0     
+16917 LENOMIDE/DUTASTERIDA 0.5MG CAJAX30 TABLE ZZZZ       60.00      2.00     0          0     
+14856 LEVOCTRIM 500MG CAJX7                    PORT       56.00      8.00     0          0     
+07018 LEVOFLOXACINO  500MG CAJAX100TABLETAS    NAGE      200.00      2.00     0          1u42  
+16597 LEVOTIROXINA SODICA 50MCG CAJAX50 TAB    ZZZZ       50.00      1.00     0          0     
+16773 LEVOTIROXINA/BONCHECK 100MG CAJAX50TABLE ZZZZ       80.00      1.60     0          0     
+17522 LIBRALGEN 90MG (ETORICOXIB) X 14 TABLETA ACFA       42.00               0          0     
+16591 LIDOCAINA 2% FRASCO 20ML                 TOP         8.00               0         21     
+17384 LIDOCAINA 2%GEL X30G                     QH         30.00               0          0     
+16599 LIKFERR +MATERIAL DE APLICACION          ZZZZ       40.00               0          7     
+16347 LLAVE TRIPLE VIA CAJAX50UNID.            TOP       250.00      5.00     0          1u9   
+16988 LLAVE TRIPLE VIA CON EXTENSION           ZZZZ        6.00               0          0     
+15257 LORATADINA 10MG TABLX100                 PORT       30.00      0.30     0          0u1   
+07268 LORATADINA JBE 5MG/5MLx60ML              MED         9.00               0          0     
+16652 LOSARTAN  50mg CAJAX100TABLETAS          PEFA       50.00      0.50     0          0u48  
+17387 LOVEGEST 450G VAINILLA                   ZZZZ       80.00               0          0     
+17332 LUIVAC CAJAX14 COMPRIMIDOS               ZZZZ      119.00      8.50     0          4     
+17514 MAGNECIT POTE 300G PI;A                  ZZZZ       75.00               0          0     
+17206 MAGNEGEM PLUS C POTEX400MG               GILS       30.00               0          0     
+16328 MAGNEGEM PLUS POTEX330MGR                D'OL       55.00               0          0     
+16568 MALTOFER GOTAS                           VIFO       48.00               0          0     
+17533 MASCARA CON RESERVORIO ADULTO            ZZZZ       20.00               0          2     
+16079 MASCARILLA DE NEBULIZACION NINO          ZZZZ       12.00               0         13     
+17507 MASCARILLA DE OXIGENO ADULTO             ZZZZ       12.00               0         36     
+14284 MASCARILLA NEBULIZADORA ADULTO           UNIL       12.00               0         40     
+16552 MEBENDAZOL 100MG CAJAX100TABLETAS        PORT       30.00      0.30     0          0     
+17250 MEBENDAZOL 100MG/5ML FRASCOX30 ML        ZZZZ        4.50               0          5     
+16569 MEBO TUBOX30GR                           ZZZZ       90.00               0          1     
+07622 MEGACILINA AMP 1'000,000 x1 C/DIS        GRUN       18.50               0          0     
+16392 MEGACILINA AMPOLLA 4000000 CAJAX1        GRUN       35.00     35.00     0          0     
+07627 MEGACILINA ORAL COMx120                  GRUN      264.00      2.20     0          0     
+16968 MELOXICAM 15 MG CAJAX100                 PEFA       50.00      0.50     0          0u4   
+16407 MENISTIN 16MG   TABLETA                  ZZZZ        1.60               0          0     
+15121 MENTHOLATUM FRASCO 85G                   MEDI       15.00               0          0     
+16545 MEPRECORT 15MG/5MLSOL.ORAL100ML          TEVA       32.00               0          0     
+16812 MEPRECORT 5MG/5ML SOL. ORAL120ML         TEVA       29.00               0          0     
+16700 METAMIZOL SODICO 1G/2ML AMPOLLA X25      ZZZZ      100.00      4.00     0          1u20  
+16648 METFORMINA 850MG CAJAX100 TAB            PEFA       50.00      0.50     0          1     
+17525 METOCLOPRAMIDA 10MG CAJA X 100 TABLETAS  ZZZZ       50.00      0.50     0          0u31  
+07795 METOTREXATO 2,5MG TABX10                 PHAI       10.00      1.00     0          0     
+16904 METPURE XL-50 CAJAX10 TABLETAS           EM         38.00      3.80     0          0     
+07803 METRONIDAZOL 250MG/5ML SUSP 60ML         PORT        9.00               0          2     
+07815 METRONIDAZOL AMP 500MGx100ML FRASC100ML  0006       12.00               0          0     úZethQuark Versi¢n 7.0ú                                                              20/02/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    09:24:02
+PRT202()                                                                             Pag.-    2
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+14849 MICROSER 24MG TABX20                     GRUN       76.00      3.80     0          0     
+16343 MIGRANOT 250MG TABLETA CAJAX100          D'OL      250.00      2.50     0          0     
+17096 MINOCICLINA 100MG X10 CAPSULAS           GENF       20.00      2.00     0          0     
+16681 MIXEL 2% SUSPENSION ORAL 30ML            SIEG       25.00               0          0     
+16792 MOBILISIN GEL 40GR                       ZZZZ       50.00               0          1     
+16423 MONTELUKAST 5MG TABLETAX100UNID.         LOB       100.00      1.00     0          0     
+16653 MORFINA CLORHIDRATO 20mg/ml 1ml AMPOLLA  ZZZZ        8.00               0          0     
+16519 MUCOCAR 100MG/5ML X120ML SOLUCION ORAL   EU         32.00               0          1     
+16965 MUCOCAR 600MG CAJA X 20 SOBRES           EU        100.00      5.00     0          0     
+08100 MUCOTRIM GOTx15ML                        ROXF       19.00               0          1     
+15415 MULCEROL/ESOMEPRAZOL 40 TAB CAJX30       CAFE       90.00      3.00     0          0     
+16558 MULTIDERM CREMAX10GR                     ZZZZ       18.00               0          0     
+16712 MULTIMYCIN  14GR CREMA                   ZZZZ       35.00               0          0     
+08266 NAPROXENO 550 TABx100                    FARM       50.00      0.50     0          1u44  
+16565 NAYARA GEL VAGINAL TUBOX30GR             ZZZZ       35.00               0          0     
+17529 NEO NISOPREX 15MG/5ML SOL.ORAL X 100ML   ZZZZ                           0          1     
+17100 NEO NISOPREX 15MG/5ML SOL.ORAL X 60ML    ELIF       26.00               0          2     
+17512 NEUMOPUL POTE 500G VAINILLA              ZZZZ      130.00               0          2     
+15104 NEUROBION 10 000 AMPOLL                  MERC       35.00               0          0     
+08441 NEUROBION 1000 AMP CAJAX3AMPOLLAS        MERC       64.50     21.50     0          0     
+16604 NEUROBION 5000 GRAGEAS CAJAX60           MERC      150.00      2.50     0          0     
+17366 NEURYL TABLETAS                          ZZZZ                           0          0     
+17246 NIOFEN 2% CREMA 15GR                     AB         51.00               0          0     
+14841 NISOPREX 20MG  COMPX100                  ELIF      120.00      1.20     0          0     
+16504 NORSPAN 10MG/PARCHE                      GRUN      135.00               0          0     
+16503 NORSPAN 5MG PARCHE                       GRUN       80.00               0          3     
+16657 NOTIPHARM CREMA 20g TUBO                 OQFA       16.00               0          0     
+16827 NUCLEO CMP FORTE CAJAX20 CAPSULAS        FERR      100.00      5.00     0          2u17  
+16580 NYLON #0                                 TOP         8.50               0          0     
+16886 NYLON #2                                 ZZZZ        8.50               0          0     
+16805 NYLON #3                                 ZZZZ        8.50               0         11     
+16581 NYLON #4                                 TOP         8.50               0          0     
+16582 NYLON #5                                 TOP         8.50               0          0     
+16885 NYLON #6                                 ZZZZ        8.50               0          0     

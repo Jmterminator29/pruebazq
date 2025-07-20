@@ -1,0 +1,85 @@
+˙ZethQuark Versi¢n 7.0˙                                                                                                 23/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/07/2024 AL 22/07/2024                              08:47:56
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007557           EFR  EFR  22/07/2024 08:42  V                      AMIAS HUAYCAMA PARCEMON        E          45.00
+007558           EFR  EFR  22/07/2024 08:53  V                      RAMIREZ ZU;IGA MARIANA         E          15.00
+007559           YOS  YOS  22/07/2024 09:18  V                      GARCIA RAMIREZ JULIO           E         141.50
+007560           YOS  YOS  22/07/2024 09:24  V                      VILLANUEVA TORRES VICTOR       E          13.00
+007561           YOS       22/07/2024 09:46  V                      ROJAS MEDICO REISHELL          E          60.00
+007562           YOS       22/07/2024 09:54  V                      NU:EZ SOCLAS IRMA              E          45.00
+007563           YOS       22/07/2024 10:03  V                      SOTO PASCACIO NICOL            E          60.00
+007564           YOS  YOS  22/07/2024 10:53  V                      MARTIN ROJAS DIOGENES          E          45.00
+007565           YOS  YOS  22/07/2024 11:12  V                      PAJUELO FERNANDEZ VIVIANA      E          45.00
+007566           YOS  YOS  22/07/2024 11:21  V                      ROSALES MORI PRUDENCIA         E          45.00
+007567           YOS  YOS  22/07/2024 12:01  V                      JARA RODRIGUEZ EMILIA          Y          45.00
+007568           YOS  YOS  22/07/2024 12:07  V                      BERNAL CAMOS LUIS              E         130.00
+007569           YOS  YOS  22/07/2024 12:13  V                      NU:EZ SOCLAS IRMA              E          74.70
+007570           YOS  YOS  22/07/2024 12:28  V                      MARTIN ROJAS DIOGENES          E          49.50
+007571           YOS  YOS  22/07/2024 12:33  V                      NI•O QUICHE PEDRO              E           2.00
+007572           YOS  YOS  22/07/2024 13:39  V                      TRUJILLO JARA JORGE            E         658.00
+007573           YOS  YOS  22/07/2024 13:46  V                      ROSALES MORI PRUDENCIA         E         300.00
+007574           YOS  YOS  22/07/2024 13:48  V                      BERRENECHEA BLAS DELIA         E          30.50
+007575           YOS  YOS  22/07/2024 14:13  V                      CARLOS RAMIREZ NOEMI           E          49.50
+007576           YOS  YOS  22/07/2024 15:02  V                      AMIAS HUAYCAMA PARCEMON        E          78.00
+007577           YOS       22/07/2024 15:04  V                      LOPEZ LOPEZ RODRIGO            E          45.00
+007578           YOS       22/07/2024 15:06  V                      PICHILINGUE SALVO LIZ          E          45.00
+007579           YOS  YOS  22/07/2024 15:17  V                      PAJUELO FERNNADEZ VIVIANA      E         190.50
+007580           YOS  YOS  22/07/2024 15:24  V                      VERAMENDI VILLANUEVA MARGARITA E          45.00
+007581           YOS  YOS  22/07/2024 15:27  V                      VERAMENDI VILLANUEVA MARGARITA E          70.50
+007582           YOS  YOS  22/07/2024 15:42  V                      JAIME VENTURA LUIS             E          45.00
+007583           YOS  YOS  22/07/2024 16:20  V                      ESTUPI;AN MATEO ALESANDRO      E          45.00
+007584           YOS  YOS  22/07/2024 16:26  V                      AGÅERO TRUJILLO ANGELICA       Y          45.00
+007585           YOS       22/07/2024 16:45  V                      MACEDO COLLAS AQUELINA         E          45.00
+007586           YOS       22/07/2024 17:05  V                      LOPEZ LOPEZ RODRIGO            E          53.50
+007587           YOS       22/07/2024 17:19  V                      PICHILINGUE SALVO LIZ          E         119.50
+007588           YOS  YOS  22/07/2024 17:22  V                      CHIRITO VILLAREAL MIRIAM       E          45.00
+007589           YOS  YOS  22/07/2024 17:30  V                      AMIAS HUAYCAMA PARCEMON        E           2.00
+007590           YOS  YOS  22/07/2024 17:34  V                      RAMIREZ URBIZAGASTEGUE GRACIEL E          45.00
+007591           YOS  YOS  22/07/2024 17:43  V                      OLORTEGUI HUERTA NICOL         E          30.00
+007592           YOS  YOS  22/07/2024 17:45  V                      OLORTEGUI HUERTA NICOL         E           5.00
+007593           YOS  YOS  22/07/2024 17:46  V                      AMIAS HUAYCAMA PARCEMON        E          30.00
+007594           YOS  YOS  22/07/2024 17:54  V                      ESTUPI;AN MATEO ALESANDRO      E          48.00
+007595           YOS  YOS  22/07/2024 18:17  V                      JAIME VENTURA LUIS             E           3.00
+007596           YOS  YOS  22/07/2024 18:29  V                      JAIME VENTURA LUIS             E          22.00
+007597           YOS  YOS  22/07/2024 18:35  V                      BARRENECHEA BLAS DELIA         E         100.00
+007598           YOS  YOS  22/07/2024 18:39  V                      ACHIC GAMARRA LIZ              E          45.00
+007599           YOS  YOS  22/07/2024 19:31  V                      GAMARRA CORMAN VICTORIA        E         372.00
+007600           YOS  YOS  22/07/2024 19:46  V                      CHIRITO VILLAREAL MIRIAM       E          30.00
+007601           YOS  YOS  22/07/2024 19:47  V                      PAULINO CAMPOS DIAZ            TR         11.50
+007602           YOS  YOS  22/07/2024 19:51  V                      ESTUPI;AN MATEO ALESANDRO      E          39.00
+007603           YOS  YOS  22/07/2024 19:59  V                      CHINGA OYOLA YULISSA           E          95.20
+007604           YOS  YOS  22/07/2024 20:06  V                      RAMIREZ URBIZAGASTEGUE GRACIEL E          61.00
+007605           YOS  YOS  22/07/2024 20:12  V                      GIRON ROJAS ELIDA              E          45.00
+007606           YOS  YOS  22/07/2024 20:53  V                      ACHIC GAMARRA LIZ              E          49.50
+007607           YOS  YOS  22/07/2024 20:56  V                      ACHIC GAMARRA LIZ              E           1.50
+007608           YOS  YOS  22/07/2024 21:06  V                      GIRON ROJAS ELIDA              E         114.00
+007609           YOS  YOS  22/07/2024 21:20  V                      MOLINA LOPEZ MARIO             E          40.00
+ˇ
+ˇ˙ZethQuark Versi¢n 7.0˙                                                                                                 23/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/07/2024 AL 22/07/2024                              08:47:56
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      50       3,812.90
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      53       3,914.40                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       1          11.50
+                              3,914.40                                                    Yape          :       2          90.00
+                                                                                                                    -------------
+                                                                                                                        3,914.40
+ˇ
+ˇ
+Total I.G.V. Factura :          0.00
+ˇ
+Total I.G.V. Boletas :        597.03
+ˇ
+ˇ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

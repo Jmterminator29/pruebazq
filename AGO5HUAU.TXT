@@ -1,0 +1,69 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 06/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 05/08/2024 AL 05/08/2024                              08:57:37
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007954           ELI       05/08/2024 09:23  V                      ROBUSTIANO RODRIGUEZ ROSALES   TR        311.50
+007955           ELI       05/08/2024 09:35  V                      ROBUSTIANO RODRIGUEZ ROSALES   TR         63.00
+007956           ELI       05/08/2024 10:25  V                      BARTLOME MENDOZA OLORTEGUI     E          18.50
+007957           ELI       05/08/2024 11:02  V                      ANGEL MIGUEL PALACIOS MORA     E           1.00
+007958           ELI       05/08/2024 11:26  V                      BRENDA CRISTINA MEDINA FLORES  Y          45.00
+007959           ELI       05/08/2024 11:54  V                      VIRU LINARES FLOR ELENA        E          45.00
+007960           ELI       05/08/2024 11:58  V                      LIDA TALIA BENITES BAILON      E          15.00
+007961           ELI       05/08/2024 12:08  V                      ANTONIA BUITRON ZAVALA         E          33.00
+007962           ELI  ELI  05/08/2024 13:08  V                      BUITRON ZAVALA ANTONIA         E           5.00
+007963           ELI  ELI  05/08/2024 13:34  V                      VILLANUEVA SACRAMENTO SAYNEB C E          45.00
+007964           ELI  ELI  05/08/2024 13:38  V                      VIRU LINARES FLOR ELENA        Y          45.00
+007965           ELI  ELI  05/08/2024 14:02  V                      VILLANUEVA SACRAMENTO SAYNEB   E          98.00
+007966           ELI  ELI  05/08/2024 14:46  V                      CHAVEZ BELVEDER MAURINA        C          45.00
+007967           ELI  ELI  05/08/2024 15:05  V                      CADENAS PE:A ROXANA            E          45.00
+007968           ELI       05/08/2024 16:12  V                      STHEFANIE MAZA INOCENTE        E          45.00
+007969           ELI       05/08/2024 16:23  V                      CARBAJAL LAVADO LUCIANA        Y          45.00
+007970           ELI       05/08/2024 16:25  V                      CHANGANAQUI VEGA ELIAM         E          45.00
+007971           ELI       05/08/2024 16:43  V                      CASTILLO TAMARA JUAN           E          80.00
+007972           ELI       05/08/2024 17:15  V                      MARCOS MALMA SILVERA           Y           1.50
+007973           ELI       05/08/2024 17:28  V                      PICHILINGUE VASQUES JULIA      E          45.00
+007974           ELI       05/08/2024 17:38  V                      PICHILINGUE VASQUES JULIA      E         158.50
+007975           ELI       05/08/2024 17:40  V                      ADELA EUCATEGUI RIVERA         E         130.00
+007976           ELI       05/08/2024 17:49  V                      CHAVEZ VALVERDE MAURINO        E          59.50
+007977           ELI       05/08/2024 17:51  V                      CHAVEZ BELVEDER MAURINO        E          60.00
+007978           ELI       05/08/2024 17:55  V                      BLANCA NELY ROMERO DIAZ        E          45.00
+007979           ELI       05/08/2024 18:45  V                      ROMERO DIAZ BLANCA             E          84.50
+007980           ELI       05/08/2024 18:45  V                      ROMERO DIAZ BLANCA             E          23.00
+007981           ELI       05/08/2024 18:47  V                      ROMERO DIAZ BLANCA             E         126.50
+007982           ELI       05/08/2024 18:48  V                      ROMERO DIAZ BLANCA             E         179.50
+007983           ELI       05/08/2024 18:51  V                      ROMERO DIAZ BLANCA             E          30.00
+007984           ELI       05/08/2024 18:52  V                      STHEFANIE MAZA INOCENTE        E          71.50
+007985           ELI       05/08/2024 18:58  V                      CHAVEZ BELBEDER MAURINA        Y         173.00
+007986           ELI       05/08/2024 19:12  V                      PAREDES OBREGON LUCAS VALENTE  E          12.00
+007987           ELI       05/08/2024 19:40  V                      PICHILINGUE VASQUES JULIA      E          70.00
+007988           ELI       05/08/2024 19:41  V                      JULIA PICHILINGUE VASQUES      E          43.00
+007989           ELI       05/08/2024 19:44  V                      CHAVES BELDEVER MAURINA        E          45.00
+007990           ELI       05/08/2024 20:29  V                      BLANCA ROMERO DIAS             E           0.30
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       1          45.00
+Factura       :       0           0.00                                                    Efectivo      :      29       1,658.80
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      37       2,387.80                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       2         374.50
+                              2,387.80                                                    Yape          :       5         309.50
+                                                                                                                    -------------
+                                                                                                                        2,387.80
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        364.20
+ÿúZethQuark Versi¢n 7.0ú                                                                                                 06/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 05/08/2024 AL 05/08/2024                              08:57:37
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

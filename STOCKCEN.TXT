@@ -1,0 +1,289 @@
+úZethQuark Versi¢n 7.0ú                                               30/05/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/05/2025 AL 30/05/2025        19:06:04
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+A200                                          999              1           CLA
+ABOCAT #20                                     19              3           FAB
+ABOCAT #22                                     36             10           AUD
+ABOCAT #24                                    196             78           AUD
+ACICLAV 500MG+125MG TAB                       127             23           ELI
+ACIDO FUSIDICO 2% CREMA X15G                    3              2           ELI
+AEROCAMARA (ADULTO)                             4              4           AUD
+AEROCAMARA (PEDIATRICO)                         9              3           AUD
+AFLORAC 2000MILLONES/5ML AMP.BEBIBLE           31              9           CLA
+AFTOTEX SOLUCION SPRAY X30ML                    4              1           CLA
+AGLUTINACIONES                               8668             26           AUD
+AGUA ESTERIL PARA INYEC.AMP                    33             45           AUD
+AGUJA #18                                     579            417           AUD
+AGUJA #22                                     223              7           FAB
+AGUJA #23                                      32              4           AUD
+ALBENDAZOL 200MG TAB                           44              4           CLA
+ALERCHECK PLUS 10MG CAP                       205            104           AUD
+ALERLIV 5MG TAB                                13              7           AUD
+AMBROXOL 30MG/5ML ADULTO JRBE X120ML            3              1           CLA
+AMIKACINA 500MG/2ML (IM/IV) AMP                95             62           AUD
+ANEURIN 25 000 SOLUCION INYECTABLE              0              1           CLA
+ASCORBIC PROMOCION                            111             49           AUD
+ATORVASTATINA 20MG TAB BLSTX10                 48              4           ELI
+AZIMUT 200MG/5ML SUSP.ORAL X30ML                3              6           AUD
+AZITROMICINA 500MG TAB                         25             15           AUD
+BACTAMOX 500MG TAB                            334             56           CLA
+BANES 100MG/5ML SUSP.ORAL X60ML                30             11           FAB
+BENCILPENIC BENZATINICA 1200000 AMP            39              1           ELI
+BENCILPENIC PROCAINICA 1000000 AMP            116             38           AUD
+BETACORT DEPOT 5MG+2MG/1ML AMP                  5              1           ELI
+BETAMETASONA 4MG/1ML AMP                       19              6           AUD
+BISTURI #10                                    14              1           CLA
+BK DIRECTO                                    888              5           CLA
+BONACOXIB 90MG TAB                             50              5           ELI
+BONAZOL 40MG TAB                              459            301           AUD
+BROMELIN 0,88GR SUSP X100ML                    67             15           AUD
+BROMURO DE IPRATROPIO 20MCG/D AEROSOL           3              2           AUD
+BRONCODEX COMPUESTO JRBE X120ML                 6              4           FAB
+BRUCELLA 2MET                                 991              2           EFR
+BRUCELLA AGLU TUBO                            992              2           EFR
+BRUCELLA ROSA DE BENGALA                      988              2           EFR
+CANULA BINASAL L (ADULTO)                      58              1           ELI
+CAPTOPRIL 25MG TAB BLSTX10                     10              2           ELI
+CARNET DE SANIDAD HUAURA                     9992              4           AUD
+CEA(CANCER DE PULMON Y COLON)                 982              1           CLA
+CEFMARK 500MG CAP                              36             24           CLA
+CEFTRIAXONA 1G AMP                            132            106           AUD
+CELEPOXX 200MG CAP                            330             52           AUD
+CERT. MEDICO DOCUMENTO                         11              4           JES
+CERT. MEDICO LLENADO                         9995              3           AUD
+CIDOBEL 500MG CAP                             194             90           ELI
+CLARITROX 500MG TAB                           130            150           AUD
+CLAVUTRIM 250MG/5ML SUSP X60ML                  9              3           FAB
+CLAVUTRIM CL PPS 250MG+62.5MG/5ML X60ML         4              1           ELI
+CLINDAMICINA 600MG/4ML AMP                     31              1           FABúZethQuark Versi¢n 7.0ú                                               30/05/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/05/2025 AL 30/05/2025        19:06:12
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+CLONAZEPAM 0.5MG TAB                          290             10           CLA
+CLORFEDAN 10MG/1ML (IM/IV) AMP                 15              3           FAB
+CLORFENAMINA 2MG/5ML SOL.ORAL X60ML             1              1           FAB
+CLORFENAMINA 4MG BLSTX10                       10              1           CLA
+CLORURO DE SODIO 0,9% X100ML                  235            197           AUD
+CLORURO DE SODIO 0,9% X250ML                   67             30           AUD
+CLOTRIALIV 2% CREMA X30G + APLICADOR            5              1           ELI
+COLAG HP 420GR VAINILLA                         6              3           AUD
+COLESTEROL                                    922              2           AUD
+CONCENTRADOR ALQUILER X DIA                   930              4           ELI
+CONSULTA MEDICINA G. DOMICILIO DR MOLINA     9996              3           ELI
+CONSULTA MEDICINA GENERAL DR E.JAIMES         993              7           AUD
+CONSULTA MEDICINA GENERAL DR M.DIAZ           980             20           AUD
+CONSULTA MEDICINA GENERAL DR M.MOLINA         615            158           AUD
+CONSULTA MEDICINA GENERAL DRA K.TORRES        978             11           JES
+CONSULTA TRAUMATOLOGIA DR E.HERNANDEZ         971              3           AUD
+COPROCULTIVO                                  963              2           CLA
+COPROLOGICO FUNCIONAL                         726              2           CLA
+CREATININA                                    989              8           AUD
+CULTIVO DE SECRECION FARINGEA                 929              1           CLA
+CULTIVO SEC HERIDA                            987              1           FAB
+CULTIVO SECRECION OTICA                       993              1           CLA
+CURACION                                      833              1           ELI
+DEQUAZOL ORAL 250MG/5ML SUSP X120ML             2              1           CLA
+DESAZONA 4MG TAB                              142              6           ELI
+DEXAFLAM NF 2MG/5ML JRBE X100ML                 3              2           ELI
+DEXCORTIL 4MG/2ML (IM/IV) AMP                 127             49           AUD
+DEXIDE SR 1000 TAB                            131             10           ELI
+DEXTROSA 33.3% SOL.INY 20ML                     0              1           EFR
+DEXTROSA 5% X1000ML                             2              1           EFR
+DICLOFIX 75MG/3ML (IM) AMP                    167             70           AUD
+DIGESTASE 80MG TAB                             50             10           ELI
+DIMENS 5MG/5ML JRBE X120ML                      5              3           FAB
+DOLOL 100MG/1ML GOTAS X15ML                     4              2           AUD
+DOLOL 160MG/5ML JRBE X60ML                      4              1           ELI
+DR.FLU CAP.BLANDAS                             35             15           AUD
+DRENAJE DE ABCESO 1CM                         999              1           CLA
+DULERGINA 5MG/5ML JRBE X100ML                  25              4           AUD
+ENALAPRIL 10MG TAB BLSTX10                     23              7           AUD
+ENALAPRIL 20MG TAB BLSTX10                      1              1           CLA
+ENDOVENOSO  EXTERNO                          9995              4           CLA
+ENDOVENOSO DOMICILIO                         9995              6           FAB
+ENDOVENOSO EXTERNO (TIENE VIA)               9997              2           CLA
+ENDOVENOSO INTERNO                          44857            111           AUD
+ENZIMATIK CAP                                  10             16           CLA
+EPINEFRINA 1MG/ML AMP                          32              2           ELI
+EQUIPO DE VENOCLISIS 20GOT/ML                 289             96           AUD
+EQUIPO MICROGOTERO CON VOLUTROL 100ML          12              3           EFR
+EYEMO COLIRIO 0.05% SOL.OFTA X8ML               6              1           AUD
+FACTOR REUMATOIDE CUANTITATIVO                946              1           CLA
+FLEX 4MG TAB                                   28             20           JES
+FLEX NF 2MG/1ML AMP (IM)                        1              4           AUD
+FLOREA CAP                                    270             20           CLA
+FLUIMEXINA 600MG SOB                          154            190           AUD
+FOSLISELEN 3G SOB                              14              1           AUDúZethQuark Versi¢n 7.0ú                                               30/05/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/05/2025 AL 30/05/2025        19:06:12
+PRT123()                                                              Pag.-    3
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+FOSTER INHALADOR                                4              1           CLA
+FRASCO PARA M.HECES                           106             33           AUD
+FRASCO PARA M.ORINA                           169             55           AUD
+FROTIS DIRECTO(KOH-HONGOS)                    720              1           ELI
+FRUTI FLEX FRESA X1L                            5              1           CLA
+FUROSEMIDA 40MG TAB BLSTX10                     3              2           AUD
+G.G.T.P                                       854              1           CLA
+GASA 10X10                                     82             23           AUD
+GASEOVET MS SUSP X220ML                        21             11           AUD
+GENTAMICINA 160MG/2ML AMP                      19              1           CLA
+GLUCENIL D POTE X1000G                          3              1           CLA
+GLUCOSA                                      8603             13           AUD
+GLUCOTECH                                      17             30           AUD
+GRAVDAN 50MG/5ML (IM/IV) AMP                   12              1           AUD
+HCG PRUEBA EMBARAZO RAPIDA                      8             16           AUD
+HELICOBACTER IGG                              931              1           CLA
+HELICOBACTER IGM                             9991             11           AUD
+HELICOBACTER PYORI ANTIGENO FECALES          9996              3           ELI
+HEMOG. GLICOSILADA                           9999              4           ELI
+HEMOGRAMA COMPLETO                           9977             41           AUD
+HEPABIONTA 2ML AMP                             24             38           AUD
+HEPABIONTA GRAGEAS                            111              8           AUD
+HEPATITIS B ANTIGENO AUSTRALIANO              977              2           CLA
+HIDROCORTISONA 250MG AMP                        3              1           AUD
+HIRUDOID FORTE CREMA X14G                       7              1           ELI
+HIV                                         10011              1           ELI
+HORMONAL FEMENINO(FSH-LH ESTRADIOL)           987              2           CLA
+INFILTRACION DE ARTICULACIONES               9998              1           MAR
+INMUNO PED SOBRE                              182             14           FAB
+INMUNOGLOBULINA E                             937              3           CLA
+INSTAFIBRA X500G                                1              2           AUD
+INSULINA APLICACION 1-3 WOSULIN N              10              3           ELI
+INYECTABLE   INTRAMUSCULAR EXTERNO           1320             10           AUD
+INYECTABLE INTRAMUSCULAR DOMICILIO             94              4           ELI
+ITUBIOT 500MG/2ML (IM/IV) AMP                  40              1           CLA
+JERINGA 10ML                                   33            187           AUD
+JERINGA 1ML                                   172              6           MAR
+JERINGA 20ML                                  309            195           AUD
+JERINGA 3ML                                   197              2           MAR
+JERINGA 5ML                                    55              5           FAB
+KETOPROFENO 100MG/2ML (IM) AMP                 14              6           ELI
+KETOPROPHARM 100MG/5ML (IV) AMP               252             38           AUD
+KITADOL MIGRA¥A TAB                            29              1           CLA
+LAGOSA 150MG TAB                              215              5           AUD
+LAVADO DE OIDO I                             9995              1           FAB
+LAVADO DE OIDO II                            1802              1           ELI
+LEVOFLOXACINO 500MG TAB                       143             14           CLA
+LIDOCAINA 2% X20ML AMP                          8             18           AUD
+LINCOMAX 600MG/2ML (IM/IV) AMP                 16              5           AUD
+LLAVE TRIPLE VIA                               45             91           AUD
+LOPERAMIDA 2MG TAB BLSTX10                      1              1           ELI
+LORATADINA 10MG TAB BLSTX10                    30              6           CLA
+MASCARILLA NEBULIZADORA (ADULTO)               30             13           AUD
+MASCARILLA NEBULIZADORA (PEDIATRICO)           32              7           AUD
+MEBO TUBO X15G                                  7              1           AUDúZethQuark Versi¢n 7.0ú                                               30/05/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/05/2025 AL 30/05/2025        19:06:12
+PRT123()                                                              Pag.-    4
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+METAMIZOL 1G/2ML AMP                           21              7           AUD
+METRONIDAZOL 500MG/100ML AMP X100ML             3              1           FAB
+MICROALBUMINURIA ORINA SIMPLE                9994              6           FAB
+MUCOBROL 300MG/3ML AMP                         55             20           AUD
+MUCOCETIL 100MG/5ML SOL.ORAL X120ML             8              3           ELI
+NAXODOL 550MG TAB                               0             20           ELI
+NEBULIZACION X 3                             9971             28           AUD
+NEBULIZACION X2                              9998              1           MAR
+NEUMOPUL POTE 500G VAINILLA                     4              1           ELI
+NISONA 5MG/5ML SUSP X100ML                      1              2           AUD
+NORSPAN 10MG PARCHE                             7              1           ELI
+OMEPRAZOL 40MG AMP                             55             12           AUD
+OMETAB 20MG TAB                               114              7           AUD
+ORFEDRIN 100MG TAB                            116              4           CLA
+ORFELAX 60MG/2ML (IM/IV) AMP                  154             37           AUD
+ORINA COMPLETA                               7507             47           AUD
+OTIDOL NF SOL.OTICA X5ML                       12              3           FAB
+PANEL DE ALERGIA(32 ALERGENOS)IGE ESPEC.      938              1           CLA
+PARACETAMOL 500MG TAB BLSTX10                   9              3           CLA
+PARASITOLOGICO SIMPLE                         559             28           AUD
+PARDIL 500MG TAB                               18              6           ELI
+PASAJE DOMICILIO 15                           953              2           FAB
+PASAJE DOMICILIO 6                           9978              4           ELI
+PCR CUANTITATIVA                             9987             12           AUD
+PEDIALYTE MAX SABOR UVA X500ML                  0              2           CLA
+PERFIL DE COAGULACION                         979              1           ELI
+PERFIL HEPATICO                               989             15           AUD
+PERFIL LIPIDICO                              1016             20           AUD
+PERFIL RENAL                                 9997              1           AUD
+PERFIL REUMATICO                             1003             10           AUD
+PERFIL TIROIDEO                               937              1           ELI
+PLIDOCHECK 400MG CAP                          144             16           AUD
+PORTIL NF CREMA X20G                            4              1           CLA
+PREDNISONA 5MG TAB BLSTX10                     11              3           CLA
+PRESION                                      1563             17           AUD
+PRODEFEN PLUS SOBRE                           102             20           JES
+PRONOLIS HD 120MG/4.8ML MONO 2.5%               2              1           MAR
+PRONTEL 100MG/5ML JRBE X20ML                    6              2           CLA
+PROSTASIL 0.5MG CAP                            10             40           FAB
+PROTEINURIA 24Hr.                             944              1           CLA
+PROTEVIT KIDS POTE 1000G VAINILLA               2              1           ELI
+PRUEBA DE ALERGIA                             961              4           MAR
+PRUEBA DENGUE RAPIDA IGG IGM                   22              1           ELI
+PSA LIBRE                                     857              1           CLA
+PSA TOTAL                                    1003              4           AUD
+REACCION INFLAMATORIA EN HECES               9909              8           ELI
+RODILLERA COMPRESION STANDAR                    0              1           CLA
+RPR                                         10023              1           ELI
+RX ANTEBRAZO F - L                             99              1           FAB
+RX BRAZO/HUMERO C/LADO                         99              1           AUD
+RX CADERA COMPARATIVA                        9999              1           CLA
+RX CADERA COXOFEMORAL                        9999              1           CLA
+RX CERVICO DORSAL FRONTAL Y LATERAL          1000              1           CLA
+RX COLUMNA CERVICAL F - L                    9998              1           CLA
+RX COLUMNA LUMBO SACRO F - L                 9988              8           AUDúZethQuark Versi¢n 7.0ú                                               30/05/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/05/2025 AL 30/05/2025        19:06:12
+PRT123()                                                              Pag.-    5
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+RX HOMBRO C/LADO                             9997              2           AUD
+RX MANO C/LADO                                 92              1           FAB
+RX PARRILLA COSTAL C/LADO                    9997              1           ELI
+RX PIERNA F y L                              9998              1           CLA
+RX RODILLA F y L C/LADO                      9995              1           ELI
+RX RODILLAS COMPARATIVAS                     9995              2           CLA
+RX TEMPORAL C/LADO POSICIONES                9999              1           CLA
+RX TOBILLO F y L C/LADO                      9996              2           AUD
+RX TORAX AP                                   934             27           AUD
+RX TORAX LATERAL                              997              1           ELI
+SALBUTEX 100MCG AEROSOL X200DOSIS               6              2           FAB
+SILENTUSS 30MG/5ML JRBE X120ML                  9              3           FAB
+SUERO FISIOLOGICO X1000ML                      18              5           ELI
+SUEROVIT 2ML AMP                                0              1           ELI
+SUMAQ MUJER POTE 500G AGUAJE                    2              2           FAB
+T3 LIBRE                                      905              4           MAR
+T4 LIBRE                                      998              4           ELI
+TAMSULOSINA 0.4MG TAB                         175              5           AUD
+TERBIFUN 1% SPRAY X30ML                         5              1           CLA
+TERBINAFINA 250MG TAB                         135             64           CLA
+TEST GRAHAM(OXIURUS)                         9947              7           ELI
+THEVENON                                     9991              2           CLA
+TRAMADOL 50MG/1ML AMP                           6              2           AUD
+TRICOFAR ORAL 500MG TAB                       815            185           AUD
+TRIGLICERIDOS                                 931              1           AUD
+TRIGLIOUT 100MG TAB                            99             20           ELI
+TSH ULTRASENSIBLE                            9999              4           ELI
+UREA                                         9994              9           AUD
+UROCULTIVO                                    974             15           AUD
+UROFURIN 25MG/5ML SUSP X120ML                   5              1           CLA
+VAGISTEN 0.1% CREMA X15G                        9              1           MAR
+VAXIGEL OVULOS                                 49             12           AUD
+VELOCIDAD DE SEDIMENTACION                    952              2           CLA
+VELTAM 0.4MG TAB                               98            110           FAB
+VENDA ELASTICA 5X5                             15              1           AUD
+VINIL 75MG/3ML (IM/IV) AMP                     46              2           CLA
+VITACARE POTE 1000G VAINILLA                    3              7           ELI
+VITACOSE 2ML INYECTABLE                       100             33           AUD
+Z-MOL 1G TAB                                  147             10           MAR
+ZETALER 10MG/1ML GOTAS X15ML                    1              1           CLA
+--------------------------------------------------------------------------------
+T O T A L:   260
+--------------------------------------------------------------------------------

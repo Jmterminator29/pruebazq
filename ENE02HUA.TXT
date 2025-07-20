@@ -1,0 +1,79 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 03/01/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/01/2025 AL 02/01/2025                              08:33:25
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+012594           ELI       01/01/2025 07:51  V                      CAVERO SALINAS RICARDO MARTIN  E         100.00
+012595           ELI       01/01/2025 08:50  V                      SILVA NICHO GAEL               E          45.00
+012596           ELI       01/01/2025 12:43  V                      LUIS FERNANDO CRUZ FERNANDEZ   E          35.00
+012597           ELI       01/01/2025 17:44  V                      RAMOS VILLANUEVA FLORIAN       E          69.40
+012598           ELI       01/01/2025 18:27  V                      ARONACA GARCIA THIAGO          E          74.20
+012599           ELI       02/01/2025 08:12  V                      DELFIN GONZALES                E          10.00
+012600           ELI       02/01/2025 08:16  V                      VIRGIA RAMOS CALERO            PL         45.00
+012601           ELI       02/01/2025 08:52  V                      RAMOS CALERO VIRGINA           PL         47.00
+012602           ELI       02/01/2025 08:53  V                      RAMOS CALER VIRGINIA           PL         50.00
+012603           ELI       02/01/2025 09:29  V                      MARCELO MILLAN                 E           2.00
+012604           ELI       02/01/2025 09:45  V                      JEAN POOL JHALMAR NU;EZ ESPINO E          25.00
+012605           ELI       02/01/2025 10:04  V                      ARIA BELEN BLAS VILLAJUAN      E          45.00
+012606           ELI       02/01/2025 10:05  V                      ALIN BLAS VILLAJUAN            E          45.00
+012607           ELI       02/01/2025 10:17  V                      PILAR CAMOS PICHILINGUE        E         130.00
+012608           ELI       02/01/2025 10:53  V                      LUANA ISABELA NIETO MARIN      E          45.00
+012609           ELI       02/01/2025 10:59  V                      BLAS VILLAJUAN BELEN           PL         33.50
+012610           ELI       02/01/2025 11:19  V                      NIETO MARIN LUANA              E          25.00
+012611           ELI       02/01/2025 11:08  V                      LOARTE VERDE JHONATAN ROMULO   E          30.00
+012612           ELI       02/01/2025 11:44  V                      MARCOS PICHILINGUE LUIS        E          10.00
+012613           ELI       02/01/2025 13:46  V                      JULIA REYES HERRERA            E          46.40
+012614           ELI       02/01/2025 15:28  V                      REYES HERRERA JULIA            E          45.00
+012615           ELI       02/01/2025 15:03  V                      ROSALES UGARTE MARTA           E          45.00
+012616           ELI       02/01/2025 15:39  V                      RAMOS QUISPE JACINTO           E          45.00
+012617           ELI       02/01/2025 16:47  V                      ROSALES UGARTE MARTA           E         199.70
+012618           ELI       02/01/2025 16:48  V                      ROSALES UGARTE MARTA           E          25.00
+012619           ELI       02/01/2025 16:49  V                      LENNIN MARIANELLA CABANILLAS D E          45.00
+012620           ELI       02/01/2025 16:55  V                      JULIA REYES HERRERA            E         120.00
+012621           ELI       02/01/2025 16:57  V                      CAUDENCIA RUIZ ESPINOZA        E          45.00
+012622           ELI       02/01/2025 17:13  V                      ROJAS ORTIZ MAMERTO            E          45.00
+012623           ELI       02/01/2025 17:26  V                      KLEIN CAJALEON HUERTA          PL         83.50
+012624           ELI       02/01/2025 17:36  V                      JACINTO RAMOS QUISPE           E         285.00
+012625           ELI       02/01/2025 17:45  V                      MARIANELLA CABANILLA DIAZ      E         153.00
+012626           ELI       02/01/2025 17:59  V                      GAUDENCIA RUIZ ESPINOZA        E          80.00
+012627           ELI       02/01/2025 18:02  V                      GAUDENCIA RUIZ ESPINOZA        E         121.50
+012628           ELI       02/01/2025 18:06  V                      GAUDENCIA RUIZ ESPINOZA        E           1.50
+012629           ELI       02/01/2025 18:09  V                      CRIS LAZARO SALGADO            E          45.00
+012630           ELI       02/01/2025 18:22  V                      ROJAS ORTIZ MAMERTO            E         136.80
+012631           ELI       02/01/2025 18:24  V                      LUZMILA GARCIA HERRERA         E          45.00
+012632           ELI       02/01/2025 18:34  V                      YAMUNAQUE LUIS                 E          10.00
+012633           ELI       02/01/2025 18:34  V                      CORINA SALIZ ESPINOZA          E          80.00
+012634           ELI       02/01/2025 19:22  V                      VILLAFANE BARRERA DELIA        E          45.00
+012635           ELI       02/01/2025 19:28  V                      CRIS LAZARO SALGADO            E          38.00
+012636           ELI       02/01/2025 19:36  V                      VILLAFANBE                     E          10.00
+012637           ELI       02/01/2025 20:03  V                      GARCIA HERRERA LUZMILA         E         167.00
+012638           ELI       02/01/2025 20:15  V                      JULIA REYES HERRERA            E         102.10
+012639           ELI       02/01/2025 20:19  V                      JULIA REYES HERRERA            PL        145.00
+012640           ELI       02/01/2025 20:36  V                      VILLAFANE BARRERA DELIA        E          17.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      41       2,688.60
+Ticket        :       0           0.00                                                    Plin          :       6         404.00
+Guia Interna V:      47       3,092.60                                                    Tarjeta       :       0           0.00úZethQuark Versi¢n 7.0ú                                                                                                 03/01/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/01/2025 AL 02/01/2025                              08:33:25
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+                          -------------                                                   Transferencia :       0           0.00
+                              3,092.60                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        3,092.60
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        471.70
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

@@ -1,0 +1,9 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES          REPORTE DE PRODUCTOS X LINEA (LAVADO DE OIDO)                 18:16:15
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+15261 LAVADO DE OIDO I                         ZZZZ       20.00               0         81     
+15262 LAVADO DE OIDO II                        ZZZZ       35.00            1000        859     
+16851 LAVADO DE OIDO PROMOCION                 ZZZZ       30.00               0         93     

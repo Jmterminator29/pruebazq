@@ -1,0 +1,88 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 19/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 18/07/2024 AL 18/07/2024                              10:10:09
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007422           YOS  YOS  18/07/2024 08:13  V                      RIQUELME CORDOVA ILUMINATA     E          45.00
+007423           YOS  YOS  18/07/2024 08:18  V                      CHINGA OYOLA YULISA            E         466.00
+007424           YOS  YOS  18/07/2024 08:24  V                      OSTOS URIBE KENNETH            E          45.00
+007425           YOS       18/07/2024 08:33  V                      RIQUELME CORDOVA ILUMINATA     E          10.00
+007426           YOS       18/07/2024 08:49  V                      PAJUELO FERNANDEZ VIVIANA      E          45.00
+007427           YOS  YOS  18/07/2024 09:27  V                      BARRENECHEA BLAS DELIA         E         139.50
+007428           YOS  YOS  18/07/2024 09:31  V                      BARRENECHEA BLAS DELIA         E          30.50
+007429           YOS  YOS  18/07/2024 09:40  V                      REYES PERNIA ISMAEL            E          39.00
+007430           YOS  YOS  18/07/2024 09:49  V                      MAGNI FLORES YAC               E         260.00
+007431           YOS  YOS  18/07/2024 09:51  V                      FLORES CAURINA LEONARDA        E         290.00
+007432           EFR  EFR  18/07/2024 10:18  V                      MARCELO ALCOCER ZOILA          E         130.00
+007433           EFR  EFR  18/07/2024 10:34  V                      CAPRISTAN BARROCAL MARCELO FAB E          45.00
+007434           EFR  EFR  18/07/2024 10:41  V                      CARBAJAL DE TACUCHE ADVIENTA   E          45.00
+007435           EFR  EFR  18/07/2024 10:43  V                      CARBAJAL DE TACUCHE ADVIENTA   E          10.00
+007436           EFR  EFR  18/07/2024 11:06  V                      APARICIO MENDOZA VICTOR FERNAN E          12.00
+007437           EFR  EFR  18/07/2024 11:49  V                      PAJUELO FERNANDEZ VIVIANA      E          81.00
+007438           EFR  EFR  18/07/2024 11:50  V                      PAJUELO FERNANDEZ VIVIANA      E          40.00
+007439           EFR  EFR  18/07/2024 11:52  V                      PAJUELO FERNANDEZ VIVIANA      E           1.50
+007440           EFR  EFR  18/07/2024 11:57  V                      VENTA ANULADA                  E           0.00
+007441           EFR  EFR  18/07/2024 12:01  V                      ORTIZ ROSALES AURELIA          E          45.00
+007442           EFR  EFR  18/07/2024 12:02  V                      ROSALES MORI PRUDENCIA         E          45.00
+007443           EFR  EFR  18/07/2024 12:08  V                      CARBAJAL DE TACUCHE ADVIENTA   E          50.00
+007444           EFR  EFR  18/07/2024 12:11  V                      SEBASTIAN TACUCHE JENNY        E         130.00
+007445           EFR  EFR  18/07/2024 12:26  V                      RIQUELME CORDOVA ILUMINATA     E          30.50
+007446           EFR  EFR  18/07/2024 12:33  V                      RIQUELME CORDOVA ILUMINATA     E          80.00
+007447           EFR  EFR  18/07/2024 12:35  V                      VENTOCILLA LOPEZ MARCELO       E          80.00
+007448           EFR  EFR  18/07/2024 12:49  V                      ORRILLO CHUGDEN GILBERTO       E          45.00
+007449           EFR  EFR  18/07/2024 13:09  V                      ROSALES MORI PRUDENCIA         E           3.00
+007450           EFR  EFR  18/07/2024 13:20  V                      OSTOS URIBE KENNETH            E          69.20
+007451           EFR  EFR  18/07/2024 13:40  V                      ORRILLO CHUGDEN GILBERTO       Y         132.50
+007452           EFR  EFR  18/07/2024 13:42  V                      ORRILLO CHUGDEN GILBERTO       Y         110.00
+007453           YOS       18/07/2024 15:28  V                      BUSTAMANTE TIBURCIO NANCY      E          45.00
+007454           YOS       18/07/2024 15:38  V                      AGUERO TRUJILO ANGELICA        E          45.00
+007455           YOS       18/07/2024 16:33  V                      ESPINOZA MAGUI:A NELIA         E          45.00
+007456           YOS       18/07/2024 16:38  V                      APARICIO MENDOZA VICTOR        E          45.00
+007457           YOS       18/07/2024 17:06  V                      MANRIQUE MENDIOLA LUIS ALBERTO E          45.00
+007458           YOS  YOS  18/07/2024 17:14  V                      COTRINA MENDOZA HERACLIO       E           4.00
+007459           YOS  YOS  18/07/2024 17:22  V                      BUSTAMANTE TIBURCIO NANCY      E          27.00
+007460           YOS  YOS  18/07/2024 17:30  V                      GAMARRA SANCHEZ EYMI           Y          45.00
+007461           YOS  YOS  18/07/2024 17:32  V                      MAZA INOCENTE ESTEFANY         E          45.00
+007462           YOS  YOS  18/07/2024 17:47  V                      CARRERA OLIVARES ERNESTO       E          80.00
+007463           YOS  YOS  18/07/2024 17:48  V                      CARRERA OLIVARES ERNESTO       E          31.50
+007464           YOS  YOS  18/07/2024 17:51  V                      GAMARRA SANCHEZ EYMI           Y          65.00
+007465           YOS  YOS  18/07/2024 17:58  V                      GAMARRA SANCHEZ EYMI           Y          48.00
+007466           YOS  YOS  18/07/2024 18:10  V                      GAMARRA SANCHEZ EYMI           Y          20.50
+007467           YOS       18/07/2024 18:21  V                      ESPINOZA MAGUI:A NELIA         E           4.50
+007468           YOS       18/07/2024 18:35  V                      APARICIO MENDOZA VICTOR        E           1.50
+007469           YOS       18/07/2024 19:08  V                      JULIA PICHILINGUE VASQUEZ      E         130.00
+007470           YOS       18/07/2024 19:19  V                      MAZA INOCENTE ESTEFANY         E          46.50
+007471           YOS       18/07/2024 19:20  V                      MAZA INOCENTE ESTEFANY         E           3.00
+007472           YOS       18/07/2024 19:22  V                      DOROTEO CARRERA MELANI         E          21.50
+007473           YOS       18/07/2024 19:23  V                      DOROTEO CARRERA MILAN          E          48.00
+007474           YOS       18/07/2024 19:28  V                      ORRILLO CHUGDEN GILBERTO       E          35.00
+007475           YOS  YOS  18/07/2024 19:42  V                      DOROTEO CARRERA MELANI         E           9.50
+007476           YOS  YOS  18/07/2024 20:01  V                      GAMARRA SANCHEZ EYMI           Y         104.00úZethQuark Versi¢n 7.0ú                                                                                                 19/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 18/07/2024 AL 18/07/2024                              10:10:09
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007477           YOS  YOS  18/07/2024 20:08  V                      CAMPOS DIAZ PAULINO            TR         33.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      47       3,024.20
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      55       3,582.20                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       1          33.00
+                              3,582.20                                                    Yape          :       7         525.00
+                                                                                                                    -------------
+                                                                                                                        3,582.20
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        546.38
+ÿ
+ÿ
+Nro.  Documentos Anulados :            1
+Total Documentos Anulados :         0.00

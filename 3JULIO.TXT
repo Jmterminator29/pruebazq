@@ -1,0 +1,55 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 04/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 03/07/2024 AL 03/07/2024                              08:28:13
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+006933           EFR  EFR  03/07/2024 08:24  V                      ESPINOZA MATAMORROS MARGORY    E           6.00
+006934           EFR  EFR  03/07/2024 09:24  V                      SOTO BASILIO GERALDO           E         441.00
+006935           YOS  YOS  03/07/2024 09:42  V                      FELIX GARCIA                   E           1.50
+006936           YOS  YOS  03/07/2024 10:04  V                      HUERTO DE ALBINO SALOMENA      E          80.00
+006937           YOS  YOS  03/07/2024 10:27  V                      PIANCHACHI ALVARADO JHON EWVAR Y          80.00
+006938           YOS  YOS  03/07/2024 11:17  V                      ALBINO HUARANGA LEOCADIO       E          45.00
+006939           YOS  YOS  03/07/2024 12:16  V                      ALBINO HUARANGA LEOCADIO       E          81.50
+006940           YOS  YOS  03/07/2024 12:19  V                      ALBINO HUARANGA LEOCADIO       E         195.00
+006941           YOS  YOS  03/07/2024 13:22  V                      ESPINOZA SOLIS YULI            E          56.00
+006942           YOS  YOS  03/07/2024 14:45  V                      BOTIN ROSALES LUIS             Y          80.00
+006943           YOS  YOS  03/07/2024 15:03  V                      GAMARRA CHAVEZ VILMA           E          45.00
+006944           YOS  YOS  03/07/2024 15:37  V                      CHEEL ROMERO PRISCILA ABIGAIL  E          45.00
+006945           YOS  YOS  03/07/2024 16:28  V                      HUACHACA CHAVEZ JOSUE          E          45.00
+006946           YOS  YOS  03/07/2024 16:44  V                      RUBINA RODRIGUEZ CAROLINA      E           5.00
+006947           YOS  YOS  03/07/2024 17:21  V                      MU:OZ AZA:ERO OLGA DINA        E          45.00
+006948           YOS  YOS  03/07/2024 17:29  V                      TAPIA ALOR BRIGITH             E          45.00
+006949           YOS  YOS  03/07/2024 17:50  V                      NORES GUZMAN ANGEL             E          45.00
+006950           YOS  YOS  03/07/2024 18:05  V                      NORES GUZMAN ANGEL             E          32.00
+006951           YOS  YOS  03/07/2024 18:16  V                      CHEEL ROMERO PRISCILA ABIGAIL  E          24.80
+006952           YOS  YOS  03/07/2024 18:29  V                      HUACHACA CHAVEZ JOSUE          Y         132.00
+006953           YOS  YOS  03/07/2024 18:30  V                      HUACHACA CHAVEZ JOSUE          E         101.80
+006954           YOS  YOS  03/07/2024 18:47  V                      MU:OZ AZA:ERO OLGA DINA        Y         104.50
+006955           YOS  YOS  03/07/2024 19:06  V                      RAMIREZ CABRERA EBER           Y          30.50
+006956           YOS  YOS  03/07/2024 19:12  V                      SOTO BASILIO GERARDO           Y         209.00
+006957           YOS  YOS  03/07/2024 19:28  V                      NORES GUZMAN ANGEL             E          17.50
+006958           YOS  YOS  03/07/2024 19:55  V                      NORES GUZMAN ANGEL             E          35.00
+006959           YOS  YOS  03/07/2024 20:23  V                      NORES GUZMAN ANGEL             E          27.50
+006960           YOS  YOS  03/07/2024 20:25  V                      NORES GUZMAN ANGEL             E         120.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      22       1,539.60
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      28       2,175.60                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              2,175.60                                                    Yape          :       6         636.00
+                                                                                                                    -------------
+                                                                                                                        2,175.60
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        331.83
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

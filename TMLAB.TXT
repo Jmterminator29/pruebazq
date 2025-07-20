@@ -1,0 +1,105 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 04/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 10/06/2025 AL 11/06/2025                              17:54:05
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017155           CLA       10/06/2025 08:23  V                      AYDA VALLEJO RIVERA            E         175.00
+017156           CLA       10/06/2025 08:30  V                      VENTURA OLIVARES AMINADAS      E         165.00
+017157           CLA       10/06/2025 13:49  V                      RIMARACHIN REGALADO JULIO      E           2.00
+017158           CLA       10/06/2025 13:49  V                      REGALADO BUSTAMANTE IRMA       E           2.00
+017159           CLA       10/06/2025 15:08  V                      SOLANO GUTIERREZ FORTUNATA     E          45.00
+017160           CLA       10/06/2025 15:33  V                      FORTUNATA SOLANO GUITIERREZ    E          74.00
+017161           CLA       10/06/2025 16:04  V                      SALAS GUARDIA JESUS            PL         45.00
+017162           CLA       10/06/2025 16:06  V                      RUTH SANCHE CAMBERO            PL         45.00
+017163           CLA       10/06/2025 16:08  V                      TORRES ACU;A DE REYES          E          45.00
+017164           CLA       10/06/2025 16:13  V                      GREGORIA LAGUNA                E          45.00
+017165           RFE       10/06/2025 16:44  V                      PALACIOS NAUPARI SUSAN         E          45.00
+017166           RFE       10/06/2025 16:47  V                      RAUL NIETO                     E          45.00
+017167           CLA       10/06/2025 16:58  V                      LOPEZ MORALES LULIANA          E          45.00
+017168           CLA       10/06/2025 17:02  V                      OBREGON CUENCA ERSIDA          E          45.00
+017169           CLA       10/06/2025 17:08  V                      FORTUNATA SOLANO GUTIERREZ     E         115.50
+017170           CLA       10/06/2025 17:10  V                      FLORES SUSANIBAR DOMINGO       PL         45.00
+017171           CLA       10/06/2025 17:10  V                      CARRASCO PARIASCA FLAVIA INES  PL         45.00
+017172           RFE       10/06/2025 17:29  V                      LLARES LEON EDELMIRA           E         100.50
+017173           RFE       10/06/2025 17:32  V                      FORTUNATA SOLANO               E         296.50
+017174           RFE       10/06/2025 19:22  V                      VENTA ANULADA                  C           0.00
+017175           RFE       10/06/2025 19:36  V                      VENTA ANULADA                  C           0.00
+017176           FAB       10/06/2025 19:44  V                      OBREGON CUENCA ERSILA          E         256.02
+017177           FAB       10/06/2025 19:47  V                      ERSIDA OBREGON CUENCA          E         109.50
+017178           FAB       10/06/2025 20:06  V                      SANCHEZ CAMBERO DORIS          PL          5.00
+017179           FAB       10/06/2025 20:07  V                      SILVANA SANCHEZ MONTERO        PL        141.52
+017180           FAB       10/06/2025 20:08  V                      SILVANA SANCHEZ MONTERO        PL        104.50
+017181           FAB       10/06/2025 20:10  V                      DOMINGO FLORES SUSANIBAR       PL         70.00
+017182           FAB       10/06/2025 20:12  V                      DOMINGO FLORES SUSANIBAR       PL        222.23
+017183           FAB       10/06/2025 20:42  V                      FLAVIA CARRASCO PARIASCA       PL         70.00
+017184           FAB       10/06/2025 20:42  V                      FLAVIA CARRASCO PARIASCA       PL        170.23
+017185           FAB       10/06/2025 20:56  V                      OLIVARES CARRILLO KESLEY TAYLO PL        186.50
+017186           FAB       10/06/2025 20:57  V                      OLIVARES CARRILLO KESSLY       PL        105.12
+017187           FAB       10/06/2025 21:07  V                      SILVANA SANCHEZ                E           5.00
+017188           FAB       10/06/2025 21:14  V                      RAUL   NIETO                   E           5.00
+017189           FAB       10/06/2025 21:17  V                      RAUL NIETO                     E          50.02
+017190           FAB       10/06/2025 21:27  V                      SILVAN SANCHEZ OBREGON         E           3.00
+017191           FAB       10/06/2025 21:28  V                      RUTH CAMPERO SANCHEZ           PL         57.72
+017192           FAB       10/06/2025 22:07  V                      FLAVIA CARRASCO                E           6.00
+017193           GEN       10/06/2025 22:09  V                      RUTH SANCHEZ CAMBERO           PL         70.00
+017194           GEN       10/06/2025 22:12  V                      DORIS SANCHEZ CAMBERO          PL        114.00
+017195           GEN       10/06/2025 22:14  V                      SANCHEZ CAMBERO DORIS          PL        176.50
+017196           GEN       10/06/2025 22:16  V                      BENITO SANCHEZ GUARDIA         PL        199.50
+017197           GEN       10/06/2025 22:23  V                      SILVANA SANCHEZ MONTERO        E          45.00
+017198           GEN  GEN  10/06/2025 22:34  V                      RAUL NIETO SOTO                E         144.52
+017199           GEN  GEN  10/06/2025 22:34  V                      SUSAN PALACIOS NOPARI          E           1.50
+017200           GEN  GEN  10/06/2025 22:35  V                      BENITO SALAS GUARDIA           PL         10.00
+017201           CLA       11/06/2025 10:13  V                      OSCAR VENTOCILLA               PL         10.00
+017202           CLA       11/06/2025 10:34  V                      VICTOR REYES                   E           2.00
+017203           CLA       11/06/2025 11:02  V                      LAURENTE CERNE;O WALTER        E          45.00
+017204           CLA       11/06/2025 11:04  V                      ERSIDA OBREGON CUENCA          E          47.00
+017205           CLA       11/06/2025 11:29  V                      PALACIOS NAUPARI SUSAN         E         176.00
+017206           CLA       11/06/2025 11:34  V                      LAGUNA SANCHEZ GREGORIA        E          40.00
+017207           CLA       11/06/2025 11:35  V                      LOPEZ MORALES LULIANA          E         175.00
+017208           CLA       11/06/2025 12:06  V                      JHON ERICK FELICES ESPINOZA    PL         80.00
+017209           CLA       11/06/2025 12:18  V                      LAURENTE CEVE;O WALTER         E          52.00úZethQuark Versi¢n 7.0ú                                                                                                 04/07/2025
+ELAM MEDICAL                          REPORTE DE VENTAS DIARIAS DEL 10/06/2025 AL 11/06/2025                              17:54:05
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017210           CLA       11/06/2025 15:18  V                      JUANA TORRES ACU;A             E          57.50
+017211           CLA       11/06/2025 15:47  V                      ALMAQUIO ZORRILLA ASENCIOS     E          45.00
+017212           CLA       11/06/2025 16:10  V                      SUSAN PALACIOS NAUPARI         E          45.00
+017213           CLA       11/06/2025 16:30  V                      CANDELARIO NEYRA JOSUE         E          45.00
+017214           CLA       11/06/2025 16:34  V                      LOPEZ MORALES LULIANA          E          45.00
+017215           CLA       11/06/2025 16:52  V                      VENTOCILLA ALVARADO OSCAR      E          70.00
+017216           CLA       11/06/2025 17:06  V                      CORNELIO GARCIA OLGA           E           2.00
+017217           CLA       11/06/2025 17:24  V                      HUAMANI CAPA JORGE LUIS        E          45.00
+017218           CLA       11/06/2025 17:38  V                      HUMANI CAPA LUIS               PL        120.00
+017219           CLA       11/06/2025 18:08  V                      DOMINGO FLORES SUSANIBAR       PL         56.50
+017220           CLA       11/06/2025 18:09  V                      VENTURA OLIVARES AMINADAB      E          45.00
+017221           CLA       11/06/2025 18:21  V                      SUSAN PALACIOS NAUCARI         E           1.50
+017222           CLA       11/06/2025 18:42  V                      CANDELARIO NEYRAN TOMAS        E           3.00
+017223           CLA       11/06/2025 18:47  V                      TOMAS CANDERLARIO NEYRA        E          80.00
+017224           CLA       11/06/2025 18:59  V                      SILVANA SANCHEZ MONTERO        E          53.50
+017225           CLA       11/06/2025 19:05  V                      DEXTRE MALDONADO FELIX         E          90.00
+017226           CLA       11/06/2025 19:15  V                      SILVANA SANCHEZ                E          12.00
+017227           CLA       11/06/2025 21:00  V                      CARRERA LLARES                 E         165.10
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      48       3,212.66
+Ticket        :       0           0.00                                                    Plin          :      23       2,149.32
+Guia Interna V:      71       5,361.98                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              5,361.98                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        5,361.98
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        817.87
+ÿ
+ÿ
+Nro.  Documentos Anulados :            2
+Total Documentos Anulados :         0.00

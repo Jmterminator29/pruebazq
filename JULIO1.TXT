@@ -1,0 +1,204 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 13/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/07/2024 AL 13/07/2024                              18:58:37
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+006883           YOS  YOS  01/07/2024 10:22  V                      VENTA ANULADA                  C           0.00
+006884           YOS  YOS  01/07/2024 10:23  V                      ALEJANDRO TRUJILLO YOSELIN     E          45.00
+006885           YOS  YOS  01/07/2024 10:59  V                      HUACHACA CHAVEZ JOSUE          Y          45.00
+006886           YOS  YOS  01/07/2024 11:37  V                      DOLORES GARCIA WALTER          E          80.00
+006887           YOS  YOS  01/07/2024 12:05  V                      JIMENEZ JUSTO JULIAN           E         333.50
+006888           YOS  YOS  01/07/2024 12:08  V                      BOTIN ROSALES LUIS             E          45.00
+006889           YOS  YOS  01/07/2024 12:13  V                      HUACHACA CHAVEZ JOSUE          Y         154.00
+006890           YOS  YOS  01/07/2024 12:17  V                      HUACHACA CHAVEZ JOSHUE         Y          90.00
+006891           YOS  YOS  01/07/2024 12:19  V                      JIMENEZ JUSTO JULIAN           E         130.00
+006892           YOS  YOS  01/07/2024 12:22  V                      RAMIREZ CABRERA EBER           E          45.00
+006893           YOS  YOS  01/07/2024 12:25  V                      INGA OCA¥A YOLANDA             E           2.00
+006894           EFR  EFR  01/07/2024 12:39  V                      VENTA ANULADA                  C           0.00
+006895           EFR  EFR  01/07/2024 12:43  V                      DAYSY PAUCAR ESPINOZA          E           3.00
+006896           EFR  EFR  01/07/2024 12:51  V                      INGA OCA¥A YOLANDA             E          16.50
+006897           EFR  EFR  01/07/2024 12:52  V                      INGA OCA¥A YOLANDA             E          30.00
+006898           EFR  EFR  01/07/2024 13:13  V                      BUSTAMANTE ALVARADO ASHLEY ANT E          15.00
+006899           EFR  EFR  01/07/2024 13:24  V                      BOTIN ROSALES LUIS ANGEL       E         108.00
+006900           YOS  YOS  01/07/2024 14:58  V                      MENDOZA JAIMES ROMINA          E          15.00
+006901           YOS  YOS  01/07/2024 15:34  V                      VILLANUEVA BARRIOS AIDA        E          45.00
+006902           YOS  YOS  01/07/2024 15:34  V                      VERAMENDI VILLANUEVA DANY      E          45.00
+006903           YOS  YOS  01/07/2024 17:22  V                      MUNDO HUERTAS ERIKA            E          15.00
+006904           YOS  YOS  01/07/2024 17:26  V                      IRIGOYA CAMONES FERNANDO       E          80.00
+006905           YOS  YOS  01/07/2024 17:37  V                      VILLANUEVA BARRIOS AIDA        E          70.00
+006906           YOS  YOS  01/07/2024 17:44  V                      VERAMENDI VILLANUEVA DANY      E         356.00
+006907           YOS  YOS  01/07/2024 17:58  V                      MERCEDES ZAPATA ROXANA         E          45.00
+006908           YOS  YOS  01/07/2024 18:05  V                      MERCEDES ZAPATA ROXANA         E          65.80
+006909           YOS  YOS  01/07/2024 18:20  V                      MERCEDES ZAPATA ROXANA         E          68.50
+006910           YOS  YOS  01/07/2024 18:23  V                      SAENZ LEON LOURDES             E          45.00
+006911           YOS  YOS  01/07/2024 18:48  V                      MERCEDES ZAPATA ROXANA         E           5.00
+006912           YOS  YOS  01/07/2024 18:49  V                      MU;OZ AZA;ERO OLGA             C          12.00
+006913           YOS  YOS  01/07/2024 18:59  V                      CAJALEON MU;OZ STALIN          E           3.00
+006914           YOS       01/07/2024 19:05  V                      RAMIREZ CABRERA EBER           E          55.50
+006915           YOS  YOS  01/07/2024 19:08  V                      SAENZ LEON LOURDES             E         163.80
+006916           YOS  YOS  01/07/2024 19:32  V                      ALVARADO UGARTE ENMA           E           2.00
+006917           YOS  YOS  02/07/2024 09:47  V                      BRITO RODRIGUEZ PILAR          E          30.00
+006918           YOS       02/07/2024 11:01  V                      CUSMA SEMPERTEGUI MARIA        E          45.00
+006919           YOS       02/07/2024 11:05  V                      SOTO BRAVO CONANCIO            C           2.00
+006920           YOS       02/07/2024 14:29  V                      SILVA MAUTINO YOHANA           Y          16.50
+006921           YOS       02/07/2024 14:57  V                      VENTA ANULADA                  Y           0.00
+006922           YOS       02/07/2024 15:01  V                      HUERTA BRITO NICOLAS           E          45.00
+006923           YOS  YOS  02/07/2024 16:44  V                      VERAMENDI VEGA MARIELA         E          45.00
+006924           YOS  YOS  02/07/2024 17:06  V                      HUERTA BRITO NICOLAS           E          52.50
+006925           YOS  YOS  02/07/2024 17:30  V                      VERAMENDI VEGA MARIELA         E          47.00
+006926           YOS  YOS  02/07/2024 17:36  V                      VERAMENDI VEGA MARIELA         E           6.00
+006927           YOS  YOS  02/07/2024 17:56  V                      ROJAS VERAMENDI ARTURO JULIAN  E          45.00
+006928           YOS  YOS  02/07/2024 18:28  V                      VEGA DIEGO EUGENIA             E          54.00
+006929           YOS  YOS  02/07/2024 18:33  V                      CAMPOS DIAZ MARIBEL            E          45.00
+006930           YOS  YOS  02/07/2024 18:40  V                      ROJAS VERAMENDI ARTURO JULIAN  E         280.00
+006931           YOS  YOS  02/07/2024 19:14  V                      RAMIREZ CABRERA EBER           Y          31.50
+006932           YOS  YOS  02/07/2024 19:31  V                      CAMPOS DIAZ MARIBEL            E           3.00
+006933           EFR  EFR  03/07/2024 08:24  V                      ESPINOZA MATAMORROS MARGORY    E           6.00
+006934           EFR  EFR  03/07/2024 09:24  V                      SOTO BASILIO GERALDO           E         441.00
+006935           YOS  YOS  03/07/2024 09:42  V                      FELIX GARCIA                   E           1.50
+006936           YOS  YOS  03/07/2024 10:04  V                      HUERTO DE ALBINO SALOMENA      E          80.00
+006937           YOS  YOS  03/07/2024 10:27  V                      PIANCHACHI ALVARADO JHON EWVAR Y          80.00úZethQuark Versi¢n 7.0ú                                                                                                 13/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/07/2024 AL 13/07/2024                              18:58:37
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+006938           YOS  YOS  03/07/2024 11:17  V                      ALBINO HUARANGA LEOCADIO       E          45.00
+006939           YOS  YOS  03/07/2024 12:16  V                      ALBINO HUARANGA LEOCADIO       E          81.50
+006940           YOS  YOS  03/07/2024 12:19  V                      ALBINO HUARANGA LEOCADIO       E         195.00
+006941           YOS  YOS  03/07/2024 13:22  V                      ESPINOZA SOLIS YULI            E          56.00
+006942           YOS  YOS  03/07/2024 14:45  V                      BOTIN ROSALES LUIS             Y          80.00
+006943           YOS  YOS  03/07/2024 15:03  V                      GAMARRA CHAVEZ VILMA           E          45.00
+006944           YOS  YOS  03/07/2024 15:37  V                      CHEEL ROMERO PRISCILA ABIGAIL  E          45.00
+006945           YOS  YOS  03/07/2024 16:28  V                      HUACHACA CHAVEZ JOSUE          E          45.00
+006946           YOS  YOS  03/07/2024 16:44  V                      RUBINA RODRIGUEZ CAROLINA      E           5.00
+006947           YOS  YOS  03/07/2024 17:21  V                      MU:OZ AZA:ERO OLGA DINA        E          45.00
+006948           YOS  YOS  03/07/2024 17:29  V                      TAPIA ALOR BRIGITH             E          45.00
+006949           YOS  YOS  03/07/2024 17:50  V                      NORES GUZMAN ANGEL             E          45.00
+006950           YOS  YOS  03/07/2024 18:05  V                      NORES GUZMAN ANGEL             E          32.00
+006951           YOS  YOS  03/07/2024 18:16  V                      CHEEL ROMERO PRISCILA ABIGAIL  E          24.80
+006952           YOS  YOS  03/07/2024 18:29  V                      HUACHACA CHAVEZ JOSUE          Y         132.00
+006953           YOS  YOS  03/07/2024 18:30  V                      HUACHACA CHAVEZ JOSUE          E         101.80
+006954           YOS  YOS  03/07/2024 18:47  V                      MU:OZ AZA:ERO OLGA DINA        Y         104.50
+006955           YOS  YOS  03/07/2024 19:06  V                      RAMIREZ CABRERA EBER           Y          30.50
+006956           YOS  YOS  03/07/2024 19:12  V                      SOTO BASILIO GERARDO           Y         209.00
+006957           YOS  YOS  03/07/2024 19:28  V                      NORES GUZMAN ANGEL             E          17.50
+006958           YOS  YOS  03/07/2024 19:55  V                      NORES GUZMAN ANGEL             E          35.00
+006959           YOS  YOS  03/07/2024 20:23  V                      NORES GUZMAN ANGEL             E          27.50
+006960           YOS  YOS  03/07/2024 20:25  V                      NORES GUZMAN ANGEL             E         120.00
+006961           EFR  EFR  04/07/2024 08:45  V                      TACUCHE CARBAJAL CELINDA       E          85.00
+006962           YOS  YOS  04/07/2024 10:28  V                      FELICIANO SUSANIBAR EITHAN     E          10.00
+006963           YOS  YOS  04/07/2024 10:35  V                      CARLOS RODRIGUES ZAID STEVEN   E          45.00
+006964           YOS  YOS  04/07/2024 10:42  V                      HUAMAN CHIRITO FRANK           E          25.00
+006965           YOS  YOS  04/07/2024 11:35  V                      PALOMARES VIRU JULIO           E           2.00
+006966           YOS  YOS  04/07/2024 12:06  V                      RODRIGUES GAMARRA GERARDO      TR         45.00
+006967           YOS  YOS  04/07/2024 12:51  V                      PICARDO PEREZ CESAR AUGUSTO    E          41.50
+006968           YOS  YOS  04/07/2024 14:15  V                      PINTO ESPINOZA JUANA           E          45.00
+006969           YOS  YOS  04/07/2024 15:46  V                      BERNABE TRUJILLO CAMILA        E          45.00
+006970           YOS  YOS  04/07/2024 16:18  V                      BAUTISTA ASCENCIOS YAQUELINE   E          45.00
+006971           YOS  YOS  04/07/2024 16:26  V                      REMIGIO CRUZ SANDY             Y          15.00
+006972           YOS  YOS  04/07/2024 16:28  V                      VENTOCILLA CH VEZ GEYZU        E          45.00
+006973           YOS  YOS  04/07/2024 16:37  V                      VIRU LINARES FLOR ELENA        Y          45.00
+006974           YOS  YOS  04/07/2024 16:57  V                      VILLANUEVA BARRIOS AIDA        E           3.00
+006975           YOS  YOS  04/07/2024 17:05  V                      CRUZ TEODORO KELVIN            E          45.00
+006976           YOS  YOS  04/07/2024 17:41  V                      BAUTISTA ASCENCIOS YAQUELINE   E          21.00
+006977           YOS  YOS  04/07/2024 17:44  V                      BAUTISTA ASCENCIOS YAQUELINE   E          50.00
+006978           YOS  YOS  04/07/2024 18:00  V                      BERNABE TRUJILLO CAMILA        E          10.00
+006979           YOS  YOS  04/07/2024 18:09  V                      BERNABE TRUJILLO CAMILA        E         135.60
+006980           YOS  YOS  04/07/2024 18:18  V                      VENTOCILLA CH VEZ GEYZU        Y          68.50
+006981           YOS  YOS  04/07/2024 18:22  V                      ZALAZAR ALVARO FELIX           E          45.00
+006982           YOS  YOS  04/07/2024 18:36  V                      SOTO BASILIO GERARDO           E         117.00
+006983           YOS  YOS  04/07/2024 18:42  V                      VIRU LINARES FLOR              Y         150.00
+006984           YOS  YOS  04/07/2024 18:48  V                      CRUZ TEODORO KELVIN            E          60.00
+006985           YOS  YOS  04/07/2024 18:49  V                      CRUZ TEODORO KELVIN            E           3.00
+006986           YOS  YOS  04/07/2024 19:08  V                      CALERO SUSANIBAR FLOR          E           1.50
+006987           YOS  YOS  04/07/2024 19:21  V                      CRUZ TEODORO KELVIN            E           1.00
+006988           YOS  YOS  04/07/2024 20:18  V                      CRUZ TEODORO KELVIN            E          57.00
+006989           EFR  EFR  05/07/2024 09:12  V                      VENTOCILLA CHAVEZ GEYZU MHAYER Y         118.00
+006990           YOS  YOS  05/07/2024 09:45  V                      BARRIOS VILLANUEVA AIDA        E         167.00
+006991           YOS  YOS  05/07/2024 10:05  V                      BAUTISTA ASENCIOS JACQUELINE   E         175.00
+006992           YOS  YOS  05/07/2024 10:45  V                      RAMOS VILLANUEVA JUANA         Y          45.00úZethQuark Versi¢n 7.0ú                                                                                                 13/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/07/2024 AL 13/07/2024                              18:58:37
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+006993           YOS       05/07/2024 10:53  V                      RAMOS VILLANUEVA JUANA         Y          15.00
+006994           YOS       05/07/2024 10:58  V                      CASTILLO TAMARA JUAN           E          80.00
+006995           YOS       05/07/2024 10:59  V                      TACUCHE CARBAJAL CELINDA       E          45.00
+006996           YOS       05/07/2024 11:09  V                      TACUCHE CARBAJAL CELINDA       E          10.00
+006997           YOS  YOS  05/07/2024 11:28  V                      VIRU LINARES FLOR              E          45.00
+006998           YOS  YOS  05/07/2024 12:25  V                      TACUCHE CARBAJAL CELINDA       E          46.00
+006999           YOS  YOS  05/07/2024 12:26  V                      TACUCHE CARBAJAL CELINDA       Y         130.00
+007000           YOS  YOS  05/07/2024 12:33  V                      VIRU LINARES FLOR ELENA        Y          85.00
+007001           YOS  YOS  05/07/2024 13:00  V                      BOTIN ROSALES LUIS ANGEL       Y          65.00
+007002           YOS  YOS  05/07/2024 15:39  V                      COLONIA POMA VICTORIANA        E          91.50
+007003           YOS  YOS  05/07/2024 15:45  V                      PRINCIPE RAMIREZ LUCILA        E          45.00
+007004           YOS  YOS  05/07/2024 15:51  V                      VIDAL BARDALES LIAM            E          24.00
+007005           YOS       05/07/2024 16:27  V                      SOTO BASILIO GERARDO           E         117.00
+007006           YOS       05/07/2024 16:38  V                      MARTINEZ TITO SUSANA           E          80.00
+007007           YOS       05/07/2024 16:38  V                      CLAROS MARTINEZ SANTOS         E          45.00
+007008           YOS       05/07/2024 16:41  V                      ESTUPI;AN MATEO ALEJANDRO      E          45.00
+007009           YOS       05/07/2024 16:58  V                      SANTAMARIA PE:A YOVANI         Y          45.00
+007010           YOS       05/07/2024 17:07  V                      VERAMENDI VILLANUEVA DANY      E          45.00
+007011           YOS       05/07/2024 17:08  V                      VILLANUEVA BARRIOS AIDA        E          80.00
+007012           YOS  YOS  05/07/2024 17:14  V                      DAVILA PALOMARES WILDER        E          45.00
+007013           YOS  YOS  05/07/2024 17:27  V                      ESTUPI;AN MATEO ALEJANDRO      E          48.00
+007014           YOS  YOS  05/07/2024 17:46  V                      SANTAMARIA PE:A YOVANI         E          30.50
+007015           YOS  YOS  05/07/2024 18:27  V                      VERAMENDI VILLANUEVA DANY      E         303.80
+007016           YOS  YOS  05/07/2024 18:36  V                      DAVILA PALOMARES WILDER        E          87.30
+007017           YOS  YOS  05/07/2024 19:10  V                      CLAROS MARTINEZ SANTOS         E          45.00
+007018           YOS       05/07/2024 19:18  V                      DAVILA PALOMARES WILDER        E         145.00
+007019           EFR  EFR  06/07/2024 08:50  V                      CARBAJAL DE TACUCHE ADVIENTA   E         153.00
+007020           EFR  EFR  06/07/2024 09:10  V                      BALLONA LLONTOP ANA PAOLA      Y          30.00
+007021           YOS  YOS  06/07/2024 11:14  V                      JESUS MANUEL µLVARO CERNA      E          45.00
+007022           YOS  YOS  06/07/2024 11:54  V                      HUERTA BRITO NICOLAS           E          45.00
+007023           YOS  YOS  06/07/2024 12:03  V                      SANDOVAL CONTRERAS FREDY       E           2.00
+007024           YOS  YOS  06/07/2024 12:10  V                      VILLANUEVA CRUZ KEVIN          Y          45.00
+007025           YOS  YOS  06/07/2024 12:29  V                      ALVARO CERNA JESUS             E          76.50
+007026           EFR  EFR  06/07/2024 12:43  V                      VENTA ANULADA                  C           0.00
+007027           YOS  YOS  06/07/2024 12:44  V                      BRITO RODRIGUES PILAR          Y         126.00
+007028           YOS  YOS  06/07/2024 12:48  V                      BOTIN ROSALES LUIS ANGEL       Y          45.00
+007029           EFR  EFR  06/07/2024 13:00  V                      DAYSY PAUCAR ESPINOZA          C         125.00
+007030           EFR  EFR  06/07/2024 13:49  V                      BRITO RODRIGUES PILAR          E          35.00
+007031           YOS  YOS  06/07/2024 15:12  V                      OROLLA SALVADOR VERONICA       E          45.00
+007032           RFE       06/07/2024 15:57  V                      OROLLA SALVADOR VERONICA       E          68.00
+007033           YOS  YOS  06/07/2024 16:01  V                      EVANGELISTA MAGUI;A ARTURO     E          45.00
+007034           YOS  YOS  06/07/2024 17:20  V                      GUAYANAY CARRERA ONORATO       Y          45.00
+007035           YOS  YOS  06/07/2024 17:40  V                      SOLIS ENGRACIO ALEXIS KLIVERT  Y          45.00
+007036           YOS  YOS  06/07/2024 17:47  V                      OROLLA SALVADOR VERONICA       E          31.00
+007037           YOS  YOS  06/07/2024 18:01  V                      EVANGELISTA MAGUI;A ARTURO     E         268.00
+007038           YOS  YOS  06/07/2024 18:29  V                      SOTO BASILIO GERARDO           E         112.00
+007039           YOS  YOS  06/07/2024 18:32  V                      SOTO BASILIO GERARDO           E          51.50
+007040           YOS  YOS  06/07/2024 18:40  V                      SANCHEZ MANDAMIENTO FLAVIA     TR         45.00
+007041           YOS  YOS  06/07/2024 18:41  V                      SANCHEZ MANDAMIENTO ARLET      TR         45.00
+007042           YOS  YOS  06/07/2024 18:42  V                      GUAYANAY CARRERA ONORATO       Y         172.50
+007043           YOS  YOS  06/07/2024 18:56  V                      BOTIN ROSALES LUIS ANGEL       Y         363.00
+007044           YOS  YOS  06/07/2024 19:18  V                      JESUS MANUEL µLVARO CERNA      E          87.80
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas úZethQuark Versi¢n 7.0ú                                                                                                 13/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/07/2024 AL 13/07/2024                              18:58:37
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       3         139.00
+Factura       :       0           0.00                                                    Efectivo      :     122       8,017.20
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:     158      10,917.20                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       3         135.00
+                             10,917.20                                                    Yape          :      30       2,626.00
+                                                                                                                    -------------
+                                                                                                                       10,917.20
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      1,665.17
+ÿ
+ÿ
+Nro.  Documentos Anulados :            4
+Total Documentos Anulados :         0.00

@@ -1,0 +1,46 @@
+úZethQuark Versi¢n 7.0ú                                               15/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 14/02/2022 AL 14/02/2022        09:01:48
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT#24 CAJAX50UNID                           0u48           0u1         ISA
+AGUJA #18 CAJAX100UNID.                         1u61           0u4         SAN
+ANTIGENO HISOPADO ENERO 2022                   16              4           SAN
+ASCORBIC-C + MATERIAL DE APLICACION             5              1           ISA
+CLUVAX 100mg CAJAX3CAPSULAS VAGINALES           1              1           ISA
+CONSULTA DR MARIO                            9814              3           ISA
+CONSULTA OBSTETRICIA                          878              4           SAN
+CREATININA                                    795              1           ISA
+DICLOFENACO AMP 75MGx3ML CAJX100                0u4            0u1         ISA
+ENDOVENOSO INTERNO CLINICA                    402              1           SAN
+FRASCO ORINA ESTERIL                           16              1           ISA
+GLUCOSA                                      9700              2           ISA
+HCG SUB UNIDAD BETA CUANTITATIVO              975              1           ISA
+HELICOBACTER PYLORI IGM                      1174              1           ISA
+HEMOGLOBINA HEMATOCRITO                       909              1           SAN
+HEMOGRAMA COMPLETO                            786              6           SAN
+INYECTABLE                                   1599              3           SAN
+JERINGA 10ML CAJAX100UNID.                      1u52           0u2         SAN
+JERINGA 5ML CAJAX100UNID.                       0u66           0u1         ISA
+LIDOCAINA 1% AMPOLLA 3,5ML                     39              1           ISA
+LIKFERR +MATERIAL DE APLICACION                 2              1           SAN
+ORINA COMPLETA                                239              5           SAN
+PARASITOLOGICO SIMPLE                        1634              3           SAN
+PCR CUANTITATIVA                              108              1           SAN
+PENICILINA PROCAIN 1000000 CAJAX10              2u2            0u1         ISA
+PERFIL HEPATICO                               341              2           SAN
+PERFIL LIPIDICO                               732              2           ISA
+PERFIL RENAL                                  152              1           ISA
+PRUEBA RAPIDA ENERO                             6              1           ISA
+PSA(Ag.PROSTATICO)                            930              1           ISA
+REACCION INFLAMATORIA EN HECES                589              1           SAN
+RX TORAX FRONTAL                              396              2           ISA
+TERAPIA COVID                                 349              4           ISA
+TEST GRAHAM(OXIURUS)                         1752              1           SAN
+TRAUMATOLOGIA DR CORAL                        898              1           ISA
+UREA                                         1734              1           ISA
+UROCULTIVO                                    459              1           ISA
+--------------------------------------------------------------------------------
+T O T A L:    37
+--------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 02/09/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/09/2024 AL 01/09/2024                              08:55:50
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+008779           ELI       01/09/2024 11:33  V                      RODRIGUEZ PANTA GABRIELA       E          22.00
+008780           ELI       01/09/2024 12:09  V                      GIRON LOPEZ LOAN               E          45.00
+008781           ELI       01/09/2024 12:23  V                      VILLANUEVA APONTE EVAN         E          45.00
+008782           ELI       01/09/2024 12:48  V                      JIMENES CIPRIANO EUGENIO       E          39.50
+008783           ELI       01/09/2024 12:52  V                      JIMENES CIPRIANO EUGENIO       E          14.00
+008784           ELI       01/09/2024 13:12  V                      VENTA ANULADA                  E           0.00
+008785           EFR  EFR  01/09/2024 13:24  V                      VILLANUEVA APONTE EVANS        E          46.00
+008786           ELI       01/09/2024 14:25  V                      GIRON LOPEZ LUAN               E          88.00
+008787           EFR       01/09/2024 16:05  V                      VASQUEZ AYAY NEYMAR            PL         45.00
+008788           EFR       01/09/2024 16:23  V                      VASQUEZ AYAY NEYMAR            PL         27.00
+008789           ELI       01/09/2024 18:04  V                      ESTUPI;AN SAMANAMUD YAMILET    E          21.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :       8         321.00
+Ticket        :       0           0.00                                                    Plin          :       2          72.00
+Guia Interna V:      10         393.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                                393.00                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                          393.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :         59.95
+ÿ
+ÿ
+Nro.  Documentos Anulados :            1
+Total Documentos Anulados :         0.00

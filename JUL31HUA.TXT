@@ -1,0 +1,56 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 01/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 31/07/2024 AL 31/07/2024                              09:24:01
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007794           EFR  EFR  31/07/2024 08:32  V                      BLAS CAPILLO JHAJAYRA NAHOMI   E         155.00
+007795           EFR  EFR  31/07/2024 09:13  V                      OBREGON ESPINOZA ELIZABETH LUC E         160.00
+007796           EFR  EFR  31/07/2024 09:15  V                      OBREGON ESPINOZA ELIZABETH     E          45.00
+007797           YOS  YOS  31/07/2024 10:42  V                      CALZADO FERNANDEZ ERENIA       E          27.00
+007798           YOS  YOS  31/07/2024 10:52  V                      GARCIA RAMIREZ JULIO           E          45.00
+007799           YOS  YOS  31/07/2024 10:53  V                      DIAZ DE LA CRUZ RITA SOLEDAD   E          45.00
+007800           YOS  YOS  31/07/2024 11:00  V                      GUERRERO DE GIRALDO GLORIA     E         150.00
+007801           YOS  YOS  31/07/2024 12:17  V                      DOLORES GARCIA WALTER          E          80.00
+007802           YOS  YOS  31/07/2024 13:10  V                      DIAZ DE LA CRUZ RITA SOLEDAD   E         130.00
+007803           YOS  YOS  31/07/2024 14:40  V                      PILCO PONCE YOSELIN            E          15.00
+007804           YOS  YOS  31/07/2024 15:41  V                      ESPINOZA APONTE YACK           E          45.00
+007805           YOS  YOS  31/07/2024 15:50  V                      ROMERO SANCHEZ ROSA            E          15.00
+007806           YOS  YOS  31/07/2024 16:01  V                      APOLINARIO CORTES ROSA         E          45.00
+007807           YOS  YOS  31/07/2024 16:06  V                      SOTO BASILIO GERARDO           E         345.00
+007808           YOS  YOS  31/07/2024 16:33  V                      LOPEZ SANTILLAN WILSON         E          45.00
+007809           YOS  YOS  31/07/2024 16:43  V                      VELEZ CHAN DENIS               E          45.00
+007810           YOS  YOS  31/07/2024 17:00  V                      AGUAYO SIPAN ROSALIA           E          45.00
+007811           YOS  YOS  31/07/2024 17:20  V                      JAIMES QUICHIZ LUIS            E          45.00
+007812           YOS  YOS  31/07/2024 17:29  V                      CAURINO VILLAVICENCIO FREDY    E          45.00
+007813           YOS  YOS  31/07/2024 17:51  V                      DOLORES VILELA DIEGO           E          45.00
+007814           YOS  YOS  31/07/2024 18:15  V                      APOLINARIO CORTES ROSA         E          40.50
+007815           YOS  YOS  31/07/2024 18:31  V                      LOPEZ SANTILLAN WILSON         E           3.00
+007816           YOS  YOS  31/07/2024 18:41  V                      PANANA SANCHES JUANA           E          45.00
+007817           YOS  YOS  31/07/2024 18:44  V                      VELEZ CHAN DENIS               E          42.50
+007818           YOS  YOS  31/07/2024 18:58  V                      AGUAYO SIPAN ROSALIA           E          80.50
+007819           YOS  YOS  31/07/2024 18:58  V                      AGUAYO SIPAN ROSALIA           E          41.50
+007820           YOS  YOS  31/07/2024 19:13  V                      JAIMES QUICHIZ LUIS            E         116.50
+007821           YOS  YOS  31/07/2024 19:30  V                      CAURINO VILLAVICENCIO FREDY    E           3.00
+007822           YOS  YOS  31/07/2024 19:41  V                      PANANA SANCHEZ JUANA           E          31.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      29       1,976.00
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      29       1,976.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              1,976.00                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        1,976.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        301.38
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

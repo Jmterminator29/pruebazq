@@ -1,0 +1,1927 @@
+úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:53
+PRT292()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+000003    DIAZEPAM                                
+000004    NALTREXONA                              
+000005    LEVODROPROPIZINA                        
+000006    MONTELUKAST SODICO                      
+000007    FAMOTIDINA                              
+000008    RANITIDINA                              
+000018    TRETINOINA                              
+000020    ASTEMIZOL                               
+000030    ACEMETACINA                             
+000038    FENOTEROL                               
+000040    FLUOCINOLONA,ACETONIDO DE               
+000044    HALCINONIDA                             
+000051    KETOTIFENO                              
+000055    PREDNISONA                              
+000056    PROMETACINA                             
+000057    SALBUTAMOL                              
+000059    TEOFILINA                               
+000060    TERFENADINA                             
+000063    ACETILSALICILICO,ACIDO                  
+000073    PARACETAMOL                             
+000083    DIMETOTIACINA                           
+000092    PROPIFENAZONA                           
+000115    VITAMINA  A                             
+000119    PANTHENOL                               
+000120    VITAMINA  C                             
+000154    BIFONAZOL                               
+000160    GRISEOFULVINA                           
+000161    KETOCONAZOL                             
+000168    TINIDAZOL                               
+000169    TIOCONAZOL                              
+000171    ISOCONAZOL,NITRATO DE                   
+000183    LOPERAMIDA,CLORHIDRATO DE               
+000184    OXITETRACICLINA                         
+000191    DOMPERIDONA                             
+000199    BISACODILO                              
+000218    AMPICILINA                              
+000223    DICLOXACILINA                           
+000235    ALOPURINOL                              
+000236    BENCIDAMINA,CLORHIDRATO DE              
+000237    BETAMETASONA                            
+000238    BUFEXAMACO                              
+000252    FLURBIPROFENO                           
+000260    KETOPROFENO                             
+000264    ORGOTEINA                               
+000268    PIROXICAM                               
+000275    TIAPROFENICO,ACIDO                      
+000278    CARBOCISTEINA                           
+000289    CLORPROMACINA                           
+000294    METOCLOPRAMIDA                          
+000295    METOPIMACINA                            
+000313    CLORANFENICOL                           
+000394    ISOAMINILCITRATO                        
+000397    ORCIPRENALINA                           
+000412    AMOXICILINA                             
+000416    ERITROMICINA                            úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:53
+PRT292()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+000419    SULFAMETOXAZOL+TRIMETOPRIMA             
+000505    DIFLUOCORTOLONA,VALERIANATO DE          
+000507    METILPREDNISOLONA                       
+000519    CLOTRIMAZOL                             
+000520    METRONIDAZOL                            
+000521    NISTATINA                               
+000522    TOLNAFTATO                              
+000523    TETRACICLINA                            
+000524    DIMETILPOLISILOXANO                     
+000544    DEXTROMETORFANO,BROMHIDRATO DE          
+001008    ACICLOVIR                               
+001010    ACONITO                                 
+001014    ALANTOINA                               
+001015    ALBENDAZOL                              
+001017    ALCANFOR                                
+001023    ALPRAZOLAM                              
+001029    ALUMINIO,HIDROXIDO DE                   
+001032    AMBROXOL                                
+001035    AMILORIDA,CLORHIDRATO DE                
+001037    AMINOFILINA                             
+001038    AMIODARONA,CLORHIDRATO DE               
+001042    AMONIO,CLORURO DE                       
+001045    ANFOMICINA                              
+001046    ANFOTERICINA                            
+001052    ASCORBICO,ACIDO                         
+001053    ASIATICOSIDO                            
+001054    ASPARTAMO                               
+001063    AZATADINA,MALEATO DE                    
+001064    AZATIOPRINA                             
+001070    BACITRACINA                             
+001073    BARIO,SULFATO DE                        
+001075    BELLADONA                               
+001082    BENDROFLUMETIAZIDA                      
+001083    BENFOTIAMINA                            
+001084    BENZALCONIO,CLORURO DE                  
+001086    BENZOCAINA                              
+001092    BILIS DE BUEY,EXTRACTO DE               
+001093    BILIS,PREPARACIONES DE                  
+001096    BIOTINA                                 
+001097    BIPERIDENO                              
+001100    BISMUTO,SUBCARBONATO DE                 
+001105    BROMOCRIPTINA                           
+001115    CAFEINA                                 
+001116    CALCIO                                  
+001118    CALCIO,CARBONATO DE                     
+001119    CALCIO,CASEINATO DE                     
+001121    CALCIO,DOBESILATO DE                    
+001125    CALCIO,PANTOTENATO DE                   
+001128    CAPTOPRIL                               
+001129    CARBAMAZEPINA                           
+001132    CARBETOPENTANO                          
+001134    CARBINOXAMINA,MALEATO DE                
+001148    CEFTAZIDIMA                             
+001149    CEFRADINA                               
+001150    CEFTRIAXONA                             úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:53
+PRT292()                                                              Pag.-    3
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+001151    CEFUROXIMA                              
+001152    CELULASA                                
+001153    CETILICO Y ESTEARILICO,ALCOHOL          
+001154    CETILPIRIDINIO,CLORURO DE               
+001155    CETRIMIDA                               
+001157    CICLOFOSFAMIDA                          
+001158    CICLOSPORINA                            
+001160    CIMETIDINA                              
+001161    CINARIZINA+DIHIDROERGOCRISTINA          
+001162    CINCOCAINA                              
+001163    CINOXACINO                              
+001164    CIPROFLOXACINO                          
+001166    CIPROTERONA,ACETATO DE                  
+001167    CISPLATIN                               
+001171    CITRICO,ACIDO                           
+001173    CLEBOPRIDE                              
+001175    CLEMIZOL,PENICILINA                     
+001177    CLIDINIO,BROMURO DE                     
+001180    CLOBETASONA                             
+001181    CLOBUTINOL                              
+001187    CLONAZEPAM                              
+001190    CLORACEPATO DIPOTASICO                  
+001197    CLORMEZANONA                            
+001200    CLORQUINALDOL                           
+001202    CLORPROPAMIDA                           
+001209    CLOXAZOLAM                              
+001211    COBAMAMIDA                              
+001213    CODEINA,FOSFATO DE                      
+001216    DANAZOL                                 
+001217    DECUALINIO,CLORURO DE                   
+001219    DESOGESTREL                             
+001228    DEXTROSA                                
+001232    DIBENCOZIDE                             
+001238    DIETILAMINA,SALICILATO DE               
+001248    DIHIDROERGOTOXINA                       
+001257    DIPIRIDAMOL                             
+001260    DISULFIRAMO                             
+001266    DOXICICLINA                             
+001268    DROSERA                                 
+001273    EFEDRINA,SULFATO DE                     
+001275    ELECTROLITOS SOLUCION                   
+001276    ENALAPRIL,MALEATO DE                    
+001280    ERGOCALCIFEROL                          
+001290    ESPIRONOLACTONA                         
+001291    ESTAZOLAM                               
+001292    ESTRADIOL,BENZOATO DE                   
+001294    ESTRADIOL,VALERIANATO DE                
+001296    ESTREPTODORNASA                         
+001297    ESTRIOL                                 
+001300    ETAMSILATO                              
+001301    ETILEFRINA                              
+001304    ETINILESTRADIOL                         
+001305    ETIONAMIDA                              
+001307    ETOPOSIDE                               
+001310    EUCALIPTOL                              úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:53
+PRT292()                                                              Pag.-    4
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+001316    FENILAZODIAMINOPIRIDINA,CLORHI          
+001317    FENILEFRINA                             
+001324    FENITOINA                               
+001326    FENOLFTALEINA                           
+001333    FERROSO,SULFATO                         
+001335    FLAVOXATO                               
+001340    FLUFENAMICO,ACIDO                       
+001343    FLUNITRACEPAM                           
+001347    FLUOCORTOLONA                           
+001353    FOLICO,ACIDO                            
+001361    FURAZOLIDONA                            
+001362    FUROSEMIDA                              
+001368    GESTRINONA                              
+001371    GLIBENCLAMIDA                           
+001379    GLUCOSA ANHIDRA                         
+001382    GONADOTROPINA CORIONICA                 
+001383    GONADOTROPINA POSMENOPAUS HUMA          
+001384    GRAMICIDINA                             
+001390    HALOPERIDOL                             
+001398    HESPERIDINA                             
+001400    HEXETIDINA                              
+001402    HIDROCLOROTIAZIDA                       
+001403    HIDROCORTISONA                          
+001406    HIDROXIPROGESTERONA,CAPROATO D          
+001409    HIMECROMONA                             
+001421    IOPAMIDOL                               
+001428    ISOSORBIDE                              
+001431    ISRADIPINO                              
+001435    KAOLIN                                  
+001436    KETAMINA,CLORHIDRATO DE                 
+001443    LACTICO,ACIDO                           
+001451    LEVOMEPROMACINA                         
+001454    LIDOCAINA                               
+001455    LINESTRENOL                             
+001467    LORACEPAM                               
+001468    LOVASTATINA                             
+001473    MAGNESIO,HIDROXIDO DE                   
+001481    MECLOFENAMATO SODICO                    
+001482    MEDROXIPROGESTERONA,ACETATO DE          
+001491    MENTOL                                  
+001493    MEPIRAMINA                              
+001498    METILCELULOSA                           
+001499    METILDOPA                               
+001517    MIANSERINA,CLORHIDRATO DE               
+001520    MINERAL,ACEITE                          
+001522    MINOXIDIL                               
+001523    MITOMICINA                              
+001525    NADOLOL                                 
+001526    NAFAZOLINA                              
+001527    NALIDIXICO,ACIDO                        
+001528    NANDROLONA                              
+001531    NEOMICINA                               
+001537    NIFEDIPINO                              
+001542    NITROFURANTOINA                         
+001544    NITROGLICERINA                          úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:53
+PRT292()                                                              Pag.-    5
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+001549    NORFLOXACINA                            
+001558    OXANTEL,PAMOATO DE                      
+001565    OXITOCINA                               
+001581    PENTAZOCINA                             
+001585    PICOSULFATO SODICO                      
+001587    PILOCARPINA,CLORHIDRATO DE              
+001593    PIPEMIDICO,ACIDO                        
+001595    PIPOTIACINA                             
+001596    PIRACETAM                               
+001599    PIRANTEL,PAMOATO DE                     
+001602    PIRIDOSTIGMINA,BROMURO DE               
+001605    PIRIMETAMINA                            
+001607    PIRITINOL                               
+001625    PREDNISOLONA                            
+001634    PROPAFENONA,CLORHIDRATO DE              
+001645    PYGEUM AFRICANUM,EXTRACTO DE            
+001655    RIFAMPICINA                             
+001657    ROXITROMICINA                           
+001661    SACARINA                                
+001664    SALICILICO,ACIDO                        
+001666    SECNIDAZOL                              
+001667    SELENIO,SULFURO DE                      
+001671    SILIMARINA                              
+001678    SODIO, BICARBONATO DE                   
+001682    SODIO, CLORURO DE                       
+001689    SODIO, NITROPRUSIATO DE                 
+001698    SULBUTIAMINA                            
+001701    SULFACETAMIDA SODICA                    
+001702    SULFADIAZINA                            
+001709    SULFANILAMIDA                           
+001715    SULPIRIDA                               
+001720    TENOXICAM                               
+001741    TIOPENTAL SODICO                        
+001742    TIOPROPERACINA                          
+001745    TIRATRICOL                              
+001754    TRAMADOL CLORHIDRATO                    
+001761    TRIAMCINOLONA                           
+001763    TRIAZOLAM                               
+001765    TRICLOSAN                               
+001769    TRIFUSAL                                
+001782    VACUNAS                                 
+001798    VITAMINA  E                             
+001801    VITAMINAS ASOCIADAS CON MINERA          
+001802    VITAMINAS ASOCIADAS CON OTROS           
+001806    XILOMETAZOLINA,CLORHIDRATO DE           
+001814    ZINC, OXIDO DE                          
+001820    ACETILCISTEINA                          
+001822    ACETOBUTOLOL                            
+001830    ALQUITRAN                               
+001869    BENCILO, BENZOATO DE                    
+001871    BETAXOLOL,CLORHIDRATO DE                
+001875    BISOXATINA                              
+001904    CIANOCOBALAMINA                         
+001923    CLOROQUINA, FOSFATO DE                  
+001943    DEXAMETASONA                            úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-    6
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+001958    DIOSMINA                                
+001967    EPINEFRINA                              
+001969    ERGOLOID, MESILATO DE                   
+001973    ESTRADIOL                               
+001974    ESTREPTOQUINASA                         
+002015    FLUTAMIDA                               
+002028    GESTONORONA CAPROATO                    
+002042    HIDROXOCOBALAMINA                       
+002044    INDAPAMIDA                              
+002072    LISURIDA,HIDROGENMALEATO DE             
+002089    MESTEROLONA                             
+002090    SODICO, METAMIZOL                       
+002147    BENZOILO,PEROXIDO DE                    
+002149    PINAVERIO, BROMURO DE                   
+002191    RIBOFLAVINA                             
+002251    VINCRISTINA, SULFATO DE                 
+002259    FLUOROURACILO                           
+002272    GATIFLOXACINO                           
+002273    HEDERA HELIX                            
+002274    VALDECOXIB                              
+002275    POLIMALTOSA+HIDROXIDO DE HIERRO         
+002276    POLIMALTOSA+HUDROXI DE HIERRO+ACIDO FOLI
+002277    LEVOCETIRIZINA DICLORHIDRATO            
+002278    PARACETAMOL+DEXTROMET+FENILE+CLORFENAMIA
+002279    LORNOXICAM                              
+002279    RUPATADINA                              
+002280    BENCILO DE BENZOATO+AZUFRE              
+002281    ZAFIRLUKAST                             
+002282    QUINALAPRIL+HIDROCLOROTIAZIDA           
+002282    BILASTINA                               
+002283    CARBOMERO                               
+002284    MAGALDRATO+SIMETICONA                   
+002285    SALICILICO ACIDO+TENSIOACTIVOS+ALOE VERA
+002286    AZUFRE+CLOROXILENOL+RESORCINA           
+002287    RESORCINA+AZUFRE                        
+002288    SEUDOEFEDRINA+TRIPROLIDINA              
+002289    CODEINA+SEDOEFEDRINA+TRIPROLIDINA       
+002290    KETOROLACO                              
+002291    IBUPROFENO+SEUDOEFEDRINA                
+002292    SUPLEMENTO VITAMINICO                   
+002293    FUCUS VESICULOSUS L.+MARRUBIO           
+002294    ANTIOXIDANTE                            
+002295    METILPREDNISOLONA ACEPONATO             
+002296    DESLORATADINA                           
+002297    SALBUTAMOL+AMBROXOL                     
+002298    SIMETICONA                              
+002299    METOCLOPRAMIDA+CLORDIAZEPOXIDO+SIMETICON
+002300    SODIO PICOSULFATO+VASELINA+AGAR         
+002301    PLANTAGO OVATA FORSK+CASSIA ANGUSTIFOLIA
+002302    BECLOMETASONA+SALBUTAMOL                
+002303    CODEINA+PSEUDOEFEDRINA+CLORFENAMINA     
+002304    AMOXICILINA+AMBROXOL                    
+002305    HIERRO BISGLICINA QUELATO               
+002306    CALCIO+VITAMINA D3                      
+002307    MEMANTINA CLORHIDRATO                   úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-    7
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+002308    SILDENAFILO                             
+002309    ESOMEPRAZOL                             
+002310    LANSOPRAZOL                             
+002311    ANTIMICOTICO-ANTIBACTERIANO-ANTIINFLAMAT
+002312    FLUCONAZOL                              
+002314    PARGEVERINA                             
+002315    SULFAMETOXAZOL+TRIMETOPRIMA+GUAIFENESINA
+002316    ACIDO FUSIDICO                          
+002317    TOBRAMICINA+DEXAMETASONA                
+002318    SULFADIAZINA DE PLATA                   
+002319    CLORFENAMINA                            
+002320    COTRIMOXAZOL                            
+002321    GENTAMICINA                             
+002322    ACHIOTE                                 
+002324    ADRENALINA                              
+002325    AGUA OXIGENADA                          
+002326    ALCOHOL                                 
+002327    ALENDRONATO                             
+002328    ALFALFA                                 
+002329    ALFUZOSIN                               
+002330    ALGAS MARINAS                           
+002331    ALOE VERA                               
+002332    AMINOµCIDOS                             
+002333    AMONIO GLICOLATO                        
+002334    AMOXICILINA+SULBACTAM                   
+002335    AVENA                                   
+002336    VIT.A+VIT.E+PIRIDOXINA CLOR+COENZIMA Q10
+002337    MULTIVITAMINICO                         
+002338    AMOXICILINA+BROMHEXINA                  
+002339    ALENDRONICO,ACIDO                       
+002340    TRIMEBUTINA MALEATO                     
+002341    LISINA,CLONIXINATO DE+ERGOTAMINA TARTRAT
+002342    BETAHISTINA                             
+002343    DICLOFENACO+PARACETAMOL                 
+002344    AMBROXOL+CLENBUTEROL                    
+002345    GLIBENCLAMIDA+METFORMINA CLORHIDRATO    
+002346    CITALOPRAM                              
+002347    CLOPIDOGREL                             
+002348    CITICOLINA+NIMODIPINO                   
+002349    SODIO, VALPROATO                        
+002350    LIOFILIZADO                             
+002351    HIERRO GLICINATO+ACIDO FOLICO           
+002352    SULPIRIDA+DIAZEPAM+PIRIDOXINA CLORHIDRAT
+002353    MEBEVERINA CLORHIDRATO                  
+002354    DICLOFENACO+PRIDINOL                    
+002355    DEXTROMETORFANO+FENILEFRINA+CARBINOXAMIN
+002356    DEXTROMETORFANO+FENILE+FENILPRO+CARBINOX
+002357    TRAMADOL+PARACETAMOL                    
+002358    HIDROCLOROTIAZIDA+TRIAMTERENO           
+002359    SIMETICONA+DIAZEPAM+METOCLOPRAMIDA      
+002360    AMPICILINA+SULBACTAM                    
+002361    METRONIDAZOL+CLOTRIMAZOL+LIDOCAINA      
+002362    BARNIDIPINO, CLORHIDRATO                
+002363    DESONIDA+KETOCONAZOL                    
+002364    SULBACTAM+CEFOPERAZONA                  úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-    8
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+002365    SODIO, PERBORATO                        
+002366    NEUROREGULADOR, NEUROANABOLICO          
+002367    ANTIACIDO                               
+002368    GLUCOSAMINA+CONDROITIN SULFATO SODICO   
+002369    DORZOLAMINA+TIMOLOL                     
+002370    ALQUITRAN DE HULLA+ACIDO SALICILICO     
+002371    LACTATO DE AMONIO                       
+002372    LIMECICLINA                             
+002373    ALFATRADIOL                             
+002374    FLUOCINOLONA+HIDROQUINONA+TRETINOINA    
+002375    ACEPONATO DE HIDROCORTISONA             
+002376    VARDENAFIL                              
+002377    MUPIROCINA                              
+002378    ERGOTAMINA+CAFEINA                      
+002379    ROSIGLITAZONA                           
+002380    PIOGLITAZONA                            
+002381    SUPLEMENTO DIETETICO                    
+002382    LINDANO                                 
+002383    LAXANTE                                 
+002384    CARBO.CALCIO+HIDR.MAGNES+SIMETICONA     
+002385    MANZANILLA+SALICILICO ACIDO+ZINC+TILO   
+002386    TILO+MANZANILLA+SALICILICO ACIDO+UREA   
+002387    NISTATINA+OXIDO ZINC+VIT.D3+ACIDO BORICO
+002388    NIFUROXAZIDA+ATAPULGITA ACTIVADA        
+002389    RACECADOTRILO                           
+002390    ALUMINIO HIDROXIDO+MAGNESIO+SIMETICONA  
+002391    LEPIDIUM MAYENLI                        
+002392    LEPIDIUM MEYENI WALP                    
+002393    PARACETAMOL+NAPROXENO SODICO            
+002394    METAMIZOL                               
+002395    VIT.A+VIT.B+VIT.D+HIERRO                
+002396    TEOFILINA+EFEDRINA+HIDROXICINA          
+002397    DESOGESTREL+ETINILESTRADIOL             
+002398    GLICERILO+SORBITAN+AC.ESTEARICO         
+002399    AMPICILINA+BALSAMICOS                   
+002400    KETOROLACO+METILBROMURO DE HOMATROPINA  
+002401    ALENDRONICO ACIDO+CITRA.CALCIO+VIT.D    
+002402    NEOMICINA+POLIMIXINA B+DEXAMETASONA     
+002403    CITRATO DE CALCIO+COLECALCIOFEROL       
+002404    TIROTRICINA+BENOXINATO+CETILPIRIDINO    
+002405    FRAMICETINA+DEXAMETASONA                
+002406    CLOTRIMAZOL+GENTAMICINA+DEXAMETASONA    
+002407    PENICILINA G CLEMIZOL+PENICILINA SODICA 
+002408    PARACETAMOL+CAFEINA                     
+002409    PARACETAMOL+PAMABRON+MEPIRAMINA MALEATO 
+002410    ACETILSALICILICO,ACIDO+CAFEINA          
+002411    ALCANFOR+EUCALIPTO+MENTOL               
+002412    PAPAINA                                 
+002413    NEOMICINA+BACITRACINA+CINC              
+002414    SULFAMETOXAZOL+TRIMETOPRIMA+BROMHEXINA  
+002415    BARIO SULFATO+SIMETICONA                
+002416    NEOMICINA+CLOTRIMAZOL+DEXAMETASONA      
+002417    SUPLEMENTO NUTRICIONAL                  
+002418    CLORMADINONA+ETINILESTRADIOL            
+002419    DEXTROMETORFANO+FENILEFRINA+DIFENHIDRAMIúZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-    9
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+002420    TIAMINA+PIRIDOXINA+CIANOCOBALAMINA      
+002421    TIAMINA+PIRIDOXINA+VIT.B12              
+002422    SALICILATO DE METILO+MENTOL             
+002423    DEXTROMETORFANO+GUAIFENESINA            
+002424    DEXTROMETORFANO+DIFENHIDRAMINA          
+002425    GUAIFENESINA+SEUDOEFEDRINA+DEXTROMETORFA
+002426    BROMHEXINA+BENCIDAMINA+GUAIFENESINA     
+002427    EZETIMIBA+SIMVASTATINA                  
+002428    GALANTAMINA                             
+002429    METRONIDAZOL+CLOTRIMAZOL+DEXAMETASONA   
+002430    METFORMINA+ROSIGLITAZONA                
+002431    ACIDO POLIACRILICO                      
+002432    VENLAFAXINA                             
+002433    ANFEBUTAMONA                            
+002434    ALENDRONICO,ACIDO+COLECALCIFEROL        
+002435    TENONITROZOLE                           
+002436    LOXOPROFEN SODICO                       
+002437    BETAMETASONA+CLOTRIMAZOL+NEOMICINA      
+002438    CINARIZINA+CALCIO DOBESILATO            
+002439    LEVOTIROXINA+TRIYODOTIRONINA            
+002440    CIPROTERONA+ETINILESTRADIOL             
+002441    NORELGESTROMIN+ETINILESTRADIOL          
+002442    HIDROXIPROLINA+HIALURONICO ACIDO        
+002443    DIHIDROXIPROGESTERONA+ESTRADIOL         
+002444    EZETIMIBE                               
+002445    REBOXETINA                              
+002446    FLUOROMETOLONA+TETRAHIDROZOLINA         
+002447    ALFA TOCOFEROL                          
+002448    GARCINIA CAMBOGIA                       
+002449    ANTIANEMICO VITAMINICO                  
+002450    ANTIANEMICO SUPLEMENTO VITAMINICO       
+002451    ANTIANEMICO SUPLE.VITAM.GESTACION-LACTAN
+002452    PENTOSANPOLISULFONICO ESTER             
+002453    MOMETASONA+SALICILICO ACIDO             
+002454    SIMETICONA+ASPERGILLUS ORYZAE           
+002455    LIDOCAINA+PRILOCAINA                    
+002456    DICLOFENACO SODICO+FENAZOPIRIDINA       
+002457    FENIRAMINA+NAFAZOLINA                   
+002458    HIDROSMINA                              
+002459    CLINDAMICINA+BENZOILO PEROXIDO          
+002460    LEFLUNOMIDA                             
+002461    DONEPEZILO CLORHIDRATO                  
+002462    PELARGONIUM SIDOIDES                    
+002463    ISOTRETINOINA                           
+002464    CILOSTAZOL                              
+002465    CARBO.CALCIO+CONCHA DE OSTRAS+VIT.D     
+002466    CALCIO+ACIDO FOLICO+VIT.D               
+002467    CLONIXINATO DE LISINA                   
+002468    BUTOCONAZOL                             
+002469    CLOPERASTINA                            
+002470    ERITROMICINA+CINC                       
+002471    OTILONIO DE BROMURO                     
+002472    ARIPIPRAZOL                             
+002473    EPINASTINA+SEUDOEFEDRINA                
+002474    LORATADINA+DEXAMETASONA                 úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-   10
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+002475    PREGABALINA                             
+002476    HIDROCLORURO CIPROFLOXACINO+CIPROFLO BET
+002477    CINARIZINA+DIERTINA                     
+002478    METRONIDAZOL+NISTATINA                  
+002479    ESTRADIOL+GESTODENO                     
+002480    FENILEFRINA+ALCOHOL POLIVINILICO        
+002481    IBUPROFENO+CODEINA FOSFATO              
+002482    ACETATO DE DERMOPRESINA                 
+002483    CEFDINIR                                
+002484    ACIDO IBANDRONICO                       
+002485    DULOXETINA                              
+002486    FIBRINOLISINA,DESOXIRRIBONUCLEASA,CLORAN
+002487    PARACETAMOL+ACIDO ACETILSALICILICO+CAFEI
+002488    CETIRIZINA+PSEUDOFEDRINA                
+002489    DIPIRONA                                
+002490    LEVONORGESTREL+ETINILESTRADIOL          
+002491    LOSARTAN+HIDROCLOROTIAZIDA              
+002492    TACROLIMUS                              
+002493    ACEPONATO DE METILPREDNISOLONA          
+002494    MEDROXIPROGESTERONA+ESTRADIOL           
+002495    ENALAPRIL+HIDROCLOROTIAZIDA             
+002496    LUBRICANTE                              
+002497    VACUNA C/INFECC.OTORRINOL Y BRONCOPULMON
+002498    BIMATOPROST                             
+002499    HIDROXIPROGESTERONA+PROGESTERONA+ESTRADI
+002500    MAGNESIO+MAGNESIO CARBONATO+CINC        
+002501    NORETISTERONA+ESTRADIOL                 
+002502    METOCARBAMOL+IBUPROFENO                 
+002503    METILERGONOVINA                         
+002504    ORFENADRINA+IBUPROFENO+CEFEINA          
+002505    TELMISARTAN                             
+002506    TELMISARTAN+HIDROCLOROTIAZIDA           
+002507    FLUTRIMAZOL                             
+002508    ETINILESTRADIOL+GESTODENO               
+002509    PARACETAMOL+CAFEINA+ERGOTAMINA          
+002510    SALBUTAMOL+GUAIFENESINA+SODIO CITRATO   
+002511    SALBUTAMOL+BECLOMETASONA                
+002512    MICONAZOL+GENTAMICINA+BETAMESONA        
+002513    HOMATROPINA+DIMETICONA                  
+002514    NEOMICINA+ISOCONAZOL+DIFLUCORTOLONA     
+002515    PROTECTOR DE LA PIEL                    
+002516    SIMETICONA+HOMATROPINA                  
+002517    CARBO.CALCIO+VIT.D                      
+002518    ETORICOXIB                              
+002519    ROSUVASTATINA                           
+002520    CIPROFLOXACINO+DEXAMETASONA             
+002521    TINIDAZOL+MICONAZOL                     
+002522    CIPROFLOXACINO+HIDROCORTISONA           
+002523    SIMETICONA+METOCLOPRAMIDA               
+002524    NAPSILATO DEXTROPOPOXIFENO+ACI.ACETI+CAF
+002525    CLINDAMICINA+CLOTRIMAZOL                
+002526    MELOXICAM+METOCARBAMOL                  
+002527    SULFADIAZINA DE PLATA+LIDOCAINA         
+002528    CLINDAMICINA+KETOCONAZOL                
+002529    SITAGLIPTINA                            úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-   11
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+002530    LEVODOPA+CARBIDOPA                      
+002531    IRBESARTAN+HIDROCLOROTIAZIDA            
+002532    ERITROMICINA+BROMHEXINA                 
+002533    PARACETAMOL+DICLOFENACO                 
+002534    PRIDOSTIGMINA BROMURO                   
+002535    ESCITALOPRAM                            
+002536    GLIMEPIRIDA+ROSIGLITIAZONA              
+006020    MEFENAMICO,ACIDO                        
+006090    FLUNARIZINA                             
+007100    ACETAZOLAMIDA                           
+008000    CLORZOXAZONA+PARACETAMOL                
+008060    GINKGO BILOBA                           
+008070    GINSENG,EXTRACTO DE RAIZ DE             
+008080    GLICOL,SALICILATO DE                    
+008082    ACETIL PARAMINOFENOL                    
+008086    ALUMINIO HIDROXIDO+MAGNESIO             
+008087    ALUMINIO,SULFATO DE                     
+008088    AMETOPTERINA,SODICA                     
+008089    AMINOACETICO,ACIDO                      
+008094    ANTAZOLINA                              
+008095    ASPARAGINA                              
+008097    ASPERGILLUS ORYZAE                      
+008098    AZULENO                                 
+008099    BALSAMO DEL PERU                        
+008101    BENSERAZIDA+LEVODOPA                    
+008103    BENZOICO,ACIDO                          
+008104    BLEOMICINA,SULFATO DE                   
+008107    CALCIFEROL                              
+008108    CALCIO,FLUORURO DE                      
+008109    CALCIO,FOLINATO DE                      
+008110    CALCIO,GLICEROFOSFATO DE                
+008112    CAOLIN,PECTINA                          
+008114    CARBOHIDRATOS,PREPARADOS DE             
+008115    CARBOXIMETILCELULOSA                    
+008116    ACELTILCARNITINA                        
+008117    CASTA¥A DE INDIAS,EXTRACTO DE           
+008120    CEFODIZIMA                              
+008121    CICLONAMINA                             
+008122    CICLOPIROXOLAMINA                       
+008123    CILAZAPRIL                              
+008124    CISTEINA                                
+008125    CITARABINA                              
+008127    CLARITROMICINA                          
+008128    AMOXICILINA+AC.CLAVULANICO              
+008130    CLINDAMICINA,FOSFATO DE                 
+008131    CLORFENIRAMINA,TANATO DE                
+008137    CLORTETRACICLINA                        
+008138    CLOSTRIDIOPEPTIDASA                     
+008139    CLOZAPINA                               
+008140    CODERGOCRINA,MESILATO DE                
+008141    COLESTIPOL,CLORHIDRATO DE               
+008142    COLINA,CLORURO DE                       
+008143    CORBADRINA                              
+008144    CRATAEGUS OXYACANTHA,TINTURA D          
+008146    DEHIDROCOLATO SODICO                    úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-   12
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008147    DEHIDROCOLICO ACIDO                     
+008148    DEXFENFLURAMINA                         
+008149    DIBUCAINA                               
+008152    DIFENHIDRAMINA                          
+008156    DOXILAMINA,SUCCINATO DE                 
+008157    DUASORB                                 
+008160    EFEDRINA,TANATO DE                      
+008162    ENZIMAS DIGESTIVAS                      
+008163    ENZIMAS PROTEOLITICAS                   
+008165    ERGOTAMINA, TARTRATO DE                 
+008166    ESCINA                                  
+008167    ESCOPOLAMINA                            
+008168    ESTRADIOL,FENILPROPIONATO DE            
+008169    ESTRADIOL,HEMISUCCINATO DE              
+008170    ESTROGENOS CONJUGADOS                   
+008171    ESTROGENOS PROGESTAGENOS                
+008172    ESTRONCIO,CLORURO DE                    
+008176    FENILPENTOL                             
+008177    FENILPROPANOLAMINA,CLORHIDRATO          
+008178    FENILTOLOXAMINA                         
+008179    FENIRAMINA,MALEATO DE                   
+008182    FILGRASTIM                              
+008183    FINASTERIDE                             
+008184    FLUCONAZOLE                             
+008185    FLUFENACINA                             
+008186    FLUOCINONIDO                            
+008187    FLUOR                                   
+008189    FOSFATO,TRICALCICO                      
+008191    FRAMICETINA                             
+008195    GEMFIBROSIL                             
+008196    LISADOS BACTERIANOS                     
+008197    LISINA,CLONIXINATO DE                   
+008198    LOBELIA,TINTURA DE                      
+008200    LORATADINA                              
+008202    MAGNESIO,ALGINATO DE                    
+008205    MAGNESIO,TRISILICATO DE                 
+008206    MAGNESIO,CARBONATO DE                   
+008207    MAGNESIO,OXIDO DE                       
+008208    MALTA,DIASTASA DE                       
+008209    MANGANESO                               
+008210    MEBENDAZOL                              
+008211    MEFENESINA                              
+008212    MENTA PIPERITA,ESENCIA DE               
+008213    METACRESOLSULFONICO C/ METANOL          
+008214    METAPROTERENOL                          
+008215    METILGLUCAMIDA                          
+008216    METILO,NICOTINATO DE                    
+008217    METILO,SALICILATO DE                    
+008218    METILPARABENO                           
+008219    METIONINA                               
+008220    METISOPRINOL                            
+008223    MIROTON,EXTRACTO SECO DE                
+008224    MIRTECAINA                              
+008225    MOCLOBEMIDE                             
+008227    MOROXIDINA (ABOB)                       úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:54
+PRT292()                                                              Pag.-   13
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008228    MUCOPOLISACARIDO,POLISULFATO D          
+008229    NADROPARINA                             
+008230    NICOTINAMIDA                            
+008231    NILUTAMIDA                              
+008232    NITROFURAZONA                           
+008233    GESTODENO                               
+008234    GLICERILO,GUAYACOLATO DE                
+008235    GLICERINA                               
+008236    GLICINA                                 
+008237    GLICLACIDA                              
+008238    GLUTAMICO,ACIDO                         
+008239    GOMENOL                                 
+008240    GRANUGENOL                              
+008241    GUAIFENESINA                            
+008242    GUAYACOL,ETER GLICERICO DE              
+008246    HIDROXIZINA,CLORHIDRATO DE              
+008247    HIDROXICLOROQUINA,SULFATO DE            
+008249    HIDROXIPROPILMETILCELULOSA              
+008251    HIERRO                                  
+008252    HISTAMINA                               
+008253    IBUPROFENO                              
+008255    INTERFERON                              
+008257    IPECACUANA                              
+008258    ITRACONAZOL                             
+008259    LACTOBACILOS ACIDOFILOS                 
+008260    LACTOSA                                 
+008261    LACTOSUERO                              
+008263    LEUPROLIDE,ACETATO DE                   
+008264    LEVONORGESTREL                          
+008265    NOPOXAMINA,LAURILSULFATO DE             
+008266    NORGESTREL                              
+008267    NORTRIPTILINA                           
+008268    NOSCAPINA,PAMOATO DE                    
+008270    OCTREOTIDA                              
+008271    ARGININA                                
+008272    AZUFRE COLOIDAL                         
+008273    AZUFRE, PREPARACIONES DE                
+008274    BECLOMETASONA                           
+008276    BUFLOMEDIL                              
+008279    CARBAZOCROMO,SULFONATO SODICO           
+008280    CEFADROXILO                             
+008281    CEFOTAXIMA                              
+008283    CLENBUTEROL, CLORHIDRATO DE             
+008284    CLOBETASOL PROPIONATO                   
+008285    CLONIDINA                               
+008286    CLOXACILINA SODICA                      
+008287    DEXTROPROPOXIFENO                       
+008288    DIBEKACINA                              
+008291    DOPAMINA                                
+008292    ENOXACINA                               
+008293    ESPECTINOMICINA                         
+008294    ESTREPTOMICINA                          
+008295    FENAZOPIRIDINA                          
+008297    GENTAMICINA, SULFATO DE                 
+008299    MINOCICLINA                             úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:55
+PRT292()                                                              Pag.-   14
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008300    NAPROXENO                               
+008301    NICARDIPINA                             
+008302    GLICOPROTEINAS                          
+008303    HEPARINA                                
+008304    HOMATROPINA                             
+008305    ISOTIPENDILO                            
+008306    LINCOMICINA MONOHIDRAT,CLORHID          
+008307    NORETISTERONA                           
+008309    OXIMETAZOLINA, CLORHIDRATO DE           
+008310    ORFENADRINA                             
+008311    OXACILINA SODICA                        
+008312    PIRIDOXINA                              
+008315    QUINIDINA                               
+008316    ROSOXACINA                              
+008317    TESTOSTERONA, ENANTATO DE               
+008318    TIAMINA                                 
+008319    TICLOPIDINA                             
+008320    TIORIDACINA                             
+008321    TIZANIDINA                              
+008322    TOBRAMICINA, SULFATO DE                 
+008323    TRAZODONA                               
+008325    TRIHEXIFENIDILO                         
+008326    TULOBUTEROL                             
+008327    VERAPAMIL                               
+008328    VITAMINA  B, COMPLEJO DE                
+008329    VIT.B1+VIT.B6+VIT.B12                   
+008331    VITAMINA  K                             
+008332    VITAMINA  PP                            
+008333    VIT.A+VIT.E                             
+008334    VIT.A+VIT.C+VIT.D                       
+008335    XANTINA, PREPARACIONES                  
+008336    YODAMINA, SAL MEGLUMINICA DE            
+008337    YODO                                    
+008338    YODOCLOROHIDROXIQUINOLEINA              
+008339    YODOPOVIDONA                            
+008340    YOPODATO SODICO                         
+008341    ZINC                                    
+008342    ZINC, UNDECILENATO DE                   
+008343    CEFAZOLINA                              
+008344    DIHIDROXIPROGESTERONA                   
+008345    OMEPRAZOL                               
+008346    ONDANSETRON                             
+008347    OXACEPAM                                
+008348    OXETACAINA                              
+008350    OXIBENZONA                              
+008352    OXOMEMACINA                             
+008353    PANCREATINA                             
+008354    PAPAVERINA, CLORHIDRATO DE              
+008357    PENICILINA G.BENZATINICA                
+008358    PENICILINA G.POTASICA                   
+008359    PENICILINA G.PROCAINICA                 
+008360    PENICILINA G.SODICA                     
+008361    PENICILINA V.POTASICA                   
+008362    PEPSINA                                 
+008363    PETROLATO                               úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:55
+PRT292()                                                              Pag.-   15
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008364    PICOSULFOL                              
+008365    PIRILAMINA, MALEATO DE                  
+008366    PLASMA HUMANO,FRACCIONES DE             
+008367    PLATA, PREPARACIONES DE                 
+008368    POLIDOCANOL                             
+008369    POLIMIXINA                              
+008371    POLIVINILPIRROLIDONA, YODO              
+008372    POLIVITAMINICOS                         
+008373    POTASIO, ASPARTATO DE                   
+008374    POTASIO, BICARBONATO DE                 
+008375    POTASIO, BROMURO DE                     
+008376    POTASIO, CLAVULANATO DE                 
+008378    POVIDONAYODO                            
+008380    PRASTERONA, ENANTATO DE                 
+008383    PROGESTERONA                            
+008386    PROPERICIACINA                          
+008387    PROPILENGLICOL                          
+008388    PROPINOXATO                             
+008390    PROTEINAS                               
+008391    PROTEINAS + ELECTROLITOS                
+008392    PSEUDOEFEDRINA                          
+008395    QUINOFORMO                              
+008398    RUIBARBO                                
+008399    RUTINA                                  
+008402    SAL, SUSTITUTOS DE LA                   
+008403    SALICILAMIDA                            
+008410    SIMVASTATINA                            
+008411    SODIO, BENZOATO DE                      
+008412    SODIO, BORATO DE                        
+008413    SODIO, BROMURO DE                       
+008414    SODIO, CITRATO DE                       
+008415    SODIO, ESTEARATO DE                     
+008416    SODIO, FLUORURO DE                      
+008417    SODIO, FOSFATO DE                       
+008418    SODIO, MONOFLUORFOSFATO DE              
+008419    SODIO, SUCCINATO DE                     
+008421    SOLCOSERYL                              
+008422    SORBITOL                                
+008424    SULBACTAM                               
+008426    SULFADIMETILOXAZOL                      
+008427    SULFAMETIZOL                            
+008428    SULFISOXAZOL                            
+008429    SULTAMICILINA                           
+008430    SUMATRIPTAN                             
+008431    SUPRARRENAL, EXTRACTO DE                
+008432    TAMOXIFEN                               
+008436    TERPINOL                                
+008437    TESTOSTERONA, FENILPROPIONATO           
+008438    TESTOSTERONA, ISOCAPROATO DE            
+008439    TESTOSTERONA, PROPIONATO DE             
+008441    TETRAHIDROZOLINA                        
+008442    TETRAZEPAM                              
+008444    TIBOLONA                                
+008445    TIMOL                                   
+008447    TIROTRICINA                             úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:55
+PRT292()                                                              Pag.-   16
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008448    TOCOFEROL                               
+008449    TOLU, BALSAMO DE                        
+008450    TOMILLO, EXTRACTO DE                    
+008452    TREONINA                                
+008453    TRIMEPRIMINA                            
+008456    TRINITRINA                              
+008459    UNDECILENICO, ACIDO                     
+008462    VALPROATO DE SODIO                      
+008463    VINBLASTINA, SULFATO DE                 
+008464    VIT.B+VIT.C                             
+008466    OLIGOMEROS PROCIANIDOLICOS              
+008469    TESTOSTERONA, DECANOATO DE              
+008481    VITAMINA  B12                           
+008482    VITAMINA  B2                            
+008483    VITAMINA  B6                            
+008485    VITAMINA  D                             
+008486    VITAMINA  D2                            
+008487    VITAMINA  D3                            
+008489    NIACINAMIDA                             
+008491    ACECLOFENACO                            
+008492    ACIDO LACTICO                           
+008493    ACITRETINO                              
+008494    AESCULUS HIPPOCASTANUM                  
+008495    ALCOHOL POLIVINILICO                    
+008496    ALENDRONATO SODICO                      
+008497    ALFA-MILASA                             
+008498    ALFUZOSINA                              
+008499    ALIMENTO LACTEO                         
+008500    ALIMENTO LACTEO SIN LACTOSA             
+008501    AMILASA                                 
+008504    AZELAICO, ACIDO                         
+008505    AZITROMICINA                            
+008506    BENECTONIO                              
+008507    BENTAZEPAM                              
+008508    BETACAROTENO                            
+008509    BEZAFIBRATO                             
+008510    BIRENZONIO, BROMURO DE                  
+008511    BISMUTO, SUBSALICILATO DE               
+008512    BORICO,ACIDO                            
+008513    BROMACEPAN                              
+008514    BROMOPRIDA                              
+008515    BUDESONIDA                              
+008516    BUMETANIDA                              
+008517    BUPIVACAINA                             
+008518    CALCIO,CLORURO DE                       
+008519    CALCIO,GLUCONATO DE                     
+008520    CALCITONINA                             
+008521    CALCITRIOL                              
+008522    CANDIDA KRUSEI                          
+008523    CARBOPLATINO                            
+008524    CARTAMO, ACEITE DE                      
+008525    CEFACLOR                                
+008526    CEFALEXINA                              
+008528    CEFETAMET PIVOXIL                       
+008529    CEFPODOXIME                             úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:55
+PRT292()                                                              Pag.-   17
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008531    CICLAMATO SODICO                        
+008533    CILASTATINA                             
+008534    CIPROFIBRATO                            
+008535    CISAPRIDA                               
+008536    CLORDIAZEPOXIDO                         
+008538    CLORZOXAZONA                            
+008539    COBRE                                   
+008540    CODEINA                                 
+008541    COLEGENASA                              
+008542    COLECALCIFEROL                          
+008543    COLFOSCERIL PALMITATO                   
+008544    DESONIDA                                
+008545    DICLOFENACO RESINATO                    
+008546    DIDANOSINA                              
+008547    DIFENIDOL                               
+008548    DIHIDROCODEINA                          
+008549    DIVIPEFRINA                             
+008550    DOCUSATO SODICO                         
+008551    EDETATO DISODICO                        
+008552    ESPARFLOXACINO                          
+008553    ESTRADIOL, CIPIONATO DE                 
+008554    ESTRADIOL, ENANTATO DE                  
+008555    ETODOLACO                               
+008556    ETOFIBRATO                              
+008557    ESCHERICHIA COLI EXTRACTO               
+008558    FELIPRESINA                             
+008559    FENILBENCIMIDAZOLSULFONCIO, AC          
+008560    FENOFIBRATO                             
+008561    FENOL                                   
+008562    FENOXIMETIL, PENICILINA                 
+008563    FENTICONAZOL                            
+008564    FERROSO,FUMARATO                        
+008565    FITOMENADIONA                           
+008566    FLEROXACINA                             
+008567    FLUBENDAZOL                             
+008568    FLUMAZENIL                              
+008569    FLUOROMETOLONA                          
+008571    FLURANDRENOLIDA                         
+008572    FLUTICASONA, PROPIONATO DE              
+008573    FLUVASTATINA                            
+008574    FOSFATIDOS DE HUEVO                     
+008575    GADOLINEO-DPTA                          
+008576    GELATINA DEGRADADA, POLIMERIZA          
+008577    GLUTAMINA                               
+008578    GRANISETRON                             
+008579    HAMAMELIS                               
+008580    HEXADIMINA                              
+008581    IDEBENONA                               
+008582    IMIPENEM                                
+008583    INDOMETACINA                            
+008584    IOVERSOL                                
+008585    INSULINAS                               
+008586    INTERLEUKINA 2                          
+008587    IPRATROPIO, BROMURO DE                  
+008588    IPRIFLAVONA                             úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:55
+PRT292()                                                              Pag.-   18
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008589    ISOCONAZOL                              
+008590    ISOFLURANE                              
+008592    KETOROLACO TROMETAMINA                  
+008593    LACIPIDINE                              
+008594    LACTASA                                 
+008595    LACTULOSA                               
+008596    LAMOTRIGINA                             
+008597    LANSOPRAZOLE                            
+008598    LEUCOVORINA                             
+008599    LEVOBUNOLOL                             
+008600    LIPASA                                  
+008601    LIPIDOS NEUTRALES                       
+008602    LISINOPRIL DIHIDRATO                    
+008604    MAGNESIO, CLORURO DE                    
+008605    MAIZ, ACEITE DE                         
+008606    MAGALDRATO                              
+008607    MAZINDOL                                
+008608    MEGLUMINA, DIATRIZOATO DE               
+008609    MEGLUMINA, IOTROXATO DE                 
+008610    MESNA                                   
+008612    METILPOLISILOXANO                       
+008614    METOTREXATO                             
+008615    MICONAZOL, NITRATO DE                   
+008616    MIDAZOLAM                               
+008617    MISOPROSTOL                             
+008618    MOLGRAMOSTIM                            
+008619    MOMETASONA                              
+008620    MONOFLUORFOSFATO                        
+008621    NABUMETONE                              
+008622    NEOSTIGMINA                             
+008623    NIFLUMICO, ACIDO                        
+008624    NIMESULIDA                              
+008625    NIMODIPINO                              
+008626    NITRENDIPINO                            
+008627    NITROMERSOL                             
+008628    NIZATIDINA                              
+008630    NONOXINOL                               
+008631    OCTILMETOXICINAMATO                     
+008632    OFLOXACINA                              
+008633    ORNIDAZOL                               
+008634    OXIBUPROCAINA                           
+008635    PALMITICO, ACIDO DE                     
+008636    PANTOTENICO, ACIDO DE                   
+008637    PEFLOXACINA                             
+008638    PENTOXIFILINA                           
+008639    PICRATO, BUTESIN DE                     
+008640    PIMOZIDA                                
+008641    PIROCTONA OLAMINA                       
+008642    POLIACRILICO ACIDOS                     
+008643    POLIVIDONE                              
+008644    POLIVILINICO, ALCOHOL                   
+008645    POTASIO, CLORURO DE                     
+008646    POTASIO, YODURO DE                      
+008648    PROTEASA                                
+008649    PROTEINAS+CARBOHIDRATOS+GRASAS          úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:55
+PRT292()                                                              Pag.-   19
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008650    PROTEINAS+CARBOHIDR+GRASAS+VIT          
+008651    PSEUDOMONICO, ACIDO                     
+008652    PSYLLIUM HUSK                           
+008653    QUINFAMIDA                              
+008654    RAZOXANE                                
+008655    SABAL SERRULATA                         
+008657    SELEGILINA                              
+008660    SILICONA                                
+008661    SODIO, CASEINATO DE                     
+008662    SODIO, DIATRIZOATO DE                   
+008663    SOLIDAGO VIRGA AUREA                    
+008664    SOMATROPINA                             
+008665    SOYA                                    
+008666    SUCCINILCOLINA, CLORURO DE              
+008667    TAUROCOLICO, ACIDO DE                   
+008668    TERAZOSINA                              
+008669    TETRIZOLINA                             
+008670    TIOMERSOL                               
+008671    TOLOBUTEROL                             
+008672    TRANDOLAPRIL                            
+008673    TRIFLUOROMETIL                          
+008674    TRIMEBUTINA                             
+008675    TRIMPALMITIN                            
+008676    TRIPTORELINA                            
+008677    TROCLOSENE SODICO                       
+008678    TROMANTADINE                            
+008679    TROMETAMINA                             
+008681    UREA                                    
+008682    UROQUINASA                              
+008683    VERALIPRIDA                             
+008684    WARFARINA SODICA                        
+008685    ZIDOVUDINA                              
+008686    ZINC, SULFATO DE                        
+008687    ZINC, PIRITIONATO                       
+008688    ZOLPIDEM                                
+008689    ZOPICLONA                               
+008691    ACARBOSA                                
+008692    ACETILSULFISOXAZOL                      
+008693    ALPROSTADIL                             
+008694    AMBROXOL, CLORHIDRATO DE                
+008695    AMILOPECTINA                            
+008696    AMINOACIDOS, PREPARACIONES DE           
+008697    AMISULPRIDA                             
+008698    AMLODIPINA, BELISATO DE                 
+008699    AMOROLFINA, CLORHIDRATO DE              
+008700    ANTIGENOS MULTIBACTERIANOS              
+008701    APROTININA                              
+008702    ATENOLOL                                
+008703    AZTREONAM                               
+008704    BACITRACINA ZINC                        
+008705    BENAZEPRIL, CLORHIDRATO DE              
+008706    BENCENO, HEXACLORURO DE                 
+008707    BENOXINATO, CLORHIDRATO DE              
+008708    BISMUTO                                 
+008709    BROMHEXINA, CLORHIDRATO DE              úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:55
+PRT292()                                                              Pag.-   20
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008710    BROMOFENIRAMINA, MELEATO DE             
+008711    BUTAMBEN, PICRATO DE                    
+008712    BUTAMIRATO                              
+008713    CALCIO LACTATO                          
+008714    CALCITONINA SINTETICA DE SALMON         
+008715    CARBAZOCROMO, SALICILATO DE             
+008716    CARBIDOPA                               
+008717    CEFALOTINA, SAL SODICA                  
+008718    CEFOPERAZONA                            
+008719    CEFPIRONE                               
+008720    CEFTIBUTEN                              
+008721    CETIRIZINA, DICLORHIDRATO DE            
+008723    CICLOBENZAPRINA, CLORHIDRATO            
+008724    CIPROHEPTADINA,CLORHIDRATO DE           
+008725    CLAVULANATO DE POTASIO                  
+008726    CLIDINIO                                
+008727    CLINDAMICINA                            
+008728    CLIOQUINOL                              
+008729    CLOBAZAM                                
+008730    CLOMIFENO, CITRATO DE                   
+008732    CLORFENAMINA, COMPLEJO RESINIFORME DE   
+008733    CLORFENIRAMINA, CLORHIDRATO DE          
+008734    CLORHEXIDINA                            
+008735    CLORHEXIDINA, GLUCONATO DE              
+008736    COLCHICINA                              
+008737    COLINA, TARTRATO DE                     
+008738    COLISTINA                               
+008739    COLOIDES                                
+008740    CROMOGLICATO DISODICO                   
+008741    CROTAMITON                              
+008742    DACARBACINA                             
+008743    DEFLAZACORT                             
+008744    DEGUMILLE                               
+008745    DESOXIMETASONA                          
+008747    DEXIBUPROFENO                           
+008748    DEXPANTENOL                             
+008749    DEXTRANO                                
+008750    DICLOFENACO                             
+008751    DIETANOLAMINA                           
+008752    DIETILPROPION                           
+008753    DIFTERICA, VACUNA                       
+008754    DIHIDROERGOCRISTINA                     
+008755    DIHIDROERGOTAMINA                       
+008756    DILTIAZEM, CLORHIDRATO DE               
+008757    DIMEGLUMINA, GADOPENTETATO DE           
+008758    DIMENHIDRINATO                          
+008759    DIMETINDENO                             
+008760    DIOCTILSULFOSUCCINATO SODICO            
+008761    DIVALPROATO DE SODIO                    
+008762    DORZOLAMIDA                             
+008763    DOXAZOCINA                              
+008764    E.COLI                                  
+008765    EFEDRINA                                
+008766    ENOXAPARINA                             
+008767    ERGOMETRINA, MALEATO DE                 úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   21
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008768    ERGONOVINA                              
+008769    ERITROMICINA, ESTOLATO DE               
+008770    ERITROPOYETINA HUMANA                   
+008771    ESTRADIOL, VALERATO DE                  
+008772    ESTROGENOS CONJUGADOS NATURALES         
+008773    ETAMBUTOL, CLORHIDRATO DE               
+008774    FAMCICLOVIR                             
+008775    FENILAMINA                              
+008776    FENPROPOREX                             
+008777    FERROSO                                 
+008778    FERROSO, GLUCONATO                      
+008779    FLOROGLUCINOL                           
+008780    FLUMETASONA, PIVALATO DE                
+008781    FLUNISOLIDA, HEMIHIDRATO DE             
+008782    FLUORURO                                
+008783    FLUOXETINA, CLORHIDRATO DE              
+008784    FLUTICASONA                             
+008785    FOSFOLIPIDOS                            
+008786    FOSINOPRIL SODICO                       
+008787    GABAPENTINA                             
+008788    GANCICLOVIR SODICO                      
+008789    GLIMEPIRIDA                             
+008790    GUAYACOL                                
+008791    HALOMETASONA                            
+008792    HEMATOPORFIRINA                         
+008793    HEPARINOIDE                             
+008794    HEXADECILPIRIDINIO, CLORURO DE          
+008795    HEXAMETILENO TETRAMINA                  
+008796    HIOSCINA BUTILBROMURO,METAMIZOL SODICO  
+008797    HORMONA ESTIMULANTE                     
+008798    IDROCILAMIDE                            
+008799    INDINAVIR                               
+008800    INOSITOL                                
+008801    INSULINA HUMANA                         
+008802    IODAMIDA MEGLUMINICA                    
+008803    IODOPOVIDONA                            
+008804    ISOMETREPTENO, CLORHIDRATO DE           
+008805    ISONIACIDA                              
+008806    ISOXSUPRINA, CLORHIDRATO DE             
+008807    KANAMICINA, SULFATO DE                  
+008808    KETAZOLAM                               
+008809    KLEBSIELLA PNEUMONIAE                   
+008810    LAMIVUDINA                              
+008811    LACIDIPINO                              
+008812    LACTITOL                                
+008813    LACTOBACILOS BULGAROS                   
+008814    LEUPROLIDE                              
+008815    LEVAMISOL, CLORHIDRATO DE               
+008816    LEVOBUNOLOL, CLORHIDRATO DE             
+008817    LEVODOPA                                
+008818    LEVOTIROXINA                            
+008819    LINCOMICINA                             
+008820    LIOTIRONINA                             
+008821    LISADO BACTERIANO LIOFILIZADO           
+008822    LISOZIMA                                úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   22
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008823    LOMEFLOXACINO, CLORHIDRATO DE           
+008824    LOMIFILINA                              
+008826    LORACARBEF                              
+008827    LOSARTAN                                
+008828    LIPIDOS                                 
+008829    MAGNESIO, ESTEARATO DE                  
+008830    MAGNESIO, SULFATO DE                    
+008831    MAPROTILINA, CLORHIDRATO DE             
+008832    MEDIO DE CONTRASTE                      
+008833    MELOXICAM                               
+008834    MENADIONA                               
+008835    MESILATO DE ERGOLOID                    
+008836    MESOINOSITA                             
+008837    METAMIZOL MAGNESICO                     
+008838    METFORMINA                              
+008839    METILERGOMETRINA, MALEATO DE            
+008840    METILFENIDATO, CLORHIDRATO DE           
+008842    METIXENO                                
+008843    METOCARBAMOL                            
+008844    MIBEFRADILO                             
+008845    MICOFENOLATO MOFETILO                   
+008846    MINERALES                               
+008847    MOEXIPRIL                               
+008848    MOMETASONA, FUROATO DE                  
+008849    MONOSULFIRAMO                           
+008850    MUPIROCIN                               
+008851    NADROPARINA CALCICA                     
+008852    NETILMICINA, SULFATO DE                 
+008853    NICLOSAMIDA                             
+008854    NIFURZIDA                               
+008855    NIQUETAMIDA                             
+008856    NOMEGESTROL                             
+008857    ORNITINA, ASPARTATO DE                  
+008858    OXACINA                                 
+008860    PROPANOLOL                              
+008861    PANTOPRAZOL                             
+008862    PAROXETINA                              
+008863    PECTINA                                 
+008864    PENTAMIDINA                             
+008865    PENTOXIVERINA                           
+008866    PERGOLIDA, MESILATO DE                  
+008867    PERMETRINA                              
+008868    PEROXIDO DE BENZOILO                    
+008869    PERTUSSIS, VACUNA                       
+008870    PIRAZINAMIDA                            
+008871    PIRENOXINA                              
+008872    POLICRESULENO                           
+008873    POTASIO, CITRATO DE                     
+008874    POTASIO, HIDROXIDO DE                   
+008875    PRAVASTATIN SODICO                      
+008876    PREDNICARBATO                           
+008877    PRIMIDONA                               
+008878    PROCAINAMIDA, CLORHIDRATO DE            
+008879    PROMEGESTONA                            
+008880    PROMESTRIENO                            úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   23
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008881    PROPIL PARABENO                         
+008882    PROPOXIFENO                             
+008883    PSEUDOMONAS, POLISACARIDOS DE           
+008884    QUIMOTRIPSINA                           
+008885    QUINAGOLIDA, CLORHIDRATO DE             
+008886    QUINAPRIL, CLORHIDRATO DE               
+008887    RETINOICO, ACIDO                        
+008888    RETINOL PALMITATO                       
+008889    RIFAMICINA                              
+008890    RISPERIDONA                             
+008891    RITODRINA, CLORHIDRATO DE               
+008892    RITONAVIR                               
+008893    ROLITETRACICLINA                        
+008894    SALMETEROL, HIDROXINAFTOATO DE          
+008895    SAQUINAVIR                              
+008896    SERENOA REPENS                          
+008897    SERINA, AMINOACIDOS                     
+008898    SERRATIO PEPTIDASA                      
+008899    SERTRALINA, CLORHIDRATO DE              
+008900    SEUDOEFEDRINA                           
+008901    SOBREROL                                
+008902    SODIO, ASCORBATO DE                     
+008903    SODIO, YODURO DE                        
+008904    SORBITAN                                
+008905    STAPHYLOCOCCUS AUREUS                   
+008906    STREPTOCOCCUS PYOGENES                  
+008907    SULFACETAMIDA                           
+008908    SULFAMETOXIPIRIDACINA                   
+008909    SULFONAMIDA                             
+008910    SYNDETS                                 
+008911    TACRINA, CLORHIDRATO DE                 
+008914    TERICIDONA                              
+008915    TERPINA                                 
+008916    TESTOSTERONA, UNDECONATO                
+008917    TETANICO, TOXOIDE                       
+008918    TETRABORATO SODICO                      
+008919    TICARCILINA DISODICA                    
+008920    TIMOLOL, MALEATO DE                     
+008921    TIOCOLCHICOSIDO                         
+008922    TRIAMTERENO                             
+008923    TRIFLUOPERACINA, CLORHIDRATO DE         
+008924    TRIMIPRAMINA                            
+008925    TRIOXISALENO                            
+008926    TRIPROLIDINA                            
+008927    TRIPSINA                                
+008928    TRIPTOFANO                              
+008929    TRIYODOTIRONINA                         
+008930    TROPISETRONA, CLORHIDRATO DE            
+008931    UNDECILENATO, PREPARACIONES DE          
+008932    VACCINIUM MYRTILLUS                     
+008933    VALACICLOVIR                            
+008934    VIGABATRIN                              
+008935    VILOXACINA, CLORHIDRATO DE              
+008936    VIT.A+VIT.D                             
+008937    VIT.D+VIT.D2+VIT.D3                     úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   24
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008938    VITAMINAS                               
+008939    YODOPOLIVINILPIRROLIDONA                
+008940    YODUROS                                 
+008941    ZALCITABINA                             
+008942    ZOLPIDEM, HEMITARTRATO                  
+008943    ACIDO GLICOLICO                         
+008944    ATORVASTATINA                           
+008945    BIFEMELATO                              
+008946    BISMUTO,SUBNITRATO DE                   
+008947    BROMPERIDOL                             
+008948    CARBAMIDA                               
+008949    CEFEPIMA, CLORHIDRATO                   
+008950    CEFIXIMA                                
+008951    CITICOLINA                              
+008952    CLOMIPRAMINA                            
+008953    CLORFENIRAMINA, MALEATO DE              
+008954    DECAMETRINA                             
+008955    ECONAZOL                                
+008956    ETOFENAMATO                             
+008957    FENFLURAMINA, CLORHIDRATO DE            
+008958    FENOBARBITAL                            
+008960    FEXOFENADINA                            
+008961    FLUVOXAMINA                             
+008962    FOSFOMICINA TROMETAMOL                  
+008963    GLUCOSAMINA                             
+008964    LATANAPROST                             
+008965    LITIO, CARBONATO DE                     
+008966    METOXIFENOL                             
+008967    MIRTAZAPINA                             
+008968    MOXONIDINA                              
+008969    NARATRIPTAN                             
+008970    NELFINAVIR                              
+008971    NIACINA                                 
+008972    NIFUROXAZIDA                            
+008973    NORGESTIMATO                            
+008974    OMOCONAZOL, NITRATO                     
+008975    ORLISTAT                                
+008976    OROTICO, ACIDO                          
+008977    OXCARBAZEPINA                           
+008978    OXIBUTININA CLORHIDRATO                 
+008979    PICRATO DE BUTAMBEN                     
+008980    POLICOSANOL                             
+008981    POLIETILENGLICOL                        
+008982    POLIOXIETILENICO, ETER LAURIL           
+008983    POLISACARIDOS                           
+008984    POLISACARIDOS DE SOYA                   
+008985    POTASIO, SULFATO DE                     
+008986    PRAZIQUANTEL                            
+008987    PROCARBACINA, CLORHIDRATO DE            
+008988    SACAROSA                                
+008989    SACCHAROMYCES BOULARDII                 
+008990    SALES MINERALES                         
+008991    SALICAZOSULFAPIRIDINA                   
+008992    SENOSIDO                                
+008993    SERTACONAZOL NITRATO                    úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   25
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+008994    SEVOFLURANE                             
+008995    SODIO, ALGINATO DE                      
+008996    SODIO, DEHIDROCOLATO DE                 
+008997    SODIO, LAURILSULFATO DE                 
+008998    SODIO, SULFATO DE                       
+008999    STREPTOCOCCUS MITIS                     
+009000    STREPTOCOCCUS PNEUMONIAE                
+009001    SUCRALFATO                              
+009002    SULFAETILTIADIAZOL                      
+009003    TAMARINDUS INDICA                       
+009004    TARTARICO, ACIDO                        
+009005    TAURINA                                 
+009006    TEICOPLAMINA                            
+009008    TETRACAINA                              
+009009    TETRAETILTIURAMO, DISULFURO DE          
+009010    TIOSULFATO SODICO                       
+009011    TITANIO, DIOXIDO DE                     
+009012    TOLCAPONA                               
+009013    TORENIFENO                              
+009014    TOXINA BUTULINICA                       
+009015    TRANEXAMICO, ACIDO                      
+009016    TREMENTINA                              
+009017    TRIBENOSIDO                             
+009018    TRIGLICERIDOS DE CADENA MEDIA           
+009019    TROGLITAZONA                            
+009020    URIDINA                                 
+009021    URSODESOXICOLICO, ACIDO                 
+009022    VALSARTAN                               
+009023    VANCOMICINA, CLORHIDRATO DE             
+009024    VECURONIO, BROMURO DE                   
+009025    VIRGA AUREA, SOLIDAGO                   
+009026    VITAMINA D3 CRISTALIZADA                
+009027    YODURO POTASICO                         
+009028    PENICILINA G CLEMIZOL                   
+009878    ITRACONAZOL+SECNIDAZOL                  
+010001    ANASTROZOL                              
+010002    AZOSULFAMIDA                            
+010003    BISMUTO,SUBCITRATO DE                   
+010004    BUPRENORFINA                            
+010005    CABERGOLINA                             
+010006    CARVEDILOL                              
+010007    CITRULINA, MALATO DE                    
+010008    COMPLEJO OSEINAHIDROXIAPATITA           
+010009    DESFLURANO                              
+010010    DIMECROTATO DE MAGNESIO                 
+010011    DOBUTAMINA CLORHIDRATO DE               
+010012    DOCETAXEL, ANHIDRO                      
+010013    EPINASTINA, CLORHIDRATO DE              
+010014    ESTRADIOL HEMIHIDRATO                   
+010015    EXTRACTO DE PIPERMETHYSTICUM            
+010016    EXTRACTO DE SYMPHYTUM PEREGRINI         
+010017    EXTRACTO DE VACCINIUM MYRTILLUS         
+010018    FORMOTEROL                              
+010019    GOSERELINA, ACETATO DE                  
+010020    HORMONA DEL CRECIMIENTO                 úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   26
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+010021    LETROZOL                                
+010022    LEVOFLOXACINA                           
+010023    METACILINA,CLORHIDRATO DE               
+010024    NAFTIDROFURILO, OXALATO ACIDO DE        
+010025    NISOLDIPINO                             
+010026    NITAZOXANIDA                            
+010027    OLANZAPINA                              
+010028    PLANTAGO,SEMILLA DE                     
+010029    QUETIAPINA                              
+010030    RIVASTIGMINA                            
+010031    SILDENAFIL CITRATO                      
+010032    SULINDAC                                
+010033    TAMSULOSINA                             
+010034    TIMOSINA ALFA 1                         
+010035    TROVAFLOXACINA                          
+010036    ZOLMITRIPTANO                           
+010037    EBASTINA                                
+010038    PAMIDRONATO DISODICO                    
+010039    CELECOXIB                               
+010040    ATROPINA                                
+010041    HYLAN G-F 20                            
+010042    ACEITE DE HIPOGLOS                      
+010043    ALBUMINA HUMANA                         
+010044    AMITRIPTILINA                           
+010045    APRACLONIDINA                           
+010046    ATRACURIO BESILATO DE                   
+010047    AZELASTINA                              
+010048    BETAINA                                 
+010049    BIBENZONIO BROMURO                      
+010050    BISMUTO SUBGALATO                       
+010051    BRIMONIDINA                             
+010052    BUSPIRONA                               
+010053    BUSULFANO                               
+010054    CEFOXITINA                              
+010055    CERIVASTATINA                           
+010056    CICLOPENTOLATO                          
+010057    CICLOSERINA                             
+010058    CLOFIBRATO                              
+010059    CLORAMBUCILO                            
+010060    CORTIVAZOL                              
+010061    DELTAMETRINA                            
+010062    DEMECLOCICLINA                          
+010063    DESLANOSIDO DESMOPRESINA                
+010065    DIFLUNISAL                              
+010066    DIGOXINA                                
+010067    DIPIVEFRINA                             
+010068    DISOPIRAMIDA                            
+010069    DOXORUBICINA                            
+010070    DROPERIDOL                              
+010071    ESTAVUDINA                              
+010072    ETIDRONATO DISODICO                     
+010073    ETOMIDOLINA                             
+010074    FELODIPINO                              
+010075    FENTANILO                               
+010076    FLUCLOXACILINA                          úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   27
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+010077    FLUORESCEINA SODICA                     
+010078    FOLITROPINA BETA                        
+010079    GAMAGLOBULINA HUMANA                    
+010080    GEMCITABINA                             
+010081    GLIPIZIDA                               
+010082    GLUCAMETACINA                           
+010083    HALOTANO                                
+010084    HEMODIALIZADO DESPROTEINIZADO           
+010085    HIDROXIMETILCELULOSA                    
+010086    HIPROMELOSA                             
+010087    INMUNOGLOBULINA                         
+010088    IOPODATO SODICO                         
+010089    LODOXAMINA                              
+010090    LORMETAZEPAM                            
+010091    MANITOL                                 
+010092    MELFALAN                                
+010093    MEPIVACAINA                             
+010094    MERCAPTOPURINA                          
+010095    MEROPENEM                               
+010096    MESALAZINA                              
+010097    MILRINONA                               
+010098    MITOXANTRONA                            
+010099    NICERGOLINA                             
+010100    NIMORAZOL                               
+010101    PACLITAXEL                              
+010102    PENICILAMINA                            
+010103    PETIDINA                                
+010104    PIPAZETATO                              
+010105    POLYTAR 510                             
+010106    PROPOFOL                                
+010107    PROTAMINA SULFATO                       
+010108    PROXIMETACAINA                          
+010109    SINFIBRATO                              
+010110    SULFATIAZOL                             
+010111    SUXAMETONIO CLORURO                     
+010112    METIMAZOL                               
+010113    TIOGUANINA                              
+010114    TOLCICLATO                              
+010115    TRICLOCARBAN                            
+010116    TUBERCULINA                             
+010117    XIPAMIDA                                
+010118    TROPICAMIDA                             
+010119    ALCOHOL ETILICO                         
+010120    DIENESTROL                              
+010122    RALOXIFENO                              
+010123    ACEITE DE CAMOMILLA                     
+010124    ACEITE DE RICINO                        
+010125    ACTIVADOR TISULAR DE PLASMINOGENO       
+010126    AURANOFINA                              
+010127    BENCETONIO CLORURO                      
+010128    BENCICLANO                              
+010129    CLEMASTINA                              
+010130    DAUNORUBICINA                           
+010131    DIIODOHIDROXIQUINOLEINA                 
+010132    EPIRUBICINA                             úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:56
+PRT292()                                                              Pag.-   28
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+010133    FENTETRAMINA                            
+010134    FERRICO DEXTRANO COMPLEJO               
+010135    IOTALAMICO ACIDO                        
+010136    LETOSTEINA                              
+010137    LEVOMENOL                               
+010138    LOFLAZEPATO DE ETILO                    
+010139    METENAMINA                              
+010140    NICOTINA                                
+010142    PINDOLOL                                
+010143    PIRISUDANOL                             
+010144    PROXAZOL                                
+010145    TIANFENICOL                             
+010146    TIMERORAL                               
+010147    VINORELBINA                             
+010148    BUMADIZONA                              
+010149    PIRENCEPINA DICLORHIDRATO               
+010150    VACUNA ANTI-COLERA                      
+010151    VACUNA ANTI-DIFTERIA                    
+010152    VACUNA ANTI-FIEBRE AMARILLA             
+010153    VACUNA ANTI-GRIPAL                      
+010154    VACUNA ANTI-HEPATITIS A                 
+010155    VACUNA ANTI-HEPATITIS B                 
+010156    VACUNA ANTI-PAROTIDITIS                 
+010157    VACUNA ANTI-POLIOMELITIS                
+010158    VACUNA ANTI-RABICA                      
+010159    VACUNA ANTI-RUBEOLA                     
+010160    VACUNA ANTI-SARAMPION                   
+010161    VACUNA ANTI-TIFOIDEA                    
+010162    ANTITOXINA TETANICA                     
+010163    CARBENOXOLONA                           
+010164    HIDROXIUREA                             
+010165    IFOSFAMIDA                              
+010166    MEFLOQUINA                              
+010167    TOXOIDE TETANICO                        
+010168    AZAPENTACENO                            
+010170    FENAZOPIRIDINA+CIPROFLOXACINO           
+010171    CIPROFLOXACINO+FENAZOPIRIDINA           
+010172    SULFACETAMIDA+PREGNISOLONA              
+010173    HYPERICUM PERFORATUM L                  
+010174    SIBUTRAMINA                             
+010175    SIBUTRAMINA 10 MG                       
+010176    SIBUTRAMINA 10MG                        
+010177    LORATADINA + PSEUDOEFEDRINA S           
+010178    PANTENOL + ALFA TOCOFEROL               
+010179    MOXIFLOXACINO 400 MG.                   
+010180    NEOMICINA+DEXAMETASONA                  
+010181    RHODIOLA ROSEA EXTRACTO SECO D          
+010182    CANDESARTAN CILEXETIL                   
+010183    FLUPENTIXOL                             
+010184    VALERATO DE ESTRADIOL                   
+010185    NORFLOXACINO 400+FENAZOPIRIDIN          
+010186    LORAT.+PSEUDOF.+PARACETAMOL             
+010187    MECLOZINA+VITAMINA B6                   
+010188    CARBIDOPA+LEVODOPA                      
+010189    RISEDRONATO SODICO                      úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:57
+PRT292()                                                              Pag.-   29
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+010269    DICLOFENACO+AMOXICILINA                 
+010271    DICLOFENACO PARACETAMOL ORFENADRINA     
+010272    DICLOFENACO+PARA+ORFENADRINA            
+010273    LEVOCETIRIZINA+PSEUDOEFEDRINA           
+010274    INTERNACIONAL LAB.                      
+010275    CLONIXINATO LISINA+PARGEVERINA          
+010276    RUPATADINA                              
+010277    SILIMARINA+COMPLEJO B                   
+010278    LAFARMED                                
+010279    CLONIXINATO125MG/PARGEVERINA10MG        
+010280    METAMIZOL+HIOSCINA                      
+010281    PARGEV CLORH10MG+CLONIX DE LISINA125MG  
+010282    IBUPROFENO100MG/5ML                     
+010283    ACIDO TIOCTICO                          
+010284    NITROFURAL                              
+010285    ADAPALENO                               
+010286    ACIDO ASCORBICO                         
+010287    AZULFAMIDA                              
+010288    DEXKETOPROFENO TROMETAMOL               
+010289    FENITOINA SODICA                        
+010290    CETIRIZINA                              
+010291    TIAMINA,PIRIDOXINA,CIANOCOBALAMINA      
+010292    DEXTROMETORFANO+BENZOCAINA              
+010293    BROMAZEPAM                              
+010294    TRAMADOL                                
+010295    CEFALEXINA+AMBROXOL                     
+010296    SUBSALICILATO DE BISMUTO                
+010297    LACTOBACILLUS ACIDOPHILUS               
+010298    BROMURO DE IPRATROPIO                   
+010299    HIOSCINA+PARACETAMOL                    
+010300    AMOXICILINA250MG+AMBROXOL15MG/5ML       
+010302    MUCOLITICO BRONCODILATADOR              
+010303    AMOXICILINA+AMBROXOL                    
+010304    IBUPROFENO 100MG/5ML                    
+010305    DICLOFENACO SODICO 75MG/3ML             
+010306    DICLOFENACO POTASICO+PARACETAMOL        
+010307    DICLOFENACO+CLORZOXAZONA                
+010308    MELOXICAM+PARACETAMOL                   
+010309    LOPERAMIDA                              
+010310    VITAMINA B1,B6,B12 Y DICLOFENACO        
+010311    DICLOFENACO 50MG-PARACETAMOL 500MG      
+010312    DOXICICLINA HICLATO                     
+010313    VIT B1,B6,B12/DICLOFEN SODICO,LIDOCAINA 
+010314    VITAMINAB1,B6,B12/DICLO SODICO/LIDOCAINA
+010315    CITROFLAVONOIDE+ACID ASCORBICO+MENADIONA
+010316    DICLO./TIAMINA MONONIT/PIRIDOXINA/CIANOC
+010317    ACIDO FOLICO                            
+010319    REYPACK                                 
+010320    ACIDO BORICO                            
+010321    POVIDONA YODADA                         
+010322    LEVOCETIRIZINA                          
+010323    SIMETICONA/METILBROMURO DE HOMATROPINA  
+010324    EMCURE                                  
+010325    AMBROXOL CLORHIDRATO                    
+010327    AMIKASINA                               úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:57
+PRT292()                                                              Pag.-   30
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+010328    ACIDO ACETILSALICILICO                  
+010330    NAPROXENO SODICO                        
+010331    CITRATO DE CALCIO+VITAMINAD3            
+010332    CLOBETASOL                              
+010333    CLORANFENICOL+ HIDROCORTISONA+POLIMIXINA
+010334    CODEINA+ FENILTOLOXAMINA+ GUAIFENESINA  
+010335    CLORURO DE SODIO                        
+010336    COLAGENO HIDR+HIALURONATO SODIC +VITA C 
+010337    SULFATO FERROSO                         
+010338    SULFATO FERROSO                         
+010339    TRAMADOL CLORHIDRATO+PARACETAMOL        
+010340    MEDROXIPROGESTERONA                     
+010341    DEXTROMETORFANO,CLORFENAMINA,FENILEFRINA
+010342    DEXTROMETORFANO                         
+010343    METRONIDAZOL/NISTATINA/LIDOCAINA        
+010344    GLUCOSAMINA+CONDROITINA+METILSULFONILMET
+010345    CELECOXIB+ORFENADRINA                   
+010346    TETRAHIDROZOLINA CLORHIDRATO            
+010347    FOSFATO MONOBASICO                      
+010348    ESTROGENO                               
+010349    ESPORAS DE BACILLUS                     
+010350    FLUOXETINA                              
+010351    BENCIDAMINA CLORHIDRATO                 
+010352    GLUTAMATO DE MAGNESIO                   
+010353    NEOMICINA+HIDROCORTISONA+LIDOCAINA      
+010354    ENANTATO DE PRASTERONA+ ESTRADIOL       
+010355    PARACETAMOL/PSEUDOEFEDRINA/DEXTROMETORFA
+010356    GEMFIBROZILO                            
+010357    HIDROXIDO DE ALUMINIO+HIDRO MAGNESIO    
+010358    BENCIDAMINA CLORHIDRATO                 
+010359    HIERRO ELEMENTAL                        
+010360    HIDROXOCOBALAMINA                       
+010361    NIMODIPINO+CITICOLINA                   
+010362    CLORURO DE POTASIO                      
+010363    OTARVASQ                                
+010364    PICOSULFATO SODICO                      
+010365    MANTEQUILLA DE CACAO                    
+010366    LEVOFLOXACINO                           
+010367    FENOXIMETILPENICILINA                   
+010368    BENCILPENICILINA CLEMIZOL               
+010369    PARACETAMOL300MG+CLORZOXAZONA250MG      
+010370    BETAHISTINA DIHIDROCLORURO              
+010371    CLORURO DE DECUALINIO+BENZOCAINA        
+010372    VIT B1/B6/B12                           
+010373    PANCREATINA+DIMETICONA                  
+010374    METAMIZOL SODICO                        
+010375    CARMELOSA 0,5%                          
+010376    HIERRO SUCROSA                          
+010377    DIMETICONA+HOMATROPINA+METILBROMURO     
+010378    SERTRALINA                              
+010379    CREMA DE CALENDULA                      
+010380    DEXTROMETORFANO+PSEUDOEFEDRINA+CLORFENAM
+010381    DEXTROMETORFANO+PSEUDOEFEDRINA+GUAIFENES
+010382    MOSAPRIDA CITRATO                       
+010383    TIOCTAMIDA/ACIDO OROTICO/ACID DEHIDOCOLIúZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:57
+PRT292()                                                              Pag.-   31
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+010384    OXITETRACICLINA+POLIMIXINA              
+010385    PARACETAMOL650/CLORFENA4MG/DEXTROMET20MG
+010386    CLORHIDRATO DE TERBINAFINA              
+010387    TERBINAFINA                             
+010388    ACIDO TRANEXAMINO                       
+010389    HIDROCORTISONA+NEOMICINA+POLIX+BACITRACI
+010390    OXOLAMINA                               
+010391    CITRATO DE POTASIO                      
+010392    DICLOFENACO SODICO                      
+010393    TONICO ANTIANEMICO MULTIVITAMINICO      
+010394    DICLOFENACO DIETILAMONIO                
+010395    PARACETAMOL325MG+TRAMADOL CLORHIDRT37.5 
+010396    HIDROXIDO DE MAGNESIO                   
+010397    ANTIESPASMODICO                         
+010398    DOBESILATO CALCICO                      
+010400    HIERRO SACAROSA                         
+010401    PROBIOTICOS                             
+010402    VITAMINAB1+B6+B12+DICLOFENACO           
+010403    VITAMINAB1+B6+B12+DICLOFENACO           
+010404    AMPICILINA BENZATINICA+AMPICILINA SODICA
+010405    BENCILPENICILINA BENZATINICA            
+010406    CLOMIZOL                                
+010407    TIAMINA+RIBOFLAVINA+NICOTAMINA+PIRIDOXIN
+010408    TRICOMONICIDA+ANTIFUNGICO+ANESTESICO    
+010409    DEXTROMETORFANO+CLORFEN.+FENILEF.+PARACE
+010410    VIT.B1+B6+B12+DEXAMETASONA+LIDOCAINA    
+010411    DICLOFENACO+VITB1+VITB6+VITB12          
+010412    SULF.FERROSO+CIPROHEPT.+NICOTIN+B1+B2+B6
+010413    SULFFERROSO+B12+NIACINAMIDA+B6+B2+B1    
+010414    ESPORAS DE BACILLUS CLAUSSI             
+010415    VITAMINAB1+B6+B12+DICLOFENACO+LIDOCAINA 
+010416    PARACETAMOL+PSEUDOEFE+DEXTROMET+CLORFENA
+010417    VIT.B1+B2+B6+B12+NICOTINAMIDA+HIER+EXHIG
+010418    CLORFENIRAMINA+PSEUDOEFEDRINA           
+010419    CLORFENAMINA+PSEUDOEFEDRINA             
+010420    CLOTRIMAZOL+GENTAMICINA+BETAMETASONA    
+010421    EXTRACTO DE HIEDRA                      
+010422    DESOGESTREL+ETINILESTRADIOL             
+010423    BETAMET.DIPROPIONATO+BETAMET.FOSFATO    
+010424    VITB1+B2+B12+VIT.E+BIOTINA+ACID.OROTICO 
+010425    VIT.B6+B12+NICOTINAMIDA+DEXPANTENOL+FOLI
+010426    HIOSCINA BUTIL BROMURO                  
+010427    ENANTANO DE NORETISTERONA+ESTRADIOL     
+010428    SIMETICONA+HIDRO.MAGNESIO+HIDRO.ALUMINIO
+010429    HIDRO.MAGNESIO+HIDRO.ALUMINIO+SIMETICONA
+010430    ANTIPIRINA+BENZOCAINA+SULFATIAZOL       
+010431    DEXKETOPROFENO                          
+010432    ROCIVERINA                              
+010433    BROMURO DE OTILONIO                     
+010434    DICLOFENACO+ORFENADRINA                 
+010435    CLONIXINATO+PARGEVERINA                 
+010436    SILIMARINA + B1,B2,B3,B6,B5             
+010437    ACIDO HIALURONICO                       
+010438    HIALURONATO SODICO                      
+010439    ACIDO ZOLEDRONICO                       úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:57
+PRT292()                                                              Pag.-   32
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+010440    DIPROPIONATO DE BETAMETASONA+FOSFATO BET
+010441    PARACETAMOL+FENILEFRINA+CLORFENAMINA    
+010442    COLAGENO HIDROLIZADO+VITAMINA C         
+010443    COLAGENO HIDROLIZADO                    
+010444    COLAG.HIDROLIZADO+MAGNESIO+ZINC         
+010445    COLA.HIDROLIZADO+GLUCOSAMINA+CALCIO+ZINC
+010446    PARACETAMOL+ACID.ACETILSALICILICO+CAFEIN
+010447    LISADOS BACTERIANOS LIOFOLIZADOS        
+010448    METILPREDNISOLONA                       
+010449    DOXILAMINA+PIRIDOXINA                   
+010450    FENTERMINA CLORHIDRATO                  
+010451    BROMURO DE PINAVERIO                    
+010452    DOBESILATO CALCICO MONOHIDRATO          
+010453    VALSARTAN+HIDROCLOROTIAZIDA             
+010454    LEVOSULPIRIDA                           
+010455    HIDROXICLOROQUINA SULFATO               
+010456    SULFASALAZINA                           
+010457    DICLORHIDRATO DE BETAHISTINA            
+010458    VIT D3 + PROBIOTICOS                    
+010460    NEOMICINA+BACITRACINA+POLIXIMA          
+010461    PERMETRINA                              
+010462    CLOTRIMAZOL+CLINDAMICINA                
+010463    TRAMADOL HIDROCLORURO+DEXKETOPROFENO    
+010465    ORFENADRINA+PARACETAMOL                 
+010466    BISOPROLOL                              
+010467    RUIBARBO + ACIDO SALICILICO             
+010468    ANANAS COMOSUS                          
+010469    LACTICASEIBACILLUS RHAMNOSUS+FRUCTOOLIGO
+010470    ACIDO ZOLEDRONICO                       
+010472    TEMLAB                                  
+010473    SYNLAB                                  
+010474    DOBESILATO+LIDOCAINA+DEXAMETASONA       
+010475    ACIDO SULFURICO                         
+010476    ADEMETIONINA                            
+010477    CITRATO DE MAGNESIO                     
+010478    BACILLUS CLAUSII                        
+010479    DIMETICONA+PANCREATINA                  
+010480    DUTASTERIDA                             
+010481    MELATONINA                              
+010482    OROTATO DE MAGNESIO DIHIDRATO           
+010483    PRIDINOL                                
+010484    NEOMICINA+POLIMIXINA+LIDOCAINA+FLUORHIDR
+010487    ACIDO SALICILICO                        
+010488    AGUA ESTERIL                            
+010489    AMIKACINA                               
+010490    LACTOBACILLUS PLANTARUM                 
+010491    DICLOFENACO + B1,B6,B12                 
+010492    ENALAPRIL                               
+010493    LACTOBACILLUS RHAMNOSUS                 
+AMLO      AMLODIPINO                              
+BECFUM    BECLOMETASONA+FUMARATO                  
+GEN       GENCOPHARMACEUTICAL                     
+LAF       LAFARMED                                
+PAR       PARACETAMOL100MG/ML                     
+RIVARO    RIVAROXABAN                             úZethQuark Versi¢n 7.0ú                                               24/05/2025
+POL.LOS ANGELES         REPORTE DE SUBLINEAS DE PRODUCTOS               13:11:57
+PRT292()                                                              Pag.-   33
+--------------------------------------------------------------------------------
+CODIGO       DESCRIPCION
+--------------------------------------------------------------------------------
+ZZZZZZ    SIN DEFINIR                             

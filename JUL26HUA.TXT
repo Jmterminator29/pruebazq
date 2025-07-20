@@ -1,0 +1,57 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 27/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 26/07/2024 AL 26/07/2024                              08:27:10
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007714           EFR  EFR  26/07/2024 08:27  V                      INOCENTE GRADOS EDUARDO        E         390.00
+007715           EFR  EFR  26/07/2024 08:46  V                      QUISPE PICON SAYHUMI           E          45.00
+007716           EFR  EFR  26/07/2024 09:03  V                      ASENCIOS LOBATO DAVY ALEXANDER E         130.00
+007717           EFR  EFR  26/07/2024 09:05  V                      ANGULO CARO LAEL               E          45.00
+007718           YOS  YOS  26/07/2024 10:07  V                      DAVILA PALOMARES LEYDY         E          45.00
+007719           YOS  YOS  26/07/2024 10:15  V                      ORTEGA ESPINOZA JUAN           E         155.00
+007720           YOS  YOS  26/07/2024 10:27  V                      RODRIGUES ROSALES ROBUSTIANO   E          45.00
+007721           YOS  YOS  26/07/2024 10:37  V                      TRUJILLO JARA JORGE            Y          45.00
+007722           YOS  YOS  26/07/2024 10:51  V                      VENTA ANULADA                  E           0.00
+007723           YOS  YOS  26/07/2024 10:57  V                      SOLIS TORRES ZOE               E          60.00
+007724           YOS  YOS  26/07/2024 11:12  V                      PAREDES FIGUEROA SAYURI        E          60.00
+007725           YOS  YOS  26/07/2024 12:34  V                      ANGULO CARO LAEL               TR         48.00
+007726           YOS  YOS  26/07/2024 13:00  V                      RODRIGUES ROSALES ROBUSTIANO   Y         192.00
+007727           YOS  YOS  26/07/2024 13:18  V                      TRUJILLO JARA JORGE            Y         154.00
+007728           YOS  YOS  26/07/2024 15:49  V                      GAMARRA CANO REINA             E          45.00
+007729           YOS  YOS  26/07/2024 15:51  V                      SILVA SALAS ZULEICA            Y          45.00
+007730           YOS  YOS  26/07/2024 16:10  V                      ALOR  RAMOS FLORA              E         101.50
+007731           YOS  YOS  26/07/2024 16:49  V                      RODRIGUEZ MELGAREJO YANIBIT    E          45.00
+007732           YOS  YOS  26/07/2024 16:57  V                      GAMARRA CANO REINA             E           1.50
+007733           YOS  YOS  26/07/2024 16:59  V                      CARBAJAL LAVADO LUCIANA        Y          45.00
+007734           YOS  YOS  26/07/2024 17:21  V                      RODRIGUEZ MELGAREJO YANIBIT    E          68.80
+007735           YOS  YOS  26/07/2024 17:40  V                      CARBAJAL LAVADO LUCIANA        E          24.00
+007736           YOS  YOS  26/07/2024 17:44  V                      GIRON ROJAS ELIDA              E          45.00
+007737           YOS  YOS  26/07/2024 17:46  V                      LAVADO PINEDA MARILUZ          E           6.00
+007738           YOS  YOS  26/07/2024 17:47  V                      LIZ VER¢NICA PICHILINGUE SALVO E          45.00
+007739           YOS  YOS  26/07/2024 18:11  V                      PEREZ JULCA FELICIANA          E          45.00
+007740           YOS  YOS  26/07/2024 18:14  V                      RAMOS VILLANUEVA MISHEL        E          45.00
+007741           YOS  YOS  26/07/2024 19:06  V                      PEREZ JULCA FELICIANA          E         102.50
+007742           YOS  YOS  26/07/2024 19:22  V                      RAMOS VILLANUEVA MISHEL        E          15.20
+007743           YOS  YOS  26/07/2024 19:37  V                      ANGULO CARO LAEL               E          35.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      23       1,599.50
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      29       2,128.50                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       1          48.00
+                              2,128.50                                                    Yape          :       5         481.00
+                                                                                                                    -------------
+                                                                                                                        2,128.50
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        324.62
+ÿ
+ÿ
+Nro.  Documentos Anulados :            1
+Total Documentos Anulados :         0.00

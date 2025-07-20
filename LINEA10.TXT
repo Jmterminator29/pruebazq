@@ -1,0 +1,21 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES           REPORTE DE PRODUCTOS X LINEA (PROCEDIMIENTO)                 18:20:33
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16298 PROCEDIMIENTO                            ZZZZ       40.00               0        984     
+16735 PROCEDIMIENTO                            ZZZZ      360.00               0         10     
+16494 PROCEDIMIENTO 10                         ZZZZ       10.00               0        801     
+16495 PROCEDIMIENTO 15                         ZZZZ       15.00               0        936     
+16496 PROCEDIMIENTO 20                         ZZZZ       20.00               0        906     
+16578 PROCEDIMIENTO BLOQUEO                    ZZZZ      250.00               0        996     
+16579 PROCEDIMIENTO BLOQUEO                    ZZZZ      600.00               0        995     
+16623 PROCEDIMIENTO BLOQUEO                    ZZZZ      100.00               0        997     
+16746 PROCEDIMIENTO EXTRACCION                 ZZZZ       80.00               0          1     
+16563 PROCEDIMIENTO MEDICO  100                ZZZZ      100.00               0        989     
+17504 PROCEDIMIENTO MEDICO 200                 ZZZZ      200.00               0        997     
+17505 PROCEDIMIENTO MEDICO 300                 ZZZZ      300.00               0        998     
+16583 PROCEDIMIENTO MENOR                      ZZZZ       60.00               0        994     
+17189 PROCEDIMIENTO QUIRURGICO                 ZZZZ       30.00               0         99     
+16855 PROCEDIMIENTO YESO                       ZZZZ       60.00               0         99     

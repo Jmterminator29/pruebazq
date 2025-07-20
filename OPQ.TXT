@@ -1,0 +1,50 @@
+úZethQuark Versi¢n 7.0ú                                                              20/02/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    09:26:38
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+14834 OMEPRAVIL 20MG  CAPX28                   NAGE       33.60      1.20     0          0     
+16321 OMEPRAZOL 20MG CAJAX100CAPSULAS          ZZZZ       50.00      0.50     0          1u86  
+14981 OMEPRAZOL 40MG POLVO INYECTABLE CAJX10   VIT        80.00      8.00     0          0u7   
+16304 ORAVIL 100 000UI/ML SOLC.ORAL            PER        60.00               0          0     
+08974 ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS    FARM      112.50      4.50     0          0u23  
+08973 ORFENADRINA CITRATO 100MG TABX100        EU         70.00      0.70     0          0     
+16909 OROFER 50MG/5ML                          EM         27.00               0          0     
+16615 OSTEOBONE D FORTE CAJA X 30 COMPRIMIDOS  PER        45.00      1.50     0          0     
+17523 OSTIMIX 800 CAJA X 30 TABLETAS           ZZZZ       40.00               0          0     
+16570 OTOZAMBON SOLUCION OTICA X10ML           ZZZZ       21.50               0          0     
+17349 PA;AL ADULTO TALLA M                     ZZZZ        3.00      0.50     0          0     
+16173 PALDOLOR  TABLETAX200                    HERS      200.00      1.00     0          0     
+17230 PANADOL 160MG/5ML JARABE 60ML            GSK        19.00               0          0     
+17210 PANADOL ANTIGRIPALNF 2TAB X 52SOBRES     GSK       130.00      2.50     0          0     
+17393 PANADOL GOTAS 15ML                       ZZZZ       28.00               0          3     
+16682 PANTOPRAZOL 20MG X 30 TAB                TEVA       45.00      1.50     0          1     
+17197 PARACETAMOL 100MG/ML X10MLGOTAS          PORT        3.00               0          2     
+17348 PARACETAMOL 120 MG / 5ML X 60 ML         PORT        6.00               0          0     
+16428 PARACETAMOL 120MG/5ML JARABEX120ML       ZZZZ        8.50               0          3     
+15071 PARACETAMOL 500MG TABX100                NAGE       50.00      0.50     0          0     
+15054 PENICILINA BENZATINICA 1200000UI CAJX10  PHAR       80.00      8.00     0          0u3   
+14934 PENICILINA PROCAIN 1000000 CAJAX10       DA         85.00      8.50     0          9u9   
+17414 PERCOF 30MG/5ML JARABE 120ML             EU         25.00               0          2     
+16313 PHARMA GRIP  TABLETAX100                 D'OL      100.00      1.00     0          0     
+16546 PHYTO SOYA 17.5 MG CAJAX60 CAPSULAS      ARKO      132.00      2.20     0          0u5   
+16829 PHYTO SOYA FORTE 35MG CAJAX60 CAPSULAS   ARKO      120.00      2.00     0          0     
+16919 PIPERACILINA 4.0G + TAZOBACTAM 0.5G VIAL ZZZZ       40.00               0          0     
+17391 PIRALGINA250MG/5ML JARABE                IQFA       12.00               0          2     
+09518 PLATSIDERM CREMA 20GR                    PORT       20.00               0          0     
+15070 PLIDAN COMPUESTONF 10/125MG COMPX100     ROEM      180.00      1.80     0          0     
+09585 PORTIL CREx20GR                          PORT        7.00               0          2     
+15088 POVIDONA YODADA AL 10%/SOL MICROBICIDA   ROK        25.00               0          0     
+16647 PREDNISONA 20mg CAJAX100TABLETAS         PEFA       50.00      0.50     0          0     
+09643 PREDNISONA 50mg TABx100                  NAGE       60.00      0.60     0          0     
+09646 PREDNISONA 5mg CAJAX100TABLETAS          NAGE       20.00      0.20     0          0     
+09650 PREDNISONA JBE 5MG/5MLx60ML-P            PORT       12.00               0          0     
+16427 PREVENAR 13 AMPOLLA                      D'OL      270.00               0          0     
+09763 PROFEKET AMP 100MGx2ML CAJX1 UNIDAD      SANO       17.50               0          0     
+14813 PROFEN KIDS X 60ML                       MED        15.50               0          0     
+16382 PROFENID GEL /TUBOX30GR                  SANO       28.00               0          0     
+16587 PROSTANATUR 320MG CAJAX 30 CAPSULAS      ZZZZ       90.00      3.00     0          0     
+17509 PROTEVIT KIDS POTE 1000G VAINILLA        ZZZZ      150.00               0          5     
+16979 PRUEBA RAPIDA                            ZZZZ       20.00               0          0     
+16791 PURINATOR SUSP 100ML                     DEUT       50.00               0          0     

@@ -1,0 +1,502 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:47
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17334 ACEPOT 1ML CAJA X 1 AMPOLLA              ZZZZ       25.00               0          0     
+17171 ACETILCISTEINA GRANULOS 600MG X50 UND.   OYSA       50.00      1.00     0          0     
+17170 ACI BASIC SUS.ORAL 220ML.                TEVA       25.00               0          0     
+17124 ACICLAV AMOX+ACIDO CLAVULANICO 875+125   ZZZZ       42.00      3.00     0          1u1   
+14892 ACICLOVIR 400MG TABLX100                 MED       100.00      1.00     0          0     
+14889 ACICLOVIR 5%  CREMA5G                    FARM        4.50               0          1     
+14891 ACICLOVIR 800MG TABX10                   IQFA       25.00      2.50     0          0     
+16936 ACIDO ACETILSALICILICO 100MG CAJA X 100  LAB        50.00      0.50     0          0u10  
+12765 ACIDO FOLICO 0.5mg tabletax100           PER        30.00      0.30     0          0u30  
+00125 ACIDO FUSIDICO 2% CREx15g                GENF       19.50               0          0     
+14894 ADOLQUIR 25MG TAB CAJX10                 EM         38.00      3.80     0          0     
+17338 AEROMIDE INHALADOR 10ML                  ZZZZ       75.00               0          0     
+17499 AFTOTEX SOLUCION 30ML                    ZZZZ       35.00               0          4     
+16815 AGUA ESTERIL PARA INYEC. CAJAX100 AMPOLL DA         50.00      0.50     0          0u5   
+16553 ALBENDAZOL 100MG/5ML  SUSPX20ML          GENF        4.50               0          0     
+00326 ALBENDAZOL 200MG TABX100                 IQFA      100.00      1.00     0          0u18  
+16314 ALERCHECK PLUS 10MG CAPSULA/CAJAX30      D'OL       45.00      1.50     0          0u18  
+16183 ALERGICAL SF 2MG+30MG JARABE X60ML       HERS       23.00               0          0     
+16742 ALERGICAL SF CAJAX100TABLETAS            HERS      230.00      2.30     0          0     
+16177 ALERGICAL SF GOTASX15ML                  HERS       21.00               0          0     
+16589 ALMORA/LEFLUNOMIDA 20MG CAJAX30TABLETAS  PER       255.00      8.50     0          0     
+14903 ALPRAZOLAM 0,5MG TABX200 V01/2023        FARM      100.00      0.50     0          0u185 
+16629 AMARYL 4MG CAJAX15COMPRIMIDOS            SANO       75.00      5.00     0          0     
+16640 AMBROXOL ADULTO 30MG 5ML JARABE          PORT        9.00               0          2     
+16639 AMBROXOL PEDRIATICO 120ML JARABE         PORT       12.00               0          0     
+14901 AMERITON POMADA 25G                      AM         19.50               0          0     
+16388 AMIKACINA 500MG AMPOLLA CAJAX25          DA        200.00      8.00     0          0u1   
+16811 AMITRIPTILINA 25MG CAJAX100 TABLETAS     IQFA       30.00      0.30     0          1     
+00617 AMLODIPINO 10MG TABX100                  NAGE       40.00      0.40     0          2     
+14908 AMOX 500MG  CAPX100                      LIPH      250.00      2.50     0          0     
+00659 AMOXIC+A.CLAV 250MG+62.5MG/5ML SUSP120ML NAGE       24.00               0          0     
+17358 AMOXICI+ACID.CLAVULANICO X60ML SUSP      PORT       18.00               0          0     
+00668 AMOXICILINA 250MG/5ML SUSP60ML           FARM        8.50               0          2     
+16813 AMOXICILINA 500MG CAJAX100 TABLE         IQFA       60.00      0.60     0          0u68  
+16876 AMPICILINA 1G CAJAX10AMPOLLAS            DA         40.00      4.00     0          0     
+00778 AMPICILINA 500 CAPx100                   NAGE      120.00      1.20     0          0     
+16677 ANEURIN 10,000 SOLUCION INYECTABLE       CIPA       28.00               0          0     
+16688 ANEURIN 25 000 CAJA X 1AMPOLLAS          CIPA       35.00               0          0     
+14915 ANTALGINA  AMPOLL 1G/2ML                 TEVA       13.90               0          0     
+00875 ANTALGINA 250MG/5ML JARAB 60ML           TEVA       18.00               0          0     
+15370 ANTALGINA 400MG/ML GOTAS                 TEVA       12.30               0          0     
+16672 ANTALGINA 500MG CAJAX100TABLETAS         TEVA       70.00      0.70     0          0u27  
+14914 ANTALGINA-R 1,5G/5ML AMPOLL              TEVA       11.50               0          0     
+14954 AQUASOL 5% REGENERADOR 5% X60G           AB         35.00               0          0     
+16555 ARTRIPLUS 10MG CAJAX10COMPRIMIDOS        PER        82.00      8.20     0          0     
+17458 ARTROMEX PLUS 20MG                       ZZZZ      220.00               0          4     
+17237 ASCORBIC PROMOCION                       ZZZZ       80.00               0          2     
+16666 ASSA 81MG CAJAX100TABLETAS               FARM      100.00      1.00     0          0     
+14944 ASSIS 400 SUSPX220ML                     ELIF       30.00               0          3     
+01077 ATORVASTATINA  10MG TABX100              NAGE       50.00      0.50     0          1u80  
+01078 ATORVASTATINA 20MG TABX100               PEFA       60.00      0.60     0          0u30  
+16481 AZITROMICINA 200MG/5ML POLV.PARA SUSP.   PORT       12.00               0          3     
+14917 AZITROMICINA 500MG CAJAX30 TABLETAS      ACFA       60.00      2.00     0          0     
+17381 AZITROMICINA 500MG TABX100               PORT      500.00      5.00     0          0     
+16492 BACIMICINA PLUS 15G CREMA                PORT       15.00               0          0     úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:47
+PRT202()                                                                             Pag.-    2
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17467 BAGOLIFE CAJAX30 CAPSULAS                ZZZZ      114.00      3.80     0          0u15  
+16310 BETAFLEXIL 5MG/2MG/1ML  INYECTABLE       PER        35.00               0          0     
+14932 BETAMETASONA 0,05% CREMAX20G             MEDI        4.00               0          0     
+17251 BETAMETASONA 4MG/2MG AMPOLLA 1ML         ZZZZ       14.00               0          3     
+14922 BETAPLUSS 0.05% CREMA                    PORT        5.00               0          0     
+16795 BETASERC 16MG CAJAX20TABLETAS            AB         80.00      4.00     0          0     
+16794 BETASERC 24MG CAJAX20TABLETAS            AB         80.00      4.00     0          0     
+16412 BETINA 24MG TABLETA                      EU          3.90               0          0     
+17173 BIOCLAV 500MG+125MG CAJAX10              ZZZZ       25.00      2.50     0          3     
+16758 BIOGAIA SOL ORAL 5ML                     FARM       52.00               0          0     
+16384 BIPROFENID 150MG/COMPRIMIDO CAJAX10      SANO       51.00      5.10     0          0     
+17183 BISMUTOL SUSPENSION 150ML                ZZZZ       10.00               0          2     
+16710 BONCHECK 50MCG CAJAX50 CAPSULAS          D'OL       50.00      1.00     0          0     
+16475 BRANDREX 150MG CAJAX1 TABLETA            PER        80.00               0          2     
+16613 BROMELIN 0,88GR SUSP ORALX100ML          ZZZZ       35.00               0          0     
+16031 BROMURO DE IPRATROPIO 20MCG AEROS/INHALA LAB        30.00               0          0     
+16369 BRONCHO-VAXOM ADULTOS 7MG CAJAX30CAPS    D'OL      270.00      9.00     0          0     
+16367 BRONCHO-VAXOM NINOS 3,5MG CAJAX30SOBRES  ZZZZ      240.00      8.00     0          0     
+17121 BRONCO AMOXIDIN 250MG/150MG 60ML POLVO   MEDI       20.00               0          0     
+17122 BRONCO MEDIMOX 125 125MG/4MG POL         MEDI       20.00               0          0     
+16644 BRONCOTRIN DILAT PEDRIATICO 120 ML       PORT       16.50     16.50     0          0     
+16617 CADELIUS 600MG FRASCOX30COMPRIMIDOS      ABEE       85.00               0          0     
+17248 CAFAZOLBAC CAJAX1 AMPOLLA                ZZZZ       15.00               0          3     
+01989 CAPTOPRIL 25mg TABx100                   NAGE       30.00      0.30     0          0u28  
+16752 CARBAMAZEPINA 200MG CAJAX100TABLETAS     LAB       120.00      1.20     0          0     
+16728 CARDIOASPIRINA 100MG CAJAX20COMPRIMIDOS  BAYE       60.00      3.00     0          0     
+16020 CARDIOTON R AC.ACETILSAL.100MGX100TAB    MEDI       50.00      0.50     0          0     
+16944 CEFACROL IV 1000 CAJA X 1 AMPOLLA        MEDI       36.00               0          0     
+02162 CEFALEXINA 250MG/5ML SUSPX60ML           FARM       11.00               0          0     
+16832 CEFALEXINA 500MG CAJAX100 TABLETAS       FARM       80.00      0.80     0          0u73  
+16910 CEFALOGEN 1GR IV CAJAX1 AMPOLLA          EU         36.00               0          0     
+17350 CEFAZOLBAC 1G AMPX1                      CAFE       15.00               0          0     
+16922 CEFTAZIDIMA 1G SOL.INYECTABLE            DA         12.00               0          0     
+02262 CEFTRIAXONA 1g AMP CAJAX1OUNID           DA         80.00      8.00     0          0u3   
+16731 CEFTRIMAX 1GR   AMPOLLA                  INTI       13.00               0          0     
+14878 CEFUROXIMA 500MG  TABX50                 ACFA      110.00      2.20     0          0     
+15604 CELECOXIB 200MG CAPS CAJAX100            ZZZZ      100.00      1.00     0          0     
+16333 CELECOXPHARM CAPSULA CAJAX100            D'OL      150.00      1.50     0          0     
+16650 CETIRIZINA 10mg ANTIHISTAMINICO          PEFA       80.00      0.80     0          0     
+14884 CETIRIZINA JARAB 5MG/5ML JARABEX60ML     PORT        9.50               0          3     
+16341 CIDOBEL 500MG CAPSULA CAJAX100           QH        250.00      2.50     0          0     
+17218 CILOSTAL 50MG X 30 TAB                   MERC      150.00      5.00     0          1     
+14875 CIPROBAC 500MG TABX100                   D'OL      150.00      1.50     0          0     
+15256 CIPROCTAL 500MG TABX100                  OQFA      120.00      1.20     0          0     
+15254 CIPROFIBRATO 100MG CAPSULA CAJAX100      ACFA      320.00      3.20     0          0u2   
+16751 CIPROFLOXACINO 0.3% SOLC OFTALMICA 5ML   JPS        14.00               0          0     
+16923 CIPROFLOXACINO 200MG/100ML AMPX100ML F   ZZZZ       13.50               0          1     
+16649 CIPROFLOXACINO 500MG CAJAX100TABLETAS    PEFA       70.00      0.70     0          0     
+16192 CIPROLIN 500MG/TABLETAX10                HERS       45.00      4.50     0          0     
+14872 CITROCALCIO 1500MG TABX30                SHER       45.00      1.50     0          0     
+02654 CLARITROMICINA 250MX5ML-SUSP ORAL 50ML   PORT       26.00     26.00     0          0     
+14869 CLARITROMICINA 500MG CAJAX100            PORT      180.00      1.80     0          0u50  
+17346 CLAVUMOX 600 SUSPENSION                  ZZZZ       90.00               0          0     
+16796 CLAVUMOX.12HRS 875MG/125MG X14TAB        AB         90.00               0          1     
+17204 CLENBUVENT GOTAS 15ML                    ELIF       22.00               0          2     úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:47
+PRT202()                                                                             Pag.-    3
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16221 CLENBUVENT JARABE   EXPECTORANTE         ELIF       26.00               0          0     
+02760 CLINDAMICINA 300GR CAJAX100CAPSULAS      FARM      100.00      1.00     0          0     
+02764 CLINDAMICINA AMP 600MG/4ML  CAJAX25      DA        150.00      6.00     0          0u22  
+16687 CLINDAPHARM 300MG CAJAX100CAPSULAS       QH        220.00      2.20     0          0     
+17365 CLONAZEPAM                               ZZZZ                           0          0     
+16063 CLONAZEPAM 0.5mg tabletax100             PER        80.00      0.80     0          0u15  
+02825 CLONAZEPAM 2mg TABx100                   FARM      150.00      1.50     0          0     
+16002 CLORFENAMINA  2mg/5ML JARABE 60ML        PORT        6.00               0          0     
+14866 CLORFENAMINA 10MG/ML AMPOLL CAJX100      LAB       400.00      4.00     0          0u1   
+17372 CLORFENAMINA 2MG/5ML JARABE X120ML       PORT        7.50               0          3     
+14868 CLORFENAMINA MALEATO 4MG TABX100         NAGE       30.00      0.30     0          0u20  
+02926 CLORINCORT-P UNG OFT 3.5GR               LANS       27.00               0          0     
+16607 CLORO ALERGAN 10MG/ML AMPOLLA            TEVA       18.00               0          0     
+16257 CLORO ALERGAN 1MG/ML  GOTAS              TEVA       28.00               0          0     
+16251 CLORO ALERGAN 2mg/5ml JARABE 120ML       TEVA       28.00               0          0     
+17412 CLORURO 250ML                            ZZZZ        9.50               0          1     
+14948 CLORURO DE SODIO 100ML 0,9%              ZZZZ        7.00               0          3     
+14865 CLOTIL COMPUESTO TUBO10GR                TEVA       17.00               0          0     
+02996 CLOTRIMAZOL 1% CRE 20g                   PORT        6.00               0          1     
+16626 CLOTRIMAZOL 1% CREMA VAGINAL 40GR        GENF       28.50               0          0     
+16673 CLUVAX 100mg CAJAX3CAPSULAS VAGINALES    AB         36.00     12.00     0          0     
+16379 COAPROVEL 300MG/25MG TABLETA             SANO        7.30               0          0     
+03046 CODIPRONT EXP CAJAX10CAPSULAS            GRUN       70.00      7.00     0          1     
+17500 COGNAFLEX POTE 500GR                     ZZZZ      120.00               0          1     
+17310 COLAG HP POTE 450GR VAINILLA             ZZZZ      135.00               0          1     
+17336 COLAG POTE 450 SABOR NEUTRO              ZZZZ      135.00               0          3     
+16364 COLAG-HP POTE 420GR CHOCOLATE            D'OL      120.00               0          0     
+16852 COMPLEJO B CAJAX300 CAPSULAS             PER        60.00      0.20     0          0     
+03142 COMPLEJO B JBEx120ML                     PORT        8.50               0          0     
+17422 CONCOR 5MG CAJAX30 TABLETAS              ZZZZ      135.00      4.50     0          0u12  
+16802 CONTRACXIN/OXITOCINA 10UI CAJX10AMPOLLAS ZZZZ       45.00      4.50     0          0     
+16967 CORTAFAN NF CAJA X100 CAPS               MARK      100.00      1.00     0          0     
+03276 CORTIPREX SUSPENSION DE 100ML            TEVA       25.00               0          0     
+03446 DECORTEN TAB 4MG CAJAX10                 ELIF       15.00      1.50     0          0     
+16530 DEFLAZACORT 30MG CAJAX10TABLETAS         GENF       33.00      3.30     0          0     
+16529 DEFLAZACORT 6MG CAJAX10TABLETAS          GENF       17.00      1.70     0          0     
+03524 DEQUAZOL ORAL CAJAX60TABLETAS            MEDI       60.00      1.00     0          0u19  
+16544 DESTOLIT 5% CREMA 30GR                   M          32.00               0          0     
+16576 DESTOLIT 5% LOCION X 100ML               ZZZZ       50.00               0          1     
+03598 DEXA BENALGIN AMP 5000                   LUSA       28.00               0          0     
+16378 DEXA NEUROBION X 1AMPOLLA                MERC       42.00               0          0     
+16907 DEXACORT 4MG/2ML CAJAX1 AMPOLLA          TEVA       13.50               0          0     
+14829 DEXAMETASONA 4MG/1ML AMPOLL CAJX100      LAB       400.00      4.00     0          0u26  
+03634 DEXAMETASONA 4mg TABx100                 LOB        70.00      0.70     0          0     
+17340 DEXIDE SR 1000 CAJAX30 CAPSULAS          ZZZZ       90.00      3.00     0          1u5   
+16743 DEXTROMETORFANO 15MG/5ML JARABE          PORT       10.50               0          0     
+14962 DEXTROSA 5% CONT 1000ML                  ZZZZ        9.00               0          0     
+03755 DIAZEPAM 10mg TABx200                    FARM      140.00      0.70     0          0     
+03825 DICLOFENACO AMP 75MGx3ML CAJX100         LAB       400.00      4.00     0          0u2   
+14827 DICLOFENACO TAB 50MG X100                IQFA       30.00      0.30     0          0     
+15052 DICLOXACILINA 250MG/5ML SUSPX60ML        NAGE       15.00               0          0     
+14824 DICLOXACILINA 500MG CAPX100              NAGE      100.00      1.00     0          0     
+16410 DICYNONE 250MG/2ML INYECTABLE            ZZZZ       22.00               0          0     
+15050 DIMENHIDRATO 50MG TABX100                NAGE       30.00      0.30     0          0     
+15010 DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25   PHAR      100.00      4.00     0          3u17  úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:48
+PRT202()                                                                             Pag.-    4
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17461 DIOXAFLEX 75MG/3ML CAJAX 1 AMPOLLA       AB         10.00               0          4     
+16193 DIPROSPAN/INYECTABLE                     MERC       35.00               0          0     
+16684 DIXI 35 CAJAX21 COMPRIMIDOS              AB         50.00               0          0     
+15255 DOBESILATO CALCICO 500MG TABX100         ZZZZ      120.00      1.20     0          0u37  
+16256 DOLO LIVIOLEX 9MG/5ML SUSPX60ML          TEVA       20.00               0          0     
+15036 DOLO MELOXIC 15MG/500MG TABX120          TEVA      264.00      2.20     0          0     
+16737 DOLO NEUROBION FORTE CAJAX200 TABLETAS   MERC      360.00      1.80     0          0     
+04123 DOLO NEUROBION FORTE CAJAX3 AMPOLLAS     MERC      126.00     42.00     0          0     
+16680 DOLOCHECK 400MG X 100TABLETA             ZZZZ      100.00      1.00     0          0     
+17359 DOLODIF KIDS 100MG/5ML X60ML JARABE      ANDR       15.00               0          0     
+15040 DOLODRAN EXTRA FORTE 50MG/500MG TABX100  NAGE      150.00      1.50     0          0     
+15043 DOLORAL - IBUPR100MG/5ML JARB60ML        HERS       16.00               0          3     
+15048 DOXICICLINA 100MG CAPX100                NAGE       90.00      0.90     0          0     
+16397 DOXIUM 500MG TABLETA                     OM-P        2.40               0          0     
+17312 ELASTIFLEX ULTRA COMPLEX POTE COLAG      ZZZZ      220.00               0          2     
+15085 ELITON CIP 340ML                         ELIF       25.00               0          0     
+16385 ELVENIR 37,5GR/COMPRIMIDO CAJAX30        AB        300.00     10.00     0          0     
+16584 ENALAPRIL 10MG CAJAX100                  FARM       20.00      0.20     0          0u70  
+16663 ENALAPRIL 20mg TABLETA 100               PER        50.00      0.50     0          0     
+17244 ENDOVIT +MATERIAL APLICACION             ZZZZ       70.00               0          1     
+16676 ENDOVIT AL 5% DEXTROSA 1000ML            MEDI       40.00     40.00     0          0     
+16695 ENOXAPARINA  40MG/0.4ML                  SANO      100.00               0          0     
+04653 ENTEROGERMINA AMP BEBI 5MLx10            SANO       45.00      4.50     0          0     
+16753 EPINEFRINA 1MG/ML CAJAX10AMPOLLAS        DA         45.00      4.50     0          0u8   
+04712 ERITROMICINA 500MG TABX100               MED       100.00      1.00     0          0     
+04770 ESOMEPRAZOL 40MG TABX30                  IQFA       30.00      1.00     0          3u29  
+14782 ESPASMO ANTALGINA 250mg+10mg tableta 100 TEVA      180.00      1.80     0          0     
+16237 ESPASMO ANTALGINA AMPOLLA                TEVA       25.00               0          0     
+17082 ESPECULO TALLA L                         ZZZZ        5.00               0          0     
+17083 ESPECULO TALLA M                         ZZZZ        5.00               0          4     
+15258 ESPIRONOLACTONA 25MG TABX100             ACFA       50.00      0.50     0          0     
+17383 ETOROCOXIB 120MG TABX60                  0004      240.00      4.00     0          1     
+17215 EUTIROX 100MCG X50TAB                    MERC       80.00      1.60     0          0     
+17457 EUTIROX 25MG  X50 UNID                   ZZZZ       50.00      1.00     0          0u24  
+17216 EUTIROX 50MCG X 50TAB                    MERC       50.00      1.00     0          0u3   
+17252 EUTIROX 88MG CAJAX10 TABLETAS            ZZZZ       20.00      2.00     0          0u7   
+14783 EXADIOL FLEX TABX10                      PHAE       35.00      3.50     0          0     
+17097 EYEMO COLIRIO 0.05% SOL.OFTALMICA X8ML   MEDI       15.00               0          1     
+04956 FAMIDAL CREx60GR                         ABL        38.90               0          0     
+16716 FASTUM TUBO 30GR GEL                     0014       24.00               0          1     
+16709 FENAZOPHARM 100MG CAJAX100TABLETAS       ZZZZ      100.00      1.00     0          0     
+16335 FENAZOPIRIDINA 100mg TABLETA CAJA X 100  IQFA       50.00      0.50     0          0u69  
+14790 FERRIMAX 50MG/5ML JARABX150ML            IQFA       51.00               0          0     
+14789 FERRIMAX 50MG/ML SOLC 30ML               IQFA       42.00               0          0     
+16522 FILARTROS 20MG TABLETA X15               TEVA      150.00      5.00     0          0     
+16786 FITOMENADIONA 10MG/ML CAJAX50AMPOLLAS    MEDI      250.00      5.00     0          0     
+16656 FLAGYL  125mg/5ml 120ML                  SANO       36.00               0          0     
+15055 FLAGYL 500MG TABX20                      SANO       36.00      1.80     0          3u6   
+16381 FLAGYL SUSPENSION 250MG/5ML              SANO       42.00               0          0     
+16833 FLAVOXATO 200MG CAJAx20 TABLETAS         HERS       90.00      4.50     0          0     
+17342 FLOREA CAJAX60 CAPSULAS                  ZZZZ      180.00      3.00     0          0u35  
+16651 FLUCONAZOL 150mg ANTIMICOTICO CAJAX2     PEFA        4.00      2.00     0          1     
+17498 FLUTOX 17.5MG/5ML SUSP 120ML             ZZZZ       45.00               0          3     
+16391 FRUTENZIMA FORTE CAJAX120 CAPSULAS       FARM      180.00      1.50     0          0     
+17099 FRUTI FLEX X 1LT                         ZZZZ       12.00               0          3     úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:48
+PRT202()                                                                             Pag.-    5
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16726 FUNCADEN 1% CREMA 20GR                   ZZZZ       20.00               0          0     
+05445 FUROSEMIDA AMP 20MGx2ML AMP X50          PHAR      200.00      4.00     0          0u35  
+05449 FUROSEMIDA TAB 40MGx100                  FARM       30.00      0.30     0          0     
+16406 GALAZINE 500MG TABLETA                   PER         2.50               0          0     
+05478 GAMALATE B6 SOLx80ML                     FERR       68.00               0          0     
+05483 GARDIL 500MG TABX6                       LABO       21.00      3.50     0          0     
+16670 GASEOPHAR SIMETICONA 80mg/ml gotas 15ML  FAVL        7.00               0          0     
+14792 GASTRORAL SUSP X 200ML                   IQFA       21.50               0          0     
+05570 GEMFIBROZILO 600 TABx100                 NAGE      100.00      1.00     0          0     
+15247 GENTAMICINA  0,3% SOLC. OFTAL 5ML        ZZZZ       12.00               0          0     
+15086 GENTAMICINA  160MG/2ML AMPOLL CAJAX25    FARM      100.00      4.00     0          0u14  
+05695 GINGISONA B 0,30% SOLX15ML SPRAY         TEVA       28.00               0          0     
+16809 GINGISONA LNF TOQUES SOL. 30ML           TEVA       18.00               0          0     
+15137 GLIBENCLAMIDA 5MG CAJAX100TABLETAS       TEVA       20.00      0.20     0          1u75  
+16401 GLUCOPHAGE  XR 750 MG X 30 TABLETAS      MERC       90.00      3.00     0          1u25  
+16400 GLUCOPHAGE XR 500MG TABX30               MERC       84.00      2.80     0          0     
+16511 GLUCOSA ANHIDRA 100GR                    ZZZZ       15.00               0          0     
+17253 GLUCOVANCE 500/2.5MG CAJAX30 UNID        ZZZZ       45.00      1.50     0          0u27  
+15246 GRAVOL  15MG/5ML JARABE 60ML             MEDI       40.00               0          0     
+05881 GRAVOL 50MG TABX100                      MEDI      310.00      3.10     0          0     
+15094 HEPABIONTA DE 2ML CAJA X3 AMP            MERC       60.00     20.00     0         12     
+16722 HEPABIONTA GRAGEAS CAJAX200              MERC      500.00      2.50     0          0u45  
+16493 HIDRANTA  CHERRY 500ML                   ZZZZ       11.50               0          0     
+15060 HIDROCLOROTIAZIDA 50MG TABX200           IQFA       40.00      0.20     0          0u108 
+16375 HIDROCORTISONA 100MG AMPOLLA CAJAX10UNID ZZZZ       80.00      8.00     0          0u1   
+16394 HIDROCORTISONA 250MG AMPOLLA CAJAX10UNID PHAR      200.00     20.00     0          0u3   
+16754 HIDROXICLOROQUINA 400MG CAJAX30TABLETAS  PORT      150.00      5.00     0          0     
+16404 HIDROXIPLUS 400MG COMPRIMIDO             PER         6.60               0          0     
+14820 HIDROXOCOBALAMINA 1MG/ML AMP X25         LUSA      425.00     17.00     0          0     
+15134 HIOSCINA 10MG TABLETAX10                 MED        10.00      1.00     0          0     
+15124 HIOSCINA 20MG AMPOLLA CAJAX25UNID.       ZZZZ      125.00      5.00     0          0     
+16300 HYALONE 60MG/4ML INYECTABLE              PER     1,100.00               0          0     
+16302 HYALU-PLUS 30MG/2ML INYECTABLE           PER       450.00               0          0     
+16853 IBANCHECK 75MG PREGABALINA X30 CAP       BRAT       36.00      1.20     0          0     
+16729 IBANCHECK/PREGABALINA150MG CAJX30CAPSU   D'OL      120.00      4.00     0          0     
+17367 IBUPROFENO                               ZZZZ                           0          0     
+16109 IBUPROFENO 600mg 100tabletas             PER       120.00      1.20     0          0     
+17380 IBUPROFENO KIDS X120ML                   GENF       15.00               0          0     
+16756 IDELLE/M ESTRIOL 0.1% CREMA 15GR         MEDI       16.00               0          0     
+16308 INDOFLEX 1% SOLUC.TOPICA                 PER        50.00               0          0     
+16480 INSULINA ADN RECOMBINANTE                ZZZZ       45.00               0          0     
+16395 INSULINA ISOFANA HUMANA 100UI/ML         ZZZZ       45.00               0          0     
+14888 IRRIGEN PLUS TABX10                      INPH       25.00      2.50     0          0     
+14887 ISOCONAZOL 1% CREMA 20G                  FARM       15.50               0          0     
+17092 ITRACONAZOL 100MG X 100 TABLETAS         ACFA       80.00      0.80     0          0     
+16668 ITRACONAZOL 100mg tabletasx16            PER        84.00      5.25     0          0     
+16704 IVERMECTINA GOTAS 10ML                   ZZZZ       50.00               0          0     
+16243 KETESSE 25MG TABLETA CAJAX20             0014       90.00      4.50     0          0u9   
+16245 KETESSE AMPOLLA CAJAX5                   0014      125.00     25.00     0          0u4   
+16830 KETOCONAZOL 2% CREMA 10G                 FARM        4.00               0          0     
+16618 KETOPAN 100MG AMPOLLA\                   ZZZZ       16.00               0          0     
+06731 KETOROLACO 60mg/2ML AMPOLL CAJAX25       DA        125.00      5.00     0          0u5   
+15067 LACTULOSA 3,3G/5ML SOLUCION ORALX200ML   PORT       20.00               0          0     
+17360 LACTULOSA 3.3/5ML 120ML                  PORT       21.00               0          0     
+17361 LACTULOSA 3.3/5ML X180ML                 ACFA       28.50               0          2     úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:48
+PRT202()                                                                             Pag.-    6
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+15062 LANCIPROX-DX 0,3%+0,1% SUSP OFTX5ML      LANS       42.00               0          0     
+16727 LANSOPRAZOL 30GR CAJAX100TABLETAS        PORT      100.00      1.00     0          0     
+15251 LASIX 40MG TABLETAX20                    SANO       30.00      1.50     0          0     
+15063 LAXOLAX 7,5/ML SOL ORAL GOT 10ML         ROXF       26.00               0          0     
+16917 LENOMIDE/DUTASTERIDA 0.5MG CAJAX30 TABLE ZZZZ       60.00      2.00     0          0     
+14856 LEVOCTRIM 500MG CAJX7                    PORT       56.00      8.00     0          0     
+07018 LEVOFLOXACINO  500MG CAJAX100TABLETAS    NAGE      200.00      2.00     0          0u56  
+16597 LEVOTIROXINA SODICA 50MCG CAJAX50 TAB    ZZZZ       50.00      1.00     0          0     
+16773 LEVOTIROXINA/BONCHECK 100MG CAJAX50TABLE ZZZZ       80.00      1.60     0          0     
+17384 LIDOCAINA 2%GEL X30G                     QH         30.00               0          0     
+16599 LIKFERR +MATERIAL DE APLICACION          ZZZZ       40.00               0          2     
+15257 LORATADINA 10MG TABLX100                 PORT       30.00      0.30     0          0u15  
+07268 LORATADINA JBE 5MG/5MLx60ML              MED         9.00               0          1     
+16652 LOSARTAN  50mg CAJAX100TABLETAS          PEFA       50.00      0.50     0          0u48  
+17387 LOVEGEST 450G VAINILLA                   ZZZZ       80.00               0          1     
+17332 LUIVAC CAJAX14 COMPRIMIDOS               ZZZZ      119.00      8.50     0          2     
+17206 MAGNEGEM PLUS C POTEX400MG               GILS       30.00               0          0     
+16328 MAGNEGEM PLUS POTEX330MGR                D'OL       55.00               0          0     
+16568 MALTOFER GOTAS                           VIFO       48.00               0          0     
+16079 MASCARILLA DE NEBULIZACION NINO          ZZZZ       12.00               0          1     
+14284 MASCARILLA NEBULIZADORA ADULTO           UNIL       12.00               0          4     
+16552 MEBENDAZOL 100MG CAJAX100TABLETAS        PORT       30.00      0.30     0          0     
+17250 MEBENDAZOL 100MG/5ML FRASCOX30 ML        ZZZZ        4.50               0          3     
+16569 MEBO TUBOX30GR                           ZZZZ       90.00               0          2     
+07622 MEGACILINA AMP 1'000,000 x1 C/DIS        GRUN       18.50               0          0     
+16392 MEGACILINA AMPOLLA 4000000 CAJAX1        GRUN       35.00     35.00     0          0     
+07627 MEGACILINA ORAL COMx120                  GRUN      264.00      2.20     0          0     
+16968 MELOXICAM 15 MG CAJAX100                 PEFA       50.00      0.50     0          0u4   
+16407 MENISTIN 16MG   TABLETA                  ZZZZ        1.60               0          0     
+15121 MENTHOLATUM FRASCO 85G                   MEDI       15.00               0          0     
+16545 MEPRECORT 15MG/5MLSOL.ORAL100ML          TEVA       32.00               0          0     
+16812 MEPRECORT 5MG/5ML SOL. ORAL120ML         TEVA       29.00               0          0     
+16700 METAMIZOL SODICO 1G/2ML AMPOLLA X25      ZZZZ      100.00      4.00     0          0u5   
+16648 METFORMINA 850MG CAJAX100 TAB            PEFA       50.00      0.50     0          0     
+07795 METOTREXATO 2,5MG TABX10                 PHAI       10.00      1.00     0          0     
+16904 METPURE XL-50 CAJAX10 TABLETAS           EM         38.00      3.80     0          0     
+07803 METRONIDAZOL 250MG/5ML SUSP 60ML         PORT        9.00               0          1     
+07815 METRONIDAZOL AMP 500MGx100ML FRASC100ML  0006       12.00               0          0     
+14849 MICROSER 24MG TABX20                     GRUN       76.00      3.80     0          0     
+16343 MIGRANOT 250MG TABLETA CAJAX100          D'OL      250.00      2.50     0          0     
+17096 MINOCICLINA 100MG X10 CAPSULAS           GENF       20.00      2.00     0          0u5   
+16681 MIXEL 2% SUSPENSION ORAL 30ML            SIEG       25.00               0          0     
+16792 MOBILISIN GEL 40GR                       ZZZZ       50.00               0          1     
+16423 MONTELUKAST 5MG TABLETAX100UNID.         LOB       100.00      1.00     0          0     
+16653 MORFINA CLORHIDRATO 20mg/ml 1ml AMPOLLA  ZZZZ        8.00               0          0     
+16519 MUCOCAR 100MG/5ML X120ML SOLUCION ORAL   EU         32.00               0          2     
+08100 MUCOTRIM GOTx15ML                        ROXF       19.00               0          1     
+15415 MULCEROL/ESOMEPRAZOL 40 TAB CAJX30       CAFE       90.00      3.00     0          0     
+16558 MULTIDERM CREMAX10GR                     ZZZZ       18.00               0          0     
+16712 MULTIMYCIN  14GR CREMA                   ZZZZ       35.00               0          0     
+08266 NAPROXENO 550 TABx100                    FARM       50.00      0.50     0          0u6   
+16565 NAYARA GEL VAGINAL TUBOX30GR             ZZZZ       35.00               0          0     
+17100 NEO NISOPREX 15MG/5ML SOL.ORAL X 60ML    ELIF       26.00               0          3     
+15104 NEUROBION 10 000 AMPOLL                  MERC       35.00               0          0     
+08441 NEUROBION 1000 AMP CAJAX3AMPOLLAS        MERC       64.50     21.50     0          0     úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:49
+PRT202()                                                                             Pag.-    7
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16604 NEUROBION 5000 GRAGEAS CAJAX60           MERC      150.00      2.50     0          0     
+17366 NEURYL TABLETAS                          ZZZZ                           0          0     
+17246 NIOFEN 2% CREMA 15GR                     AB         51.00               0          0     
+14841 NISOPREX 20MG  COMPX100                  ELIF      120.00      1.20     0          0     
+16504 NORSPAN 10MG/PARCHE                      GRUN      135.00               0          1     
+16503 NORSPAN 5MG PARCHE                       GRUN       80.00               0          2     
+16657 NOTIPHARM CREMA 20g TUBO                 OQFA       16.00               0          1     
+16827 NUCLEO CMP FORTE CAJAX20 CAPSULAS        FERR      100.00      5.00     0          2     
+14834 OMEPRAVIL 20MG  CAPX28                   NAGE       33.60      1.20     0          0     
+16321 OMEPRAZOL 20MG CAJAX100CAPSULAS          ZZZZ       50.00      0.50     0          0u80  
+14981 OMEPRAZOL 40MG POLVO INYECTABLE CAJX10   VIT        80.00      8.00     0          0u5   
+16304 ORAVIL 100 000UI/ML SOLC.ORAL            PER        60.00               0          0     
+08974 ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS    FARM      112.50      4.50     0          0u2   
+08973 ORFENADRINA CITRATO 100MG TABX100        EU         70.00      0.70     0          0     
+16909 OROFER 50MG/5ML                          EM         27.00               0          0     
+16615 OSTEOBONE D FORTE CAJA X 30 COMPRIMIDOS  PER        45.00      1.50     0          0     
+16570 OTOZAMBON SOLUCION OTICA X10ML           ZZZZ       21.50               0          0     
+16173 PALDOLOR  TABLETAX200                    HERS      200.00      1.00     0          0     
+17230 PANADOL 160MG/5ML JARABE 60ML            GSK        19.00               0          0     
+17210 PANADOL ANTIGRIPALNF 2TAB X 52SOBRES     GSK       130.00      2.50     0          0     
+17393 PANADOL GOTAS 15ML                       ZZZZ       28.00               0          2     
+16682 PANTOPRAZOL 20MG X 30 TAB                TEVA       45.00      1.50     0          0     
+17197 PARACETAMOL 100MG/ML X10MLGOTAS          PORT        3.00               0          1     
+17348 PARACETAMOL 120 MG / 5ML X 60 ML         PORT        6.00               0          1     
+16428 PARACETAMOL 120MG/5ML JARABEX120ML       ZZZZ        8.50               0          2     
+15071 PARACETAMOL 500MG TABX100                NAGE       50.00      0.50     0          0u45  
+15054 PENICILINA BENZATINICA 1200000UI CAJX10  PHAR       80.00      8.00     0          0     
+14934 PENICILINA PROCAIN 1000000 CAJAX10       DA         85.00      8.50     0          0u5   
+17414 PERCOF 30MG/5ML JARABE 120ML             EU         25.00               0          3     
+16313 PHARMA GRIP  TABLETAX100                 D'OL      100.00      1.00     0          0     
+16546 PHYTO SOYA 17.5 MG CAJAX60 CAPSULAS      ARKO      132.00      2.20     0          0u5   
+16829 PHYTO SOYA FORTE 35MG CAJAX60 CAPSULAS   ARKO      120.00      2.00     0          0     
+16919 PIPERACILINA 4.0G + TAZOBACTAM 0.5G VIAL ZZZZ       40.00               0          0     
+17391 PIRALGINA250MG/5ML JARABE                IQFA       12.00               0          1     
+09518 PLATSIDERM CREMA 20GR                    PORT       20.00               0          0     
+15070 PLIDAN COMPUESTONF 10/125MG COMPX100     ROEM      180.00      1.80     0          0     
+09585 PORTIL CREx20GR                          PORT        7.00               0          2     
+15088 POVIDONA YODADA AL 10%/SOL MICROBICIDA   ROK        25.00               0          0     
+16647 PREDNISONA 20mg CAJAX100TABLETAS         PEFA       50.00      0.50     0          0     
+09643 PREDNISONA 50mg TABx100                  NAGE       60.00      0.60     0          0     
+09646 PREDNISONA 5mg CAJAX100TABLETAS          NAGE       20.00      0.20     0          1     
+09650 PREDNISONA JBE 5MG/5MLx60ML-P            PORT       12.00               0          0     
+16427 PREVENAR 13 AMPOLLA                      D'OL      270.00               0          0     
+16563 PROCEDIMIENTO MEDICO  100                ZZZZ      100.00               0        989     
+09763 PROFEKET AMP 100MGx2ML CAJX1 UNIDAD      SANO       17.50               0          0     
+14813 PROFEN KIDS X 60ML                       MED        15.50               0          0     
+16382 PROFENID GEL /TUBOX30GR                  SANO       28.00               0          0     
+16587 PROSTANATUR 320MG CAJAX 30 CAPSULAS      ZZZZ       90.00      3.00     0          0     
+16791 PURINATOR SUSP 100ML                     DEUT       50.00               0          0     
+16628 QUEXEL 850MG CAJAX30 TABLETAS            SANO       60.00      2.00     0          0     
+14815 QUIMIZOL CREMA VAG 60GR                  QUIL       38.00               0          0     
+16608 RANITIDINA 300MG CAJAX100TABLETAS        FARM       30.00      0.30     0          0     
+15011 RANITIDINA 50MG/2ML AMPOLL  CAJX100      FARM      500.00      5.00     0          0u5   
+16255 REDEX 250MG TABLETA CAJAX140             TEVA      280.00      2.00     0          0     
+16252 REDEX PLUS75MG+60MG AMPOLLA              TEVA       15.50               0          0     úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:49
+PRT202()                                                                             Pag.-    8
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17223 REPRIMAN METAMIZOL GOTAS 10ML            ZZZZ       19.00               0          1     
+10102 REPRIMAN TAB 500MG CAJAX100              QUIM       40.00      0.40     0          0     
+16938 RHINO-BB 0.9% GOTAS X 15ML               TEVA        8.60               0          0     
+16246 RILATEN 10MG TABLETA CAJAX30             0014       60.00      2.00     0          0     
+16247 RILATEN 20MG/2ML AMPOLLA CAJAX6          0014      150.00     25.00     0          0     
+15074 ROWACHOL  CAPSULAX100UNID.               ZZZZ      160.00      1.60     0          0u49  
+15075 ROWATINEX TABX100                        ZZZZ      180.00      1.80     0          1     
+10356 SALBUTAMOL AERO 100MCG FRASCOX200DOSIS   LAB        15.00               0          1     
+10539 SERTRALINA 50MG GENFAR TABX100           GENF       80.00      0.80     0          1     
+15331 SILDENAFILO 50MG                         MARF        3.50               0          0     
+14780 SILDEX 50 TABX1                          PHAR        7.00               0          0     
+10598 SILENAI EXPECTORANTE JARABEX120ML        ELIF       36.00               0          0     
+17220 SILENTUSS LEVODROPROPIZINA JARABE 120ML  GEN        32.00               0          1     
+10627 SIMETICONA 80MG TABX30                   FARM       45.00      1.50     0          0     
+16717 SKUDEXA CAJAX20 COMPRIMIDOS              0014       80.00      4.00     0          0     
+10749 SOLUNA AMPx2ML                           MEDI       25.00               0          2     
+10750 SOLUTRES AMP 150MG/ML                    MEDI       32.00               0          0     
+16249 SPASMOMEN 40MG TABLETA CAJAX30           0014      105.00      3.50     0          0u15  
+16514 SUERO FISIOLOGICO DE 1 LITRO             ZZZZ       10.00               0          3     
+10917 SULFACREM UNG 20GR                       INTA       37.00               0          0     
+16785 SULFADIAZINA DE PLATA 1% CREMA50GR       ZZZZ       15.00               0          1     
+16874 SULFAMET + TRIMET 800MG/160MG CAJAX100TA PORT       50.00      0.50     0          0u90  
+14799 SULFAMET+TRIMET 200MG/40MG/5ML SUPX60ML  PORT        6.00               0          0     
+15093 SULFAMET+TRIMET+GUAIFEN200/40/50/5ML SUP PORT       11.00               0          0     
+14798 SULFAMETOX+TRIMT 400MG/80MG/5ML SUSX60ML PORT        6.50               0          0     
+16841 SULFATO DE MAGNESIO 2% 10ML CAJAX50 AMP  PHAR      200.00      4.00     0          0     
+16810 SULFATO FERROSO 300MG CAJAX100 TABLETAS  PORT       20.00      0.20     0          0     
+13250 SUPOS GLICERINA NINOSx100                GENF       50.00      0.50     0          0     
+16901 SYNOLIS VA 40MG/80MG CAJA X1AMPOLLA      ZZZZ      450.00               0          0     
+16510 SYNVISC 2ML                              SANO      400.00               0          0     
+16509 SYNVISC ONE 6ML INYECTABLE               SANO    1,100.00               0          0     
+17095 TAMSULON DUO 0.5MG/0.4MG X30 TABLETAS    TECN       52.00      1.73     0          0     
+17374 TAMSULOSINA 0.4MG X30                    ZZZZ       45.00      1.50     0          1u10  
+15078 TERBINAFINA 1% CREMA 20G                 GENF        9.00               0          2     
+14795 TERBINAFINA 250MG TABX100                PORT      100.00      1.00     0          0u26  
+16512 TERFITIL 1% SOLUCION TOPICA              QH         25.00               0          0     
+17217 THYROZOL 10MG X50TAB RECUB.              MERC      110.00      2.20     0          0     
+15079 TOBAN F 2MG  CAJAX100                    EU        150.00      1.50     0          0     
+14816 TOPICALM  CREMA X30GR                    IQFA       30.00               0          0     
+17392 TOPIMICYN NF UNGUENTO X14G               ZZZZ       30.00               0          1     
+11493 TOSALBRON INF 28MG/5ML JARBX100ML        IQFA       24.00               0          0     
+15087 TRAMADOL  100MG/2ML CAJAX10AMPOLLAS      JPS        50.00      5.00     0          0     
+16772 TRAMADOL 50MG CAJAX100TABLETAS           MED        70.00      0.70     0          0     
+16390 TRAMAL 100 AMPOLLA 100MG/2ML             GRUN       19.00               0          0     
+16908 TRANSAMIN 1G/10ML CAJA X 1 AMPOLLA       EU         55.00               0          1     
+16814 TRANSAMIN 250MG CAJAX12 CAPSULAS         EU         72.00      6.00     0          0     
+16307 TRIAMCICORT 40MG/ML                      PER        36.50               0          0     
+15972 TRIAMCICORT 50MG/5ML AMPOLLA             PER        50.00               0          0     
+16588 TRIMICOT CREMA 10GR                      ZZZZ       10.80               0          0     
+16715 TUSSIS OM JARABEX100ML                   OM-P       21.00               0          2     
+16368 URO-VAXOM 6MG CAPSULA                    ZZZZ        4.80               0          0     
+11870 UROCIT-K TABx14 /CITRATO DE POTASIO      0012       25.00               0          0     
+14803 UROFURIN 25MG/5ML SUSPX120ML             IQFA       38.00               0          0     
+17093 UROPOL FORTE CIPROF+FENAZOP X 100TABLETA HERS      250.00      2.50     0          0     
+16831 UROTAN D 50MG/100MG CAJAX100 CAPSULAS    MARK      150.00      1.50     0          0     úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (FARMACOS)                    08:06:50
+PRT202()                                                                             Pag.-    9
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17094 VAGISTEN ESTRIOL 0,1% CREMA X 15G        ACFA       40.00               0          0     
+17344 VELAMOX 250 SUSP 60ML                    ZZZZ       17.00               0          1     
+16398 VENOSMIL 200MG CAPSULA                   FAES        2.70               0          0     
+16527 VENTOLIN 100MCG FRASCO15GR 200DOSIS      GSK        26.50               0          0     
+15081 VERSATIS 5% LIDOCAINA700MG PARCHE        GRUN       35.00               0          0     
+16689 VITACOSE 2 ML INYECTABLE                 CIPA       20.00               0         54     
+16800 VITAMINA E 400UI CAJAX30CAPSULAS         PHAI       90.00      3.00     0          0     
+17179 VITAVERAN CIP B12 JARABE                 ZZZZ       25.00               0          3     
+16566 VITERNUM VITAMINICO POLV PARA SOLC 150ML ZZZZ       35.00               0          0     
+15974 VIVERA CAJAX8                            MERC       40.00      5.00     0          1     
+16755 WARFARINA 5MG CAJAX100TABLETAS           LUSA      150.00      1.50     0          0     
+17098 XILOCAINA 2% TUBO X10G                   OQFA                           0          0     
+17364 ZATRIX 0.5 TAB                           ZZZZ                           0          0     
+15084 ZETALER 10MG/ML SOLC GOTS 15ML           ELIF       32.00               0          0     
+17351 ZITROBAC PEDIATRICO 200MG/5ML X30ML      INTI       25.00               0          0     
+16306 ZOLEDRON 5MG/100ML INYECTABLE            PER     1,300.00               0          0     

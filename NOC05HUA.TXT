@@ -1,0 +1,164 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 06/12/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/12/2024 AL 05/12/2024                              09:59:09
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+011705           ELI       01/12/2024 08:40  V                      LAGUNA SANCHEZ GREGORIA        E         240.00
+011706           ELI       01/12/2024 09:25  V                      ASENCIO ALIAGA BRIANA          PL        293.00
+011707           ELI       01/12/2024 09:32  V                      BERNACHEA LAGUNA MIRIAN        E          25.00
+011708           ELI  ELI  01/12/2024 14:29  V                      VILLAFANE TRUJILLO DOMINGA     E          72.70
+011709           ELI  ELI  01/12/2024 14:31  V                      VILLAFANE TRUJILLO DOMINGA     E          41.50
+011710           ELI  ELI  01/12/2024 14:39  V                      DIAZ MARCOS MARCO ANTONIO      PL         16.50
+011711           ELI       01/12/2024 15:09  V                      LIONEL ALIAGUA ALTEZ           PL         75.50
+011712           ELI  ELI  01/12/2024 15:10  V                      LIONEL ALIAGA ALTEZ            PL        189.50
+011713           ELI  ELI  01/12/2024 15:12  V                      DIAZ MARCOS MARCO ANTONIO      PL         45.00
+011714           ELI       01/12/2024 15:24  V                      ROSA MU:OZ HUARACA             E         144.00
+011715           ELI       01/12/2024 15:31  V                      DIAZ MARCOS MARCO              E           1.50
+011716           ELI       01/12/2024 16:11  V                      JAVIER CORZO YOIMAR            E          52.80
+011717           ELI  ELI  01/12/2024 16:19  V                      ASENCIO ALIAGA BRIANA          PL         45.00
+011718           ELI  ELI  01/12/2024 17:00  V                      ASENCIO ALIAGA BRIANA          PL         80.00
+011719           ELI       01/12/2024 17:40  V                      LIONEL ALIAGA ALTEZ            PL         45.00
+011720           ELI       02/12/2024 08:09  V                      VENTURA OLIVARES AMINADAB AMMI PL        268.00
+011721           ELI       02/12/2024 08:16  V                      BOLIVAR HUACANCA MELODY        E          45.00
+011722           ELI       02/12/2024 08:36  V                      VENTA ANULADA                  E           0.00
+011723           ELI       02/12/2024 08:37  V                      BOLIVAR HUACANCA MELODY        E           3.00
+011724           ELI       02/12/2024 08:41  V                      DALENNA CATALINA MORALES MELEN PL         70.00
+011725           ELI       02/12/2024 08:43  V                      BOLIVAR HUACANCA MELODY        E          14.00
+011726           ELI       02/12/2024 08:54  V                      GLADYS LLARES LEON             E         100.50
+011727           ELI       02/12/2024 09:33  V                      GUSTAVO ROGER OLACHEA FERNANDE E          45.00
+011728           ELI       02/12/2024 09:51  V                      APOLINARIO LLARES FELIX        E         120.00
+011729           ELI       02/12/2024 10:09  V                      OLOCHAO FERNANDEZ CASTA;EDA    E          82.20
+011730           ELI       02/12/2024 10:46  V                      PALACIOS ARAINDIA LIBERATA     E          45.00
+011731           ELI       02/12/2024 11:34  V                      PALACIOS ARAINDIA LIBERATA     E          61.00
+011732           ELI       02/12/2024 11:59  V                      VASQUEZ BACA ISABEL            PL         45.00
+011733           ELI       02/12/2024 11:59  V                      ROMAN CRUZ ACOSTA              PL         45.00
+011734           ELI       02/12/2024 12:53  V                      ATANACIO OLIVARES LESLY        E           1.50
+011735           ELI       02/12/2024 13:11  V                      PALACIOS ARAINDA               E          46.35
+011736           ELI       02/12/2024 13:55  V                      SOLIZ CAJALEON DOMINGO         E           2.00
+011737           ELI       02/12/2024 14:02  V                      MAMANI MEZA PILAR              E          45.00
+011738           ELI       02/12/2024 15:49  V                      DIAZ MARCO ANTONIO             E          16.50
+011739           ELI       02/12/2024 16:24  V                      ROMAN ACOSTA                   PL        160.00
+011740           ELI       02/12/2024 16:31  V                      ISABEL VASQUEZ PACA            PL        355.00
+011741           ELI       02/12/2024 16:48  V                      MAMANI MEZA PILAR              PL         71.20
+011742           ELI       02/12/2024 16:53  V                      MARCO ANTONIO BARZOLA          E          45.00
+011743           ELI       02/12/2024 17:03  V                      MAMANI MEZA PILAR              E          15.30
+011744           ELI       02/12/2024 18:09  V                      RAMIREZ GARAY SIMEON           E          45.00
+011745           ELI       02/12/2024 18:41  V                      VENTURA OLIVARES               PL         45.00
+011746           ELI       02/12/2024 18:42  V                      CHAVEZ TORRES VALERIO          E          45.00
+011747           ELI       02/12/2024 18:58  V                      ROMAN CRUZ                     E           3.00
+011748           ELI       02/12/2024 19:05  V                      ANGEL SAENS ASENCIO            E          45.00
+011749           ELI       02/12/2024 19:15  V                      ELIZABETH GAMARRA MENDOZA      PL          8.70
+011750           ELI       02/12/2024 19:25  V                      DOMINGA VILLAFANE TRUJILLO     E          40.00
+011751           ELI       02/12/2024 19:36  V                      BAZAN JAIMES FLOR VICTORIA     E          81.50
+011752           ELI       02/12/2024 19:45  V                      ALIAGA ALTES YONEL             PL         58.50
+011753           ELI       02/12/2024 19:51  V                      ESPINOZA TORRES JUAN CARLOS    PL         45.00
+011754           ELI       02/12/2024 20:19  V                      MARCO ANTONIO                  PL         31.50
+011755           ELI       02/12/2024 20:20  V                      MARCO ANTONIO                  PL          1.50
+011756           ELI       02/12/2024 20:22  V                      BRANDON BAYONA                 PL         15.00
+011757           ELI       02/12/2024 20:30  V                      ALIAGA ALTEZ YONEL             PL          9.50
+011758           ELI       02/12/2024 20:44  V                      SIMEON TEOFILO GARAY           PL         90.00
+011759           ELI       02/12/2024 20:55  V                      VENTURA OLIVARES AMINADAB AMMI PL        140.00úZethQuark Versi¢n 7.0ú                                                                                                 06/12/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/12/2024 AL 05/12/2024                              09:59:09
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+011760           ELI       02/12/2024 21:04  V                      CHAVEZ TORRES VALERIO          E         123.50
+011761           ELI       02/12/2024 21:40  V                      ANGEL SAENZ ASENCIO            PL         53.00
+011762           ELI       02/12/2024 21:58  V                      JUAN CARLOS                    E          22.00
+011763           ELI       03/12/2024 08:08  V                      COBOS CORZ VANESSA MARINA      E          40.00
+011764           ELI       03/12/2024 10:46  V                      VENTOCILLA BUSTAMANTE ROSARIO  PL         45.00
+011765           ELI       03/12/2024 11:21  V                      BRANDON BAYONA                 E          15.00
+011766           ELI       03/12/2024 12:59  V                      CALERO MORRI MAYRA             E          15.00
+011767           ELI       03/12/2024 14:18  V                      GENESIS SERNA QUI;ONES         E          15.00
+011768           ELI       03/12/2024 17:15  V                      MARCO ANTONIO DIAZ             E          56.00
+011769           ELI       03/12/2024 17:35  V                      ALMAQUIO ZORRILLA              E          15.50
+011770           ELI       03/12/2024 17:43  V                      VENTA ANULADA                  PL          0.00
+011771           ELI       03/12/2024 17:53  V                      VIZURRAGA RICAPA MISHEEL       PL         45.00
+011772           ELI       03/12/2024 17:55  V                      VICTORIA MEZA URBANO           E          28.70
+011773           ELI       03/12/2024 18:00  V                      RODRIGUEZ RIVERA DOMINGA       PL         45.00
+011774           ELI       03/12/2024 18:12  V                      MARCO ANTONIO DIAZ MARCO       E          60.00
+011775           ELI       03/12/2024 18:13  V                      DOMINGA                        PL         10.00
+011776           ELI       03/12/2024 19:25  V                      MARCO ANTONIO BARZOLA          E          31.50
+011777           ELI       03/12/2024 19:43  V                      VERAMENDI                      E          45.00
+011778           ELI       03/12/2024 19:51  V                      DOMIGA JIGEMES                 E           1.50
+011779           ELI       03/12/2024 19:56  V                      ROBERTO LUPO CRUZ              PL         45.00
+011780           ELI       03/12/2024 19:58  V                      RODRIGUEZ RIVERA DOMINGAB      PL         66.50
+011781           ELI       03/12/2024 20:30  V                      VENTOCILLA BUSTAMANTE ROSSELI  E          63.50
+011782           ELI       03/12/2024 20:53  V                      VENTOCILLA BUSTAMANTE ROSARIO  PL        204.50
+011783           ELI       03/12/2024 21:03  V                      VENTOCILLA BUSTAMANTE ROSARIO  E          80.00
+011784           ELI  ELI  04/12/2024 13:40  V                      PICON CASTILLO JEAN LUCA       E          80.00
+011785           ELI       04/12/2024 17:31  V                      MARTIN ROJAS DIOGENES          E          50.00
+011786           ELI       04/12/2024 17:37  V                      VENTOCILLA BUSTAMANTE ROSARIO  E          45.00
+011787           ELI       04/12/2024 17:54  V                      OCHOA TRINIDAD WILFREDO        E          45.00
+011788           ELI       04/12/2024 18:12  V                      VICTOR SUZANIBAR               E          31.00
+011789           ELI       04/12/2024 17:49  V                      MARCO ANTONIO DIAS             E          11.00
+011790           ELI       04/12/2024 17:54  V                      EVANGELISTA MENDOZA ANTHONI    PL         45.00
+011791           ELI       04/12/2024 18:25  V                      VICTOR SUSANIBAR               E           1.50
+011792           ELI       04/12/2024 18:30  V                      VENTOCILLA BUSTAMANTE ROSARIO  PL         41.50
+011793           ELI       04/12/2024 18:38  V                      VENTOCILLA BUSTAMANTE ROSARIO  PL        327.50
+011794           ELI       04/12/2024 18:48  V                      ESPINOZA MAGUI;A NELIA         E          45.00
+011795           ELI       04/12/2024 18:57  V                      WILFREDO OCHOA TRINIDAD        E         128.00
+011796           ELI       04/12/2024 19:08  V                      LUPO OCHOA ROBERTO             E          10.00
+011797           ELI       04/12/2024 19:17  V                      ANTHONI EVANGELITA MENDOZA     E         188.00
+011798           ELI       04/12/2024 19:26  V                      EVANGELISTA ANTHONI            E           1.50
+011799           ELI       04/12/2024 19:22  V                      ANTHONI BARZOLA                E          31.50
+011800           ELI       04/12/2024 19:26  V                      GUTIERRES MENDOZA FLOR         E          45.00
+011801           ELI       04/12/2024 19:49  V                      PANANA SANCHEZ ZORAIDA         E          45.00
+011802           ELI       04/12/2024 20:01  V                      ESPINOZA GUTIERRES FLOR        E          10.00
+011803           ELI       04/12/2024 20:16  V                      GUTIERRES MENDOZA FLOR         E          24.00
+011804           EFR       04/12/2024 21:05  V                      PANANA SANCHEZ JUANA           E          47.50
+011805           EFR       04/12/2024 21:11  V                      JAVIER CORZO YOMER             E          22.80
+011806           ELI       05/12/2024 08:22  V                      GAVIDIA HERRERA JAIRO JESUS    E          25.00
+011807           ELI       05/12/2024 09:10  V                      ALIAGA ALTEZ LLONEL            PL         45.00
+011808           ELI       05/12/2024 09:11  V                      EFRAIN ZELAYA HUERTA           E          58.00
+011809           ELI       05/12/2024 11:34  V                      SANTARIA LAURENTE NICOLLA      PL         40.00
+011810           ELI       05/12/2024 13:16  V                      ELIZABETH GAMARRA              E           8.50
+011811           ELI       05/12/2024 14:12  V                      GAVIDIA HERRERA JAIRO JESUS    E          12.00
+011812           ELI       05/12/2024 15:25  V                      RAEZ LIDIA ELIZABET            E          15.00
+011813           ELI       05/12/2024 16:00  V                      HUAMAN BRAVO ELUDINA           E          45.00
+011814           ELI       05/12/2024 16:12  V                      GREGORIANA LAGUNA SANCHEZ      E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 06/12/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/12/2024 AL 05/12/2024                              09:59:09
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+011815           ELI       05/12/2024 17:56  V                      LARA NICOLAS SANCHEZ           E          45.00
+011816           ELI       05/12/2024 18:25  V                      RAMIREZ GARAY SIMEON TEOFILO   E          25.00
+011817           ELI       05/12/2024 18:25  V                      RAMIREZ GARAY SIMEON           E          45.00
+011818           ELI       05/12/2024 19:02  V                      LAGUNA SANCHEZ GREGORIA        E          12.00
+011819           ELI       05/12/2024 19:04  V                      BUSTAMANTE ESTELA SUSANA       E         285.00
+011820           ELI       05/12/2024 19:06  V                      VENTA ANULADA                  E           0.00
+011821           ELI       05/12/2024 19:11  V                      FERMIN HUAMAN TORRES           E          45.00
+011822           ELI       05/12/2024 19:16  V                      BUSTAMANTE ESTELA              E          24.80
+011823           ELI       05/12/2024 19:35  V                      HUAMAN BRAVO LIDUBINA          E         136.40
+011824           ELI       05/12/2024 19:44  V                      ANTHONI BARZOL                 E          31.00
+011825           ELI       05/12/2024 19:48  V                      LARA ELIZABEB                  E          74.00
+011826           ELI       05/12/2024 19:54  V                      HECTOR LEON                    E           2.00
+011827           ELI       05/12/2024 20:00  V                      ERIKA MUNDO HUERTAS            PL         45.00
+011828           ELI       05/12/2024 20:30  V                      ESPINOZA GERONIMO AMERICA      E          75.00
+011829           ELI       05/12/2024 20:33  V                      FERMIN TORRES                  E          48.90
+011830           ELI       05/12/2024 20:49  V                      MUNDO HUERTAS                  PL        130.50
+011831           ELI       05/12/2024 21:42  V                      ERIKA                          E           3.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      84       4,059.45
+Ticket        :       0           0.00                                                    Plin          :      40       3,436.90
+Guia Interna V:     124       7,496.35                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              7,496.35                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        7,496.35
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      1,143.43
+ÿ
+ÿ
+Nro.  Documentos Anulados :            3
+Total Documentos Anulados :         0.00

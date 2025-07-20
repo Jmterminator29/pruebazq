@@ -1,0 +1,89 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 03/06/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/06/2025 AL 02/06/2025                              10:05:57
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016907           JES       01/06/2025 09:19  V                      PACHERRES GUERRERO JESUS ALEJA PL         45.00
+016908           JES       01/06/2025 09:22  V                      SANCHEZ HUAMAN EDITA           E          45.00
+016909           JES       01/06/2025 10:08  V                      EDITA SANCHEZ HUAMAN           E         204.00
+016910           JES       01/06/2025 10:25  V                      TEODOLINDA BELTRAN             E          70.90
+016911           JES       01/06/2025 10:47  V                      VENTA ANULADA                  E           0.00
+016912           JES       01/06/2025 10:47  V                      JULIO CASTILLO PRETEL          E           3.00
+016913           JES       01/06/2025 11:09  V                      VENTA ANULADA                  E           0.00
+016914           JES       01/06/2025 11:21  V                      LUIS MELENDEZ MINAYA           E          60.00
+016915           JES       01/06/2025 12:03  V                      LUIS MELENDEZ MINAYA           E          48.00
+016916           JES       01/06/2025 12:45  V                      HILDA BERNAL                   E          53.50
+016917           JES       01/06/2025 13:42  V                      CABELLO AGUIRRE DONATO         PL         11.00
+016918           JES       01/06/2025 16:04  V                      TORRES DE HUAMAN BEATINA       E          43.50
+016919           JES       01/06/2025 16:33  V                      ALVARADO GOMERO BIGITTE        E          45.00
+016920           JES       01/06/2025 18:10  V                      LIS TURPO VILLANUEVA           PL          6.00
+016921           CLA       02/06/2025 08:46  V                      FIDELIA ENCARNACION MATOS      E         184.50
+016922           CLA       02/06/2025 09:10  V                      CARMEN HERRRERA DIAZ           E          45.00
+016923           JES       02/06/2025 09:42  V                      JIMENA RIBERA GUILLEN          PL         45.00
+016924           CLA       02/06/2025 09:45  V                      TEODOLINDA BELTRAN             E          70.90
+016925           CLA       02/06/2025 09:47  V                      JACINTO RAMOS QUISPE           E         130.00
+016926           CLA       02/06/2025 09:51  V                      DELIA FABIOLA VILLAFANE BARRER E         233.00
+016927           CLA       02/06/2025 10:01  V                      GRECIA RIVERA                  E           0.80
+016928           CLA       02/06/2025 10:05  V                      CARMEN HERRERA CERNA           E          40.70
+016929           CLA       02/06/2025 10:05  V                      CARMEN HERRERA DIAZ            E         120.00
+016930           CLA       02/06/2025 10:11  V                      FABIOLA VILLAFANE              E          45.00
+016931           CLA       02/06/2025 10:26  V                      MANUEL LOAIZA BARRON           E          45.00
+016932           CLA       02/06/2025 10:37  V                      EDITA CARLOS HUAMAN            E          63.50
+016933           CLA       02/06/2025 10:43  V                      RIVERA GUILLEN GRECIA          PL         20.80
+016934           CLA       02/06/2025 10:43  V                      RIVERA GUILLEN GRECIA          PL         41.50
+016935           CLA       02/06/2025 11:04  V                      MANUEL LOAIZA BARRON           E           1.50
+016936           CLA       02/06/2025 12:02  V                      HILDA BERNAL                   E          53.50
+016937           CLA       02/06/2025 16:51  V                      JOSE RAMOS ABAD                PL        120.00
+016938           CLA       02/06/2025 17:04  V                      ORLANDO LIBERATO GALLARDO      E           5.00
+016939           CLA       02/06/2025 17:05  V                      BERTINA TORRES VDA. DE HUAMAN  E          18.00
+016940           CLA       02/06/2025 17:13  V                      PALOMINO CARRERA RPSMERY       E          45.00
+016941           CLA       02/06/2025 17:19  V                      SILVIA LARA CHACON             PL         45.00
+016942           CLA       02/06/2025 17:57  V                      KESLEY OLIVEROS                PL          6.50
+016943           CLA       02/06/2025 17:59  V                      PERNIA HUERTA ZONIA            E          15.00
+016944           CLA       02/06/2025 18:08  V                      QUISPE REYNOSO JOSEIM          E          45.00
+016945           CLA       02/06/2025 18:23  V                      KESLEY OLIVARES                PL          1.50
+016946           CLA       02/06/2025 18:23  V                      ROSARIO MANCO BARRETO          E          80.00
+016947           CLA       02/06/2025 18:48  V                      RAMOS VENTOCILLA VICTOR        E          45.00
+016948           CLA       02/06/2025 18:55  V                      LUIS MELENDES MINAYA           E          46.50
+016949           CLA       02/06/2025 19:24  V                      ROSMERY PALOMINO CABRERA       E          16.00
+016950           CLA       02/06/2025 19:31  V                      LURDES NARVASTA                E          25.00
+016951           CLA       02/06/2025 19:33  V                      VILLAFANE BARRERA DELIA        E         280.00
+016952           CLA       02/06/2025 19:39  V                      ARONTE ALVARADO LUIS           PL         66.50
+016953           CLA       02/06/2025 19:39  V                      BRIYITH ALVARADO GOMERO        PL         54.90
+016954           CLA       02/06/2025 19:52  V                      QUISPE REYNOSO JOSEIM          E          70.00
+016955           CLA       02/06/2025 19:52  V                      SILVIA ARACELY LARA CHACON     PL         25.00
+016956           CLA       02/06/2025 20:11  V                      RUBEN ALA                      PL         10.00
+016957           CLA       02/06/2025 20:52  V                      DELIA VILLAFANE BARRERA        PL         51.90
+016958           CLA       02/06/2025 20:57  V                      QUISPE REYNOSO                 PL         70.50
+016959           CLA       02/06/2025 20:59  V                      GISELA RIBERA CASTILLO         E          31.00
+016960           CLA       02/06/2025 21:02  V                      VICTOR RAMOS VENTOCILLA        E         174.00
+016961           CLA       02/06/2025 21:04  V                      FLOR ALBINO BLAS               E           6.50úZethQuark Versi¢n 7.0ú                                                                                                 03/06/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/06/2025 AL 02/06/2025                              10:05:57
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+016962           CLA       02/06/2025 21:05  V                      DELIA VILLAFANE BARRERA        PL         40.00
+016963           CLA       02/06/2025 21:51  V                      DELIA VILLAFANE                PL          5.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      37       2,508.30
+Ticket        :       0           0.00                                                    Plin          :      18         666.10
+Guia Interna V:      55       3,174.40                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              3,174.40                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        3,174.40
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        484.18
+ÿ
+ÿ
+Nro.  Documentos Anulados :            2
+Total Documentos Anulados :         0.00

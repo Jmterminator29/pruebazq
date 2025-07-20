@@ -1,0 +1,279 @@
+úZethQuark Versi¢n 7.0ú                                                                                                      16/07/2024
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              10:22:36
+PRT282()                                                                                                                     Pag.-    1
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+ABOCAT #20CAJAX50UNID                        2u3      250.00     80.00          515.00           164.80           350.20
+ABOCAT#22 CAJAX50UNID                        2u25     250.00     57.50          625.00           143.75           481.25
+ABOCAT#24 CAJAX50UNID                        6u31     250.00     57.50        1,655.00           380.65         1,274.35
+ACICLAV 875MG/125MG TAB X14                  0u1       42.00     33.00            3.00             2.36             0.64
+ACICLOVIR 5%  CREMA5G                        3          4.50      1.50           13.50             4.50             9.00
+AEROCAMARA ADULTO                           11         20.00      6.50          220.00            71.50           148.50
+AFTOTEX SOLUCION 30ML                       11         40.00     29.00          440.00           319.00           121.00
+AGUA ESTERIL PARA INYEC. CAJAX100 AMPOLL     0u30      50.00     20.00           15.00             6.00             9.00
+AGUJA #18 CAJAX100UNID.                      1u87      50.00     10.00           93.50            18.70            74.80
+AGUJA #22 CAJAX100                           1u44      50.00      9.00           72.00            12.96            59.04
+AGUJA #23 CAJAX100UNID.                      2u7       50.00      8.50          103.50            17.60            85.91
+AGUJA #25 CAJAX100UNI.                       1u96      50.00      8.50           98.00            16.66            81.34
+ALBENDAZOL 100MG/5ML  SUSPX20ML              5          4.50      3.00           22.50            15.00             7.50
+ALBENDAZOL 200MG TABX100                     1u52     100.00     18.50          152.00            28.12           123.88
+ALERCHECK PLUS 10MG CAPSULA/CAJAX30          6u21      45.00      9.50          301.50            63.65           237.85
+ALERLIV 5GR CAJA X 30 TABLETAS               0u4       60.00                      8.00                              8.00
+ALITAS 23G LONG30CM CJA100UNID.              0u90     300.00     26.00          270.00            23.40           246.60
+ALITAS 25G LONG30CM CAJA X 100UND            1        300.00     26.00          300.00            26.00           274.00
+ALKALOS CAJAX20 SOBRES                       1         75.00     50.00           75.00            50.00            25.00
+AMBROXOL ADULTO 30MG 5ML JARABE              6         15.00      3.90           90.00            23.40            66.60
+AMBROXOL PEDRIATICO 120ML JARABE             3         12.00      7.50           36.00            22.50            13.50
+AMIKACINA 500MG/2ML CAJA X 10 AMPOLLAS      15u5       80.00     18.00        1,240.00           279.00           961.00
+AMITRIPTILINA 25MG CAJAX100 TABLETAS         1u70      30.00     16.00           51.00            27.20            23.80
+AMOX+AC.CLAV 500MG/125MG TAB X10             2u5       20.00      8.00           50.00            20.00            30.00
+AMOXIC+A.CLAV 250MG+62.5MG/5ML SUSP120ML     2         24.00      7.52           48.00            15.04            32.96
+AMOXICILINA 250MG/5ML SUSP60ML               2          8.50      3.90           17.00             7.80             9.20
+AMOXICILINA 500MG CAJAX100 TABLE             1u18      60.00     37.00           70.80            43.66            27.14
+ANTIGENO HISOPADO COVID                     20         25.00     12.00          500.00           240.00           260.00
+ARCODEX 120MG CAJA X 7                       0u1       42.00                      6.00                              6.00
+ARTROMEX PLUS 20MG                           8        350.00    100.00        2,800.00           800.00         2,000.00
+ASCORBIC PROMOCION                          27         80.00     25.00        2,160.00           675.00         1,485.00
+ASSA 81MG CAJAX100TABLETAS                   0u90     100.00     75.00           90.00            67.50            22.50
+ATORVASTATINA 20MG TABX100                   1         60.00     18.00           60.00            18.00            42.00
+ATROPINA 1MG/1ML CAJA X 10 AMPOLLAS          0u5       40.00     24.00           20.00            12.00             8.00
+AZITROMICINA 200MG/5ML SUSP X30ML            3         23.00     11.20           69.00            33.60            35.40
+AZITROMICINA 500MG TABX100                   0u66     300.00     88.29          198.00            58.27           139.73
+BANDREX 150MG CAJAX1 TABLETA                 4         80.00     51.30          320.00           205.20           114.80
+BETADUO 5MG/2MG 1ML PRELLENADA               1         35.00                     35.00                             35.00
+BETAMETASONA 4MG/2MG AMPOLLA 1ML            14         14.00      2.53          196.00            35.42           160.58
+BISMUTOL TABLETA CAJAX100 UNI                0u8      100.00     50.00            8.00             4.00             4.00
+BISTURI #10 CAJAX100 UNIDADES                0u82     200.00     15.00          164.00            12.30           151.70
+BOLSA COLECTORA DE ADULTO                   15         10.00      2.20          150.00            33.00           117.00
+BROMELIN 0,88GR SUSP ORALX100ML             32         35.00     18.00        1,120.00           576.00           544.00
+BROMURO DE IPRATROPIO 20MCG AEROS/INHALA     4         40.00     25.50          160.00           102.00            58.00
+CANULA BINASAL L ADULTO                     65          5.00      2.00          325.00           130.00           195.00
+CAPTOPRIL 25mg TABx100                       1u38      30.00      8.00           41.40            11.04            30.36
+CEFALEXINA 250MG/5ML SUSPX60ML               2         11.00      7.99           22.00            15.98             6.02
+CEFALEXINA 500MG CAJAX100 TABLETAS           9u19      80.00     43.00          735.20           395.17           340.03
+CEFTRIAXONA 1g AMP CAJAX1OUNID               9u8       80.00     13.00          784.00           127.40           656.60
+CELECOXIB 200MG CAPS CAJAX100                1        100.00     26.55          100.00            26.55            73.45
+CETIRIZINA JARAB 5MG/5ML JARABEX60ML         4          9.50      5.00           38.00            20.00            18.00
+CIPROFIBRATO 100MG CAPSULA CAJAX100          0u15     320.00    240.00           48.00            36.00            12.00
+CIPROFLOXACINO 200MG/100ML AMPX100ML F       3         13.50      7.00           40.50            21.00            19.50
+CIPROFLOXACINO 500MG TABX100                 0u66      70.00     19.20           46.20            12.67            33.53
+CIRIAX OTIC 5ML GOTA OTICA                   2         30.00                     60.00                             60.00úZethQuark Versi¢n 7.0ú                                                                                                      16/07/2024
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              10:22:37
+PRT282()                                                                                                                     Pag.-    2
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+CITRAPOT POTE 300G NARANJA                   2         75.00     40.00          150.00            80.00            70.00
+CLARITROMICINA 500MG CAJAX100                2u35     180.00     82.50          423.00           193.88           229.13
+CLAVUMOX 600 SUSPENSION                      1         90.00     54.60           90.00            54.60            35.40
+CLENBUVENT GOTAS 15ML                        2         22.00     16.00           44.00            32.00            12.00
+CLENBUVENT JARABE   EXPECTORANTE             5         35.00     21.80          175.00           109.00            66.00
+CLINDAMICINA AMP 600MG/4ML  CAJAX25          1u22     150.00     85.00          282.00           159.80           122.20
+CLONAZEPAM 0.5mg tabletax100                 2u29      80.00     27.00          183.20            61.83           121.37
+CLORFENAMINA 10MG/ML AMPOLL CAJX100          0u9      400.00    100.00           36.00             9.00            27.00
+CLORFENAMINA 2MG/5ML JRBE X60ML              8          6.00      2.70           48.00            21.60            26.40
+CLORFENAMINA MALEATO 4MG TABX100             1u7       30.00      4.50           32.10             4.82            27.29
+CLORURO 250ML                               15          9.50      4.40          142.50            66.00            76.50
+CLORURO 500ML                                4          9.50                     38.00                             38.00
+CLORURO DE SODIO 100ML 0,9%                296          7.00      1.80        2,072.00           532.80         1,539.20
+CLORURO SODIO 20% CAJAX25 AMPOLLAS           0u9       50.00                     18.00                             18.00
+CLOTRIMAZOL 1% CRE 20g                      13          6.00      2.20           78.00            28.60            49.40
+CODIPRONT EXP CAJAX10CAPSULAS               20u8       70.00     42.00        1,456.00           873.60           582.40
+COLAG POTE 450 SABOR NEUTRO                  1        135.00     90.00          135.00            90.00            45.00
+CONCOR 5MG CAJAX30 TABLETAS                  0u14     135.00                     63.00                             63.00
+CORIFAN 1MG/1ML GOTAS X20ML                  2         31.00     20.20           62.00            40.40            21.60
+DEQUAZOL ORAL CAJAX60TABLETAS                1u17     108.00     57.00          138.60            73.15            65.45
+DERMODAX CREMA X 20G                         2         14.00      5.00           28.00            10.00            18.00
+DESTOLIT 5% LOCION X 100ML                   1         50.00     45.50           50.00            45.50             4.50
+DEXAFLAN 0.5MG/5ML JRBE X100ML               1         20.00      9.70           20.00             9.70            10.30
+DEXAMETASONA 4mg TABx100                     0u94      70.00     12.00           65.80            11.28            54.52
+DEXCORTIL 4MG/2ML CAJA X 10 AMPOLLAS        10u5       40.00                    420.00                            420.00
+DEXIDE SR 1000 CAJAX30 CAPSULAS              1        120.00     67.50          120.00            67.50            52.50
+DEXIDE SR 750 X30CAP                         1         75.00                     75.00                             75.00
+DEXTROSA 33.3% 20ML UNIDAD                   4          5.00                     20.00                             20.00
+DEXTROSA 5% CONT 1000ML                      1         10.00      5.50           10.00             5.50             4.50
+DICLOCHYK 75MG/3ML CAJA X 10 AMPOLLAS        5u3       40.00      4.50          212.00            23.85           188.15
+DICLOFENACO GEL 1% 50GR                      2         10.00      4.80           20.00             9.60            10.40
+DICLOFENACO TAB 50MG X100                    0u69      30.00      8.00           20.70             5.52            15.18
+DIMENHIDRATO 50MG TABX100                    0u70      30.00      8.50           21.00             5.95            15.05
+DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25       0u15     100.00     38.00           60.00            22.80            37.20
+DIOXAFLEX 75MG/3ML CAJAX 1 AMPOLLA           2         10.00                     20.00                             20.00
+DOBESILATO CALCICO 500MG TABX100             0u61     120.00     42.00           73.20            25.62            47.58
+DOLO NEUROBION FORTE AMPOLLA                16         42.00                    672.00                            672.00
+DOLO NEUROBION FORTE CAJAX200 TABLETAS       0u14     360.00    260.00           25.20            18.20             7.00
+DOLOKIDS JARABE                              2         15.00      7.40           30.00            14.80            15.20
+DOXICICLINA 100MG CAPX100                    1u12      90.00     17.20          100.80            19.26            81.54
+DOXIPROCT PLUS POMADA 12G                    2         40.00     29.20           80.00            58.40            21.60
+DUOMO 4GR CAJA X 30 COMPRIMIDOS              1        180.00                    180.00                            180.00
+DYNAPAR 75MG/ML CAJAX5 AMP                   5         35.00     17.04          175.00            85.20            89.80
+ELASTIFLEX ULTRA COMPLEX POTE COLAG          5        220.00    140.00        1,100.00           700.00           400.00
+ENALAPRIL 10MG CAJAX100                      1         20.00      5.20           20.00             5.20            14.80
+ENALAPRIL 20mg TABLETA 100                   1         50.00      8.50           50.00             8.50            41.50
+ENDOVIT AL 5% DEXTROSA 1000ML                1         70.00     48.10           70.00            48.10            21.90
+EPINEFRINA 1MG/ML CAJAX10AMPOLLAS            0u4       45.00     29.70           18.00            11.88             6.12
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN     7u15     100.00     17.50          760.00           133.00           627.00
+EQUIPO MICROGOTERO CON VOLUTROL 100ML       12          6.00      3.01           72.00            36.12            35.88
+ESPECULO TALLA L                             3          5.00      2.00           15.00             6.00             9.00
+ESPECULO TALLA M                             6          5.00      2.00           30.00            12.00            18.00
+ETOROCOXIB 120MG TABX60                      1u5      240.00     57.60          260.00            62.40           197.60
+EUTIROX 100MCG X50TAB                        1         80.00     56.60           80.00            56.60            23.40
+EUTIROX 25MG  X50 UNID                       0u22      50.00                     22.00                             22.00úZethQuark Versi¢n 7.0ú                                                                                                      16/07/2024
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              10:22:38
+PRT282()                                                                                                                     Pag.-    3
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+EUTIROX 88MG CAJAX10 TABLETAS                0u9       20.00      8.00           18.00             7.20            10.80
+EXTENSION DISS 50CM                          8                                                                          
+EYEMO COLIRIO 0.05% SOL.OFTALMICA X8ML       1         15.00      9.00           15.00             9.00             6.00
+FASTUM TUBO 30GR GEL                         6         24.00     14.50          144.00            87.00            57.00
+FENAZOPIRIDINA 100mg TABLETA CAJA X 100      0u52      50.00     22.00           26.00            11.44            14.56
+FERROPRIME 100MG/5ML + MATERAIL DE APLI     10         40.00                    400.00                            400.00
+FERROVITON-S 100MG/5ML + MATERIAL DE APL     5         40.00                    200.00                            200.00
+FERTILIER 300G                               1         85.00     55.00           85.00            55.00            30.00
+FISIOFER 40MG/15ML FRASCO X 120ML            2         40.00     26.31           80.00            52.62            27.38
+FLAVOXATO 200MG CAJAx20 TABLETAS             0u4       90.00     74.00           18.00            14.80             3.20
+FLOREA CAJAX60 CAPSULAS                      2u58     180.00    125.00          534.00           370.83           163.17
+FLUCONAZOL 150mg ANTIMICOTICO CAJAX2         2          4.00      1.20            8.00             2.40             5.60
+FLUIBRONCOL 600MG CAJAX20 SOBRES             3u10      80.00     39.00          280.00           136.50           143.50
+FLUIMUCIL 300MG/3ML CAJAX5 AMPOLLAS          2u2       75.00     50.00          180.00           120.00            60.00
+FLUTOX 17.5MG/5ML SUSP 120ML                 1         45.00                     45.00                             45.00
+FRASCO DE HECES                             13          1.50      0.55           19.50             7.15            12.35
+FRASCO ORINA ESTERIL                       383          1.50      0.51          574.50           195.33           379.17
+FRUTI FLEX X 1LT                             6         12.00      7.70           72.00            46.20            25.80
+FUROSEMIDA AMP 20MGx2ML AMP X50              0u11     400.00     40.00           88.00             8.80            79.20
+FUROSEMIDA TAB 40MGx100                      0u47      30.00      6.00           14.10             2.82            11.28
+GASA ESTERIL MED.10X10CM CAJAX20UNID         0u11      60.00     14.00           33.00             7.70            25.30
+GASTRORAL SUSP X 200ML                      11         22.00     11.80          242.00           129.80           112.20
+GENOGEL PLUS POTE X 500G                     1        130.00     69.00          130.00            69.00            61.00
+GENTAMICINA  160MG/2ML AMPOLL CAJAX25        0u14     100.00     45.00           56.00            25.20            30.80
+GERIA CARE POTE X 1000G                     20        150.00     99.00        3,000.00         1,980.00         1,020.00
+GLIBENCLAMIDA 5MG CAJAX100TABLETAS           3u55      20.00      8.00           71.00            28.40            42.60
+GLUCENIL D POTE 1000G                        6        150.00     85.00          900.00           510.00           390.00
+GLUCOPHAGE  XR 750 MG X 30 TABLETAS          1u5       90.00     79.80          105.00            93.10            11.90
+GLUCOPHAGE XR 500MG TABX30                   2u15      84.00     77.72          210.00           194.30            15.70
+GLUCOTECH                                   33         10.00      2.00          330.00            66.00           264.00
+GUANTES QUIRURGICO TALLA 7.5                40          5.00      2.00          200.00            80.00           120.00
+GUMMIES VITAM,B1,B2,B6,A,D,C,E 2+ANOS        1         35.00     22.00           35.00            22.00            13.00
+HCG PRUEBA DE EMBARAZO                       8         15.00      5.00          120.00            40.00            80.00
+HIDROCORTISONA 100MG AMPOLLA CAJAX10UNID     0u4       80.00     50.00           32.00            20.00            12.00
+HIDROCORTISONA 250MG AMPOLLA CAJAX10UNID     0u3      200.00      8.00           60.00             2.40            57.60
+HIOSCINA 20MG AMPOLLA CAJAX25UNID.           1        125.00     42.50          125.00            42.50            82.50
+HIRUDOID FORTE GEL 14GR                      8         55.00     23.76          440.00           190.08           249.92
+INMUNO PED CAJAX20 SOBRES                   13         80.00     58.29        1,040.00           757.77           282.23
+JERINGA 10ML CAJAX100UNID.                   4u27     100.00     16.00          427.00            68.32           358.68
+JERINGA 1ML CAJAX1OOUNID.                    0u67     100.00     15.00           67.00            10.05            56.95
+JERINGA 20ML CAJAX50UNID.                    4u35      50.00     14.00          235.00            65.80           169.20
+JERINGA 3ML X100                             2u46      50.00     21.00          123.00            51.66            71.34
+JERINGA 5ML CAJAX100UNID.                    1u74     100.00     21.00          174.00            36.54           137.46
+KETESSE AMPOLLA CAJAX5                       6u3      125.00     75.00          825.00           495.00           330.00
+KETOROLACO 60mg/2ML AMPOLL CAJAX25           0u5      125.00     42.50           25.00             8.50            16.50
+LACTULOSA 3.3/5ML 120ML                      2         21.00                     42.00                             42.00
+LAGOSA 150MG TABX25                          0u17     100.00                     68.00                             68.00
+LEVOFLOXACINO  500MG CAJAX100TABLETAS        1u14     200.00     65.00          228.00            74.10           153.90
+LIDOCAINA 2% FRASCO 20ML                    39          8.00      3.00          312.00           117.00           195.00
+LIDOCAINA 2%GEL X30G                         1         30.00     14.89           30.00            14.89            15.11
+LINCOCHECK 600MG/2ML                         1         70.00      6.50           70.00             6.50            63.50
+LINCOMICINA 600MG/2ML AMPOLLAS               3          7.00                     21.00                             21.00
+LLAVE TRIPLE VIA CAJAX50UNID.                0u46     250.00     35.00          230.00            32.20           197.80
+LOPERAMIDA 2MG CAJA X 100 TABLETAS           0u80      50.00      8.40           40.00             6.72            33.28
+LORATADINA 10MG TABLX100                     0u68      30.00     12.00           20.40             8.16            12.24úZethQuark Versi¢n 7.0ú                                                                                                      16/07/2024
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              10:22:39
+PRT282()                                                                                                                     Pag.-    4
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+LORATADINA JBE 5MG/5MLx60ML                  4          9.00      4.50           36.00            18.00            18.00
+LOSARTAN  50mg CAJAX100TABLETAS              1u58      50.00     15.00           79.00            23.70            55.30
+LOVEGEST 450G VAINILLA                       1         80.00     47.99           80.00            47.99            32.01
+MASCARA CON RESERVORIO ADULTO                2         20.00                     40.00                             40.00
+MASCARILLA DE OXIGENO ADULTO                35         12.00                    420.00                            420.00
+MASCARILLA NEBULIZADORA ADULTO               5         12.00      3.00           60.00            15.00            45.00
+MASCARILLA NEBULIZADORA NINO                 4         12.00      2.50           48.00            10.00            38.00
+MEBENDAZOL 100MG/5ML FRASCOX30 ML            7          4.50      2.00           31.50            14.00            17.50
+MEBO TUBOX30GR                               1         90.00     75.78           90.00            75.78            14.22
+MEGACILINA AMPOLLA 4000000 CAJAX1            1         35.00     17.00           35.00            17.00            18.00
+MELOXICAM 15 MG CAJAX100                     0u11      50.00      7.49            5.50             0.82             4.68
+METAMIZOL 1G/2ML AMP X50                     2u15     200.00     36.00          460.00            82.80           377.20
+METOCLOPRAMIDA 10MG CAJA X 100 TABLETAS      0u5       50.00                      2.50                              2.50
+METOCLOPRAMIDA 10MG/2ML AMPOLLA              8          6.00      2.00           48.00            16.00            32.00
+METRONIDAZOL 250MG/5ML SUSP 60ML             5         12.00      5.30           60.00            26.50            33.50
+METRONIDAZOL AMP 500MGx100ML FRASC100ML      6         12.00      2.30           72.00            13.80            58.20
+MOVULAN 250MG+62.5MG/5ML SUSP X60ML          3         18.00      7.50           54.00            22.50            31.50
+MUCOCAR 100MG/5ML X120ML SOLUCION ORAL       3         40.00     22.60          120.00            67.80            52.20
+MUCOCAR 600MG CAJA X 20 SOBRES               0u6      100.00     47.80           30.00            14.34            15.66
+MUCOTRIM GOTx15ML                            1         19.00     12.50           19.00            12.50             6.50
+MULCEROL/ESOMEPRAZOL 40 TAB CAJX30          27u25      90.00     15.40        2,505.00           428.63         2,076.37
+MULTIDERM CREMAX10GR                         6         18.00     13.20          108.00            79.20            28.80
+NAPROXENO 550 TABx100                        0u38      50.00     30.00           19.00            11.40             7.60
+NEO NISOPREX 15MG/5ML SOL.ORAL X 60ML        7         40.00     23.30          280.00           163.10           116.90
+NITAXID - NITAXOSADINA 100MG/5ML             1         30.00                     30.00                             30.00
+NORSPAN 10MG/PARCHE                          5        135.00    100.00          675.00           500.00           175.00
+NORSPAN 5MG PARCHE                           3         80.00     60.00          240.00           180.00            60.00
+NOTIPHARM CREMA 20g TUBO                     2         16.00      9.00           32.00            18.00            14.00
+NUCLEO CMP FORTE CAJAX20 CAPSULAS            3u17     100.00     74.60          385.00           287.21            97.79
+NYLON #3                                     4          8.50      3.20           34.00            12.80            21.20
+OMEPRAZOL 20MG CAJAX100CAPSULAS              2u48      50.00     14.00          124.00            34.72            89.28
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10       8u5       80.00     20.00          680.00           170.00           510.00
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS        3u19     112.50     27.50          423.00           103.40           319.60
+OTOZAMBON SOLUCION OTICA X10ML               1         30.00     19.40           30.00            19.40            10.60
+PANADOL GOTAS 15ML                           3         28.00     16.00           84.00            48.00            36.00
+PANTOPRAZOL 20MG X 30 TAB                    1         45.00     26.00           45.00            26.00            19.00
+PARACETAMOL 100MG/ML X10MLGOTAS              1          3.00      1.90            3.00             1.90             1.10
+PARACETAMOL 10MG/ML SOL. PARA PERFUSION      8         42.50     20.00          340.00           160.00           180.00
+PARACETAMOL 120MG/5ML JARABEX120ML           3          8.50      5.50           25.50            16.50             9.00
+PARACETAMOL 500MG TABX100                    2u42      50.00      9.00          121.00            21.78            99.22
+PENICILINA BENZATINICA 1200000UI CAJX10      3         80.00     18.00          240.00            54.00           186.00
+PENICILINA PROCAIN 1000000 CAJAX10           0u4       85.00     17.00           34.00             6.80            27.20
+PERCOF 30MG/5ML JARABE 120ML                 6         25.00     13.80          150.00            82.80            67.20
+PHYTO SOYA 17.5 MG CAJAX60 CAPSULAS          0u33     132.00    110.80           72.60            60.94            11.66
+PLAXABAN 10MG CAJA X 10 TABLETAS             2        100.00                    200.00                            200.00
+PREDNISONA 5mg CAJAX100TABLETAS              0u60      20.00      8.00           12.00             4.80             7.20
+PREDNISONA JBE 5MG/5MLx60ML-P                2         12.00      5.90           24.00            11.80            12.20
+PRODEFEN PLUS CAJAX10 SOBRES                 7u1       90.00     60.80          639.00           431.68           207.32
+PROSTANATUR 320MG CAJAX 30 CAPSULAS          1         90.00     82.90           90.00            82.90             7.10
+PROTEVIT KIDS POTE 1000G VAINILLA            6        150.00     85.00          900.00           510.00           390.00
+PRUEBA DENGUE RAPIDA IGG IGM                28         50.00                  1,400.00                          1,400.00
+RANITIDINA 50MG/2ML AMPOLL  CAJX100          0u20     500.00    120.00          100.00            24.00            76.00
+REFLUPRAZOL 40MG X30TAB                      0u1       45.00     15.60            1.50             0.52             0.98
+REPRIMAN METAMIZOL GOTAS 10ML                2         19.00     15.00           38.00            30.00             8.00
+RETEVEN 5GR CAJA X 60 COMPRIMIDOS            1        240.00                    240.00                            240.00úZethQuark Versi¢n 7.0ú                                                                                                      16/07/2024
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              10:22:40
+PRT282()                                                                                                                     Pag.-    5
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+ROWACHOL  CAPSULAX100UNID.                   1u15     160.00    105.00          184.00           120.75            63.25
+ROWATINEX TABX100                            5u28     180.00    111.50          950.40           588.72           361.68
+SALBUTAMOL AERO 100MCG FRASCOX200DOSIS       5         15.00      7.00           75.00            35.00            40.00
+SINGLOINT 20MG/2ML                           4        350.00    150.00        1,400.00           600.00           800.00
+SINGLOINT 30MG/2.5ML                         1        550.00    350.00          550.00           350.00           200.00
+SINVIRAL SOL.GOTAS X 120ML                   4         50.00     36.00          200.00           144.00            56.00
+SONDA FOLEX DE LATEX #14                     6         10.00      4.00           60.00            24.00            36.00
+SONDA FOLEY #16                              8         12.00      5.00           96.00            40.00            56.00
+SP NUTRITION 470G VAINILLA                   2        190.00    129.19          380.00           258.38           121.62
+SUERO FISIOLOGICO DE 1 LITRO                35         10.00      3.60          350.00           126.00           224.00
+SUMAQ MUJER POTE 500G AGUJE                 10        130.00     69.00        1,300.00           690.00           610.00
+TAMSULOSINA 0.4MG X30                        9u20      45.00      8.50          435.00            82.17           352.83
+TAMSULOSINA CAP 0.4MG X60                    0u30      90.00                     45.00                             45.00
+TERBIFUN 1% SPRAY                            3         25.00     15.80           75.00            47.40            27.60
+TERBINAFINA 1% CREMA 20G                     9          9.00      3.90           81.00            35.10            45.90
+TERBINAFINA 250MG TABX100                    0u44     100.00     45.00           44.00            19.80            24.20
+TOPIMICYN NF UNGUENTO X14G                   4         30.00     14.40          120.00            57.60            62.40
+TRAMADOL  100MG/2ML CAJAX10AMPOLLAS          1         50.00     30.00           50.00            30.00            20.00
+TRANSAMIN 1G/10ML CAJA X 1 AMPOLLA           1         55.00     42.30           55.00            42.30            12.70
+TROYDANTIN 100MG X 40CAP                     2        120.00     45.88          240.00            91.76           148.24
+TUSSIS OM 30MG/15ML JRBE X100ML              3         21.00     10.70           63.00            32.10            30.90
+VAGISTEN ESTRIOL 0,1% CREMA X 15G            4         40.00     37.00          160.00           148.00            12.00
+VELAMOX 250 SUSP 60ML                        1         17.00      9.80           17.00             9.80             7.20
+VENDA ELASTC MEDIDA 5X5                      4          2.00      1.00            8.00             4.00             4.00
+VERSATIS 5% LIDOCAINA700MG PARCHE            2        175.00    140.12          350.00           280.24            69.76
+VITACARE POTE 1000G VAINILLA                 3        150.00     85.00          450.00           255.00           195.00
+VITACOSE 2 ML INYECTABLE                    43         20.00      9.00          860.00           387.00           473.00
+VIVERA CAJAX8                                2u6       48.00     30.40          132.00            83.60            48.40
+ZETALER 5MG/5ML SUSPESION X 60ML             1         40.00                     40.00                             40.00
+ZITROBAC PEDIATRICO 200MG/5ML X30ML          1         25.00                     25.00                             25.00
+---------------------------------------------------------------------------------------------------------------------------------------
+T O T A L E S :                                                              61,321.70        24,445.22        36,876.48
+---------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,248 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 07/02/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/02/2025 AL 06/02/2025                              08:23:14
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+013482           ELI       01/02/2025 08:28  V                      VINO RAPRAY BLANCA ANTONILA    PL        383.00
+013483           ELI       01/02/2025 10:21  V                      JOEL NIETO PERNIA              E          25.00
+013484           ELI       01/02/2025 11:48  V                      BEATRIZ ROJAS NAVARRO          E          35.50
+013485           ELI       01/02/2025 11:58  V                      BATRIZ ROJAS NAVARRO           E           6.40
+013486           ELI       01/02/2025 15:08  V                      ROSA HUERTA HERMENEGILDO       PL        131.00
+013487           EFR       01/02/2025 15:48  V                      ROSA HUANCA HERMENEGILDO       PL        110.00
+013488           ELI       01/02/2025 16:25  V                      ROSENDA SANTILLAN CRUZ         E          45.00
+013489           ELI       01/02/2025 16:51  V                      CARMEN AVILA CALDERON          E          45.00
+013490           ELI       01/02/2025 17:00  V                      ROSA HUANCA HERMENEGILDO       PL        105.00
+013491           ELI       01/02/2025 17:28  V                      LUZ FARRO YABAR                PL         45.00
+013492           ELI       01/02/2025 17:42  V                      ROSA HUANCA HERMENEGILDO       E         150.00
+013493           ELI       01/02/2025 17:44  V                      LEONIDA VEGA JULCA             E          10.40
+013494           ELI       01/02/2025 17:47  V                      FERMIN HUAMAN TORRES           E          65.50
+013495           ELI       01/02/2025 18:01  V                      ROCIO CARRERA LLARES           E          76.50
+013496           ELI       01/02/2025 18:01  V                      EDELMIRA LLARES LEON           E          16.00
+013497           ELI       01/02/2025 18:03  V                      ROSENDA SANTILLAN CRUZ         E          41.40
+013498           ELI       01/02/2025 18:18  V                      ROCIO CARRERA LLARES           E           3.00
+013499           ELI       01/02/2025 18:23  V                      GUZMAN PE;A ANGELA             PL         10.50
+013500           ELI       01/02/2025 18:48  V                      SILVA ROJAS JOSELIN            E          45.00
+013501           ELI       01/02/2025 19:11  V                      ACU¥A MEJIA LUIS FELIPE        E          45.00
+013502           ELI       01/02/2025 19:41  V                      SILVA ROJAS JOSELIN            PL        116.50
+013503           ELI       01/02/2025 20:12  V                      LUIS ALBERTO GARCIA VIRU       E          30.00
+013504           ELI       01/02/2025 20:19  V                      ACU;A MEJIA LUIS FELIPE        E          50.50
+013505           ELI       01/02/2025 20:27  V                      ALEJANDRO CARRERA OLIVARES     E          45.00
+013506           ELI       01/02/2025 20:29  V                      LLARES LEON EDELMIRA           E          32.00
+013507           ELI       01/02/2025 20:29  V                      CARRERA OLIVARES ALEJANDRO     E          10.00
+013508           ELI       01/02/2025 20:53  V                      CARRERA OLIVARES ALEJANDRO     E         243.00
+013509           ELI       02/02/2025 10:37  V                      ROJAS GRADOS ASBEL BETHSABE    E          45.00
+013510           ELI       02/02/2025 11:06  V                      ROSENDA SANTILLAN CRUZ         E          55.00
+013511           ELI       02/02/2025 12:01  V                      GALLO GARCIA CONSUELO          PL         45.00
+013512           ELI       02/02/2025 12:01  V                      FERNANDEZ PIMENTEL WILDER      PL         45.00
+013513           ELI       02/02/2025 14:23  V                      WILDER JULIAN FERNANDEZ PIMENT E          30.00
+013514           ELI       02/02/2025 14:24  V                      CONSUELO IVET GALLO GARCIA     E          30.00
+013515           ELI       02/02/2025 14:27  V                      CONSUELO IVET GALLO GARCIA     E         108.00
+013516           ELI       02/02/2025 14:30  V                      WILDER JULIAN FERNANDEZ PIMENT E         132.50
+013517           ELI       02/02/2025 15:14  V                      ROJAS GRADOS ASBEL             E         182.50
+013518           ELI       02/02/2025 15:15  V                      SILVA ROJAS JOSELIN            E          69.50
+013519           ELI       02/02/2025 17:07  V                      HUAMAN TORRES FERMIN           E          65.50
+013520           ELI       02/02/2025 17:27  V                      ROSEND SANTILLAN CRUZ          E          41.40
+013521           ELI       02/02/2025 17:35  V                      GUZMAN PE; ANGELA              E          10.50
+013522           YES       03/02/2025 08:40  V                      RAMIREZ CHIRRE SILVIA          E          45.00
+013523           YES       03/02/2025 08:46  V                      SANCHEZ RIVERA CESAR AGUSTO    E          83.00
+013524           YES       03/02/2025 09:14  V                      RAMIREZ CHIRRE SILVIA          PL         57.50
+013525           YES       03/02/2025 09:26  V                      RAMIRES CHIRRE SILVA CECILIA   PL         40.00
+013526           YES       03/02/2025 09:41  V                      HUINGO GUITIERREZ ALEX         PL         45.00
+013527           YES       03/02/2025 09:43  V                      RAMIREZ CHIRRE SILVIA          E           1.50
+013528           YES       03/02/2025 09:54  V                      BAZAN VARILLAS ELOY            PL         59.50
+013529           YES       03/02/2025 10:04  V                      MONTES CORDOVA JEFFERSON       E          45.00
+013530           YES       03/02/2025 10:15  V                      HUINGO GUTIERREZ ALEX          PL         52.00
+013531           YES       03/02/2025 10:17  V                      ROJAS GRADOS KELY              E          70.00
+013532           YES       03/02/2025 10:32  V                      LOPEZ SANTILLAN WILSON         E          55.00
+013533           YES       03/02/2025 10:53  V                      ROJAS GRADOS KELY              E          41.50
+013534           YES       03/02/2025 10:59  V                      MONTES CORDOVA JEFFERSON JAVIE E         140.00
+013535           YES       03/02/2025 11:05  V                      RAMIREZ SILVA CHIRRE           PL          4.30
+013536           YES       03/02/2025 14:09  V                      DIAZ DEL TORO FREIYELIS VANESS PL         15.00úZethQuark Versi¢n 7.0ú                                                                                                 07/02/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/02/2025 AL 06/02/2025                              08:23:14
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+013537           YES       03/02/2025 15:02  V                      SILVA ROJAS JOSELIN            E          69.50
+013538           YES       03/02/2025 15:40  V                      SANCHEZ RIVERA SOLEDAD         PL        127.50
+013539           YES       03/02/2025 16:19  V                      CARBABAL CANTA BUENA VENTURA   E          45.00
+013540           YES       03/02/2025 16:33  V                      INTI ALBORNOS OCTAVIA          E          45.00
+013541           YES       03/02/2025 16:57  V                      AYOLA CASTILLO INES            PL         45.00
+013542           YES       03/02/2025 17:23  V                      CARBAJAL CANTA BUENA VENTURA   PL        120.00
+013543           YES       03/02/2025 17:28  V                      HUAMAN TORRES FERMIN           E          65.50
+013544           YES       03/02/2025 17:30  V                      CARBAJAL CANTA BUENA VENTURA   PL         12.00
+013545           YES       03/02/2025 17:31  V                      FARRO YAVAR KAROLINA           PL         45.00
+013546           YES       03/02/2025 17:41  V                      MONTES CORDOVA JEFERSON        E         144.00
+013547           YES       03/02/2025 17:53  V                      GUEVARA BUSTAMANTE ROSA        E          45.00
+013548           YES       03/02/2025 17:55  V                      MELENDEZ PALMAS STEFANY        PL         45.00
+013549           YES       03/02/2025 18:23  V                      ROSEND SANTILLAN CRUZ          E          41.40
+013550           YES       03/02/2025 18:30  V                      CARRERA LLALES ERNERTO         E          10.00
+013551           YES       03/02/2025 18:38  V                      CARRERA LLAVES                 E         146.00
+013552           YES       03/02/2025 18:45  V                      AYOLA CASTILLO INES            E          42.50
+013553           YES       03/02/2025 18:49  V                      NARVAEZ SANCHEZ DANIEL         E          45.00
+013554           YES       03/02/2025 19:20  V                      GUEVARA BUSTAMANTE ROSA        E          44.00
+013555           YES       03/02/2025 19:42  V                      DANIEL NARVAES SANCHEZ         E          78.00
+013556           YES       03/02/2025 19:49  V                      SILVIA CECILIA RAMIREZ CHIRRE  TR         78.50
+013557           YES       03/02/2025 19:52  V                      VENTA ANULADA                  PL          0.00
+013558           YES       03/02/2025 20:17  V                      SILVIA CECILIA                 TR          8.00
+013559           YES       03/02/2025 20:30  V                      ROMERO LOPEZ WILDER            PL         80.50
+013560           ELI       04/02/2025 08:10  V                      BIANCATO MAGNI JHONI           E          43.00
+013561           EFR       04/02/2025 09:20  V                      HUINGO GUTIERRES ALEX          PL         60.50
+013562           EFR       04/02/2025 09:32  V                      VENTA ANULADA                  PL          0.00
+013563           ELI       04/02/2025 09:48  V                      NARVAEZ SANCHEZ DANIEL APOLONI E          70.00
+013564           ELI       04/02/2025 10:09  V                      YULIANA ELIZABETH CARRION SOLI PL        340.00
+013565           ELI       04/02/2025 10:33  V                      VENTA ANULADA                  E           0.00
+013566           ELI       04/02/2025 10:36  V                      CONSTANTINA MIRANDA SUAREZ     E          45.00
+013567           EFR       04/02/2025 10:54  V                      LEONIDA VEGA JULCA             E          45.00
+013568           ELI       04/02/2025 11:01  V                      CRUZ ZAMORA RUTH               PL         45.00
+013569           EFR       04/02/2025 11:50  V                      CRUZ ZAMORA RUTH               PL        154.50
+013570           ELI       04/02/2025 11:51  V                      CRUZ ZAMORA RUTH               PL         52.50
+013571           EFR       04/02/2025 14:58  V                      ANTONIO BUITRON ZAVALA         E          45.00
+013572           ELI       04/02/2025 15:00  V                      GRADOS LECAROS VICTORIA        E          45.00
+013573           ELI       04/02/2025 15:24  V                      ANDREA MANDAMIENTO GARCIA      E          45.00
+013574           ELI       04/02/2025 15:38  V                      GUERRA SALVADOR JOSUE          PL         45.00
+013575           EFR       04/02/2025 15:39  V                      CALDERON NASARIO ANTONIA       E          45.00
+013576           ELI       04/02/2025 15:44  V                      RAMOS ALEJO XAVASH ROMMEER YEI E          25.00
+013577           ELI       04/02/2025 15:51  V                      ANTONIA CALDERON NASARIO       E          10.50
+013578           ELI       04/02/2025 15:56  V                      ANTONIA CALDERON NAZARIO       PL        160.00
+013579           ELI       04/02/2025 16:04  V                      BUITRON ZAVALA ANTONIA         PL         16.50
+013580           ELI       04/02/2025 16:05  V                      BUITRON ZAVALA ANTONIA'        PL        110.00
+013581           ELI       04/02/2025 16:14  V                      BUITRON ZALAVALA ANTONIA       PL         53.50
+013582           ELI       04/02/2025 16:17  V                      SILVIA CECILIA RAMIREZ         PL         76.50
+013583           ELI       04/02/2025 16:20  V                      GRADOS LECAROS VICTORIA        E         161.00
+013584           ELI       04/02/2025 16:29  V                      MANDAMIENTO GARCIA ANDREA      E         124.50
+013585           ELI       04/02/2025 16:30  V                      MANDAMIENTO GARCIA ANDREA      E         169.50
+013586           ELI       04/02/2025 16:39  V                      GUERRA SALVADOR JOSUE          PL         74.00
+013587           ELI       04/02/2025 16:42  V                      MEJIA SAVEDRA ELIZABETH        E          45.00
+013588           ELI       04/02/2025 16:56  V                      BIANCATO MAGNI JHON            E          45.00
+013589           ELI       04/02/2025 17:23  V                      MEJIA SAVEDRA ELIZABETH        E         119.50
+013590           ELI       04/02/2025 17:25  V                      RAMIREZ CHIRRE SILVIA          PL         40.00
+013591           ELI       04/02/2025 17:44  V                      FELICIANO GOMERO BRANDON JESUS PL         75.00úZethQuark Versi¢n 7.0ú                                                                                                 07/02/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/02/2025 AL 06/02/2025                              08:23:14
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+013592           ELI       04/02/2025 17:47  V                      SILVA ROJAS JOSELIN            PL         43.50
+013593           ELI       04/02/2025 18:15  V                      WILLIAM FALCON MONTES          E         141.00
+013594           ELI       04/02/2025 18:18  V                      ROSENDA SANTILLAN CRUZ         E          12.90
+013595           ELI       04/02/2025 18:55  V                      MIRANDA SUAREZ CONSTANTINA     E         126.30
+013596           ELI       04/02/2025 19:03  V                      BUITRON ZAVALA ANTONIA         PL         12.90
+013597           ELI       04/02/2025 19:04  V                      BUITRON ZAVALA ANTONIA         PL         40.00
+013598           ELI       04/02/2025 19:15  V                      ELIZABETH MEJIA                E          24.00
+013599           ELI       04/02/2025 19:17  V                      MANDAMIENTO GARCIA ANDREA      E          36.40
+013600           ELI       04/02/2025 19:18  V                      MANDAMIENTO GARCIA ANDREA      E          40.00
+013601           ELI       04/02/2025 19:41  V                      WILIAM FALCON                  E          26.00
+013602           ELI       04/02/2025 20:12  V                      GUZMAN HERMITA;O WILDER        PL         45.00
+013603           ELI       04/02/2025 20:49  V                      WILDER GUZMAN                  PL        119.00
+013604           ELI       04/02/2025 21:03  V                      MALLA VILLANUEVA AVELARDO      E          45.00
+013605           ELI       04/02/2025 21:22  V                      ABELARDO MALLA                 PL         41.00
+013606           ELI       05/02/2025 08:17  V                      ROSALIA GUEVARA BUSTAMANTE     E         248.00
+013607           ELI       05/02/2025 08:23  V                      REYES VILCA PRIMITIVA          E          55.00
+013608           ELI       05/02/2025 09:23  V                      ROJAS GRADOS ASBEL             E         263.00
+013609           ELI       05/02/2025 09:24  V                      MONTESINOS DURAN CENON         E          45.00
+013610           ELI       05/02/2025 10:03  V                      MONTESINO DURAND ZENON         E         145.00
+013611           ELI       05/02/2025 10:07  V                      SUSAN SOLORZANO ORTIZ          PL         15.00
+013612           ELI       05/02/2025 10:29  V                      GRADOS LECAROS VICTORIA        E          97.50
+013613           ELI       05/02/2025 14:00  V                      HUERTO DE ALBINO SALOMENA      PL         80.00
+013614           ELI       05/02/2025 14:09  V                      SUAREZ PEREZ NANCY             PL        167.00
+013615           ELI       05/02/2025 14:56  V                      CELESTINA TOLENTINO HIDALGO    E          15.00
+013616           ELI       05/02/2025 14:50  V                      ANTONIA BUITRON ZAVALA         E          63.40
+013617           ELI       05/02/2025 15:27  V                      CELESTINA TOLENTINO HIDALGO    E          45.00
+013618           ELI       05/02/2025 16:12  V                      CALDERON HILARIO GILBERTO      E          80.00
+013619           ELI       05/02/2025 16:26  V                      MONTES CORDOVA JEFERSON        E          60.00
+013620           ELI       05/02/2025 16:27  V                      MERCEDES NIETO PE';A           E          45.00
+013621           ELI       05/02/2025 16:29  V                      GUTIERREZ BALTUANO AMPARO      E          45.00
+013622           ELI       05/02/2025 16:50  V                      ROSENDA SANTILLAN CRUZ         E          45.00
+013623           ELI       05/02/2025 16:59  V                      JOSUE GUERRA SALVADOR          PL         30.00
+013624           ELI       05/02/2025 17:38  V                      MANDAMIENTO GARCIA ANDREA      E          57.70
+013625           ELI       05/02/2025 17:48  V                      SILVA ROJAS JOSELIN            PL         48.50
+013626           ELI       05/02/2025 17:50  V                      LEZAMETA VILLADEZA ESTER       E          45.00
+013627           ELI       05/02/2025 18:08  V                      CARRION SOLIS YULIANA          E          45.00
+013628           ELI       05/02/2025 18:12  V                      AMPARO VIVIANA GUTIERREZ BALTU E         119.50
+013629           ELI       05/02/2025 18:15  V                      AMPARO GUTIERRES               E          86.50
+013630           ELI       05/02/2025 18:18  V                      SOTO MAZA JAREK                PL         25.00
+013631           ELI       05/02/2025 18:26  V                      SILVA ROJAS JOSELIN            E           7.50
+013632           ELI       05/02/2025 18:32  V                      PALACIN CARRASCO AQUILES       E          45.00
+013633           ELI       05/02/2025 18:35  V                      RUC LAOS FERNANDEZ             PL         10.00
+013634           ELI       05/02/2025 18:45  V                      ROSENDA SANTILLA CRUZ          E         161.00
+013635           ELI       05/02/2025 18:46  V                      RUC LAOS FERNANDEZ             PL         45.00
+013636           ELI       05/02/2025 18:58  V                      ESTER LEZAMETA VILLADEZ        E         134.50
+013637           ELI       05/02/2025 19:20  V                      ANGELO MALLA BARRETO           PL         45.00
+013638           ELI       05/02/2025 19:25  V                      MIRANDA SUAREZ CONSTANTINA     E          85.00
+013639           ELI       05/02/2025 19:32  V                      YULIANA CARRION SOLIS          E          31.00
+013640           ELI       05/02/2025 19:44  V                      GARCIA VIRU LUIS ALBERTO       E          45.00
+013641           ELI       05/02/2025 20:24  V                      AMPARO GUTIERRES               PL         80.00
+013642           ELI       05/02/2025 20:25  V                      AMPARO GUTIERRES BALTUANO      E          40.00
+013643           ELI       05/02/2025 20:39  V                      ANGELO MALLA BARRETO           PL        103.50
+013644           ELI       06/02/2025 08:25  V                      ESTER LEZAMETA VILLADEZA       E         155.00
+013645           ELI       06/02/2025 09:51  V                      CERNA QUIROZ NANCY GLADIS      E          16.50
+013646           ELI       06/02/2025 10:33  V                      CRUZ ZAMORA RUT                PL         45.00úZethQuark Versi¢n 7.0ú                                                                                                 07/02/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/02/2025 AL 06/02/2025                              08:23:14
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+013647           ELI       06/02/2025 14:43  V                      BUITRON ZAVALA                 E          63.40
+013648           ELI       06/02/2025 14:58  V                      AMPARO GUTIERRES               E          76.50
+013649           ELI       06/02/2025 15:42  V                      GUEVARA BUSTAMANTE ROSALIA     E          45.00
+013650           ELI       06/02/2025 16:14  V                      CHAVEZ CASTRO DIRCE            TR         45.00
+013651           ELI       06/02/2025 16:26  V                      GARCIA LOLI CRIS               E          45.00
+013652           ELI       06/02/2025 16:34  V                      PICHILINGUE VASQUEZ JULIA      E         106.00
+013653           ELI       06/02/2025 16:59  V                      VENTA ANULADA                  E           0.00
+013654           ELI       06/02/2025 17:10  V                      BANDA CARUAJULCA GUILLERMO     E          45.00
+013655           ELI       06/02/2025 17:17  V                      HUIZA LOPEZ LIAM               E          45.00
+013656           ELI       06/02/2025 17:21  V                      BOLIVAR CHAVEZ JHALU           E          15.00
+013657           ELI       06/02/2025 17:25  V                      FELICIANO GOMERO BRANDON       E          50.00
+013658           ELI       06/02/2025 17:32  V                      MANDAMIENTO GARCIA ANDREA      E          56.40
+013659           ELI       06/02/2025 17:47  V                      VENTA ANULADA                  PL          0.00
+013660           ELI       06/02/2025 17:48  V                      CHAVEZ CASTRO VICKY            PL         40.00
+013661           ELI       06/02/2025 17:50  V                      LEZAMETA VILLADESA ESTER       E          45.00
+013662           ELI       06/02/2025 17:53  V                      ROSALIA GUEVARA BUSTAMANTE     E          45.00
+013663           ELI       06/02/2025 17:56  V                      NORMA ROMERO CHUMBES           E         100.00
+013664           ELI       06/02/2025 17:56  V                      VENTA ANULADA                  E           0.00
+013665           ELI       06/02/2025 18:12  V                      LIAM HUIZA LOPEZ               E          75.50
+013666           ELI       06/02/2025 18:17  V                      LIAM HUIZA LOPEZ               E          10.50
+013667           ELI       06/02/2025 18:29  V                      LEZAMETA VILLADEZ ESTER        E          63.40
+013668           ELI       06/02/2025 18:30  V                      LEZAMETA VILLADEZ ESTER        E          40.00
+013669           ELI       06/02/2025 18:41  V                      BANDA CARUAJULCA GUILLERMO     E          62.00
+013670           ELI       06/02/2025 18:42  V                      BANDA CARUAJULCA GUILLERMO     E         175.00
+013671           ELI       06/02/2025 19:03  V                      CHAVEZ CASTRO VICKY            PL         94.50
+013672           ELI       06/02/2025 19:06  V                      ROSA ANTONIA JULCA RAMIREZ     E          45.00
+013673           ELI       06/02/2025 19:20  V                      AYNOR ROMAN QUINTO             E          45.00
+013674           ELI       06/02/2025 19:22  V                      ANGELO MALLER BARRETO          PL         45.00
+013675           ELI       06/02/2025 19:37  V                      WILLIAM FALCON MONTES          E          16.00
+013676           ELI       06/02/2025 19:57  V                      YURI RAFAEL BUSTAMANTE         PL         55.00
+013677           ELI       06/02/2025 20:02  V                      LEZAMETA VILLADEZ ESTER        E          33.00
+013678           ELI       06/02/2025 20:08  V                      MARCOS GUERRERO ANDREA         PL         69.50
+013679           EFR       06/02/2025 20:28  V                      MANDAMIENTO GARCIA ANDREA      E          12.00
+013680           ELI       06/02/2025 20:33  V                      ROSA ANTONIA JULCA RAMIREZ     E         137.00
+013681           ELI       06/02/2025 20:37  V                      ROSA ANTONIA JULCARAMIREZ      E          16.50
+013682           ELI       06/02/2025 21:00  V                      AYNOA ROMAN QUINTO             PL        100.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :     131       8,420.90
+Ticket        :       0           0.00                                                    Plin          :      61       4,441.70
+Guia Interna V:     195      12,994.10                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       3         131.50
+                             12,994.10                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                       12,994.10
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      1,981.94
+ÿ
+ÿúZethQuark Versi¢n 7.0ú                                                                                                 07/02/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/02/2025 AL 06/02/2025                              08:23:14
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Nro.  Documentos Anulados :            6
+Total Documentos Anulados :         0.00

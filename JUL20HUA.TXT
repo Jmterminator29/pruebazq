@@ -1,0 +1,67 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 22/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 20/07/2024 AL 20/07/2024                              08:59:31
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007522           EFR  EFR  20/07/2024 08:43  V                      BARRENECHEA TADEO CASIMIRA     E          10.00
+007523           EFR  EFR  20/07/2024 08:48  V                      APARICIO MENDOZA VICTOR        E          80.00
+007524           YOS  YOS  20/07/2024 09:56  V                      SOTO BASILIO GERARDO           E         155.00
+007525           YOS  YOS  20/07/2024 10:53  V                      SILVESTRE ALVARO CESAR         E          45.00
+007526           YOS  YOS  20/07/2024 10:57  V                      GODO CASERES MARIA             E         107.50
+007527           YOS  YOS  20/07/2024 11:15  V                      MIRANDA CAMERO MYA             E          26.50
+007528           YOS  YOS  20/07/2024 12:08  V                      PIZARRO QUINTON EDGAR JUAN     E          45.00
+007529           YOS  YOS  20/07/2024 13:36  V                      PIZARRO QUINTON EDGAR JUAN     E          96.50
+007530           YOS  YOS  20/07/2024 15:12  V                      RAMIREZ URBIZAGASTEGUE GRACIEL E          45.00
+007531           YOS  YOS  20/07/2024 15:34  V                      PAJUELO FERNANDEZ VIVIANA      E          80.50
+007532           YOS  YOS  20/07/2024 15:36  V                      PAJUELO FERNANDEZ VIVIANA      E         100.00
+007533           YOS  YOS  20/07/2024 15:57  V                      SOTO BASILIO GERARDO           E         273.00
+007534           YOS  YOS  20/07/2024 16:07  V                      INOCENTE ALCANTARA LORENZA     E          45.00
+007535           YOS  YOS  20/07/2024 16:08  V                      VILLANUEVA LAOS RICARDO        E          45.00
+007536           YOS  YOS  20/07/2024 16:24  V                      ARANDA EVANGELISTA HANNA       E          45.00
+007537           YOS  YOS  20/07/2024 16:25  V                      INOCENTE ALCANTARA LORENZA     E           3.00
+007538           YOS  YOS  20/07/2024 16:16  V                      INOCENTE ALCANTARA LORENZA     E           3.00
+007539           YOS  YOS  20/07/2024 16:25  V                      JAIMES BENDITO ANGELA          E          15.00
+007540           YOS  YOS  20/07/2024 16:30  V                      SALINAS GRADOS JIMENA          E          15.00
+007541           YOS  YOS  20/07/2024 16:35  V                      CHINGA OYOLA YULISSA           E          45.00
+007542           YOS  YOS  20/07/2024 16:50  V                      INOCENTE ALCANTARA LORENZA     E          68.00
+007543           YOS  YOS  20/07/2024 16:52  V                      BACA ONORES MELQUI             E          45.00
+007544           YOS  YOS  20/07/2024 16:52  V                      AGUIRRE TRUJILLO NANCY         E          45.00
+007545           YOS  YOS  20/07/2024 17:06  V                      GAMARRA SANCHEZ EYMI           Y          48.00
+007546           YOS  YOS  20/07/2024 17:32  V                      PANANA SANCHEZ JUANA           E           2.00
+007547           YOS  YOS  20/07/2024 17:38  V                      RAMIREZ URBISAGATEGUE GRACIELA E         207.50
+007548           YOS  YOS  20/07/2024 17:46  V                      VILLANUEVA LAOS RICARDO        E          60.00
+007549           YOS  YOS  20/07/2024 17:59  V                      INOCENTE ALCANTARA LORENZA     E         111.00
+007550           YOS  YOS  20/07/2024 18:12  V                      ARANDA EVANGELISTA HANNA       E          55.00
+007551           YOS  YOS  20/07/2024 18:57  V                      PAJUELO FERNANDEZ VIVIANA      E          26.00
+007552           YOS  YOS  20/07/2024 19:15  V                      CHINGA OYOLA YULISA            E          53.50
+007553           YOS  YOS  20/07/2024 19:36  V                      CAMPOS DIAZ PAULINO            TR         33.50
+007554           YOS  YOS  20/07/2024 19:43  V                      RAMIREZ URBIZAGASTEGUE GRACIEL E          30.50
+007555           YOS  YOS  20/07/2024 20:00  V                      VERAMENDI VILLANUEVA MARGARITA E          70.50
+007556           YOS  YOS  20/07/2024 20:10  V                      PIZARRO QUINTON EDGAR JUAN     E          23.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      33       2,077.50
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      35       2,159.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       1          33.50
+                              2,159.00                                                    Yape          :       1          48.00
+                                                                                                                    -------------
+                                                                                                                        2,159.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        329.28
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0úZethQuark Versi¢n 7.0ú                                                                                                 22/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 20/07/2024 AL 20/07/2024                              08:59:31
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Total Documentos Anulados :         0.00

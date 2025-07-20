@@ -1,0 +1,1421 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:26
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004593           EFR  EFR  02/05/2024 08:52  V                      CAMONI LUCANA KARINA           C          45.00
+004594           EFR  EFR  02/05/2024 09:35  V                      BARDALES JARA RUFO             C          78.00
+004595           EFR  EFR  02/05/2024 10:00  V                      CAPRISTAN BERROCAL MARCELO     C          14.00
+004596           EFR  EFR  02/05/2024 11:02  V                      RIOS TOLENTINO BRAYAN          C          50.00
+004597           EFR  EFR  02/05/2024 11:15  V                      RAMOS CALDERON VICTOR          C          68.00
+004598           EFR  EFR  02/05/2024 11:22  V                      BOLARTE ALANIA DENNISSE        C          45.00
+004599           YOS  YOS  02/05/2024 11:35  V                      RIOS TOLENTINO BRAYAN          C          45.00
+004600           YOS  YOS  02/05/2024 11:36  V                      RIOS TOLENTINO BRAYAN          C          24.00
+004601           EFR  EFR  02/05/2024 12:24  V                      OSORIO PICHARDO ANGEL          C           1.50
+004602           EFR  EFR  02/05/2024 12:40  V                      ANGELES CABALLERO NELLY        C          75.00
+004603           EFR  EFR  02/05/2024 13:33  V                      VENTA ANULADA                  C           0.00
+004604           EFR  EFR  02/05/2024 13:36  V                      RAMOS SANCHEZ LILIANA          C           4.50
+004605           YOS  YOS  02/05/2024 14:40  V                      RIMAC BLAS ROSA                C          45.00
+004606           YOS  YOS  02/05/2024 15:05  V                      MANDAMIENTO GARCIA ANDEA       C          76.00
+004607           YOS  YOS  02/05/2024 15:25  V                      NICHO VASQUEZ  CALEB           C          45.00
+004608           YOS  YOS  02/05/2024 15:52  V                      RODRIGUEZ BRAVO SOLEDAD        C          45.00
+004609           YOS  YOS  02/05/2024 16:06  V                      RIOS GUERRERO CARMEN           C          45.00
+004610           YOS  YOS  02/05/2024 16:51  V                      BOLARTE ALANIA DENISSE         C          25.00
+004611           YOS  YOS  02/05/2024 16:56  V                      RIMAC BLAS ROSA                C          42.00
+004612           YOS  YOS  02/05/2024 17:02  V                      BOLARTE ALANIA DENNISE         C           0.50
+004613           YOS  YOS  02/05/2024 17:25  V                      RODRIGUEZ BRAVO SOLEDAD        C          50.00
+004614           YOS  YOS  02/05/2024 17:58  V                      PACHECO MU¥OZ ANDERSON         C          45.00
+004615           YOS  YOS  02/05/2024 18:04  V                      RIOS GUERRERO CARMEN           C         134.50
+004616           YOS  YOS  02/05/2024 18:24  V                      RODRIGUEZ BRAVO SOLEDAD        C          56.50
+004617           YOS  YOS  02/05/2024 18:25  V                      LUIS HUERTA GIRALDO            C          12.00
+004618           YOS  YOS  02/05/2024 18:27  V                      RODRIGUEZ BRAVO SOLEDAD        C          66.00
+004619           YOS  YOS  02/05/2024 19:05  V                      PACHECO MU:OZ ANDERSON         C          24.00
+004620           YOS  YOS  02/05/2024 19:12  V                      ESPINOZA GERONIMO AMERICA      C          45.00
+004621           YOS  YOS  02/05/2024 19:42  V                      ESPINOZA GERONIMO AMERICA      C          36.00
+004622           YOS  YOS  02/05/2024 19:43  V                      ESPINOZA GERONIMO AMERICA      C          24.00
+004623           YOS  YOS  02/05/2024 19:50  V                      ASENCIOS SOLIS JESUS           C          45.00
+004624           YOS  YOS  02/05/2024 19:50  V                      ASENCIOS SOLIS JESUS           C          30.00
+004625           YOS  YOS  02/05/2024 20:29  V                      ASENCIOS SOLIS JESUS           C          64.00
+004626           EFR  EFR  03/05/2024 08:32  V                      TRONCOSO CABRERA GLADYS ISELA  C         290.00
+004627           EFR  EFR  03/05/2024 08:48  V                      ESPINOZA BRAVO JHEFRY          C          45.00
+004628           EFR  EFR  03/05/2024 08:50  V                      ROBLES CHIRRE SAMANTA          C          45.00
+004629           EFR  EFR  03/05/2024 08:54  V                      VILCAYAURI MELO GLORIA         C          25.00
+004630           EFR  EFR  03/05/2024 08:58  V                      TRONCOSO CABRERA GLADYS        C          45.00
+004631           EFR  EFR  03/05/2024 09:06  V                      GRADOS VERAMENDI VANIA         C          45.00
+004632           YOS  YOS  03/05/2024 09:20  V                      ANGULO CARO LAEL               C          45.00
+004633           YOS  YOS  03/05/2024 09:40  V                      ROBLES CHIRRE SAMANTA          C           1.50
+004634           YOS  YOS  03/05/2024 09:42  V                      ESPINOZA BRAVO JHEFRY          C          30.00
+004635           YOS  YOS  03/05/2024 09:48  V                      VALLADARES MEDINA DEYVI        C          45.00
+004636           YOS  YOS  03/05/2024 09:56  V                      MARCOS GUERRERO LIZET          C          45.00
+004637           YOS  YOS  03/05/2024 10:08  V                      GRADOS VERAMENDI VANIA         C          94.00
+004638           YOS  YOS  03/05/2024 10:11  V                      ROSALES AYALA HAIDE            C          45.00
+004639           YOS  YOS  03/05/2024 10:27  V                      RAMOS DAZA ABDIAS              C          50.00
+004640           YOS  YOS  03/05/2024 10:29  V                      MARCOS GUERRERO LIZET          C          81.50
+004641           YOS  YOS  03/05/2024 10:30  V                      MARCOS GUERRERO LISSETTE       C          25.00
+004642           YOS  YOS  03/05/2024 10:33  V                      BARDALES JARA RUFO             C         119.50
+004643           YOS  YOS  03/05/2024 10:33  V                      COLLANTES GARCIA CESAR         C          45.00
+004644           YOS  YOS  03/05/2024 10:42  V                      VALLADARES MEDINA DEYVI        C          93.00
+004645           YOS  YOS  03/05/2024 10:49  V                      ROSALES AYALA HAIDE            C          72.00
+004646           YOS  YOS  03/05/2024 10:53  V                      GORDILLO GARCIA PATRICIA       C          50.00
+004647           YOS  YOS  03/05/2024 10:58  V                      ARANDA EVANGELISTA  HANNA      C          45.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:26
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004648           YOS  YOS  03/05/2024 11:22  V                      RAMOS DAZA RICHARD             C          45.00
+004649           YOS  YOS  03/05/2024 11:38  V                      RIOS GUERRERO CARMEN           C         323.00
+004650           YOS  YOS  03/05/2024 11:53  V                      COLLANTES GARCIA CESAR         C          45.00
+004651           YOS  YOS  03/05/2024 12:00  V                      RIOS GUERRERO CARMEN           C          60.00
+004652           YOS  YOS  03/05/2024 12:09  V                      MARCOS GUERRERO LIZET          C         125.00
+004653           YOS  YOS  03/05/2024 12:18  V                      ROJAS VASQUEZ FLAVIO           C          45.00
+004654           YOS  YOS  03/05/2024 12:41  V                      ROJAS VASQUEZ FLAVIO           C          67.00
+004655           YOS  YOS  03/05/2024 12:44  V                      ROJAS VASQUEZ FLAVIO           C          50.00
+004656           EFR  EFR  03/05/2024 13:08  V                      MARCOS GUERRERO LIZET          C          88.00
+004657           EFR  EFR  03/05/2024 13:29  V                      RUBIO GONZALEZ CHRIS           C         130.00
+004658           EFR  EFR  03/05/2024 13:51  V                      ROSALES AYALA JAYDER           C          76.50
+004659           EFR  EFR  03/05/2024 13:52  V                      ROSALES AYALA JAYDER           C          75.00
+004660           EFR  EFR  03/05/2024 14:09  V                      ROJAS VASQUEZ FLAVIO SILVER    C          65.00
+004661           EFR  EFR  03/05/2024 14:10  V                      ROJAS VASQUEZ FLAVIO           C          62.50
+004662           EFR  EFR  03/05/2024 14:36  V                      MARCOS GUERRERO LIZET          C         168.00
+004663           YOS  YOS  03/05/2024 15:05  V                      TORRES NU¥EZ PIERO             C          50.00
+004664           YOS  YOS  03/05/2024 15:23  V                      ROJAS VASQUEZ FLAVIO           C          43.50
+004665           YOS  YOS  03/05/2024 15:28  V                      PELTROCHE  VELEZMORO GIUSEPPE  C          45.00
+004666           YOS  YOS  03/05/2024 15:29  V                      FUKUDA PICHILINGUE ZULEMA      C          45.00
+004667           YOS  YOS  03/05/2024 15:40  V                      VIA LEON VICENTE               C          45.00
+004668           YOS  YOS  03/05/2024 15:51  V                      OBISPO CARRASCO DOLORA         C          45.00
+004669           YOS  YOS  03/05/2024 15:54  V                      MARCOS GUERRERO LIZET          C          56.50
+004670           YOS  YOS  03/05/2024 15:55  V                      RIVERA LAOS VICTOR             C          45.00
+004671           YOS  YOS  03/05/2024 16:14  V                      BARDALES JARA RUFO             C          45.00
+004672           YOS  YOS  03/05/2024 16:40  V                      RODRIGUEZ BRAVO SOLEDAD        C          14.00
+004673           YOS  YOS  03/05/2024 16:47  V                      VIRU LINARES FLOR              C          45.00
+004674           YOS  YOS  03/05/2024 16:48  V                      VIRU LINARES FLOR ELENA        C          16.50
+004675           YOS  YOS  03/05/2024 16:52  V                      TRONCOSO CABRERA GLADYS        C         245.50
+004676           YOS  YOS  03/05/2024 17:09  V                      GARCIA INGA ALEXIA             C          45.00
+004677           YOS  YOS  03/05/2024 17:12  V                      OBISPO CARRASCO DOLORA         C          66.00
+004678           YOS  YOS  03/05/2024 17:19  V                      RAMOS DAZA RICHARD             C          30.00
+004679           YOS  YOS  03/05/2024 17:29  V                      PELTROCHE VELEZMORO GIUSEPPE   C          50.00
+004680           YOS  YOS  03/05/2024 17:50  V                      VIA LEON VICENTE               C          24.50
+004681           YOS  YOS  03/05/2024 17:59  V                      FERNANMDEZ ACEVEDO ALEX        C         150.00
+004682           YOS  YOS  03/05/2024 18:10  V                      CORPUS CULLA LUZMILA           C          50.00
+004683           YOS  YOS  03/05/2024 19:12  V                      TIPO FERNANDEZ EVA             C          50.00
+004684           YOS  YOS  03/05/2024 19:18  V                      BARDALES JARA RUFO             C          90.00
+004685           YOS  YOS  03/05/2024 19:26  V                      MARCOS GUERRERO LISSETTE       C          50.00
+004686           YOS  YOS  03/05/2024 19:48  V                      PELTROCHE  VELEZMORO GIUSEPPE  C          28.00
+004687           YOS  YOS  03/05/2024 20:13  V                      VIRU LINARES FLOR              C         130.00
+004688           YOS  YOS  03/05/2024 20:14  V                      VIRU LINARES FLOR              C          25.50
+004689           EFR  EFR  04/05/2024 08:42  V                      RIVERA LAOS VICTOR             C         150.00
+004690           EFR  EFR  04/05/2024 08:45  V                      RIVERA LAOS VICTOR             C         117.50
+004691           EFR  EFR  04/05/2024 08:58  V                      DE PAZ INGLES MARCELINA        C          45.00
+004692           YOS  YOS  04/05/2024 09:18  V                      VIA LEON VICENTE               C         180.00
+004693           YOS  YOS  04/05/2024 09:35  V                      QUINTO VALLE DIEGO             C          45.00
+004694           YOS  YOS  04/05/2024 09:36  V                      VILLAVICENCIO SALAS ALFREDO LU C          45.00
+004695           YOS  YOS  04/05/2024 09:38  V                      HUERTA GIRALDO LUIS            C          45.00
+004696           YOS  YOS  04/05/2024 09:50  V                      MARCOS GUERRERO LIZET          C          48.00
+004697           YOS  YOS  04/05/2024 10:23  V                      DE PAZ  INGLE MARCELINA        C         165.00
+004698           YOS  YOS  04/05/2024 10:47  V                      VILLAVICENCIO SALAS ALFREDO LU C          60.00
+004699           YOS  YOS  04/05/2024 10:53  V                      VIRU LINARES FLOR              C         130.00
+004700           YOS  YOS  04/05/2024 11:09  V                      ESPINOZA APONTE LEDSY          C          15.00
+004701           YOS  YOS  04/05/2024 11:18  V                      ROSALES AYALA HAIDE            C          40.00
+004702           YOS  YOS  04/05/2024 11:20  V                      HUERTA GIRALDO LUIS            C           6.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:27
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004703           YOS  YOS  04/05/2024 11:25  V                      GAMARRA SANCHEZ EYMI           C          45.00
+004704           YOS  YOS  04/05/2024 11:39  V                      HUERTA GIRALDO LUIS            C          57.50
+004705           YOS  YOS  04/05/2024 11:40  V                      SUSANIBAR PALOMINO LUCILA      C          45.00
+004706           YOS  YOS  04/05/2024 12:05  V                      HUERTA GIRALDO LUIS            C           5.50
+004707           YOS  YOS  04/05/2024 14:26  V                      PAREDES OBREGON LUCIANA        C          45.00
+004708           YOS  YOS  04/05/2024 15:13  V                      ESPINOZA RAMOS EDER            C          10.00
+004709           YOS  YOS  04/05/2024 15:26  V                      ESPINOZA RAMOS EDER            C          45.00
+004710           YOS  YOS  04/05/2024 15:32  V                      ANTUNEZ SIFUENTES ALFREDO      C          45.00
+004711           YOS  YOS  04/05/2024 15:49  V                      CALERO ZU¥IGA ISABEL           C           1.50
+004712           YOS  YOS  04/05/2024 16:04  V                      RIVERA LAOS VICTOR\            C          45.00
+004713           YOS  YOS  04/05/2024 16:20  V                      OBISPO CARRASCO DOLORA         C          44.50
+004714           YOS  YOS  04/05/2024 16:21  V                      VILLAVICENCIO SALAS ALFREDO LU C          80.00
+004715           YOS  YOS  04/05/2024 16:30  V                      VENTA ANULADA                  C           0.00
+004716           YOS  YOS  04/05/2024 16:31  V                      ANTUNEZ SIFUENTES ALFREDO      C         119.50
+004717           YOS  YOS  04/05/2024 16:35  V                      PELTROCHE  VELEZMORO GIUSEPPE  C          82.00
+004718           YOS  YOS  04/05/2024 16:44  V                      SUSANIBAR PALOMINO LUCILA      C         120.50
+004719           YOS  YOS  04/05/2024 16:45  V                      SUSANIBAR PALOMINO LUCILA\     C         195.50
+004720           YOS  YOS  04/05/2024 16:53  V                      MU:OZ ALA YANERI               C          45.00
+004721           YOS  YOS  04/05/2024 16:54  V                      PELTROCHE  VELEZMORO GIUSEPPE  C          12.00
+004722           YOS  YOS  04/05/2024 17:23  V                      VILCAYAURI MELO GLORIA         C          45.00
+004723           YOS  YOS  04/05/2024 17:35  V                      BERNAL CAMOS LUIS              C          45.00
+004724           YOS  YOS  04/05/2024 17:48  V                      PAREDES OBREGON LUCIANA        C          96.50
+004725           YOS  YOS  04/05/2024 17:50  V                      PAREDES OBREGON LUCIANA        C          76.50
+004726           EFR  EFR  04/05/2024 17:52  V                      GAMARRA SANCHEZ EIMI           C          53.00
+004727           EFR  EFR  04/05/2024 17:55  V                      MU¥OZ ALA JHANDERY DHANIXA     C          50.00
+004728           EFR  EFR  04/05/2024 18:28  V                      LAZARO OSORIO ANDRES           C          50.00
+004729           EFR  EFR  04/05/2024 18:31  V                      ESPINOZA MORALES SAILIN        C          45.00
+004730           EFR  EFR  04/05/2024 19:03  V                      MORALES ESPINOZA SAILIN        C          60.00
+004731           EFR  EFR  04/05/2024 19:07  V                      LAZARO OSORIO ANDRES           C          45.00
+004732           EFR  EFR  04/05/2024 19:28  V                      MU¥OZ ALA JHOAO JOSSIMAR       C          35.00
+004733           EFR  EFR  04/05/2024 19:40  V                      ANTUNEZ SIFUENTES ALFREDO      C          93.00
+004734           EFR  EFR  04/05/2024 19:46  V                      LAZARO OSORIO ANDRES           C           1.50
+004735           EFR  EFR  04/05/2024 19:47  V                      ANA LAZARO OSORIO              C          18.00
+004736           EFR  EFR  04/05/2024 19:49  V                      LAZARO OSORIO ANDRES           C          64.00
+004737           EFR  EFR  04/05/2024 20:27  V                      ANTUNEZ SIFUENTES ALFREDO      C          33.50
+004738           EFR  EFR  04/05/2024 21:01  V                      MORALES ESPINOZA SAILIN        C          92.00
+004739           YOS  YOS  06/05/2024 09:55  V                      CARBAJAL DE TACUCHE ADVIENTA   C          45.00
+004740           YOS  YOS  06/05/2024 10:00  V                      PACOCA QUICHIZ ANA MARIA       C          45.00
+004741           YOS  YOS  06/05/2024 10:07  V                      FALERO PADLLA ANGELICA         C          45.00
+004742           YOS  YOS  06/05/2024 10:07  V                      SOTEL BLAS SOFIA ALESSIA       C          15.00
+004743           YOS  YOS  06/05/2024 10:08  V                      BRONCANO ZAMORA MARI CARMEN    C          45.00
+004744           YOS  YOS  06/05/2024 10:09  V                      FALERO PADILLA ANGELICA        C          50.00
+004745           YOS  YOS  06/05/2024 10:11  V                      FALERO PADILLA ANGELICA        C          66.50
+004746           YOS  YOS  06/05/2024 10:13  V                      BRONCANO ZAMORA MARI CARMEN    C          40.00
+004747           YOS  YOS  06/05/2024 10:40  V                      RODRIGUEZ CALDERON MARIA       C          40.00
+004748           YOS  YOS  06/05/2024 10:41  V                      VILCA BAZAN FERNANDA           C          45.00
+004749           YOS  YOS  06/05/2024 10:50  V                      MIRANDA TOLENTINO JOEL         C          70.50
+004750           YOS  YOS  06/05/2024 10:51  V                      MIRANDA TOLENTINO JOEL         C         212.50
+004751           YOS  YOS  06/05/2024 10:53  V                      MIRANDA TOLENTINO JOEL         C          45.00
+004752           YOS  YOS  06/05/2024 11:02  V                      CARBAJAL DE TACUCHE ADVIENTA   C          18.00
+004753           YOS  YOS  06/05/2024 11:06  V                      CARBAJAL DE TACUCHE ADVIENTA   C         269.50
+004754           YOS  YOS  06/05/2024 11:09  V                      MARCOS GUERRERO LIZET          C          48.00
+004755           YOS  YOS  06/05/2024 11:30  V                      FALERO PADILLA ANGELICA        C          96.50
+004756           YOS  YOS  06/05/2024 11:31  V                      MIRANDA TOLENTINO YOEL         C          21.50
+004757           YOS  YOS  06/05/2024 11:48  V                      CARBAJAL DE TACUCHE ADVIENTA   C           1.50úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:27
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004758           YOS  YOS  06/05/2024 12:08  V                      FALERO PADILLA ANGELICA        C          10.00
+004759           YOS  YOS  06/05/2024 12:27  V                      DE PAZ INGLE MARCELINA         C          30.00
+004760           YOS  YOS  06/05/2024 14:35  V                      FALERO PADLLA ANGELICA         C          30.00
+004761           YOS  YOS  06/05/2024 15:53  V                      AMBROSIO NIETO NAYSHA          C          15.00
+004762           YOS  YOS  06/05/2024 15:59  V                      PAUCAR E4SPINOZA CANDY         C          45.00
+004763           YOS  YOS  06/05/2024 16:00  V                      MARTINEZ TORIBIO JULIAN        C          80.00
+004764           YOS  YOS  06/05/2024 16:04  V                      HUERTA GIRALDO LUIS            C           5.50
+004765           YOS  YOS  06/05/2024 16:09  V                      ANGULO CARO LAEL               C          45.00
+004766           YOS  YOS  06/05/2024 16:10  V                      BENITES ROJAS RAQUEL           C          45.00
+004767           YOS  YOS  06/05/2024 16:13  V                      CHURRANO GIRALDO FERMIN        C          45.00
+004768           YOS  YOS  06/05/2024 16:14  V                      VASQUEZ MORILLO SEGUNDO        C          45.00
+004769           YOS  YOS  06/05/2024 16:42  V                      VASQUEZ VACA ISABEL            C         174.50
+004770           YOS  YOS  06/05/2024 16:54  V                      MU:OZ ALA YANDEL               C          45.00
+004771           YOS  YOS  06/05/2024 17:01  V                      VIRU LINARES FLOR ELENA        C          45.00
+004772           YOS  YOS  06/05/2024 17:02  V                      VIRU LINARES FLOR ELENA        C          23.00
+004773           YOS  YOS  06/05/2024 17:18  V                      BERDIALES PALMA CARLOS         C          45.00
+004774           YOS  YOS  06/05/2024 17:32  V                      VASQUEZ MORILLO SEGUNDO        C          45.00
+004775           YOS  YOS  06/05/2024 17:33  V                      LAZARO OSORIO  ANDRES          C          45.00
+004776           YOS  YOS  06/05/2024 17:34  V                      PAUCAR ESPINOZA CANDI          C          50.00
+004777           YOS  YOS  06/05/2024 17:36  V                      PAUCAR ESPINOZA CANDY          C          77.00
+004778           YOS  YOS  06/05/2024 17:55  V                      CHURRANO GIRALDO FERMIN        C         115.00
+004779           YOS  YOS  06/05/2024 17:56  V                      CHURRANO GIRALDO FERMIN        C          77.00
+004780           YOS  YOS  06/05/2024 18:13  V                      ROJAS VASQUEZ FLAVIO           C          30.00
+004781           YOS  YOS  06/05/2024 18:17  V                      BENITES ROJAS RAQUEL           C         144.50
+004782           YOS  YOS  06/05/2024 18:20  V                      PAREDES NAVA EDUARDO           C          45.00
+004783           YOS  YOS  06/05/2024 18:30  V                      MU:OZ ALA YANDEL               C          34.50
+004784           YOS  YOS  06/05/2024 18:34  V                      MORALES ESPINOZA SAILIN        C          45.00
+004785           YOS  YOS  06/05/2024 18:36  V                      MORALES HUAPAYA PAUL           C          80.00
+004786           YOS  YOS  06/05/2024 18:56  V                      LOPEZ OBISPO MARI CARMEN       C          45.00
+004787           YOS  YOS  06/05/2024 19:01  V                      BERDIALES PALMA CARLOS ENRIQUE C         469.00
+004788           YOS  YOS  06/05/2024 19:14  V                      LAZARO OSORIO  ANDRES          C         151.50
+004789           YOS  YOS  06/05/2024 19:22  V                      MORALES ESPINOZA SAILIN        C          60.00
+004790           YOS  YOS  06/05/2024 19:24  V                      MIRANDA TOLENTINO YOEL         C          59.50
+004791           YOS  YOS  06/05/2024 20:15  V                      MIRANDA TOLENTINO YOEL         C           3.00
+004792           YOS  YOS  06/05/2024 20:47  V                      PAUCAR ESPINOZA CANDY          C           3.00
+004793           EFR  EFR  07/05/2024 08:50  V                      TAPIA FLORES ALEJANDRINA       C          74.50
+004794           EFR  EFR  07/05/2024 09:14  V                      VILLAVICENCIO SALAS ALFREDO    C          45.00
+004795           EFR  EFR  07/05/2024 09:35  V                      RIOS GUERRERO CARMEN           C          45.00
+004796           EFR  EFR  07/05/2024 09:51  V                      VIA LEON VICENTE               C          45.00
+004797           EFR  EFR  07/05/2024 09:56  V                      MARINA QUISPE TURPO            C          45.00
+004798           EFR  EFR  07/05/2024 09:59  V                      MARCOS GUERRERO LIZET          C          45.00
+004799           EFR  EFR  07/05/2024 10:36  V                      CARBAJAL DE TACUCHE ABVIENTA   C          45.00
+004800           EFR  EFR  07/05/2024 10:53  V                      MU:OZ ALA YANDEL               C          35.50
+004801           EFR  EFR  07/05/2024 11:07  V                      VILLAVICENCIO SALAS ALFREDO    C           3.00
+004802           EFR  EFR  07/05/2024 11:27  V                      MARINA QUISPE TURPO            C         303.50
+004803           EFR  EFR  07/05/2024 11:30  V                      JIMENEZ ROJAS BRUNO            C           3.00
+004804           EFR  EFR  07/05/2024 11:40  V                      MARINA QUISPE TURPO            C          21.50
+004805           EFR  EFR  07/05/2024 11:43  V                      MARCOS GUERRERO LIZET          C          60.00
+004806           YOS  YOS  07/05/2024 11:57  V                      CARBAJAL DE TACUCHE ADVIENTA   C         126.50
+004807           YOS  YOS  07/05/2024 12:01  V                      CARBAJAL DE TACUCHE ABVIENTA   C         122.00
+004808           YOS  YOS  07/05/2024 12:02  V                      BENITES ROJAS RAQUEL           C         410.00
+004809           YOS  YOS  07/05/2024 12:19  V                      VASQUEZ MORILLO SEGUNDO        C          14.50
+004810           EFR  EFR  07/05/2024 12:25  V                      VASQUEZ MORILLO SEGUNDO\       C         101.50
+004811           EFR  EFR  07/05/2024 13:28  V                      MARCOS GUERRERO LIZET          C          10.00
+004812           YOS  YOS  07/05/2024 15:02  V                      PAUCA ESPINOZA CANDY           C          67.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:27
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004813           YOS  YOS  07/05/2024 15:49  V                      HUERTA CAMPOS MARCELINO        C          45.00
+004814           YOS  YOS  07/05/2024 15:55  V                      VASQUEZ VACA ISABEL            C          21.50
+004815           YOS  YOS  07/05/2024 15:58  V                      RAMOS CADENAS VICTORIANA       C          45.00
+004816           YOS  YOS  07/05/2024 16:33  V                      ROSALES AYALA YANDERI          C          45.00
+004817           YOS  YOS  07/05/2024 16:34  V                      GRADOS VERAMENDI VANIA ESTRELL C          45.00
+004818           YOS  YOS  07/05/2024 16:37  V                      MOY QUESADA IRIS               C          45.00
+004819           YOS  YOS  07/05/2024 16:41  V                      VENTA ANULADA                  C           0.00
+004820           YOS  YOS  07/05/2024 16:46  V                      SOLON RAMOS ALICIA             C          45.00
+004821           YOS  YOS  07/05/2024 16:56  V                      BRUNO MEJIA BERNABE            C          29.50
+004822           YOS  YOS  07/05/2024 17:12  V                      MOY QUESADA IRIS               C          55.50
+004823           YOS  YOS  07/05/2024 17:15  V                      VILLANUEVA LINO NELIDA         C          45.00
+004824           YOS  YOS  07/05/2024 17:18  V                      RAMOS CADENAS VICTORIANA       C          29.40
+004825           YOS  YOS  07/05/2024 17:29  V                      LOPEZ OBISPO MARI CARMEN       C          58.50
+004826           YOS  YOS  07/05/2024 17:33  V                      BUSTAMANTE ESTELA SUSANA       C          45.00
+004827           YOS  YOS  07/05/2024 17:40  V                      ROSALES AYALA YANDERI          C          48.00
+004828           YOS  YOS  07/05/2024 17:45  V                      HUERTA CAMPOS MARCELINO        C         240.00
+004829           YOS  YOS  07/05/2024 17:49  V                      HUERTA CAMPOS MARCELINO        C          25.00
+004830           YOS  YOS  07/05/2024 18:03  V                      GRADOS VERAMENDI VANIA ESTRELL C          78.00
+004831           YOS  YOS  07/05/2024 18:15  V                      SOLON RAMOS ALICIA             C         109.00
+004832           YOS  YOS  07/05/2024 18:17  V                      SOLON RAMOS ALICIA             C          39.50
+004833           YOS  YOS  07/05/2024 18:18  V                      ALCANTARA LOZANO BRITANI       C          45.00
+004834           YOS  YOS  07/05/2024 18:20  V                      BERNABE SANTOS JUAN            C          45.00
+004835           YOS  YOS  07/05/2024 18:36  V                      ANDRES BUSTAMANTE YAQUELINE    C           3.00
+004836           YOS  YOS  07/05/2024 19:25  V                      BERNABE SANTOS JUAN            C          35.00
+004837           EFR  EFR  08/05/2024 08:16  V                      BIANCATO RAMIREZ PIERO ALONSO  C          50.00
+004838           EFR  EFR  08/05/2024 08:38  V                      FALERO PADILLA ANGELICA        C          45.00
+004839           EFR  EFR  08/05/2024 08:46  V                      DAVILA DIAZ GUILLERMO          C          45.00
+004840           EFR  EFR  08/05/2024 08:51  V                      RAMOS CALERO GAVI ROSITA       C          15.00
+004841           EFR  EFR  08/05/2024 09:06  V                      BRONCANO ZAMORA MARICARMEN     C         118.00
+004842           YOS  YOS  08/05/2024 09:14  V                      ESPINOZA CADILLO SANDRA        C           1.50
+004843           YOS  YOS  08/05/2024 09:16  V                      TAPIA FLORES ALEJANDRINA       C          45.00
+004844           YOS  YOS  08/05/2024 09:24  V                      BIANCATO RAMIREZ PIERO         C          77.00
+004845           YOS  YOS  08/05/2024 09:40  V                      PAUCAR ESPINOZA DEYSI          C          45.00
+004846           YOS  YOS  08/05/2024 09:47  V                      CARBAJAL DE TACUCHE ABVIENTA   C          45.00
+004847           YOS  YOS  08/05/2024 09:55  V                      BIANCATO RAMIREZ PIERO         C          45.00
+004848           YOS  YOS  08/05/2024 10:18  V                      FALERO PADILLA ANGELICA        C         101.00
+004849           YOS  YOS  08/05/2024 10:19  V                      FALERO PADILLA ANGELICA        C          41.50
+004850           YOS  YOS  08/05/2024 10:32  V                      BIANCATO RAMIREZ PIERO         C          19.00
+004851           YOS  YOS  08/05/2024 10:35  V                      DAVILA DIAZ GUILLERMO          C         222.50
+004852           YOS  YOS  08/05/2024 10:38  V                      DAVILA DIAZ GUILLERMO          C          88.50
+004853           YOS  YOS  08/05/2024 10:41  V                      TAPIA FLORES ALEJANDRINA       C          80.00
+004854           YOS  YOS  08/05/2024 10:48  V                      SOLON RAMOS ALICIA             C          45.00
+004855           YOS  YOS  08/05/2024 10:54  V                      PAUCAR ESPINOZA DAYCY          C         214.50
+004856           YOS  YOS  08/05/2024 10:56  V                      JIMENEZ ROJAS BRUNO            C         167.00
+004857           YOS  YOS  08/05/2024 10:58  V                      ROSALES AYALA JAYDER           C          48.00
+004858           YOS  YOS  08/05/2024 11:19  V                      ROMERO JARA ALISSON            C          10.00
+004859           YOS  YOS  08/05/2024 11:25  V                      VENTA ANULADA                  C           0.00
+004860           YOS  YOS  08/05/2024 11:31  V                      VENTA ANULADA                  C           0.00
+004861           YOS  YOS  08/05/2024 12:38  V                      CARBAJAL DE TACUCHE ABVIENTA   C          10.00
+004862           YOS  YOS  08/05/2024 12:56  V                      BIANCATO RAMIREZ PIERO         C           3.00
+004863           YOS  YOS  08/05/2024 13:09  V                      CARBAJAL DE TACUCHE ADVIENTA   C         146.00
+004864           EFR  EFR  08/05/2024 14:19  V                                                     C           2.00
+004865           EFR  EFR  08/05/2024 14:22  V                      ROJAS QUISPE FLOR MAGALY       C          15.00
+004866           EFR  EFR  08/05/2024 14:25  V                      CARBAJAL DE TACUCHE            C          10.00
+004867           EFR  EFR  08/05/2024 15:29  V                      VILLARREAL AZA:ERO KORINA      C          45.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:27
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004868           EFR  EFR  08/05/2024 15:36  V                      BRONCANO ZAMORA MARI           C          45.00
+004869           EFR  EFR  08/05/2024 15:58  V                      MORENO CARHUAJULCA ISRAEL      C          45.00
+004870           EFR  EFR  08/05/2024 16:16  V                      VASQUEZ GONZALES NATALI        C          45.00
+004871           EFR  EFR  08/05/2024 16:56  V                      VILLARREAL AZA:ERO KORINA      C          81.00
+004872           EFR  EFR  08/05/2024 17:02  V                      BIANCATO RAMIREZ PIERO         C          17.00
+004873           EFR  EFR  08/05/2024 17:10  V                      CANDELARIO NEYRA JOSUE         C          45.00
+004874           EFR  EFR  08/05/2024 17:20  V                      PAUCAR ESPINOZA DEYSI          C          67.00
+004875           EFR  EFR  08/05/2024 17:22  V                      REMIGIO ABARCA JIMENA          C          45.00
+004876           EFR  EFR  08/05/2024 17:33  V                      BERNAL SIPAN HILDA             C          45.00
+004877           EFR  EFR  08/05/2024 17:36  V                      TASILIA HUAMAN IMELDA          C          15.00
+004878           EFR  EFR  08/05/2024 17:41  V                      SOLON RAMOS ALICIA             C          55.00
+004879           EFR  EFR  08/05/2024 17:41  V                      CANDELARIO NEYRA JOSUE         C           1.00
+004880           EFR  EFR  08/05/2024 17:43  V                      CARRERA OLIVARES LUCHO         C         101.50
+004881           EFR  EFR  08/05/2024 17:46  V                      VIA LEON FELIPE                C           2.00
+004882           EFR  EFR  08/05/2024 17:47  V                      BERDIALES PALMA CARLOS         C          45.00
+004883           EFR  EFR  08/05/2024 18:00  V                      SOTO BASILIO FILIBERTA         C          21.50
+004884           EFR  EFR  08/05/2024 18:08  V                      TAPIA FLORES ALEJANDRINA       C         162.00
+004885           EFR  EFR  08/05/2024 18:41  V                      CANDELARIO NEYRA JOSUE         C          67.00
+004886           EFR  EFR  08/05/2024 18:56  V                      BERDIALES PALMA CARLOS         C         120.50
+004887           EFR  EFR  08/05/2024 19:08  V                      BERNAL SIPAN HILDA             C          50.00
+004888           EFR  EFR  08/05/2024 19:28  V                      BERNAL SIPAN HILDA             C          12.00
+004889           EFR  EFR  08/05/2024 19:33  V                      MENDOZA BRIOSO YESENIA         C          20.00
+004890           EFR  EFR  09/05/2024 08:07  V                      CUEVA ALCANTARA JESUS          C          45.00
+004891           EFR  EFR  09/05/2024 08:27  V                      BIANCATO RAMIREZ PIERO         C          79.00
+004892           EFR  EFR  09/05/2024 08:33  V                      ESPINOZA GARAY SANDRA CAROLINA C          40.00
+004893           EFR  EFR  09/05/2024 08:47  V                      BRUNO MEJIA BERNABET           C          25.00
+004894           EFR  EFR  09/05/2024 08:53  V                      SUAREZ CALDAS GEAN             C          45.00
+004895           EFR  EFR  09/05/2024 08:56  V                      VEGA SERNA MARIA               C          45.00
+004896           EFR  EFR  09/05/2024 08:59  V                      RODRIGUEZ BRAVO SOLEDAD        C          45.00
+004897           EFR  EFR  09/05/2024 09:01  V                      RAMIREZ CABRACANCHA YULEYSI    C          45.00
+004898           EFR  EFR  09/05/2024 09:06  V                      PAUCAR ESPINOZA DAYCY BANESA   C          37.00
+004899           EFR  EFR  09/05/2024 09:10  V                      ZAPANA MU¥OZ YOSELIN           C          50.00
+004900           EFR  EFR  09/05/2024 09:11  V                      ZAPANA MUNOZ YOSELIN           C          45.00
+004901           EFR  EFR  09/05/2024 09:12  V                      VEGA CERNA MARIA               C          50.00
+004902           EFR  EFR  09/05/2024 09:14  V                      CUEVA ALCANTARA JESUS ALCIDES  C          86.00
+004903           EFR  EFR  09/05/2024 09:17  V                      CUEVA ALCANTARA JESUS          C         169.50
+004904           EFR  EFR  09/05/2024 09:21  V                      MARTINEZ VERDE LISVET          C           6.00
+004905           EFR  EFR  09/05/2024 09:22  V                      MIRANDA TOLENTINO YOEL         C          45.00
+004906           EFR  EFR  09/05/2024 09:46  V                      SUAREZ CALDAS JEAN STEFANO     C          15.00
+004907           EFR  EFR  09/05/2024 09:53  V                      VENTA ANULADA                  C           0.00
+004908           EFR  EFR  09/05/2024 09:54  V                      CARBAJAL DE TACUCHE ADVIENTA   C          10.00
+004909           ISA  ISA  09/05/2024 10:10  V                      VEGA SERNA MARIA               C         163.00
+004910           EFR  EFR  09/05/2024 10:25  V                      VEGA CERNA MARIA               C         119.50
+004911           EFR  EFR  09/05/2024 10:28  V                      CARBAJAL DE TACUCHE ADVIENTA   C          65.50
+004912           YOS  YOS  09/05/2024 10:33  V                      MIRANDA TOLENTINO YOEL         C          25.50
+004913           YOS  YOS  09/05/2024 10:43  V                      VEGA JULCA ROSITA              C          50.00
+004914           YOS  YOS  09/05/2024 10:46  V                      CARBAJAL DE TACUCHE ABVIENTA   C          10.00
+004915           YOS  YOS  09/05/2024 11:04  V                      VEGA JULCA ROSITA              C          45.00
+004916           YOS  YOS  09/05/2024 11:09  V                      RAMIREZ CHINCHAY MADISON       C          45.00
+004917           YOS  YOS  09/05/2024 11:14  V                      VALAREZO MEGO LUIS ANDRADE     C          30.00
+004918           YOS  YOS  09/05/2024 11:18  V                      VACA ACOSTA SEVERINA           C          27.00
+004919           YOS  YOS  09/05/2024 11:19  V                      MANRIQUE HIDALGO GUSTAVO ALONS C          25.00
+004920           YOS  YOS  09/05/2024 11:32  V                      VEGA JULCA ROSITA              C          93.00
+004921           YOS  YOS  09/05/2024 11:35  V                      VEGA JULCA ROSITA              C         119.50
+004922           EFR  EFR  09/05/2024 11:47  V                      RAMIREZ CHINCHAY MADISON       C          90.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:27
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004923           EFR  EFR  09/05/2024 11:53  V                      RAMIREZ CABRACANCHA YULEYSI    C          39.00
+004924           EFR  EFR  09/05/2024 11:54  V                      CUEVA ALCANTARA JESUS          C           3.00
+004925           EFR  EFR  09/05/2024 12:01  V                      CUEVA ALCANTARA JESUS          C          45.00
+004926           EFR  EFR  09/05/2024 12:43  V                      VASQUEZ MORILLO SEGUNDO        C          14.50
+004927           EFR  EFR  09/05/2024 13:04  V                      VEGA SERNA MARIA               C           3.00
+004928           EFR  EFR  09/05/2024 13:59  V                      MANDAMIENTO GARCIA ANDREA      C          45.00
+004929           EFR  EFR  09/05/2024 14:06  V                      JIMENEZ ARELLANA PERCY JESUS   C          50.00
+004930           EFR  EFR  09/05/2024 15:05  V                      JIMENEZ ARELLAN PERCY          C          80.00
+004931           EFR  EFR  09/05/2024 15:05  V                      JIMENEZ ARELLAN PERCY          C          45.00
+004932           EFR  EFR  09/05/2024 15:18  V                      VENTA ANULADA                  C           0.00
+004933           EFR  EFR  09/05/2024 15:27  V                      ALVARADO CASTRO EVER           C          45.00
+004934           EFR  EFR  09/05/2024 15:43  V                      VILLARREAL AZA;ERO KORINA      C          14.00
+004935           EFR  EFR  09/05/2024 15:43  V                      QUIINTO VALLE DIEGO            C          45.00
+004936           EFR  EFR  09/05/2024 15:54  V                      JIMENEZ ARELLAN PERCY          C          93.00
+004937           YOS  YOS  09/05/2024 16:04  V                      MANDAMIENTO GARCIA ANDREA      C          29.50
+004938           YOS  YOS  09/05/2024 16:30  V                      ROSALES AYALA JEIDER           C          48.00
+004939           YOS  YOS  09/05/2024 16:44  V                      LOYOLA OBREGON BRAYAN          C          45.00
+004940           YOS  YOS  09/05/2024 16:45  V                      ALVARADO CASTRO EVER           C          51.50
+004941           YOS  YOS  09/05/2024 17:16  V                      BIANCATO MAGNI YONY            C          50.00
+004942           YOS  YOS  09/05/2024 17:53  V                      PACHECO LLANOS ADRIANA         C          62.00
+004943           YOS  YOS  09/05/2024 17:56  V                      VIA LEON VICENTE               C           2.00
+004944           YOS  YOS  09/05/2024 18:05  V                      VENTA ANULADA                  C           0.00
+004945           YOS  YOS  09/05/2024 18:07  V                      VEGA JULCA ROSITA              C          40.00
+004946           YOS  YOS  09/05/2024 18:12  V                      JIMENEZ ARELLAN PERCY          C           3.00
+004947           YOS  YOS  09/05/2024 18:22  V                      VEGA JULCA ROSITA              C          41.50
+004948           YOS  YOS  09/05/2024 18:27  V                      BIANCATO MAGNI YONY            C         110.00
+004949           YOS  YOS  09/05/2024 18:42  V                      HUAMAN TORRES FERMIN           C           0.90
+004950           YOS  YOS  09/05/2024 18:45  V                      HUAMAN TORRES FERMIN           C           1.50
+004951           YOS  YOS  09/05/2024 19:14  V                      VEGA JULCA ROSITA              C           3.00
+004952           EFR  EFR  10/05/2024 08:22  V                      SUAREZ CALDAS GEAN             C          32.00
+004953           EFR  EFR  10/05/2024 08:26  V                      BIANCATO RAMIREZ PIERO         C          67.00
+004954           EFR  EFR  10/05/2024 08:29  V                      PAUCAR ESPINOZA DEYSI          C          45.00
+004955           EFR  EFR  10/05/2024 08:34  V                      IBARRA GRIMALDO DANIEL         C          30.00
+004956           EFR  EFR  10/05/2024 08:35  V                      BRUNO MEJIA BERNABET           C          25.00
+004957           EFR  EFR  10/05/2024 08:44  V                      JIMENEZ RODRIGUEZ ERICK        C          45.00
+004958           EFR  EFR  10/05/2024 08:48  V                      IBARRA GRIMALDO DANIEL         C          10.00
+004959           YOS  YOS  10/05/2024 09:08  V                      HUAMAN TORRES FERMIN           C          60.00
+004960           YOS  YOS  10/05/2024 09:50  V                      BRIONES MEDINA MIRIAM          C          15.00
+004961           YOS  YOS  10/05/2024 09:54  V                      CUEVA ALCANTARA JESUS          C         110.50
+004962           YOS  YOS  10/05/2024 10:03  V                      ALEJO DE LA CRUZ CRISPIN       C         150.00
+004963           YOS  YOS  10/05/2024 10:10  V                      ALEJO DE LA CRUZ CRISPIN       C          80.00
+004964           YOS  YOS  10/05/2024 10:20  V                      JIMENEZ RODRIGUES ERICK        C         124.50
+004965           YOS  YOS  10/05/2024 10:21  V                      JIMENEZ RODRIGUES ERICK        C          94.50
+004966           YOS  YOS  10/05/2024 10:24  V                      ORTIZ ROSALES AURELIA          C         260.00
+004967           YOS  YOS  10/05/2024 11:36  V                      CUEVA ALCANTARA JESUS ALCIDES  C          42.50
+004968           YOS  YOS  10/05/2024 11:37  V                      JIMENEZ RODRIGUES ERICK        C          42.50
+004969           YOS  YOS  10/05/2024 11:38  V                      CUEVA ALCANTARA JESUS          C          21.50
+004970           YOS  YOS  10/05/2024 12:44  V                      ROMERO DE ROJAS GERTRUDES      C          19.00
+004971           YOS  YOS  10/05/2024 14:31  V                      BELLON VALLADARES MIGUEL       C          45.00
+004972           YOS  YOS  10/05/2024 14:53  V                      VEGA JULCA ROSITA              C          31.50
+004973           YOS  YOS  10/05/2024 15:21  V                      BIANCATO MAGNI YONY            C          93.00
+004974           YOS  YOS  10/05/2024 15:24  V                      GLADYS TRONCOSO CABRERA        C          45.00
+004975           YOS  YOS  10/05/2024 15:58  V                      PACHECO LLANOS ADRIANA         C          45.00
+004976           YOS  YOS  10/05/2024 16:07  V                      JIMENEZ RODRIGUEZ ERICK        C           9.00
+004977           YOS  YOS  10/05/2024 16:09  V                      DE LA CRUZ QUENEMA CECARLOS    C          45.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:28
+PRT102()                                                                                                                Pag.-    8
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+004978           YOS  YOS  10/05/2024 16:17  V                      JIMENEZ ARELLANO PERCY         C          83.00
+004979           EFR  EFR  10/05/2024 16:23  V                      BELLON VALLADARES MIGUEL       C         169.50
+004980           YOS  YOS  10/05/2024 16:23  V                      BELLON VALLADARES MIGUEL       C          93.00
+004981           YOS  YOS  10/05/2024 16:30  V                      VEGA JULCA ROSITA              C          83.00
+004982           EFR  EFR  10/05/2024 16:39  V                      TRONCOSO CABRERA GLADYS        C         146.50
+004983           EFR  EFR  10/05/2024 16:46  V                      DAVILA DIAZ GUILLERMO          C          45.00
+004984           EFR  EFR  10/05/2024 16:59  V                      PACHECO LLANOS ADRIANA         C           9.00
+004985           EFR  EFR  10/05/2024 17:02  V                      VILLAREAL AZA¥ERO KORINA       C          14.00
+004986           EFR  EFR  10/05/2024 17:04  V                      GARCIA GIRALDO RIGOBERTA       C          45.00
+004987           EFR  EFR  10/05/2024 17:05  V                      CHAVEZ ESPINOZA ANTONIO        C          45.00
+004988           EFR  EFR  10/05/2024 17:13  V                      DE LA CRUZ QUENEMA CECARLOS    C         118.00
+004989           EFR  EFR  10/05/2024 17:14  V                      DE LA CRUZ QUENEMA CECARLOS    C          91.50
+004990           EFR  EFR  10/05/2024 17:28  V                      VENTA ANULADA                  C           0.00
+004991           EFR  EFR  10/05/2024 17:50  V                      VIA LEON FELIPE                C           2.00
+004992           EFR  EFR  10/05/2024 17:55  V                      MAGUI¥A TORRES ANA MERCEDES    C          60.00
+004993           EFR  EFR  10/05/2024 18:01  V                      CHAVEZ ESPINOZA ANTONIO        C          73.00
+004994           EFR  EFR  10/05/2024 18:06  V                      SILVA SATIESTEBAN SOFIA        C          45.00
+004995           EFR  EFR  10/05/2024 18:38  V                      RAMOS CADENAS VICTORIANA       C          26.40
+004996           EFR  EFR  10/05/2024 18:44  V                      MORALES ESPINOZA SAILIN        C          45.00
+004997           EFR  EFR  10/05/2024 18:46  V                      OLIVARES PAJUELO TERESA        C          45.00
+004998           EFR  EFR  10/05/2024 18:55  V                      DAVILA DIAZ GUILLERMO          C         103.80
+004999           EFR  EFR  10/05/2024 19:03  V                      LAZARO OSORIO ANDRES           C          45.00
+005000           EFR  EFR  10/05/2024 19:24  V                      SILVA SANTIESTEBAN SOFIA       C          60.00
+005001           EFR  EFR  10/05/2024 19:51  V                      VENTA ANULADA                  C           0.00
+005002           EFR  EFR  10/05/2024 19:52  V                      OLIVARES PAJUELO JESUS         C           5.00
+005003           EFR  EFR  10/05/2024 20:05  V                      OLIVARES PAJUELO JESUS         C          46.50
+005004           EFR  EFR  10/05/2024 20:30  V                      VENTA ANULADA                  C           0.00
+005005           EFR  EFR  10/05/2024 20:40  V                      BELLON VALLADARES FABRICIO     C          45.00
+005006           EFR  EFR  10/05/2024 21:16  V                      TERESA OYOLA                   C           9.00
+005007           EFR  EFR  11/05/2024 08:40  V                      TREJO HIDALGO MARCELO          C          10.00
+005008           EFR  EFR  11/05/2024 08:57  V                      VENTA ANULADA                  C           0.00
+005009           YOS  YOS  11/05/2024 09:10  V                      IBARRA GRIMALDO DANIEL         C          10.00
+005010           YOS  YOS  11/05/2024 09:12  V                      CARBAJAL DE TACUCHE ADVIENTA   C          45.00
+005011           YOS  YOS  11/05/2024 09:13  V                      CARBAJAL DE TACUCHE ADVIENTA   C          10.00
+005012           YOS  YOS  11/05/2024 09:30  V                      VENTA ANULADA                  C           0.00
+005013           YOS  YOS  11/05/2024 09:32  V                      VENTA ANULADA                  C           0.00
+005014           YOS  YOS  11/05/2024 09:33  V                      ZAPANA MU¥OZ YOSELIN           C          50.00
+005015           YOS  YOS  11/05/2024 09:49  V                      RAMIREZ CHINCHAY MADISON VALES C          60.00
+005016           YOS  YOS  11/05/2024 10:57  V                      MARTINEZ VERDE LISVET          C           6.00
+005017           YOS  YOS  11/05/2024 11:42  V                      BLAS LEON GAELA                C          60.00
+005018           YOS  YOS  11/05/2024 14:02  V                      MANDAMIENTO GARCIA ANDREA      C          21.50
+005019           YOS  YOS  11/05/2024 14:59  V                      TREJO MORI FLORMIRA            C          15.00
+005020           YOS  YOS  11/05/2024 15:03  V                      VILLAREAL AZA:ERO KORINA       C          45.00
+005021           YOS  YOS  11/05/2024 15:26  V                      PALACIOS HIDALGO  CARLOS       C          45.00
+005022           YOS  YOS  11/05/2024 15:49  V                      BIANCATO MAGNI YONY            C         103.00
+005023           YOS  YOS  11/05/2024 15:50  V                      OLIVARES PAJUELO TERESA        C          45.00
+005024           YOS  YOS  11/05/2024 16:01  V                      TIBURCIO ANDRADE GEYLI BRISA   C          45.00
+005025           YOS  YOS  11/05/2024 16:03  V                      BARRIENTOS CHURICA XIMENA      C          60.00
+005026           YOS  YOS  11/05/2024 16:24  V                      ROCIO MORI NAVARRO             C          42.00
+005027           YOS  YOS  11/05/2024 16:25  V                      ROCIO MORI NAVARRO             C          21.50
+005028           YOS  YOS  11/05/2024 16:33  V                      VILLAREAL AZA:ERO KORINA       C         126.50
+005029           YOS  YOS  11/05/2024 16:43  V                      VALVERDE LA ROSA MAGALY        C          45.00
+005030           YOS  YOS  11/05/2024 16:52  V                      CARBAJAL DE TACUCHE ADVIENTA   C          41.50
+005031           YOS  YOS  11/05/2024 17:02  V                      PALACIOS HIDALGO  CARLOS       C         210.00
+005032           YOS  YOS  11/05/2024 17:04  V                      MANDAMIENTO GARCIA ANDREA      C          35.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:28
+PRT102()                                                                                                                Pag.-    9
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005033           YOS  YOS  11/05/2024 17:07  V                      OLIVARES PAJUELO TERESA        C          54.50
+005034           YOS  YOS  11/05/2024 17:09  V                      SANCHEZ RIOS SAID              C          60.00
+005035           YOS  YOS  11/05/2024 17:13  V                      TIBURCIO ANDRADE GEYLI BRISA   C          21.00
+005036           YOS  YOS  11/05/2024 17:26  V                      VIA LEON VICENTE               C           2.00
+005037           YOS  YOS  11/05/2024 17:31  V                      IBARRA GRIMALDO DANIEL         C          30.00
+005038           YOS  YOS  11/05/2024 17:32  V                      VALVERDE LA ROSA MAGALI        C          16.50
+005039           YOS  YOS  11/05/2024 18:01  V                      BARRIENTOS CHUICA XIMENA       C          19.50
+005040           YOS  YOS  11/05/2024 18:04  V                      PACHECO JIMENEZ PEDRO          C          45.00
+005041           YOS  YOS  11/05/2024 18:24  V                      GRIMALDO DANIEL                C          10.00
+005042           YOS  YOS  11/05/2024 18:52  V                      CARBAJAL DE TACUCHE ADVIENTA   C          43.00
+005043           YOS  YOS  11/05/2024 18:57  V                      PACHECO JIMENEZ PEDRO          C          90.00
+005044           YOS  YOS  11/05/2024 19:10  V                      CARBAJAL DE TACUCHE ADVIENTA   C           3.00
+005045           YOS  YOS  11/05/2024 19:18  V                      IBARRA GRIMADO DANIEL          C           5.00
+005046           EFR  EFR  13/05/2024 08:12  V                      ESPINOZA RAMOS EDER JUNIOR     C          28.00
+005047           EFR  EFR  13/05/2024 08:17  V                      CASTILLO DOLORES NERY EVA      C          45.00
+005048           EFR  EFR  13/05/2024 08:27  V                      GUERRA ROMERA ANTONI           C          50.00
+005049           EFR  EFR  13/05/2024 08:59  V                      AVILA AVILA ANGEL              C          45.00
+005050           YOS  YOS  13/05/2024 09:11  V                      CASTILLO DOLORES NERI          C         169.50
+005051           YOS  YOS  13/05/2024 09:12  V                      CASTILLO DOLORES NERI          C          93.00
+005052           YOS  YOS  13/05/2024 09:20  V                      AVILA AVILA ANGEL              C          86.50
+005053           YOS  YOS  13/05/2024 09:22  V                      MIGUEL VALDEOS ARELLANO        C          10.00
+005054           YOS  YOS  13/05/2024 09:25  V                      IBARRA GRIMALDO DANIEL         C          40.00
+005055           YOS  YOS  13/05/2024 09:32  V                      AVILA TUCO YOVANI              C          45.00
+005056           YOS  YOS  13/05/2024 09:45  V                      VENTA ANULADA                  C           0.00
+005057           YOS  YOS  13/05/2024 10:12  V                      AVILA TUCO GIOVANI             C         188.00
+005058           YOS  YOS  13/05/2024 10:15  V                      CHAVEZ TARAZONA HUGO           C          45.00
+005059           YOS  YOS  13/05/2024 10:18  V                      EUFROCINA SUSANIBAR DE RETUERT C          45.00
+005060           YOS  YOS  13/05/2024 10:30  V                      VENTOCILLA APOLINARIO EUSTAQUI C          35.00
+005061           YOS  YOS  13/05/2024 10:31  V                      VENTOCILLA APOLINARIO EUSTAQUI C          35.00
+005062           YOS  YOS  13/05/2024 11:07  V                      SUSANIBAR DE RETUERTO EUFROCIN C         174.50
+005063           YOS  YOS  13/05/2024 11:09  V                      SUSANIBAR DE RETUERTO EUFROCIN C         329.50
+005064           YOS  YOS  13/05/2024 11:14  V                      CHAVEZ TARAZONA HUGO           C          75.00
+005065           YOS  YOS  13/05/2024 11:21  V                      CHAVEZ TARAZONA HUGO           C          51.50
+005066           YOS  YOS  13/05/2024 11:43  V                      LLATACO PE:A LUIS ALBERTO      C          45.00
+005067           YOS  YOS  13/05/2024 11:46  V                      SANCHEZ NAZAR MILINDA          C          45.00
+005068           YOS  YOS  13/05/2024 12:14  V                      REYMUNDO LEON FRANKLIN         C          45.00
+005069           YOS  YOS  13/05/2024 12:21  V                      ESPINOZA VERDE MARINA          C          50.00
+005070           YOS  YOS  13/05/2024 12:44  V                      SUSANIBAR RETUERTO EUFROCINA   C           5.00
+005071           YOS  YOS  13/05/2024 13:24  V                      VENTA ANULADA                  C           0.00
+005072           YOS  YOS  13/05/2024 14:50  V                      ESPINOZA RAMOS EDER            C          45.00
+005073           YOS  YOS  13/05/2024 15:33  V                      RIOS RAMIREZ JHONATAN          C         125.00
+005074           YOS  YOS  13/05/2024 15:42  V                      ANA ROSE DE TUNODA             C          80.00
+005075           YOS  YOS  13/05/2024 15:42  V                      SILVIA TUNODA ROSE             C          80.00
+005076           YOS  YOS  13/05/2024 15:51  V                      VILCA BAZAN FERNANDA           C          45.00
+005077           YOS  YOS  13/05/2024 15:53  V                      SOLON RAMOS ALICIA             C          45.00
+005078           YOS  YOS  13/05/2024 16:08  V                      BELTRANA MONTES ANTAURCO       C          45.00
+005079           YOS  YOS  13/05/2024 16:21  V                      BELTRANA MONTES ANTAURCO       C          10.00
+005080           YOS  YOS  13/05/2024 16:27  V                      ALVARADO OBREGO JUAN           C          50.00
+005081           YOS  YOS  13/05/2024 16:29  V                      CASTILLO DOLORES NERY ELVA     C          26.50
+005082           YOS  YOS  13/05/2024 16:30  V                      SILVIA TUNODA ROSE             C          45.00
+005083           YOS  YOS  13/05/2024 17:13  V                      REYMUNDO LEON FRANKLIN         C          75.00
+005084           YOS  YOS  13/05/2024 17:16  V                      ANDRES HILARIO EDITH           C          45.00
+005085           YOS  YOS  13/05/2024 17:18  V                      IBARRA GRIMALDO DANIEL         C          30.00
+005086           YOS  YOS  13/05/2024 17:35  V                      VIA LEON VICENTE               C           2.00
+005087           YOS  YOS  13/05/2024 17:36  V                      VENTA ANULADA                  C           0.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:28
+PRT102()                                                                                                                Pag.-   10
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005088           YOS  YOS  13/05/2024 17:38  V                      SOLON RAMOS ALICIA             C         167.00
+005089           YOS  YOS  13/05/2024 17:40  V                      FRANCISCO RAFAEL FIORELLA      C          40.00
+005090           YOS  YOS  13/05/2024 18:02  V                      LLARESLEON EDELMIRA            C         101.50
+005091           YOS  YOS  13/05/2024 18:25  V                      SANCHEZ NAZAR MILINDA          C          15.00
+005092           YOS  YOS  13/05/2024 18:28  V                      SANCHEZ NAZAR MILINDA          C           3.00
+005093           YOS  YOS  13/05/2024 18:31  V                      RAMOS CADENAS VICTORIANA       C          26.40
+005094           YOS  YOS  13/05/2024 18:58  V                      TUNODA ROSE SILVIA             C           3.00
+005095           YOS  YOS  13/05/2024 18:59  V                      MARTINEZ VERDE LISVET          C           8.50
+005096           YOS  YOS  13/05/2024 19:08  V                      ANDRES HILARIO EDITH           C          65.50
+005097           YOS  YOS  13/05/2024 19:11  V                      ANDRES HILARIO EDITH           C           3.00
+005098           EFR  EFR  14/05/2024 08:31  V                      CASTILLO DOLORES NERY          C          93.00
+005099           EFR  EFR  14/05/2024 08:33  V                      ATANACIO ROMERO ANTOLIN        C          45.00
+005100           EFR  EFR  14/05/2024 09:05  V                      BOCANEGRA ROMERO ANDREA CELEST C          40.00
+005101           EFR  EFR  14/05/2024 09:07  V                      CARBAJAL DE TACHUCHE ADVIENTA  C          25.00
+005102           YOS  YOS  14/05/2024 09:14  V                      VENTA ANULADA                  C           0.00
+005103           YOS  YOS  14/05/2024 09:15  V                      PALACIOS PICON RODRIGO         C          50.00
+005104           YOS  YOS  14/05/2024 09:20  V                      ATANACIO ROMEROANTOLIN         C         201.00
+005105           YOS  YOS  14/05/2024 09:25  V                      TEODORO MAMANI SHUANA          C          45.00
+005106           YOS  YOS  14/05/2024 09:26  V                      MIA TORRES VERAMENDI           C          45.00
+005107           YOS  YOS  14/05/2024 09:29  V                      ANDRES HILARIO EDIT            C         245.00
+005108           EFR  EFR  14/05/2024 09:39  V                      TUNODA ROSELL SILVIA           C         771.00
+005109           EFR  EFR  14/05/2024 09:42  V                      REYMUNDO TUNODA SIERRA         C          50.00
+005110           EFR  EFR  14/05/2024 09:43  V                      PALACIO PICON RODRIGO          C          45.00
+005111           EFR  EFR  14/05/2024 09:44  V                      IBARRA GRIMALDO DANIEL         C          30.00
+005112           EFR  EFR  14/05/2024 09:45  V                      COLONIA POMA VICTORIA          C          45.00
+005113           YOS  YOS  14/05/2024 09:52  V                      CARBAJAL DE TACUCHE ADVIENTA   C          15.50
+005114           YOS  YOS  14/05/2024 09:59  V                      CHAVEZ TARAZONA HUGO           C          46.50
+005115           YOS  YOS  14/05/2024 10:00  V                      VENTA ANULADA                  C           0.00
+005116           YOS  YOS  14/05/2024 10:02  V                      SANDOVAL TEZEN EDWIN           C          45.00
+005117           YOS  YOS  14/05/2024 10:04  V                      REYMUNDO TUNODA SIERRA         C          40.00
+005118           YOS  YOS  14/05/2024 10:23  V                      ROSELL TUNODA                  C           5.00
+005119           YOS  YOS  14/05/2024 10:39  V                      VENTA ANULADA                  C           0.00
+005120           YOS  YOS  14/05/2024 10:46  V                      TORRES VERAMENDI MIA           C          60.00
+005121           YOS  YOS  14/05/2024 10:52  V                      VENTA ANULADA                  C           0.00
+005122           YOS  YOS  14/05/2024 10:52  V                      CHAVEZ SALIS ADRIANO ESTEFANO  C          45.00
+005123           YOS  YOS  14/05/2024 10:53  V                      CHAVEZ SALIS ADRIANO ESTEFANO  C          50.00
+005124           YOS  YOS  14/05/2024 10:54  V                      IBARRA GRIMALDO DANIEL         C           5.00
+005125           EFR  EFR  14/05/2024 11:16  V                      SANDOVAL TEZEN EDWIN           C          40.00
+005126           EFR  EFR  14/05/2024 11:18  V                      COLONIA POMA VICTORIA DOMINGA  C          41.50
+005127           EFR  EFR  14/05/2024 11:26  V                      TEODORO MAMANI DE VELIZ SHUANA C         276.00
+005128           EFR  EFR  14/05/2024 11:31  V                      TEODORO MAMANI SHUANA          C         158.00
+005129           EFR  EFR  14/05/2024 11:52  V                      PALACIOS PICON RODRIGO         C          14.00
+005130           EFR  EFR  14/05/2024 12:35  V                      VENTA ANULADA                  C           0.00
+005131           EFR  EFR  14/05/2024 12:41  V                      VILLARREAL AZA;ERO KORINA      C          37.00
+005132           EFR  EFR  14/05/2024 12:55  V                      MARTINEZ VERDE LIZBET          C          30.00
+005133           EFR  EFR  14/05/2024 14:21  V                      ROMERO JARA ALLISON            C           3.00
+005134           EFR  EFR  14/05/2024 14:32  V                      ALVARADO HOCES DOMINGA         C           1.50
+005135           EFR  EFR  14/05/2024 14:52  V                      SUSANIBAR DE RETUERTO EUFROCIN C          45.00
+005136           YOS  YOS  14/05/2024 15:39  V                      TRONCOSO CABRERA GLADYS        C          45.50
+005137           YOS  YOS  14/05/2024 15:44  V                      SUSANIBAR DE RETUERTO EUFROCIN C          69.50
+005138           YOS  YOS  14/05/2024 16:07  V                      ATANACIO ROMERO ANTOLIN        C         188.00
+005139           YOS  YOS  14/05/2024 16:15  V                      ESPINOZA JULCA EMILI           C          45.00
+005140           YOS  YOS  14/05/2024 16:36  V                      OLIVARES PAJUELO TERESA        C          45.00
+005141           YOS  YOS  14/05/2024 17:04  V                      GUERRERO CONDE MARICIELO       C          45.00
+005142           YOS  YOS  14/05/2024 17:16  V                      ESPINOZA JULCA EMELIN          C          36.50úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:28
+PRT102()                                                                                                                Pag.-   11
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005143           YOS  YOS  14/05/2024 17:17  V                      ESPINOZA JULCA EMELIN          C         173.00
+005144           YOS  YOS  14/05/2024 17:28  V                      CONDE LA ROSA CLAUDIA          C          45.00
+005145           YOS  YOS  14/05/2024 17:36  V                      VIA LEON VICENTE               C           2.00
+005146           YOS  YOS  14/05/2024 17:41  V                      VENTOCILLA CARRERA ALIUBER     C          45.00
+005147           YOS  YOS  14/05/2024 18:06  V                      CARRERA JIMENEZ ISIDORO        C         111.50
+005148           YOS  YOS  14/05/2024 18:33  V                      IBARRA GRIMALDO DANIEL         C          30.00
+005149           YOS  YOS  14/05/2024 18:52  V                      CONDE LA ROSA CLAUDIA          C           6.00
+005150           YOS  YOS  14/05/2024 18:55  V                      SANDOVAL TEZEN EDWIN           C          60.00
+005151           YOS  YOS  14/05/2024 18:59  V                      OCHOA PRINCIPE NAYADE          C          45.00
+005152           YOS  YOS  14/05/2024 19:17  V                      VENTOCILLA CARRERA ALIUBER     C         327.00
+005153           YOS  YOS  14/05/2024 19:17  V                      MARTINEZ VERDE LISVET          C         130.00
+005154           YOS  YOS  14/05/2024 19:29  V                      OCHOA PRINCIPE NAYADE          C          43.00
+005155           YOS  YOS  14/05/2024 19:41  V                      CALERO ZU;IGA ISABEL           C           2.10
+005156           EFR  EFR  15/05/2024 08:10  V                      KAQUI FALCON MISAEL            C          45.00
+005157           EFR  EFR  15/05/2024 08:20  V                      CASTILLO DOLORES NERI          C          93.00
+005158           EFR  EFR  15/05/2024 08:21  V                      CASTILLO DOLORES NERI ELVA     C          64.50
+005159           EFR  EFR  15/05/2024 08:24  V                      RODRIGUEZ GERVACIO EUSEBIA     C          45.00
+005160           EFR  EFR  15/05/2024 08:33  V                      PALACIOS PICON RODRIGO         C          24.00
+005161           EFR  EFR  15/05/2024 08:36  V                      COLONIA POMA VICTORIA          C          45.00
+005162           EFR  EFR  15/05/2024 08:39  V                      KAQUI FALCON MISAEL            C          40.00
+005163           EFR  EFR  15/05/2024 08:44  V                      IBARRA GRIMALDO DANIEL         C          30.00
+005164           YOS  YOS  15/05/2024 09:16  V                      SALINAS GERVACIO JUAN          C          45.00
+005165           YOS  YOS  15/05/2024 09:32  V                      RODRIGUES GERVACIO EUSEBIA     C          40.50
+005166           YOS  YOS  15/05/2024 09:35  V                      CARBAJAL DE TACUCHE ADVIENTA   C          45.00
+005167           YOS  YOS  15/05/2024 09:48  V                      VENTA ANULADA                  C           0.00
+005168           YOS  YOS  15/05/2024 09:49  V                      CARBAJAL DE TACUCHE ADVIENTA   C          10.00
+005169           YOS  YOS  15/05/2024 09:56  V                      MONTES REQUE CARMEN            C          45.00
+005170           YOS  YOS  15/05/2024 10:13  V                      CARRILLO SANTA CRUZ PIEER      C          45.00
+005171           YOS  YOS  15/05/2024 10:29  V                      CARBAJAL DE TACUCHE ADVIENTA   C          25.20
+005172           YOS  YOS  15/05/2024 10:42  V                      MONTES REQUE CARMEN            C          81.50
+005173           YOS  YOS  15/05/2024 10:45  V                      VENTA ANULADA                  C           0.00
+005174           YOS  YOS  15/05/2024 10:49  V                      PALACIO PICON RODRIGO          C          24.00
+005175           YOS  YOS  15/05/2024 10:51  V                      VENTA ANULADA                  C           0.00
+005176           YOS  YOS  15/05/2024 10:53  V                      ANDRES HILARIO EDITH           C          45.00
+005177           YOS  YOS  15/05/2024 11:11  V                      SALINAS GERVACIO JUAN          C         177.50
+005178           YOS  YOS  15/05/2024 11:11  V                      SALINAS GERVACIO JUAN          C          87.50
+005179           YOS  YOS  15/05/2024 11:27  V                      RIVERA LAOS VICTOR             C         135.00
+005180           YOS  YOS  15/05/2024 12:13  V                      PALACIO PICON RODRIGO          C          40.00
+005181           YOS  YOS  15/05/2024 12:15  V                      CASTILLO DOLORES NERI          C          21.50
+005182           YOS  YOS  15/05/2024 14:05  V                      CAPRISTAB EDILBERTO            C          45.00
+005183           YOS  YOS  15/05/2024 15:00  V                      SIFUENTES FLORES LIDIA         C          45.00
+005184           YOS  YOS  15/05/2024 15:06  V                      VELEZMORO ANTUNEZ NARDA        C          45.00
+005185           YOS  YOS  15/05/2024 15:11  V                      MALDONADO BARRIOS BRENDI       C          45.00
+005186           YOS  YOS  15/05/2024 15:12  V                      BARRIOS TIBISAY DEL CARMEN     C          45.00
+005187           YOS  YOS  15/05/2024 15:20  V                      PALMA BRUNO PILAR              C          45.00
+005188           YOS  YOS  15/05/2024 15:20  V                      PALMA BRUNO PILAR              C          50.00
+005189           YOS  YOS  15/05/2024 15:27  V                      VENTA ANULADA                  C           0.00
+005190           YOS  YOS  15/05/2024 15:29  V                      SIFUENTES FLORES LIDIA         C         152.00
+005191           YOS  YOS  15/05/2024 15:30  V                      VELEZMORO ANTUNEZ NARDA        C          60.00
+005192           YOS  YOS  15/05/2024 15:34  V                      CORCINO LICETTI ERICK          C          45.00
+005193           YOS  YOS  15/05/2024 16:05  V                      MALDONADO BARRIOS BRENDI       C          93.00
+005194           YOS  YOS  15/05/2024 16:07  V                      MALDONADO BARRIOS BRENDY       C          91.50
+005195           YOS  YOS  15/05/2024 16:10  V                      BARRIOS TIBISAY DEL CARMEN     C          45.50
+005196           YOS  YOS  15/05/2024 16:15  V                      CHAVEZ TARAZONA HUGO           C          93.00
+005197           YOS  YOS  15/05/2024 16:34  V                      CARRILLO SANTA CRUZ PIEER      C          91.50úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:29
+PRT102()                                                                                                                Pag.-   12
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005198           YOS  YOS  15/05/2024 16:35  V                      CARRILLO SANTA CRUZ PIERR      C          21.50
+005199           YOS  YOS  15/05/2024 16:43  V                      TRONCOSO CABRERA GLADYS        C          63.00
+005200           YOS  YOS  15/05/2024 17:02  V                      CAPRISTAN CRISOL EDILBERTO     C         157.00
+005201           YOS  YOS  15/05/2024 17:14  V                      TEODORO MAMANI SHUANA          C          45.00
+005202           YOS  YOS  15/05/2024 17:38  V                      PALMA BRUNO ELIS PILAR         C          93.00
+005203           YOS  YOS  15/05/2024 17:39  V                      PALMA BRUNO ELIS PILAR         C          80.00
+005204           YOS  YOS  15/05/2024 17:41  V                      VELEZMORO ANTUNEZ NARDA        C          25.00
+005205           YOS  YOS  15/05/2024 17:51  V                      HUACCHO MESA NAYROBI           C          45.00
+005206           YOS  YOS  15/05/2024 17:52  V                      HUACCO MESA NAYROBI            C          50.00
+005207           YOS  YOS  15/05/2024 18:03  V                      TEODORO MAMANI DE VELIZ SHUANA C          41.50
+005208           YOS  YOS  15/05/2024 18:05  V                      PANANA SANCHEZ ZORAIDA         C          45.00
+005209           YOS  YOS  15/05/2024 18:08  V                      ATANACIO ROMERO ANTOLIN        C          30.00
+005210           YOS  YOS  15/05/2024 18:11  V                      ATANACIO ROMERO ANTOLIN        C          58.00
+005211           YOS  YOS  15/05/2024 18:13  V                      REYMUNDO LEON FRANKLIN         C          30.00
+005212           YOS  YOS  15/05/2024 18:31  V                      RAMOS CADENAS VICTORIA         C          12.00
+005213           YOS  YOS  15/05/2024 18:55  V                      PANANA SANCHEZ ZORAIDA         C          80.00
+005214           YOS  YOS  15/05/2024 19:00  V                      PANANA SANCHZ ZORAIDA          C         183.50
+005215           YOS  YOS  15/05/2024 19:09  V                      SOLIS RAMIREZ SHIRLEY          C          15.00
+005216           YOS  YOS  15/05/2024 19:10  V                      MALDONADO BARRIOS BRENDI       C          24.50
+005217           YOS  YOS  15/05/2024 19:24  V                      HUACCHO MESA NAYROBI           C          58.50
+005218           YOS  YOS  15/05/2024 19:28  V                      GUERRERO CHUCHON               C          35.00
+005219           YOS  YOS  15/05/2024 20:08  V                      BARRIOS                        C          10.00
+005220           EFR  EFR  16/05/2024 08:07  V                      SALINAS GERVACIO JUAN          C          45.00
+005221           EFR  EFR  16/05/2024 08:12  V                      CONDE LA ROSA CLAUDIA PAOLA    C         243.00
+005222           EFR  EFR  16/05/2024 08:21  V                      HUACCHO MEZA DE RAMOS NAYROBI  C          95.00
+005223           EFR  EFR  16/05/2024 08:39  V                      SALINAS GERVACIO JUAN          C           1.50
+005224           EFR  EFR  16/05/2024 08:43  V                      LOPEZ CARRERA THIAGO           C          45.00
+005225           EFR  EFR  16/05/2024 08:51  V                      REYES PERNIA DAYANNA ARACELI   C          38.00
+005226           EFR  EFR  16/05/2024 08:52  V                      REYES PERNIA VALERY YAZMIN     C          38.00
+005227           EFR  EFR  16/05/2024 08:56  V                      LLANOS CAMACHO LEONARDO        C          45.00
+005228           YOS  YOS  16/05/2024 09:11  V                      SALINAS GERVACIO JUAN          C         238.00
+005229           YOS  YOS  16/05/2024 09:12  V                      SALINAS GERVACIO JUAN          C          92.00
+005230           YOS  YOS  16/05/2024 09:23  V                      SANCHEZ GIRALDO MELISA         C          45.00
+005231           YOS  YOS  16/05/2024 09:27  V                      MENDOZA DIEGO CARMEN ROSA      C          45.00
+005232           YOS  YOS  16/05/2024 09:34  V                      VEGA JULCA ROSITA              C          45.00
+005233           YOS  YOS  16/05/2024 09:45  V                      LLANOS CAMACHO LEONARDO        C         165.00
+005234           YOS  YOS  16/05/2024 09:58  V                      SANCHEZ HIDALGO MELISA         C          78.00
+005235           YOS  YOS  16/05/2024 10:02  V                      SALIS LEON LIZ                 C          45.00
+005236           YOS  YOS  16/05/2024 10:03  V                      SALIS LEON LIZ                 C          50.00
+005237           YOS  YOS  16/05/2024 10:05  V                      TUNODA ROSELL SILVIA           C          45.00
+005238           YOS  YOS  16/05/2024 10:06  V                      BERNAL CAMOS LUIS              C          45.00
+005239           YOS  YOS  16/05/2024 10:10  V                      MENDOZA DIEGO CARMEN ROSA      C          50.00
+005240           YOS  YOS  16/05/2024 10:18  V                      CASTILLO TAMARA JUAN           C          45.00
+005241           YOS  YOS  16/05/2024 10:58  V                      TUNODA ROSELL SILVIA           C          54.50
+005242           YOS  YOS  16/05/2024 11:30  V                      CASTILLO TAMARA JUAN           C         119.50
+005243           YOS  YOS  16/05/2024 11:31  V                      CASTILLO TAMARA JUAN           C          93.00
+005244           YOS  YOS  16/05/2024 11:39  V                      SALIS LEON LIZ                 C          96.50
+005245           YOS  YOS  16/05/2024 11:43  V                      SALIS LEON LIZ                 C          93.00
+005246           YOS  YOS  16/05/2024 11:46  V                      CASTILLO DOLORES NERI          C          21.50
+005247           EFR  EFR  16/05/2024 12:24  V                      CAPRISTAN CRISOL EDILBERTO     C          21.50
+005248           EFR  EFR  16/05/2024 14:01  V                      ZELAYA HUERTA EFRAIN           C          38.00
+005249           EFR  EFR  16/05/2024 14:04  V                      CHAVEZ SALIS ADRIANO           C          45.00
+005250           EFR  EFR  16/05/2024 14:32  V                      CASTILLO TAMARA JUAN           C           3.00
+005251           YOS  YOS  16/05/2024 15:33  V                      C¢NDOR NIETO ADELINA           C          45.00
+005252           YOS  YOS  16/05/2024 15:38  V                      VEGA JULCA ROSITA              C         146.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:29
+PRT102()                                                                                                                Pag.-   13
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005253           YOS  YOS  16/05/2024 15:42  V                      HUACCHO MESA NAYROBI           C          45.00
+005254           YOS  YOS  16/05/2024 15:43  V                      HUACCHO MESA NAYROBI           C          80.00
+005255           YOS  YOS  16/05/2024 15:53  V                      PALMA BRUNO ELIS PILAR         C          83.00
+005256           YOS  YOS  16/05/2024 15:55  V                      SANCHEZ ALEJO ALFONSO          C          30.00
+005257           YOS  YOS  16/05/2024 16:22  V                      C¢NDOR NIETO ADELINA           C          50.00
+005258           YOS  YOS  16/05/2024 16:25  V                      ESPINOZA JULCA EMELIN          C          45.00
+005259           YOS  YOS  16/05/2024 16:34  V                      SOTO BASILIO GERARDO           C          45.00
+005260           YOS  YOS  16/05/2024 16:42  V                      ROMAN OYOLA NATIVIDAD          C          45.00
+005261           YOS  YOS  16/05/2024 16:56  V                      HUACCHO MESA NAYROBI           C         106.50
+005262           YOS  YOS  16/05/2024 17:05  V                      SIFUENTES FLORES LIDIA         C          14.00
+005263           YOS  YOS  16/05/2024 17:12  V                      PANANA SANCHEZ ZORAIDA         C          45.00
+005264           YOS  YOS  16/05/2024 17:35  V                      VIA LEON FELIPE                C          45.00
+005265           YOS  YOS  16/05/2024 17:49  V                      ROMAN OYOLA NATIVIDAD          C           8.10
+005266           YOS  YOS  16/05/2024 17:51  V                      ROMAN OYOLA NATIVIDAD          C           8.40
+005267           YOS  YOS  16/05/2024 17:53  V                      COLONIA POMA VICTORIA          C         105.00
+005268           YOS  YOS  16/05/2024 18:03  V                      SOTO BASILIO GERARDO           C          62.00
+005269           YOS  YOS  16/05/2024 18:07  V                      SOTO BASILIO GERARDO           C          80.00
+005270           YOS  YOS  16/05/2024 18:45  V                      PANANA SANCHEZ ZORAIDA         C          17.50
+005271           EFR  EFR  17/05/2024 08:06  V                      RAMIREZ DAMIAN VICTORIA        C          40.00
+005272           EFR  EFR  17/05/2024 09:17  V                      CASTILLEJO PRETEL JULIO        C          45.00
+005273           EFR  EFR  17/05/2024 09:39  V                      CASTILLEJO PRETEL JULIO        C         104.50
+005274           YOS  YOS  17/05/2024 09:39  V                      CASTILLEJO PRETEL JULIO        C          65.00
+005275           YOS  YOS  17/05/2024 09:42  V                      ROMAN OYOLA NATIVIDAD          C         197.00
+005276           YOS  YOS  17/05/2024 10:11  V                      ZELAYA HUERTA EFRAIN           C          45.00
+005277           YOS  YOS  17/05/2024 10:14  V                      LLATACO PE;A LUIS              C          45.00
+005278           YOS  YOS  17/05/2024 10:15  V                      CANDELARIO NEYRA MITZI         C          45.00
+005279           YOS  YOS  17/05/2024 10:16  V                      ZELAYA HUERTA EFRAIN           C          45.00
+005280           YOS  YOS  17/05/2024 10:33  V                      SALVADOR RODRIGUEZ DIEGO       C          50.00
+005281           YOS  YOS  17/05/2024 10:47  V                      YACATO PE¥A LUIS ALBERTO       C          78.50
+005282           YOS  YOS  17/05/2024 10:52  V                                                     C         160.50
+005283           YOS  YOS  17/05/2024 11:18  V                      CANDELARIO NEYRA MITZY         C         218.00
+005284           YOS  YOS  17/05/2024 11:22  V                      SALVADOR RODRIGUEZ DIEGO       C          45.00
+005285           YOS  YOS  17/05/2024 11:45  V                      SALVADOR RODRIGUEZ DIEGO       C          80.00
+005286           YOS  YOS  17/05/2024 11:47  V                      SALVADOR RODRIGUEZ DIEGO       C          93.00
+005287           YOS  YOS  17/05/2024 12:14  V                      VASQUEZ VALLADARES MARIBEL     C          15.00
+005288           YOS  YOS  17/05/2024 12:22  V                      CONDOR NIETO ADELINA           C         437.00
+005289           EFR  EFR  17/05/2024 14:11  V                      RAEZ UTRILLA LIDIA             C          14.50
+005290           EFR  EFR  17/05/2024 14:18  V                      DAVILA HUACHO YON              C          42.00
+005291           EFR  EFR  17/05/2024 15:30  V                      SALIS LEON LIZ                 C          83.00
+005292           EFR  EFR  17/05/2024 15:33  V                      SOTO BASILIO GERARDO           C          80.00
+005293           EFR  EFR  17/05/2024 15:37  V                      VEGA JULCA ROSITA              C          53.00
+005294           EFR  EFR  17/05/2024 16:22  V                      ESPINOZA JULCA EMELIN          C          45.00
+005295           EFR  EFR  17/05/2024 16:34  V                      PALMA BRUNO ELIS               C          80.00
+005296           EFR  EFR  17/05/2024 16:50  V                      VILLANUEVA LINO NELIDA         C          45.00
+005297           EFR  EFR  17/05/2024 16:50  V                      VILLANUEVA LINO NELIDA         C         130.00
+005298           EFR  EFR  17/05/2024 16:52  V                      CONDE LA ROSA CLAUDIA POALA    C          45.00
+005299           EFR  EFR  17/05/2024 16:57  V                      SANCHEZ ALEJO ALFONSO          C          30.00
+005300           EFR  EFR  17/05/2024 17:02  V                      PALMA BRUNO ELIS               C           9.00
+005301           EFR  EFR  17/05/2024 17:12  V                      CLAROS MARTINEZ RINO           C          45.00
+005302           EFR  EFR  17/05/2024 17:33  V                      PALMA BRUNO ELIS               C          45.00
+005303           EFR  EFR  17/05/2024 18:03  V                      VILLANUEVA LINO NELIDA         C          60.00
+005304           EFR  EFR  17/05/2024 18:14  V                      SIFUENTES FLORES LIDIA         C          14.00
+005305           YOS  YOS  17/05/2024 18:24  V                      BERNABE SANTOS JUAN            C          45.00
+005306           EFR  EFR  17/05/2024 19:06  V                      PALMA BRUNO ELIS               C           3.00
+005307           EFR  EFR  17/05/2024 19:19  V                      CALERO ZU;IGA  ISABEL          C           1.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:29
+PRT102()                                                                                                                Pag.-   14
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005308           YOS  YOS  17/05/2024 19:33  V                      BERNABE SANTOS JUAN            C          21.50
+005309           EFR  EFR  18/05/2024 08:35  V                      CHUMIOQUE GONZALES JUAN        C         132.50
+005310           EFR  EFR  18/05/2024 08:35  V                      CHIMIOQUE GONZALES JUAN        C          45.00
+005311           EFR  EFR  18/05/2024 08:35  V                      CHUMIOQUE GONZALES JUAN        C          70.50
+005312           EFR  EFR  18/05/2024 08:39  V                      LLANOS CAMACHO LEONARDO        C          29.50
+005313           EFR  EFR  18/05/2024 08:45  V                      VEGA JULCA ROSITA              C          53.00
+005314           EFR  EFR  18/05/2024 08:48  V                      GARCIA QUILCATE CARLOS ANTONIO C          58.00
+005315           EFR  EFR  18/05/2024 08:56  V                      YACATO PE¥A LUIS ALBERTO       C          80.50
+005316           EFR  EFR  18/05/2024 09:27  V                      CASTILLEJO PRETEL JULIO        C          85.50
+005317           YOS  YOS  18/05/2024 09:34  V                      MIA TORRES VERAMENDI           C          45.00
+005318           YOS  YOS  18/05/2024 09:40  V                      TASAYCO FLORES ANGY            C          15.00
+005319           YOS  YOS  18/05/2024 09:50  V                      MORENO CARUAJULCA ISRAEL       C          37.00
+005320           YOS  YOS  18/05/2024 09:59  V                      CALERO ZU;IGA ISABEL           C           0.50
+005321           YOS  YOS  18/05/2024 10:14  V                      YATACO PE;A LUIS               C          73.00
+005322           YOS  YOS  18/05/2024 12:09  V                      CHUMIOQUE GONZALES JUAN        C          27.00
+005323           YOS  YOS  18/05/2024 12:09  V                      CHUMIOQUE GONZALES JUAN        C          40.00
+005324           YOS  YOS  18/05/2024 12:25  V                      TRONCOSO CABRERA GLADYS        C         126.00
+005325           EFR  EFR  18/05/2024 12:53  V                      MAYO RETES LIDIA               C          75.50
+005326           EFR  EFR  18/05/2024 12:54  V                      MAYO RETES LIDIA               C         132.50
+005327           YOS  YOS  18/05/2024 14:36  V                      LOPEZ CARRER;O THIAGO          C          60.00
+005328           YOS  YOS  18/05/2024 14:38  V                      MAYO RETES LIDIA               C          45.00
+005329           YOS  YOS  18/05/2024 15:11  V                      RAMIREZ HUALCA LUIS ENRIQUE    C          45.00
+005330           YOS  YOS  18/05/2024 15:12  V                      HUAYLUPO ANDAHUA MARIA DEL CAR C           5.00
+005331           YOS  YOS  18/05/2024 15:13  V                      ANDAHUA AGURTO TULA HERLINDA   C           5.00
+005332           YOS  YOS  18/05/2024 15:23  V                      HUAYLUPO ANDAHUAMARIA DEL CARM C           3.00
+005333           YOS  YOS  18/05/2024 15:39  V                      RAMIREZ HUALCA LUIS ENRIQUE    C          27.50
+005334           YOS  YOS  18/05/2024 15:43  V                      RAMIREZ HUALCA LUIS ENRIQUE    C          30.00
+005335           YOS  YOS  18/05/2024 15:57  V                      PANANA SANCHEZ JUANA           C          17.50
+005336           YOS  YOS  18/05/2024 16:11  V                      CHANG YUI YOLANDA              C          50.00
+005337           YOS  YOS  18/05/2024 17:02  V                      VIA LEON VICENTE FELIPE        C         130.00
+005338           YOS  YOS  18/05/2024 17:13  V                      RAMOS CADENAS VICTORIANA       C          45.00
+005339           YOS  YOS  18/05/2024 17:16  V                      RAMOS CADENAS VICTORIANA       C          12.00
+005340           YOS  YOS  18/05/2024 17:46  V                      RAMOS CADENAS VICTORIANA       C           0.30
+005341           YOS  YOS  18/05/2024 18:22  V                      MAYO RETES LIDIA               C          48.50
+005342           YOS  YOS  18/05/2024 18:23  V                      MAYO RETES LIDIA               C          93.50
+005343           EFR  EFR  20/05/2024 08:14  V                      VALDEOS ARELLANO MIGUEL        C          10.00
+005344           EFR  EFR  20/05/2024 08:15  V                      ARANDA EVANGELISTA HANNA       C          45.00
+005345           EFR  EFR  20/05/2024 08:25  V                      CASTILLEJO PETREL JULIO        C          75.50
+005346           EFR  EFR  20/05/2024 08:41  V                      ANDRES HILARIO EDIT            C          45.00
+005347           EFR  EFR  20/05/2024 08:49  V                      CASTELLEJO PETREL JULIO        C           5.00
+005348           EFR  EFR  20/05/2024 08:53  V                      OBISPO OBREGON DE LOPEZ MARIA  C          71.00
+005349           EFR  EFR  20/05/2024 08:57  V                      TEODORO MAMANI SHUANA          C          45.00
+005350           EFR  EFR  20/05/2024 09:06  V                      CHUMIOQUE GONZALES JUAN        C          45.00
+005351           EFR  EFR  20/05/2024 09:10  V                      CHUMIOQUE GONZALES JUAN        C          51.00
+005352           YOS  YOS  20/05/2024 09:21  V                      ROJAS GUILLEN RUTH             C          45.00
+005353           YOS  YOS  20/05/2024 10:12  V                      ARANDA EVANGELISTA HANNA       C          79.00
+005354           YOS  YOS  20/05/2024 10:13  V                      ARANDA EVANGELISTA HANNA       C          38.50
+005355           YOS  YOS  20/05/2024 10:48  V                      ANDRES HILARIO EDIT            C          14.00
+005356           YOS  YOS  20/05/2024 10:52  V                      JULIA PICHILINGUE VASQUEZ      C         280.00
+005357           YOS  YOS  20/05/2024 10:59  V                      CHUMIOQUE GONZALES JUAN        C          50.00
+005358           YOS  YOS  20/05/2024 11:14  V                      CARRERA  OLIVARES CLAUDIO      C          45.00
+005359           YOS  YOS  20/05/2024 11:26  V                      ROJAS GUILLEN RUTH             C         275.00
+005360           YOS  YOS  20/05/2024 11:30  V                      AVILA CAJALEON LUCAS           C          45.00
+005361           YOS  YOS  20/05/2024 11:31  V                      AVILA AVILA ANGEL              C          45.00
+005362           YOS  YOS  20/05/2024 11:47  V                      CARRERA  OLIVARES CLAUDIO      C         120.50úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:29
+PRT102()                                                                                                                Pag.-   15
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005363           YOS  YOS  20/05/2024 11:50  V                      CARRERA  OLIVARES CLAUDIO      C          70.00
+005364           YOS  YOS  20/05/2024 12:08  V                      GUTIERREZ CARDENAS YURI TOMAS  C         213.00
+005365           YOS  YOS  20/05/2024 12:25  V                      AVILA CAJALEON LUCAS           C           1.50
+005366           YOS  YOS  20/05/2024 15:29  V                      VEGA VENTOCILLA APOLINARIA     C          45.00
+005367           YOS  YOS  20/05/2024 15:56  V                      TORIBIO ABANTO FLOR            C          45.00
+005368           YOS  YOS  20/05/2024 15:58  V                      INGA LINO MARIA                C          45.00
+005369           YOS  YOS  20/05/2024 16:02  V                      SANCHEZ NAZAR MARLENE          C          45.00
+005370           YOS  YOS  20/05/2024 16:19  V                      VEGA VENTOCILLA APOLINARIA     C          10.00
+005371           YOS  YOS  20/05/2024 16:25  V                      CARLOS RODRIGUEZ THIAGO ALEXAN C          45.00
+005372           YOS  YOS  20/05/2024 16:31  V                      PACHECO LLANOS SHERLYN         C          45.00
+005373           YOS  YOS  20/05/2024 16:39  V                      VEGA VENTOCILLA APOLINARIA     C         207.50
+005374           YOS  YOS  20/05/2024 16:50  V                      TORIBIO ABANTO FLOR            C          62.00
+005375           YOS  YOS  20/05/2024 16:51  V                      TORIBIO ABANTO FLOR            C         121.50
+005376           YOS  YOS  20/05/2024 17:00  V                      SANCHEZ NAZAR MARLENI          C          50.50
+005377           YOS  YOS  20/05/2024 17:01  V                      SANCHEZ NAZAR MARLENI          C          50.00
+005378           YOS  YOS  20/05/2024 17:16  V                      SANCHEZ NAZAR MARLENE          C          42.50
+005379           YOS  YOS  20/05/2024 17:20  V                      INGA LINO MARIA                C           3.00
+005380           YOS  YOS  20/05/2024 17:24  V                      VERAMENDI ALLAUCA JAVIER       C          45.00
+005381           YOS  YOS  20/05/2024 17:26  V                      VIA LEON VICENTE               C         150.00
+005382           YOS  YOS  20/05/2024 17:43  V                      VERDIALES PALMA CARLOS         C          45.00
+005383           YOS  YOS  20/05/2024 18:13  V                      PACHECO LLANOS ADRIANA         C          38.50
+005384           YOS  YOS  20/05/2024 18:14  V                      PACHECO LLANOS SHERLYN         C          24.00
+005385           YOS  YOS  20/05/2024 18:15  V                      MORALES ESPINOZA SAILIN        C          45.00
+005386           YOS  YOS  20/05/2024 18:41  V                      VERAMENDI ALLAUCA JAVIER       C          90.00
+005387           YOS  YOS  20/05/2024 19:19  V                      MORALES ESPINOZA SAILIN        C           6.00
+005388           YOS  YOS  20/05/2024 19:22  V                      MORALES ESPINOZA SAILIN        C          47.00
+005389           EFR  EFR  21/05/2024 08:36  V                      JULIO CASTILLEJO               C          95.50
+005390           EFR  EFR  21/05/2024 08:39  V                      VERAMENDI ALLAUCA JAVIER KENED C         280.00
+005391           EFR  EFR  21/05/2024 08:50  V                      VEGA JULCA ROSITA              C         162.00
+005392           EFR  EFR  21/05/2024 08:56  V                      LOPEZ CORONADO CRISANTO        C         198.50
+005393           EFR  EFR  21/05/2024 09:24  V                      ESPINOZA BARRERA ESTELITA      C         339.50
+005394           EFR  EFR  21/05/2024 09:29  V                      SILUPU ROMERO PIERO            C          45.00
+005395           EFR  EFR  21/05/2024 09:30  V                      ROMERO ARREDONDO LILIANA       C          45.00
+005396           EFR  EFR  21/05/2024 09:38  V                      CARRILLO SANTA CRUZ PIEER      C          45.00
+005397           EFR  EFR  21/05/2024 09:57  V                      SIPAN PEZO JEANPIERE           C          45.00
+005398           EFR  EFR  21/05/2024 10:25  V                      INGA LINO MARIA                C         286.00
+005399           EFR  EFR  21/05/2024 10:46  V                      AVILA CAJALEON LUCAS           C          37.00
+005400           EFR  EFR  21/05/2024 10:50  V                      SALAS ESPINOZA FRANCISCO       C          45.00
+005401           EFR  EFR  21/05/2024 10:54  V                      DIAZ HUAYTA DINA               C          45.00
+005402           YOS  YOS  21/05/2024 10:57  V                      SILUPU ROMERO PIERO            C          52.50
+005403           EFR  EFR  21/05/2024 10:59  V                      SILUPU ROMERO PIERO DAVID      C          65.00
+005404           EFR  EFR  21/05/2024 11:07  V                      CALERO ZU;IGA ISABEL           C           3.00
+005405           YOS  YOS  21/05/2024 11:39  V                      CARRERA OLIVARES CLAUDIO       C          15.00
+005406           YOS  YOS  21/05/2024 11:41  V                      CARRERA OLIVARES CLAUDIO       C          25.50
+005407           YOS  YOS  21/05/2024 12:04  V                      DIAZ HUAYTA DINA               C          59.50
+005408           YOS  YOS  21/05/2024 14:44  V                      RETUERTO SUSANIBAR ABIGAIL     C         260.00
+005409           YOS  YOS  21/05/2024 14:53  V                      MARIO MOLINA LOPEZ             C         130.00
+005410           YOS  YOS  21/05/2024 14:33  V                      GAMARRA PE:A MARIA             C          45.00
+005411           YOS  YOS  21/05/2024 14:56  V                      OCHOA TRINIDAD WILFREDO        C          45.00
+005412           YOS  YOS  21/05/2024 15:18  V                      GAMARRA PE:A MARIA             C          54.50
+005413           YOS  YOS  21/05/2024 15:28  V                      ARANDA EVANGELISTA HANNA       C          45.00
+005414           YOS  YOS  21/05/2024 15:44  V                      OCHOA TRINIDAD WILFREDO        C         167.50
+005415           YOS  YOS  21/05/2024 15:45  V                      OCHOA TRINIDAD WILFREDO        C         145.50
+005416           YOS  YOS  21/05/2024 15:56  V                      VELASQUEZ MANCHEBO             C          90.00
+005417           YOS  YOS  21/05/2024 16:01  V                      VELASQUEZ MANCHEBO             C          19.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:29
+PRT102()                                                                                                                Pag.-   16
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005418           YOS  YOS  21/05/2024 16:23  V                      KAQUI UGALDE LAHIRIANA         C          45.00
+005419           YOS  YOS  21/05/2024 16:34  V                      RIOS GUERRERO CARMEN           C          45.00
+005420           YOS  YOS  21/05/2024 16:48  V                      FELICIANO SUSANIBAR EITHAN     C          45.00
+005421           YOS  YOS  21/05/2024 16:59  V                      ESPINOZA JULCA EMELI           C          45.00
+005422           YOS  YOS  21/05/2024 17:04  V                      KAQUI UGALDE LAHIRIANA         C          78.00
+005423           YOS  YOS  21/05/2024 17:18  V                      VASQUEZ VACA ISABEL            C          45.00
+005424           YOS  YOS  21/05/2024 17:21  V                      FELICIANO SUSANIBAR EITHAN     C          60.00
+005425           YOS  YOS  21/05/2024 17:28  V                      CARRREA OLIVARES CLAUDIO       C          45.00
+005426           YOS  YOS  21/05/2024 17:45  V                      VENTURA INGARUKA FAUSTO        C          45.00
+005427           YOS  YOS  21/05/2024 18:11  V                      CARRERA OLIVARES CLAUDIO       C          40.00
+005428           YOS  YOS  21/05/2024 18:21  V                      CARRERA OLIVARES CLAUDIO       C          17.50
+005429           YOS  YOS  21/05/2024 18:32  V                      VASQUEZ VACA SANTOS            C          38.50
+005430           YOS  YOS  21/05/2024 18:33  V                      VASQUEZ VACA ISABEL            C         130.00
+005431           YOS  YOS  21/05/2024 18:44  V                      OCHOA TRINIDAD WILFREDO        C          40.00
+005432           YOS  YOS  21/05/2024 18:46  V                      OCHOA TRINIDAD WILFREDO        C          38.50
+005433           YOS  YOS  21/05/2024 19:12  V                      VENTURA INGARUKA FAUSTO        C           8.00
+005434           EFR  EFR  22/05/2024 08:18  V                      VENTURA INGARUKA FAUSTO        C         183.00
+005435           EFR  EFR  22/05/2024 08:26  V                      ZORRILLA ASENCIO ALMAQUIO      C         191.50
+005436           EFR  EFR  22/05/2024 08:31  V                      PLASENCIA SILVESTRE EITHAN MAT C          50.00
+005437           EFR  EFR  22/05/2024 08:52  V                      JULIO CASTILLEJO               C          88.50
+005438           EFR  EFR  22/05/2024 09:03  V                      PLASENCIA SILVESTRE EITHAN MAT C          60.00
+005439           YOS  YOS  22/05/2024 09:11  V                      ROJAS GUILLEN RUTH             C          45.00
+005440           YOS  YOS  22/05/2024 09:15  V                      CARRERA OLIVARES CLAUDIO       C          10.00
+005441           YOS  YOS  22/05/2024 09:17  V                      CARBAJAL DE TACUCHE ADVIENTA   C          45.00
+005442           YOS  YOS  22/05/2024 09:20  V                      CARBAJAL DE TACUCHE ADVIENTA   C          10.00
+005443           YOS  YOS  22/05/2024 09:30  V                      VILLAREAL AZA:ERO KORINA       C          45.00
+005444           YOS  YOS  22/05/2024 09:33  V                      GAMARRA PE¥A MARIA             C         210.00
+005445           YOS  YOS  22/05/2024 10:18  V                      TAPIA FLORES ALEJANDRINA       C         210.00
+005446           YOS  YOS  22/05/2024 10:29  V                      YATACO PE:A LUIS               C          45.00
+005447           YOS  YOS  22/05/2024 11:19  V                      CARBAJAL DE TACUCHE ADVIENTA   C         230.00
+005448           YOS  YOS  22/05/2024 11:23  V                      ROJAS GUILLEN RUTH             C         130.00
+005449           YOS  YOS  22/05/2024 11:42  V                      VILLAREAL AZA:ERO KORINA       C          67.80
+005450           YOS  YOS  22/05/2024 12:00  V                      SALINAS OLIVARES LUZ           C          15.00
+005451           YOS  YOS  22/05/2024 12:07  V                      YATACO PE;A ;LUIS              C          62.00
+005452           YOS  YOS  22/05/2024 12:11  V                      SALINAS OLIVARES LUZ           C          36.50
+005453           YOS  YOS  22/05/2024 12:25  V                      SALINAS OLIVARES LUZ           C           1.50
+005454           EFR  EFR  22/05/2024 12:50  V                      GUERRA VILLAVICENCIO YAMILE    C          15.00
+005455           YOS  YOS  22/05/2024 12:57  V                      INOSTROZA AGUSTILLO YANELA     C          15.00
+005456           EFR  EFR  22/05/2024 14:08  V                      SALINAS OLIVARES LUZ           C          80.00
+005457           EFR  EFR  22/05/2024 14:41  V                      CASTILLO SOLORZANO KIARA       C          45.00
+005458           EFR  EFR  22/05/2024 14:43  V                      CASTILLO SOLORZANO ANTUAN      C          45.00
+005459           EFR  EFR  22/05/2024 16:10  V                      VENTURA INGARUKA FAUSTO        C          45.00
+005460           EFR  EFR  22/05/2024 16:14  V                      GAMARRA PE¥A MARIA             C          30.00
+005461           EFR  EFR  22/05/2024 16:26  V                      NEYRA CARLOS  ELIMAR           C          45.00
+005462           YOS  YOS  22/05/2024 16:42  V                      VERAMENDI ALLAUCA JAVIER       C          45.00
+005463           EFR  EFR  22/05/2024 16:44  V                      OCHOA TRINIDAD WILFREDO        C          78.50
+005464           EFR  EFR  22/05/2024 16:46  V                      INGA LINO MARIA                C          45.00
+005465           YOS  YOS  22/05/2024 16:55  V                      CASTILLO SOLORZANO KIARA       C         117.00
+005466           EFR  EFR  22/05/2024 16:56  V                      CASTILLO SOLORZANO ANTUAN      C          68.00
+005467           EFR  EFR  22/05/2024 17:02  V                      MONTES VARGAS LIDIA            C          45.00
+005468           YOS  YOS  22/05/2024 17:15  V                      ROMAN OYOLA NATIVIDAD          C          45.00
+005469           EFR  EFR  22/05/2024 17:23  V                      VENTURA INGARUKA FAUSTO        C          30.00
+005470           EFR  EFR  22/05/2024 18:10  V                      INGA LINO MARIA                C          83.00
+005471           YOS  YOS  22/05/2024 18:15  V                      FERNANDEZ ACEVEDO ALEX         C         210.00
+005472           YOS  YOS  22/05/2024 18:20  V                      ROMAN OYOLA NATIVIDAD          C          89.50úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:29
+PRT102()                                                                                                                Pag.-   17
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005473           YOS  YOS  22/05/2024 18:36  V                      INGA LINO MARIA                C          80.00
+005474           EFR  EFR  22/05/2024 19:32  V                      SALINAS OLIVARES LUZ           C          40.00
+005475           EFR  EFR  22/05/2024 19:33  V                      SALINAS OLIVARES LUZ           C          29.50
+005476           EFR  EFR  22/05/2024 19:40  V                      SALINAS OLIVARES LUZ           C          45.00
+005477           EFR  EFR  23/05/2024 08:08  V                      VENTURA INGARUKA FAUSTO        C         105.00
+005478           EFR  EFR  23/05/2024 08:47  V                      MONTES VARGAS LIDIA            C         389.00
+005479           EFR  EFR  23/05/2024 09:06  V                      MAYO RETES LIDIA               C          45.00
+005480           YOS  YOS  23/05/2024 09:18  V                      CARRERA OLIVARES CLAUDIO       C          10.00
+005481           YOS  YOS  23/05/2024 09:27  V                      BARDALES SALAS PILAR           C          45.00
+005482           YOS  YOS  23/05/2024 09:38  V                      ANDRES HILARIO EDITH           C          45.00
+005483           YOS  YOS  23/05/2024 09:41  V                      MIRANDA TOLENTINO YOEL         C          45.00
+005484           YOS  YOS  23/05/2024 10:01  V                      MAYO RETES LIDIA               C         148.00
+005485           YOS  YOS  23/05/2024 10:02  V                      VENTA ANULADA                  C           0.00
+005486           YOS  YOS  23/05/2024 10:13  V                      ANCO GAMARRA ASTRID            C           6.50
+005487           YOS  YOS  23/05/2024 10:51  V                      ANDRES HILARIO EDITH           C          65.50
+005488           YOS  YOS  23/05/2024 11:07  V                      INGA LINO MARIA                C          41.50
+005489           YOS  YOS  23/05/2024 11:12  V                      INGA LINO MARIA                C          71.00
+005490           YOS  YOS  23/05/2024 11:20  V                      ASENCIO PANANA CYNTHIA         C          45.00
+005491           YOS  YOS  23/05/2024 11:45  V                      SALINAS GORDIANO ALESSIA GABRI C          60.00
+005492           YOS  YOS  23/05/2024 12:17  V                      ASENCIO PANANA CYNTHIA         C          53.00
+005493           YOS  YOS  23/05/2024 12:38  V                      ASCENCIO PANANA CINTHIA LIZBET C         136.00
+005494           EFR  EFR  23/05/2024 12:38  V                      ASENCIO PANANA CYNTHIA         C         104.50
+005495           EFR  EFR  23/05/2024 12:56  V                      VENTA ANULADA                  C           0.00
+005496           EFR  EFR  23/05/2024 13:14  V                      VASQUEZ VACA ISABEL            C         150.00
+005497           YOS  YOS  23/05/2024 14:31  V                      ORTIZ UZURIAGA HELJAN JAREN    C          10.00
+005498           YOS  YOS  23/05/2024 14:31  V                      ORTIZ UZURIAGA HELBERT ARJEN   C          10.00
+005499           YOS  YOS  23/05/2024 15:54  V                      OCHOA TRINIDAD WILFREDO        C          78.50
+005500           YOS  YOS  23/05/2024 16:05  V                      ORELLANA HUERTA JESUS AIDA     C          45.00
+005501           YOS  YOS  23/05/2024 16:30  V                      ORELLANA HUERTA JESUS AIDA     C          10.00
+005502           YOS  YOS  23/05/2024 16:32  V                      PALMA MARCOS ALEJANDRO         C          45.00
+005503           YOS  YOS  23/05/2024 16:49  V                      SHUAN  JAMANCA JUAN            C          45.00
+005504           YOS  YOS  23/05/2024 17:31  V                      ORELLANA HUERTA JESUS AIDA     C           1.50
+005505           YOS  YOS  23/05/2024 17:44  V                      AVALOS DONGO JACOBO            C          45.00
+005506           YOS  YOS  23/05/2024 17:54  V                      MARCOS MEDINA DAMIAN           C          30.00
+005507           YOS  YOS  23/05/2024 17:58  V                      SHUAN  JAMANCA JUAN            C           1.50
+005508           YOS  YOS  23/05/2024 18:06  V                      ROMAN OYOLA NATIVIDAD          C          80.50
+005509           YOS  YOS  23/05/2024 18:32  V                      SALINAS OLIVARES LUZ           C           5.50
+005510           YOS  YOS  23/05/2024 18:35  V                      YATACO PE¥A LUIS               C           5.50
+005511           YOS  YOS  23/05/2024 19:04  V                      MAYO RETES LIDIA               C          23.00
+005512           EFR  EFR  24/05/2024 08:44  V                      VASQUEZ TELLO ISAURA           C          50.00
+005513           EFR  EFR  24/05/2024 08:55  V                      VALDEOS ARELLANO MIGUEL        C          10.00
+005514           YOS  YOS  24/05/2024 09:08  V                      TURPO CHIPANA CLAUDIA          C          45.00
+005515           YOS  YOS  24/05/2024 09:21  V                      ROJAS GUILLEN RUTH             C          45.00
+005516           YOS  YOS  24/05/2024 09:38  V                      SANTIAGO CHAVEZ MARTHA         C          50.00
+005517           YOS  YOS  24/05/2024 09:41  V                      OLLAGES TELLO KATI             C          15.00
+005518           YOS  YOS  24/05/2024 09:46  V                      TURPO CHIPANA CLAUDIA          C         121.50
+005519           YOS  YOS  24/05/2024 09:47  V                      VASQUEZ TELLO ISAURA           C           5.00
+005520           YOS  YOS  24/05/2024 09:48  V                      COCHACHIN ROJAS TEO            C          45.00
+005521           YOS  YOS  24/05/2024 09:50  V                      MARCOS SERVANTES VIOLETA       C          50.00
+005522           YOS  YOS  24/05/2024 09:57  V                      SANTIAGO CHAVEZ MARTHA         C          80.00
+005523           YOS  YOS  24/05/2024 10:09  V                      SHUAN JAMANCA JUAN             C          21.50
+005524           YOS  YOS  24/05/2024 10:10  V                      SHUAN JAMANCA JUAN             C         123.00
+005525           YOS  YOS  24/05/2024 10:12  V                      MEJIA ALEJANDRO MARIA          C          45.00
+005526           YOS  YOS  24/05/2024 10:14  V                      CASTILLO SOLORZANO KIARA       C         145.00
+005527           YOS  YOS  24/05/2024 10:16  V                      ALVARADO SALAS CLARA           C          50.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:30
+PRT102()                                                                                                                Pag.-   18
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005528           YOS  YOS  24/05/2024 10:21  V                      COCHACHIN ALVARADO TEO         C          24.00
+005529           YOS  YOS  24/05/2024 10:31  V                      ANTUNEZ OBREGON CELESTINA      C          50.00
+005530           YOS  YOS  24/05/2024 10:44  V                      OBREGON OCROSPOMA THIAGO       C          90.00
+005531           YOS  YOS  24/05/2024 10:45  V                      OBREGON OCROSPOMA THIAGO       C           1.50
+005532           YOS  YOS  24/05/2024 11:01  V                      MEJIA ALEJANDRO MARIA          C         153.50
+005533           YOS  YOS  24/05/2024 11:11  V                      ALVARADO SALAS CLARA           C           5.00
+005534           YOS  YOS  24/05/2024 11:43  V                      LAVERIANO PACHAS DYLAN         C          50.00
+005535           YOS  YOS  24/05/2024 11:46  V                      MEJIA ALEJANDRO MARIA          C           8.00
+005536           YOS  YOS  24/05/2024 11:55  V                      VENTA ANULADA                  C           0.00
+005537           YOS  YOS  24/05/2024 11:59  V                      CANDELARIO NEYRA MITZI         C          50.00
+005538           YOS  YOS  24/05/2024 12:43  V                      LAVERIANO PACHAS DYLAN         C          15.00
+005539           YOS  YOS  24/05/2024 14:34  V                      ASENCIO PANANA CYNTHIA         C          35.00
+005540           YOS  YOS  24/05/2024 14:35  V                      LEON RAMOS MIRIAM              C          45.00
+005541           YOS  YOS  24/05/2024 14:37  V                      MAYO RETES LIDIA               C          45.00
+005542           YOS  YOS  24/05/2024 15:51  V                      CHUMIOQUE GONZALES JUAN        C          45.00
+005543           YOS  YOS  24/05/2024 16:31  V                      MAYO RETES LIDIA               C         126.60
+005544           YOS  YOS  24/05/2024 16:49  V                      LEON RAMOS MIDIAM              C          50.00
+005545           YOS  YOS  24/05/2024 16:50  V                      LEON RAMOS MIDIAM              C          75.00
+005546           YOS  YOS  24/05/2024 16:55  V                      CHUMIOQUE GONZALES JUAN        C         144.50
+005547           YOS  YOS  24/05/2024 16:59  V                      VASQUEZ VACA ISABEL            C          45.00
+005548           YOS  YOS  24/05/2024 17:12  V                      OCHOA TRINIDAD WILFREDO        C          45.00
+005549           YOS  YOS  24/05/2024 17:26  V                      LOPEZ NU;EZ EDRIC              C          45.00
+005550           YOS  YOS  24/05/2024 17:33  V                      PEIRANO MENDOZA JORGE          C          45.00
+005551           YOS  YOS  24/05/2024 17:56  V                      LOPEZ NU;EZ EDRIC              C         112.50
+005552           YOS  YOS  24/05/2024 18:18  V                      OCHOA TRINIDAD WILFREDO        C          89.00
+005553           YOS  YOS  24/05/2024 18:23  V                      MORALES ESPINOZA SAILIN        C          45.00
+005554           YOS  YOS  24/05/2024 18:28  V                      SALINAS OLIVARES LUZ           C           5.50
+005555           YOS  YOS  24/05/2024 18:29  V                      YATACO PE;A LUIS               C           5.50
+005556           YOS  YOS  24/05/2024 18:31  V                      TURPO CHIPANA CLAUDIA          C          15.50
+005557           YOS  YOS  24/05/2024 18:32  V                      MONTES VARGAS LIDIA            C          45.00
+005558           YOS  YOS  24/05/2024 18:35  V                      OCHOA TRINIDAD WILFREDO        C          83.50
+005559           YOS  YOS  24/05/2024 18:50  V                      ROMAN OYOLA NATIVIDAD          C          75.50
+005560           YOS  YOS  24/05/2024 19:00  V                      VACA ACOSTA SEVERINA           C           1.50
+005561           YOS  YOS  24/05/2024 19:14  V                      LOPEZ NU;EZ EDRIC              C           8.50
+005562           YOS  YOS  24/05/2024 19:16  V                      PEIRANO MENDOZA JORGE RAFAEL   C          96.50
+005563           YOS  YOS  24/05/2024 19:17  V                      OCHOA TRINIDAD WILFREDO        C           3.00
+005564           YOS  YOS  24/05/2024 20:47  V                      LOPEZ NU;EZ EDRIK              C          41.00
+005565           EFR  EFR  25/05/2024 08:39  V                      BARRIOS MENENDEZ ANA           C          45.00
+005566           EFR  EFR  25/05/2024 09:00  V                      ANGULO CARO ADAIDA             C          45.00
+005567           YOS  YOS  25/05/2024 09:22  V                      VEGA DIEGO EUGENIA             C          45.00
+005568           YOS  YOS  25/05/2024 09:37  V                      CHUMIOQUE GONZALES JUAN        C          64.50
+005569           YOS  YOS  25/05/2024 09:44  V                      VACA ACOSTA SEVERINA           C          12.00
+005570           YOS  YOS  25/05/2024 09:48  V                      VENTA ANULADA                  C           0.00
+005571           YOS  YOS  25/05/2024 10:21  V                      BARRIOS MENENDEZ ANALU         C         132.50
+005572           YOS  YOS  25/05/2024 10:23  V                      BARRIOS MENENDEZ ANALU         C          83.00
+005573           YOS  YOS  25/05/2024 10:41  V                      VEGA DIEGO EUGENIA             C          70.00
+005574           YOS  YOS  25/05/2024 10:46  V                      CANDELRIO NEYRA MITZI          C          45.00
+005575           YOS  YOS  25/05/2024 10:52  V                      ADELA RIVERA EUSCATEGUI        C          45.00
+005576           YOS  YOS  25/05/2024 10:52  V                      SANCHEZ BRAVO ISAIAS           C          45.00
+005577           YOS  YOS  25/05/2024 10:53  V                      ANGULO CARO ADAIA              C          70.00
+005578           YOS  YOS  25/05/2024 10:56  V                      VEGA DIEGO EUGENIA             C          18.00
+005579           YOS  YOS  25/05/2024 11:02  V                      ROMAN OYOLA NATIVIDAD          C          45.00
+005580           YOS  YOS  25/05/2024 11:20  V                      RIOS BETETA CLORINDA           C          45.00
+005581           YOS  YOS  25/05/2024 11:25  V                      CANDELARIO NEYRA MITZI         C          35.00
+005582           YOS  YOS  25/05/2024 11:26  V                      CANDELARIO NEYRA MITZI         C         230.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:30
+PRT102()                                                                                                                Pag.-   19
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005583           YOS  YOS  25/05/2024 11:42  V                      BACA PIZAN ELICIA MARIBEL      C          45.00
+005584           YOS  YOS  25/05/2024 11:51  V                      CASTILLO TAMARA JUAN           C          45.00
+005585           YOS  YOS  25/05/2024 11:56  V                      RIVERA EUSCATEGUI ADELA        C          81.50
+005586           YOS  YOS  25/05/2024 12:21  V                      ROMAN OYOLA NATIVIDAD          C          49.00
+005587           YOS  YOS  25/05/2024 12:36  V                      RIOS BETETA CLORINDA           C         130.00
+005588           YOS  YOS  25/05/2024 12:56  V                      BACA PIZAN ELICIA MARIBEL      C          42.00
+005589           EFR  EFR  25/05/2024 13:08  V                      CASTILLO TAMARA JUAN           C          10.00
+005590           EFR  EFR  25/05/2024 13:08  V                      CASTILLO TAMARA JUAN           C          96.50
+005591           EFR  EFR  25/05/2024 14:26  V                      BARRIOS MENENDEZ ANALU KEYLA   C          30.00
+005592           EFR  EFR  25/05/2024 14:26  V                      BARRIOS MENENDEZ ANALU         C          23.00
+005593           EFR  EFR  25/05/2024 14:28  V                      COCHACHIN ALVARADO TEO         C          47.00
+005594           EFR  EFR  25/05/2024 14:59  V                      ADELA RIVERA EUSCATEGUI        C          60.00
+005595           EFR  EFR  25/05/2024 15:03  V                      SANCHEZ BRAVO ISAIAS           C          80.00
+005596           EFR  EFR  25/05/2024 15:48  V                      VENTA ANULADA                  C           0.00
+005597           EFR  EFR  25/05/2024 15:49  V                      BARRIOS MENENDEZ ANALU         C          40.00
+005598           EFR  EFR  25/05/2024 16:05  V                      BARRIOS MENENDEZ ANALU         C          82.50
+005599           EFR  EFR  25/05/2024 16:25  V                      MARIO MOLINA LOPEZ             C          24.00
+005600           EFR  EFR  25/05/2024 16:33  V                      MARIO MOLINA LOPEZ             C           5.00
+005601           EFR  EFR  25/05/2024 17:06  V                      BACA PIZAN ELICIA MARIBEL      C          35.00
+005602           EFR  EFR  25/05/2024 17:47  V                      LEON RAMOS MIDIAM              C          30.00
+005603           EFR  EFR  25/05/2024 18:24  V                      GAMARRA RODRIGUEZ CARMELA      C           5.00
+005604           EFR  EFR  25/05/2024 19:00  V                      CASTILLO TAMARA JUAN           C          48.50
+005605           EFR  EFR  25/05/2024 19:37  V                      SALINAS OLIVARES LUZ           C           5.50
+005606           EFR  EFR  25/05/2024 19:38  V                      YATACO PE¥A LUIS               C           5.50
+005607           EFR  EFR  27/05/2024 08:13  V                      TURPO CHIPANA CLAUDIA          C         273.00
+005608           EFR  EFR  27/05/2024 08:23  V                      TABOADA MONTEVERDE GISELA      C          25.00
+005609           EFR  EFR  27/05/2024 08:38  V                      CASTILLO DOLORES MERI ELVA     C         113.00
+005610           EFR  EFR  27/05/2024 08:41  V                      PEREIDA PRINCIPE TIRZA         C          45.00
+005611           EFR  EFR  27/05/2024 08:53  V                      LEON RAMOS MIDIAM              C          45.00
+005612           EFR  EFR  27/05/2024 08:58  V                      CASTILLO DOLORES MERI          C          45.00
+005613           YOS  YOS  27/05/2024 09:17  V                      VEGA DIEGO EUGENIA             C          18.00
+005614           YOS  YOS  27/05/2024 09:23  V                      ASENCIO PANANA CINTHIA         C          45.00
+005615           YOS  YOS  27/05/2024 09:25  V                      JIMENEZ ROJA BRUNO             C          45.00
+005616           YOS  YOS  27/05/2024 09:30  V                      IRIGOYA CAMONES FERNANDO       C          45.00
+005617           YOS  YOS  27/05/2024 09:31  V                      TEODORO MAMANI SHUANA          C          45.00
+005618           YOS  YOS  27/05/2024 09:46  V                      MIA TORRES VERAMENDI           C          60.00
+005619           YOS  YOS  27/05/2024 10:02  V                      CASTILLO DOLORES MERI          C          86.50
+005620           YOS  YOS  27/05/2024 10:09  V                      VASQUEZ VACA ISABEL            C          69.30
+005621           YOS  YOS  27/05/2024 10:14  V                      LEON RAMOS MIDIAN              C          55.00
+005622           YOS  YOS  27/05/2024 10:16  V                      RAMOS ESPINOZA PRIMITIVO       C          45.00
+005623           YOS  YOS  27/05/2024 10:20  V                      ZOILA MARSELO ALCOSER          C         151.50
+005624           YOS  YOS  27/05/2024 10:22  V                      TUME LITANO SUSANA             C          45.00
+005625           YOS  YOS  27/05/2024 10:26  V                      JARA FERNANDEZ LADY            C          45.00
+005626           YOS  YOS  27/05/2024 10:36  V                      JOSE PARIMANGO SICCHA          C           5.00
+005627           YOS  YOS  27/05/2024 10:39  V                      MORALES ESPINOZA SAILIN        C          60.00
+005628           YOS  YOS  27/05/2024 10:49  V                      JIMENEZ ROJA BRUNO             C         262.00
+005629           YOS  YOS  27/05/2024 10:54  V                      SANCHEZ BRAVO ISAIAS           C          59.50
+005630           YOS  YOS  27/05/2024 11:15  V                      BARRIOS MENENDEZ ANALU         C          76.50
+005631           YOS  YOS  27/05/2024 11:23  V                      TEODORO MAMANI SHUANA          C          13.20
+005632           YOS  YOS  27/05/2024 11:29  V                      CHUMIOQUE GONZALES JUAN        C          42.00
+005633           YOS  YOS  27/05/2024 11:31  V                      VELA DAZA HAZAEL               C          10.00
+005634           YOS  YOS  27/05/2024 11:46  V                      RAMOS ESPINOZA PRIMITIVO       C          16.50
+005635           YOS  YOS  27/05/2024 11:47  V                      RAMOS ESPINOZA PRIMITIVO       C          30.00
+005636           YOS  YOS  27/05/2024 11:59  V                      TUME LITANO SUSANA             C          65.50
+005637           YOS  YOS  27/05/2024 12:00  V                      TUME LITANO SUSANA             C         135.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:30
+PRT102()                                                                                                                Pag.-   20
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005638           YOS  YOS  27/05/2024 12:05  V                      AVALOS DONGO JACOBO            C         280.00
+005639           YOS  YOS  27/05/2024 12:16  V                      CHUMIOQUE GONZALES JUAN        C          27.50
+005640           YOS  YOS  27/05/2024 12:25  V                      JARA FERNANDEZ LADY            C         171.50
+005641           YOS  YOS  27/05/2024 12:30  V                      JARA FERNANDEZ LADY            C          47.50
+005642           EFR  EFR  27/05/2024 12:51  V                      IRIGOLLA CAMONES FERNANDO      C          30.00
+005643           EFR  EFR  27/05/2024 13:29  V                      ROMAN OYOLA NATIVIDAD          C          17.50
+005644           YOS  YOS  27/05/2024 14:55  V                      PI¥AN EVANGELISTA SARITA       C          25.00
+005645           YOS  YOS  27/05/2024 15:00  V                      VERAMENDI LASTRA JACK          C          10.00
+005646           YOS  YOS  27/05/2024 15:38  V                      TIMANA NILUPU ALEXANDRA        C          15.00
+005647           YOS  YOS  27/05/2024 15:56  V                      GAMARRA PE;A MARIA             C          45.00
+005648           YOS  YOS  27/05/2024 15:57  V                      VENTURA  INGARUKA FAUSTO       C          45.00
+005649           YOS  YOS  27/05/2024 16:00  V                      CASTILLO TAMARA JUAN           C          85.00
+005650           YOS  YOS  27/05/2024 16:15  V                      GUTIEREZ CALUA SAMIR           C          45.00
+005651           YOS  YOS  27/05/2024 16:24  V                      GAMARRA RODRIGUEZ CARMELA      C           5.00
+005652           YOS  YOS  27/05/2024 16:26  V                      GONZALES GARCIA GUSTAVO        C          45.00
+005653           YOS  YOS  27/05/2024 16:28  V                      ZORRILA ASCENCIOS ALMAQUIO     C          45.00
+005654           YOS  YOS  27/05/2024 16:38  V                      VENTURA  INGARUKA FAUSTO       C          55.20
+005655           YOS  YOS  27/05/2024 16:39  V                      GAMARRA PE;A MARIA             C          55.20
+005656           YOS  YOS  27/05/2024 16:40  V                      PIZAN CHAVEZ TOMASA            C          45.00
+005657           YOS  YOS  27/05/2024 16:50  V                      GUTIERREZ CALUA ABDIEL         C          50.00
+005658           YOS  YOS  27/05/2024 16:57  V                      SALINAS OLIVARES LUZ           C          45.00
+005659           YOS  YOS  27/05/2024 16:59  V                      ROJAS VERAMENDI ARTURO         C          45.00
+005660           YOS  YOS  27/05/2024 17:00  V                      BARRIOS MENENDZ ANALU          C          45.00
+005661           YOS  YOS  27/05/2024 17:02  V                      BARRIOS MENENDEZ ANALU         C          25.00
+005662           YOS  YOS  27/05/2024 17:04  V                      GONZALES GARCIA GUSTAVO        C          50.00
+005663           YOS  YOS  27/05/2024 17:28  V                      GUTIEREZ CALUA SAMIR           C          78.00
+005664           YOS  YOS  27/05/2024 17:56  V                      PIZAN CHAVEZ TOMASA            C         120.50
+005665           YOS  YOS  27/05/2024 18:16  V                      SALINAS OLIVARES LUZ           C           5.50
+005666           YOS  YOS  27/05/2024 18:23  V                      CASTILLO DOLORES MERI          C          33.50
+005667           YOS  YOS  27/05/2024 18:27  V                      LOLI CHAVEZ CARMEN             C          50.00
+005668           YOS  YOS  27/05/2024 18:30  V                      GONZALES GARCIA GUSTAVO        C          88.00
+005669           YOS  YOS  27/05/2024 18:30  V                      GONZALES GARCIA GUSTAVO        C           8.00
+005670           YOS  YOS  27/05/2024 18:52  V                      ROJAS VERAMENDI ARTURO         C         153.50
+005671           YOS  YOS  27/05/2024 19:19  V                      BARRIOS MENENDZ ANALU          C          70.00
+005672           YOS  YOS  27/05/2024 19:43  V                      PANANA SANCHEZ JUANA           C          45.00
+005673           YOS  YOS  27/05/2024 20:02  V                      PANANA SANCHEZ JUANA           C          25.50
+005674           YOS  YOS  27/05/2024 20:16  V                      GUTIEREZ CALUA SAMIR           C          73.00
+005675           YOS  YOS  27/05/2024 20:20  V                      GUTIEREZ CALUA SAMIR           C           2.00
+005676           EFR  EFR  28/05/2024 08:21  V                      GURDUGA PICHILINGUE REYNALDO   C          10.00
+005677           EFR  EFR  28/05/2024 08:22  V                      TABOADA BALTUALNO MARCELO FABE C          55.00
+005678           EFR  EFR  28/05/2024 08:31  V                      BISSO VILLANUEVA NICOLAS RINAL C          45.00
+005679           EFR  EFR  28/05/2024 09:08  V                      FERNANDEZ ABARCA LEONCIO       C         105.00
+005680           YOS  YOS  28/05/2024 09:15  V                      IRIGOLLA CAMONES FERNANDO      C          30.00
+005681           YOS  YOS  28/05/2024 09:26  V                      SANCHEZ BRAVO ISAIAS           C          55.50
+005682           YOS  YOS  28/05/2024 09:30  V                      RIVERA EUSCATEGUI ADELA        C         130.00
+005683           YOS  YOS  28/05/2024 09:55  V                      BISSO VILLANUEVA NICOLAS       C         307.50
+005684           YOS  YOS  28/05/2024 10:04  V                      PIZAN CHAVEZ TOMASA            C         105.00
+005685           YOS  YOS  28/05/2024 10:06  V                      PIZAN CHAVEZ TOMASA            C          21.50
+005686           YOS  YOS  28/05/2024 10:19  V                      SANTOS IPANAQUE SANY           C          45.00
+005687           YOS  YOS  28/05/2024 10:25  V                      CHUMIOQUE GONZALES JUAN        C          27.50
+005688           YOS  YOS  28/05/2024 11:23  V                      SANTOS IPANAQUE  SANY          C         133.00
+005689           YOS  YOS  28/05/2024 11:24  V                      SANTOS IPANAQUE SANY           C           9.00
+005690           YOS  YOS  28/05/2024 11:39  V                      CHUMIOQUE GONZALES JUAN        C           1.50
+005691           YOS  YOS  28/05/2024 11:40  V                      VENTA ANULADA                  C           0.00
+005692           YOS  YOS  28/05/2024 13:11  V                      GARCIAS PAZOS MARLENY          C         100.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:30
+PRT102()                                                                                                                Pag.-   21
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005693           YOS  YOS  28/05/2024 13:23  V                      ROMAN OYOLA NATIVIDAD          C          17.50
+005694           YOS  YOS  28/05/2024 13:31  V                      GARCIA PAZOS MARLENY           C         100.00
+005695           YOS  YOS  28/05/2024 14:31  V                      CHUQUIPIONDO ATRADERA MERCEDES C          45.00
+005696           YOS  YOS  28/05/2024 15:33  V                      UGARTE ROJAS CRISTINA          C          45.00
+005697           YOS  YOS  28/05/2024 15:36  V                      GONZALES GARCIA GUSTAVO        C           9.00
+005698           YOS  YOS  28/05/2024 15:39  V                      MANRIQUE PEREZ MILAGROS        C          45.00
+005699           YOS  YOS  28/05/2024 15:44  V                      OCHOA TRINDADA WILFREDO        C          45.00
+005700           YOS  YOS  28/05/2024 15:47  V                      DOLORES GARCIA WALTER          C          45.00
+005701           YOS  YOS  28/05/2024 15:50  V                      DIANA CUEVAS SUAREZ            C          45.00
+005702           YOS  YOS  28/05/2024 15:58  V                      VEGA DIEGO EUGENIA             C          45.00
+005703           YOS  YOS  28/05/2024 16:00  V                      COCHACHIN ALVARADO TEO         C          45.00
+005704           YOS  YOS  28/05/2024 16:10  V                      VERDE OSORIO AMBER             C          45.00
+005705           YOS  YOS  28/05/2024 16:16  V                      BEDON VARILLAS KATHERYN        C          50.00
+005706           YOS  YOS  28/05/2024 16:56  V                      OCHOA TRINIDAD WILFREDO        C         111.50
+005707           YOS  YOS  28/05/2024 17:02  V                      SERNA LAUCATTA MACARENA        C          45.00
+005708           YOS  YOS  28/05/2024 17:11  V                      CHUQUIPIONDO ATRAVERA MERCEDES C         157.50
+005709           YOS  YOS  28/05/2024 17:12  V                      CHUQUIPIONDO ATRADERA MERCEDES C          15.50
+005710           YOS  YOS  28/05/2024 17:14  V                      FERNANDEZ ABARCA LEONCIO       C          45.00
+005711           YOS  YOS  28/05/2024 17:23  V                      UGARTE ROJAS CRISTINA          C         176.50
+005712           YOS  YOS  28/05/2024 17:23  V                      UGARTE ROJAS CRISTINA          C          12.00
+005713           YOS  YOS  28/05/2024 17:27  V                      VICENCIA ESPINOZA FELIX        C          45.00
+005714           YOS  YOS  28/05/2024 17:43  V                      CUEVAS CHIRINOS DENIREE        C          66.50
+005715           YOS  YOS  28/05/2024 18:00  V                      DOLORES GARCIA WALTER          C         111.50
+005716           YOS  YOS  28/05/2024 18:08  V                      PANANA SANCHEZ JUANA           C          17.50
+005717           YOS  YOS  28/05/2024 18:38  V                      VERDE OSORIO AMBER             C          22.50
+005718           YOS  YOS  28/05/2024 18:40  V                      VERDE OSORIO AMBER             C          65.00
+005719           YOS  YOS  28/05/2024 18:49  V                      COCHACHIN ALVARADO TEO         C          70.50
+005720           YOS  YOS  28/05/2024 19:13  V                      VICENCIA ESPINOZA FELIX        C          48.50
+005721           YOS  YOS  28/05/2024 19:22  V                      BISSO VILLANUEVA NICOLAS RINAL C          40.50
+005722           YOS  YOS  28/05/2024 19:33  V                      SALINAS OLIVARES LUZ           C           5.50
+005723           EFR  EFR  28/05/2024 21:47  V                      VENTA ANULADA                  C           0.00
+005724           EFR  EFR  29/05/2024 08:32  V                      CALIXTO ALOR SONIA             C          45.00
+005725           EFR  EFR  29/05/2024 08:46  V                      DOLORES GARCIA WALTER RHIN     C         270.00
+005726           EFR  EFR  29/05/2024 09:08  V                      ADRIANO LEON VITAR             C          10.00
+005727           EFR  EFR  29/05/2024 09:09  V                      VALDEOS ARELLANO MIGUEL        C          10.00
+005728           EFR  EFR  29/05/2024 09:12  V                      ROCA PRINCIPE PABLO            C          15.00
+005729           YOS  YOS  29/05/2024 09:24  V                      GONZALES ZAPATA DELFIN         C           5.00
+005730           YOS  YOS  29/05/2024 10:00  V                      CHUQUIPIONDO ATRADERA MERCEDES C          45.00
+005731           YOS  YOS  29/05/2024 10:02  V                      BISSO VILLANUEVA NICOLAS       C          37.00
+005732           YOS  YOS  29/05/2024 10:07  V                      BISSO VILLANUEVA NICOLAS       C         141.00
+005733           YOS  YOS  29/05/2024 10:10  V                      KAQUI UGALDE LAIRIANA          C          45.00
+005734           YOS  YOS  29/05/2024 10:18  V                      DIAZ LUAS ANITA                C          45.00
+005735           YOS  YOS  29/05/2024 10:30  V                      CHUMIOQUE GONZALES JUAN        C          78.00
+005736           YOS  YOS  29/05/2024 10:46  V                      ESPINOZA MATAMOROS MARJORIE    C          45.00
+005737           YOS  YOS  29/05/2024 10:47  V                      SOSA JUSTO FREDY               C          45.00
+005738           YOS  YOS  29/05/2024 10:54  V                      GAMARRA RODRIGUEZ CARMELA      C          30.00
+005739           YOS  YOS  29/05/2024 11:12  V                      CALIXTO ALOR SONIA             C          90.00
+005740           YOS  YOS  29/05/2024 11:35  V                      CHUQUIPIONDO ATRAVERA MERCDES  C         123.50
+005741           YOS  YOS  29/05/2024 11:39  V                      CHUQUIPIONDO ATRAVERA MERCEDES C         114.00
+005742           YOS  YOS  29/05/2024 11:56  V                      KAQUI UGALDE LAIRIANA          C          21.50
+005743           YOS  YOS  29/05/2024 12:09  V                      IRIGOYA CAMONES FERNANDO       C          45.00
+005744           YOS  YOS  29/05/2024 12:20  V                      SOSA JUSTO FREDY               C         143.00
+005745           YOS  YOS  29/05/2024 12:24  V                      SOSA JUSTO FREDY               C          48.00
+005746           EFR  EFR  29/05/2024 12:38  V                      DIAZ LUAS ANITA MILENA         C         136.50
+005747           EFR  EFR  29/05/2024 14:18  V                      SALIS ESPINOZA KORINA          C          80.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:30
+PRT102()                                                                                                                Pag.-   22
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005748           EFR  EFR  29/05/2024 15:00  V                      SANCHEZ BRAVO ISAIAS           C          55.50
+005749           EFR  EFR  29/05/2024 15:07  V                      SHUAN JAMANCA JUAN PABLO       C          45.00
+005750           EFR  EFR  29/05/2024 15:40  V                      CHUMIOQUE GONZALES JUAN        C          45.00
+005751           EFR  EFR  29/05/2024 16:04  V                      PIZAN CH VEZ TOMASA            C          45.00
+005752           EFR  EFR  29/05/2024 16:15  V                      PIZAN CH VEZ TOMASA            C          21.50
+005753           EFR  EFR  29/05/2024 16:26  V                      LEON RAMOS MIDIAM              C          45.00
+005754           EFR  EFR  29/05/2024 16:44  V                      OCHOA TRINIDAD WILFREDO        C         120.50
+005755           EFR  EFR  29/05/2024 16:46  V                      HUERTA RODRIGUEZ LUIS          C          45.00
+005756           EFR  EFR  29/05/2024 16:52  V                      DIOMEDES RODRIGUEZ APONTE      C          80.00
+005757           EFR  EFR  29/05/2024 17:01  V                      OCHOA TRINIDAD WILFREDO        C          19.00
+005758           EFR  EFR  29/05/2024 17:13  V                      SHUAN JAMANCA JUAN PABLO       C         153.50
+005759           EFR  EFR  29/05/2024 17:23  V                      RIVERA DOLORES YULIET          C          45.00
+005760           EFR  EFR  29/05/2024 17:25  V                      CHUMIOQUE GONZALES JUAN        C         125.00
+005761           EFR  EFR  29/05/2024 17:52  V                      BISSO VILLANUEVA NICOLAS       C          67.80
+005762           EFR  EFR  29/05/2024 17:54  V                      SONIA PEREZ CASTILLO           C          67.80
+005763           EFR  EFR  29/05/2024 18:20  V                      RIVERA DOLORES YULIET          C           3.00
+005764           EFR  EFR  29/05/2024 18:27  V                      ALBORNOZ BERRIOS ESTHER        C          45.00
+005765           EFR  EFR  29/05/2024 18:37  V                      VICTOR SANCHEZ ESPINOZA        C          45.00
+005766           EFR  EFR  29/05/2024 18:55  V                      ALBORNOZ BERRIOS ESTHER        C          49.50
+005767           EFR  EFR  29/05/2024 18:56  V                      ALBORNOZ BERRIOS ESTHER        C           1.50
+005768           EFR  EFR  29/05/2024 18:57  V                      ALBORNOZ BERRIOS ESTHER        C          50.00
+005769           EFR  EFR  29/05/2024 19:05  V                      SALINAS OLIVARES LUZ           C           5.50
+005770           EFR  EFR  29/05/2024 19:06  V                      SALINAS OLIVARES LUZ           C          37.00
+005771           EFR  EFR  29/05/2024 19:11  V                      VICTOR SANCHEZ ESPINOZA        C          88.50
+005772           EFR  EFR  29/05/2024 19:13  V                      SANCHEZ QUICHIZ ANGELICA       C           8.50
+005773           EFR  EFR  29/05/2024 19:30  V                      MARCALUPU ZEGARRA ALICIA       C           1.50
+005774           EFR  EFR  29/05/2024 19:32  V                      PANANA SANCHEZ JUANA           C           6.50
+005775           EFR  EFR  29/05/2024 20:14  V                      VICTOR SANCHEZ ESPINOZA        C          98.00
+005776           EFR  EFR  30/05/2024 08:37  V                      MEDINA PALMA DAMARES           C          45.00
+005777           EFR  EFR  30/05/2024 08:46  V                      GONZALES ZAPATA                C           5.00
+005778           EFR  EFR  30/05/2024 08:54  V                      ASENCIO CASTRO ELDA JOSEFINA   C          75.00
+005779           EFR  EFR  30/05/2024 08:57  V                      LEYTON CHINGA EMILIANO         C          90.00
+005780           EFR  EFR  30/05/2024 09:01  V                      ESPINOZA RAMOS EDER JUNIOR     C          26.50
+005781           EFR  EFR  30/05/2024 09:04  V                      IRIGOYEN CAMONES FERNANDO      C          65.00
+005782           EFR  EFR  30/05/2024 09:08  V                      RIVERA DOLORES JHULIET         C         185.00
+005783           YOS  YOS  30/05/2024 09:14  V                      SANCHEZ ESPINOZA VICTOR        C         213.00
+005784           YOS  YOS  30/05/2024 09:15  V                      SANCHEZ ESPINOZA VICTOR        C          45.00
+005785           YOS  YOS  30/05/2024 09:17  V                      ALBORNOZ BERRIOS ESTHER        C         115.00
+005786           YOS  YOS  30/05/2024 09:19  V                      MENDOZA DIEGO CARMEN ROSA      C          45.00
+005787           YOS  YOS  30/05/2024 09:40  V                      FERNANDEZ VERAUN YUDIT         C          45.00
+005788           YOS  YOS  30/05/2024 10:20  V                      MEDINA PALMA DAMARIS           C         313.00
+005789           YOS  YOS  30/05/2024 10:22  V                      MEDINA PALMA DAMARIS           C          38.00
+005790           YOS  YOS  30/05/2024 10:30  V                      LEON RAMOS MIDIAM              C         174.40
+005791           YOS  YOS  30/05/2024 10:42  V                      JARA FERNANDEZ LADY            C          45.00
+005792           YOS  YOS  30/05/2024 11:10  V                      FERNANDEZ VERAUN YUDIT         C          73.00
+005793           YOS  YOS  30/05/2024 11:12  V                      NIETO MARIN LUANA              C          45.00
+005794           YOS  YOS  30/05/2024 11:13  V                      FERNANDEZ BERAUM YUDITH        C          15.00
+005795           YOS  YOS  30/05/2024 11:15  V                      HIDALGO CARRERA CRISTIAN       C          45.00
+005796           YOS  YOS  30/05/2024 11:37  V                      NIETO QUICHIS                  C          74.50
+005797           YOS  YOS  30/05/2024 11:49  V                      FERNANDEZ BERAUM YUITH         C          41.50
+005798           YOS  YOS  30/05/2024 12:05  V                      HIDALGO CARRERA CRISTIAN       C          18.50
+005799           YOS  YOS  30/05/2024 12:07  V                      HIDALDO CARRERA CRISTHIAN      C          25.00
+005800           YOS  YOS  30/05/2024 12:22  V                      MENDOZA DIEGO CARMEN ROSA      C          26.50
+005801           YOS  YOS  30/05/2024 13:20  V                      MENDOZA DIEGO CARMEN           C         170.00
+005802           YOS  YOS  30/05/2024 14:15  V                      ESPINOZA RAMOS EDER            C          45.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:30
+PRT102()                                                                                                                Pag.-   23
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005803           YOS  YOS  30/05/2024 14:15  V                      VENTA ANULADA                  C           0.00
+005804           YOS  YOS  30/05/2024 14:26  V                      SANCHEZ BRAVO ISAIAS           C           9.50
+005805           YOS  YOS  30/05/2024 15:15  V                      HUERTAS CAMPOS MARCELINO       C          45.00
+005806           YOS  YOS  30/05/2024 15:23  V                      KAQUI UGALDE LAIRIANA          C          13.50
+005807           YOS  YOS  30/05/2024 15:31  V                      LEYTON CHINGA EMILIANO         C          45.00
+005808           YOS  YOS  30/05/2024 15:32  V                      ASCENCIO CASTRO ELDA JOSEFINA  C          45.00
+005809           YOS  YOS  30/05/2024 15:48  V                      ALBORNOZ BERRIOS ESTHER        C          45.00
+005810           YOS  YOS  30/05/2024 15:56  V                      SHUAN JAMANCA JUAN             C          73.50
+005811           YOS  YOS  30/05/2024 16:00  V                      SANCHEZ BRAVO ISAIAS           C           8.00
+005812           YOS  YOS  30/05/2024 16:01  V                      BUSTAMANTE ESTELA SUSANA       C          45.00
+005813           YOS  YOS  30/05/2024 16:32  V                      SANCHEZ ESPINOZA VICTOR        C         148.50
+005814           YOS  YOS  30/05/2024 16:33  V                      NIETO RODRIGUES DANERI         C          45.00
+005815           YOS  YOS  30/05/2024 16:38  V                      FERNANDEZ BERAUM YUDIT         C          40.00
+005816           YOS  YOS  30/05/2024 16:39  V                      FERNANDEZ BERAUM YUDITH        C          37.00
+005817           YOS  YOS  30/05/2024 16:41  V                      JULIA VASQUEZ PICHILINGUE      C          45.00
+005818           YOS  YOS  30/05/2024 16:46  V                      IRIGOYA CAMONES FERNANDO       C          80.00
+005819           YOS  YOS  30/05/2024 16:52  V                      RIVERA DOLORES YULIET          C          45.00
+005820           YOS  YOS  30/05/2024 17:39  V                      HIDALDO CARRERA CRISTHIAN      C          45.50
+005821           YOS  YOS  30/05/2024 17:41  V                      HIDALGO CARRERA CRISTHIAN      C          60.00
+005822           YOS  YOS  30/05/2024 17:54  V                      MATOS MUZANTE LUCIO            C          45.00
+005823           YOS  YOS  30/05/2024 18:09  V                      ASCENCIO CASTRO ELDA JOSEFINA  C         101.50
+005824           YOS  YOS  30/05/2024 18:18  V                      LEYTON CHINGA EMILIANO         C         113.50
+005825           YOS  YOS  30/05/2024 18:52  V                      ALBORNOZ BERRIOS ESTHER        C          44.50
+005826           YOS  YOS  30/05/2024 19:45  V                      MATOS MUZANTE LUCIO            C          44.50
+005827           YOS  YOS  30/05/2024 19:53  V                      SANCHEZ ESPINOZA VICTOR        C          15.00
+005828           YOS  YOS  30/05/2024 19:56  V                      SANCHEZ ESPINOZA VICTOR        C          20.00
+005829           EFR  EFR  31/05/2024 08:32  V                      CARBAJAL DE TACUCHE ADVIENTO   C          10.00
+005830           YOS  YOS  31/05/2024 09:23  V                      LEYTON CHINGA EMILIANO         C         190.00
+005831           YOS  YOS  31/05/2024 09:24  V                      ASENCIO CASTRO ELDA            C         130.00
+005832           YOS  YOS  31/05/2024 09:27  V                      FERDY SANDOVAL CONTRERAS       C          80.00
+005833           YOS  YOS  31/05/2024 09:37  V                      BOCANEGRA ROMERO ANDREA        C          40.00
+005834           YOS  YOS  31/05/2024 09:41  V                      ROJAS VERAMENDI ARTURO         C          21.50
+005835           YOS  YOS  31/05/2024 09:44  V                      JAVIER VERAMENDI ALLAUCA       C          45.00
+005836           YOS  YOS  31/05/2024 09:52  V                      LOPEZ PISCOYA JURIKO           C          15.00
+005837           YOS  YOS  31/05/2024 09:57  V                      SANCHEZ BRAVO ISAIAS           C           9.50
+005838           YOS  YOS  31/05/2024 10:08  V                      HIDALGO CARRERA CRISTHIAN      C          18.00
+005839           YOS  YOS  31/05/2024 10:15  V                      FERNANDEZ VERAUM YUDIT         C          91.00
+005840           YOS  YOS  31/05/2024 10:39  V                      ROMERO AVILA ARTURO            C          45.00
+005841           YOS  YOS  31/05/2024 11:04  V                      ROMERO AVILA ARTURO            C          58.00
+005842           YOS  YOS  31/05/2024 11:18  V                      CORAL MEJIA YOSELIN            C          15.00
+005843           YOS  YOS  31/05/2024 11:23  V                      MENDOZA DIEGO CARMEN           C          14.50
+005844           YOS  YOS  31/05/2024 11:32  V                      MENDOZA DIEGO CARMEN ROSA      C          29.00
+005845           YOS  YOS  31/05/2024 12:10  V                      VELASQUEZ MANCHEGO DANTE       C           6.00
+005846           YOS  YOS  31/05/2024 12:14  V                      JIMENEZ HERRERA ARMANDINA      C         101.50
+005847           EFR  EFR  31/05/2024 14:45  V                      DOLORES GARCIA WALTER          C          45.00
+005848           EFR  EFR  31/05/2024 15:14  V                      GAMARRA RODRIGUEZ CARMELA      C          80.00
+005849           EFR  EFR  31/05/2024 15:18  V                      IRIGOYA CAMONES FERNANDO       C          15.00
+005850           EFR  EFR  31/05/2024 15:57  V                      SHUAN JAMANCA JUAN             C          73.50
+005851           EFR  EFR  31/05/2024 16:00  V                      SALINAS GERBACIO JUAN          C          45.00
+005852           EFR  EFR  31/05/2024 16:10  V                      SANCHEZ ESPINOZA VICTOR        C         126.50
+005853           EFR  EFR  31/05/2024 16:11  V                      SANCHEZ ESPINOZA VICTOR        C          45.00
+005854           EFR  EFR  31/05/2024 16:35  V                      MEDINA PALMA DAMARIS           C          45.00
+005855           EFR  EFR  31/05/2024 16:42  V                      SANTOS IPANAQUE SANY           C          45.00
+005856           EFR  EFR  31/05/2024 16:58  V                      LOYOLA OBREGON BRAYAN          C          65.00
+005857           EFR  EFR  31/05/2024 17:01  V                      LOYOLA OBREGON BRAYAN          C          45.00úZethQuark Versi¢n 7.0ú                                                                                                 15/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/05/2024 AL 31/05/2024                              08:57:31
+PRT102()                                                                                                                Pag.-   24
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+005858           YOS  YOS  31/05/2024 17:16  V                      ROBLES LAGUA BRIANA            C          45.00
+005859           EFR  EFR  31/05/2024 17:21  V                      DOLORES GARCIA WALTER          C         100.00
+005860           EFR  EFR  31/05/2024 17:22  V                      DOLORES GARCIA WALTER          C          91.50
+005861           EFR  EFR  31/05/2024 17:24  V                      PANANA SANCHEZ JUANA           C          45.00
+005862           EFR  EFR  31/05/2024 17:25  V                      ASENCIO PANANA CYNTHIA         C          45.00
+005863           EFR  EFR  31/05/2024 17:32  V                      PALACIN CARRASCO AQUILES       C          45.00
+005864           EFR  EFR  31/05/2024 17:46  V                      HUERTA RODRIGUEZ LUIS          C          61.50
+005865           EFR  EFR  31/05/2024 17:49  V                      HUERTA GIRALDO LUIS            C          38.00
+005866           EFR  EFR  31/05/2024 17:54  V                       SALINAS GERVACIO JUAN         C          41.50
+005867           EFR  EFR  31/05/2024 17:57  V                      SALINAS GERVACIO JUAN          C          43.00
+005868           EFR  EFR  31/05/2024 18:38  V                      ROBLES LAGUA BRIANA            C          53.00
+005869           EFR  EFR  31/05/2024 18:39  V                      ROBLES LAGUA BRIANA            C           1.50
+005870           EFR  EFR  31/05/2024 18:54  V                      SALINAS OLIVARES LUZ           C          45.00
+005871           EFR  EFR  31/05/2024 18:57  V                      PALACIN CARRASCO AQUILES       C          57.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :   1,245      76,129.30
+Factura       :       0           0.00                                                    Efectivo      :       0           0.00
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:   1,245      76,129.30                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                             76,129.30                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                       76,129.30
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :     11,611.67
+ÿ
+ÿ
+Nro.  Documentos Anulados :           34
+Total Documentos Anulados :         0.00

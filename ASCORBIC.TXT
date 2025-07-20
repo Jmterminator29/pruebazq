@@ -1,0 +1,255 @@
+úZethQuark Versi¢n 7.0ú                                                              06/06/2025
+POL.LOS ANGELES                   KARDEX : ASCORBIC PROMOCION                          08:41:14
+PRG232()                          DEL 01/03/2025 AL 06/06/2025                       Pag.-    1
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000032062  03/03/2025  15:11  Descargo x Vent  USER  014333      -    1          56       ELI
+0000032076  03/03/2025  17:46  Descargo x Vent  USER  014347      -    1          55       ELI
+0000032083  03/03/2025  18:41  Descargo x Vent  USER  014354      -    1          54       ELI
+0000032092  03/03/2025  19:56  Descargo x Vent  USER  014362      -    1          53       ELI
+0000032098  03/03/2025  20:35  Descargo x Vent  USER  014368      -    1          52       ELI
+0000032117  04/03/2025  09:25  Descargo x Vent  USER  014383      -    1          51       ELI
+0000032125  04/03/2025  10:24  Descargo x Vent  USER  014390      -    1          50       ELI
+0000032126  04/03/2025  10:46  Descargo x Vent  USER  014391      -    1          49       ELI
+0000032151  04/03/2025  17:39  Descargo x Vent  USER  014409      -    1          48       ELI
+0000032162  04/03/2025  18:41  Descargo x Vent  USER  014420      -    1          47       ELI
+0000032168  04/03/2025  19:26  Descargo x Vent  USER  014426      -    1          46       ELI
+0000032172  04/03/2025  20:13  Descargo x Tran  SISH  32171       -    6          40       EFR
+0000032173  04/03/2025  20:17  Descargo x Vent  USER  014430      -    1          39       ELI
+0000032195  05/03/2025  15:55  Descargo x Vent  USER  014444      -    1          38       ELI
+0000032196  05/03/2025  16:31  Descargo x Vent  USER  014445      -    1          37       ELI
+0000032198  05/03/2025  17:27  Descargo x Vent  USER  014447      -    1          36       ELI
+0000032217  05/03/2025  19:37  Descargo x Vent  USER  014465      -    1          35       ELI
+0000032221  05/03/2025  20:22  Descargo x Vent  USER  014469      -    1          34       ELI
+0000032238  06/03/2025  14:19  Descargo x Vent  USER  014485      -    1          33       ELI
+0000032284  07/03/2025  09:06  Descargo x Vent  USER  014522      -    1          32       ELI
+0000032287  07/03/2025  09:15  Descargo x Vent  USER  014525      -    1          31       ELI
+0000032317  07/03/2025  18:21  Descargo x Vent  USER  014550      -    1          30       ELI
+0000032325  07/03/2025  18:55  Descargo x Vent  USER  014554      -    1          29       ELI
+0000032331  07/03/2025  20:22  Descargo x Vent  USER  014560      -    1          28       ELI
+0000032340  07/03/2025  21:52  Descargo x Tran  SISH  32338       -    6          22       EFR
+0000032372  08/03/2025  18:39  Descargo x Vent  USER  014592      -    1          21       ELI
+0000032390  08/03/2025  21:13  Descargo x Vent  USER  014602      -    1          20       ELI
+0000032430  10/03/2025  18:01  Descargo x Vent  USER  014638      -    1          19       ELI
+0000032441  10/03/2025  19:02  Descargo x Vent  USER  014645      -    1          18       ELI
+0000032468  11/03/2025  10:40  Descargo x Vent  USER  014666      -    1          17       ELI
+0000032478  11/03/2025  17:13  Cargo x Compra   0016  4301        +  100         117       EFR
+0000032483  11/03/2025  18:44  Descargo x Vent  USER  014675      -    1         116       ELI
+0000032491  11/03/2025  19:40  Descargo x Tran  SISH  32491       -   10         106       EFR
+0000032493  11/03/2025  20:06  Cargo x Anulaci  USER  014675      +    1         107       EFR
+0000032500  12/03/2025  09:03  Descargo x Vent  USER  014683      -    1         105       GEN
+0000032510  12/03/2025  16:18  Descargo x Vent  USER  014693      -    1         104       ELI
+0000032521  12/03/2025  17:20  Descargo x Vent  USER  014696      -    1         103       ELI
+0000032560  12/03/2025  18:49  Descargo x Vent  USER  014703      -    1         102       ELI
+0000032568  12/03/2025  18:59  Descargo x Vent  USER  014706      -    1         101       ELI
+0000032588  12/03/2025  20:05  Descargo x Vent  USER  014716      -    1         100       ELI
+0000032589  12/03/2025  20:12  Descargo x Vent  USER  014717      -    1          99       ELI
+0000032596  12/03/2025  20:51  Descargo x Vent  USER  014718      -    1          98       ELI
+0000032625  13/03/2025  17:49  Descargo x Vent  USER  014741      -    1          97       EFR
+0000032638  13/03/2025  18:41  Descargo x Vent  USER  014751      -    1          96       EFR
+0000032657  13/03/2025  21:11  Descargo x Vent  USER  014765      -    1          95       EFR
+0000032667  14/03/2025  16:47  Descargo x Vent  USER  014775      -    1          94       ELI
+0000032679  14/03/2025  18:05  Descargo x Vent  USER  014785      -    1          93       ELI
+0000032689  14/03/2025  17:30  Descargo x Vent  USER  014794      -    1          92       ELI
+0000032706  14/03/2025  20:41  Descargo x Vent  USER  014810      -    1          91       ELI
+0000032741  15/03/2025  11:51  Descargo x Vent  USER  014819      -    1          90       ELI
+0000032745  15/03/2025  15:00  Descargo x Vent  USER  014822      -    1          89       ELI
+0000032760  15/03/2025  18:07  Descargo x Vent  USER  014833      -    1          88       ELI
+0000032770  15/03/2025  20:02  Descargo x Tran  SMMD  32770       -    5          83       EFR
+0000032800  17/03/2025  18:32  Descargo x Vent  USER  014865      -    1          82       ELI
+0000032806  17/03/2025  19:59  Descargo x Tran  SISH  32805       -   10          72       EFRúZethQuark Versi¢n 7.0ú                                                              06/06/2025
+POL.LOS ANGELES                   KARDEX : ASCORBIC PROMOCION                          08:41:15
+PRG232()                          DEL 01/03/2025 AL 06/06/2025                       Pag.-    2
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000032817  18/03/2025  11:38  Descargo x Vent  USER  014880      -    1          71       ELI
+0000032833  18/03/2025  17:10  Descargo x Vent  USER  014892      -    1          70       ELI
+0000032834  18/03/2025  17:13  Descargo x Vent  USER  014893      -    1          69       ELI
+0000032837  18/03/2025  17:39  Descargo x Vent  USER  014896      -    1          68       ELI
+0000032843  18/03/2025  18:01  Descargo x Vent  USER  014901      -    1          67       ELI
+0000032846  18/03/2025  18:44  Descargo x Vent  USER  014904      -    1          66       ELI
+0000032877  19/03/2025  18:08  Descargo x Vent  USER  014929      -    1          65       ELI
+0000032898  20/03/2025  08:50  Descargo x Vent  USER  014946      -    1          64       ELI
+0000032904  20/03/2025  10:58  Descargo x Vent  USER  014952      -    1          63       ELI
+0000032920  20/03/2025  17:50  Descargo x Vent  USER  014968      -    1          62       ELI
+0000032928  20/03/2025  19:22  Descargo x Vent  USER  014975      -    1          61       ELI
+0000032930  20/03/2025  19:33  Descargo x Vent  USER  014977      -    1          60       ELI
+0000032949  21/03/2025  13:38  Descargo x Vent  USER  014985      -    1          59       ELI
+0000032961  21/03/2025  17:36  Descargo x Vent  USER  014995      -    1          58       ELI
+0000032963  21/03/2025  17:44  Descargo x Vent  USER  014997      -    1          57       ELI
+0000032971  21/03/2025  18:45  Descargo x Vent  USER  015004      -    1          56       ELI
+0000033011  22/03/2025  19:11  Descargo x Vent  USER  015039      -    1          55       ELI
+0000033046  24/03/2025  20:09  Descargo x Tran  SISH  33045       -   10          45       EFR
+0000033052  25/03/2025  09:43  Descargo x Vent  USER  015075      -    1          44       ELI
+0000033078  25/03/2025  19:08  Descargo x Vent  USER  015097      -    1          43       ELI
+0000033080  25/03/2025  19:11  Descargo x Vent  USER  015099      -    1          42       ELI
+0000033082  25/03/2025  19:25  Descargo x Vent  USER  015100      -    1          41       ELI
+0000033118  26/03/2025  18:27  Descargo x Vent  USER  015122      -    1          40       ELI
+0000033131  26/03/2025  20:18  Descargo x Vent  USER  015132      -    1          39       ELI
+0000033145  27/03/2025  08:44  Descargo x Tran  SMMD  33143       -    4          35       EFR
+0000033170  27/03/2025  19:06  Descargo x Vent  USER  015164      -    1          34       ELI
+0000033191  28/03/2025  18:28  Descargo x Vent  USER  015180      -    1          33       ELI
+0000033214  29/03/2025  17:26  Descargo x Vent  USER  015200      -    1          32       ELI
+0000033247  31/03/2025  17:36  Descargo x Vent  USER  015226      -    1          31       ELI
+0000033250  31/03/2025  18:52  Descargo x Vent  USER  015229      -    1          30       ELI
+0000033265  01/04/2025  10:59  Cargo x Compra   0016  F009-4342   +  100         130       EFR
+0000033273  01/04/2025  17:52  Descargo x Vent  USER  015245      -    1         129       EFR
+0000033284  01/04/2025  19:18  Descargo x Vent  USER  015256      -    1         128       EFR
+0000033290  01/04/2025  20:26  Descargo x Tran  SISH  33288       -   10         118       EFR
+0000033321  02/04/2025  18:27  Descargo x Vent  USER  015282      -    1         117       ELI
+0000033330  02/04/2025  19:13  Descargo x Vent  USER  015291      -    1         116       ELI
+0000033366  04/04/2025  09:12  Descargo x Vent  USER  015316      -    1         115       GEN
+0000033372  04/04/2025  09:28  Descargo x Vent  USER  015322      -    1         114       GEN
+0000033377  04/04/2025  11:31  Descargo x Vent  USER  015327      -    1         113       FAB
+0000033396  04/04/2025  18:19  Descargo x Vent  USER  015345      -    1         112       FAB
+0000033398  04/04/2025  18:38  Descargo x Vent  USER  015347      -    1         111       FAB
+0000033401  04/04/2025  18:50  Descargo x Vent  USER  015350      -    1         110       FAB
+0000033426  05/04/2025  16:10  Descargo x Vent  USER  015364      -    1         109       FAB
+0000033471  07/04/2025  23:48  Descargo x Vent  USER  015400      -    1         108       MAR
+0000033476  07/04/2025  01:27  Descargo x Vent  USER  015405      -    1         107       MAR
+0000033479  07/04/2025  15:55  Descargo x Vent  USER  015408      -    1         106       MAR
+0000033501  07/04/2025  08:54  Descargo x Vent  USER  015429      -    1         105       MAR
+0000033507  07/04/2025  20:22  Descargo x Tran  SISH  33507       -   10          95       EFR
+0000033527  08/04/2025  18:19  Descargo x Vent  USER  015450      -    1          94       EFR
+0000033530  08/04/2025  19:18  Descargo x Vent  USER  015453      -    1          93       FAB
+0000033539  09/04/2025  09:19  Descargo x Vent  USER  015459      -    1          92       MAR
+0000033549  09/04/2025  17:15  Descargo x Vent  USER  015469      -    1          91       MAR
+0000033551  09/04/2025  17:20  Descargo x Vent  USER  015471      -    1          90       MAR
+0000033563  09/04/2025  19:07  Descargo x Vent  USER  015481      -    1          89       MAR
+0000033616  12/04/2025  09:27  Descargo x Vent  USER  015508      -    1          88       FABúZethQuark Versi¢n 7.0ú                                                              06/06/2025
+POL.LOS ANGELES                   KARDEX : ASCORBIC PROMOCION                          08:41:15
+PRG232()                          DEL 01/03/2025 AL 06/06/2025                       Pag.-    3
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000033635  13/04/2025  10:43  Descargo x Vent  USER  015523      -    1          87       FAB
+0000033670  14/04/2025  17:08  Descargo x Tran  SMMD  33670       -    5          82       EFR
+0000033678  14/04/2025  19:01  Descargo x Vent  USER  015563      -    1          81       CLA
+0000033680  14/04/2025  19:28  Descargo x Vent  USER  015565      -    1          80       EFR
+0000033681  14/04/2025  19:54  Descargo x Tran  SISH  33681       -   10          70       EFR
+0000033701  15/04/2025  18:29  Descargo x Vent  USER  015585      -    1          69       CLA
+0000033702  15/04/2025  18:32  Descargo x Vent  USER  015586      -    1          68       CLA
+0000033722  16/04/2025  16:55  Descargo x Vent  USER  015605      -    1          67       EFR
+0000033727  16/04/2025  17:23  Descargo x Vent  USER  015608      -    1          66       FAB
+0000033745  16/04/2025  20:18  Descargo x Vent  USER  015623      -    1          65       FAB
+0000033798  19/04/2025  14:42  Descargo x Vent  USER  015664      -    1          64       ELI
+0000033809  19/04/2025  17:51  Descargo x Vent  USER  015675      -    1          63       ELI
+0000033812  19/04/2025  18:35  Descargo x Vent  USER  015678      -    1          62       ELI
+0000033829  20/04/2025  02:57  Descargo x Vent  USER  015693      -    1          61       FAB
+0000033856  21/04/2025  17:56  Descargo x Vent  USER  015719      -    1          60       CLA
+0000033865  21/04/2025  19:08  Descargo x Vent  USER  015728      -    1          59       CLA
+0000033872  21/04/2025  20:03  Descargo x Vent  USER  015734      -    1          58       CLA
+0000033874  21/04/2025  20:22  Descargo x Vent  USER  015736      -    1          57       CLA
+0000033875  21/04/2025  20:35  Descargo x Vent  USER  015737      -    1          56       CLA
+0000033909  22/04/2025  17:24  Descargo x Vent  USER  015763      -    1          55       CLA
+0000033924  22/04/2025  20:33  Descargo x Tran  SISH  33924       -    5          50       EFR
+0000033965  24/04/2025  16:49  Descargo x Vent  USER  015811      -    1          49       MAR
+0000033969  24/04/2025  18:35  Descargo x Vent  USER  015814      -    1          48       MAR
+0000033989  25/04/2025  15:31  Descargo x Vent  USER  015832      -    1          47       FAB
+0000034004  25/04/2025  18:42  Descargo x Vent  USER  015846      -    1          46       FAB
+0000034008  25/04/2025  19:48  Descargo x Vent  USER  015850      -    1          45       FAB
+0000034012  26/04/2025  07:24  Descargo x Vent  USER  015853      -    1          44       CLA
+0000034018  26/04/2025  13:18  Descargo x Tran  SISH  34018       -    5          39       EFR
+0000034031  26/04/2025  16:13  Descargo x Vent  USER  015867      -    1          38       CLA
+0000034042  26/04/2025  17:45  Descargo x Vent  USER  015876      -    1          37       CLA
+0000034049  26/04/2025  18:31  Descargo x Vent  USER  015882      -    1          36       CLA
+0000034094  28/04/2025  18:25  Descargo x Vent  USER  015924      -    1          35       FAB
+0000034099  28/04/2025  18:54  Descargo x Vent  USER  015929      -    1          34       FAB
+0000034110  28/04/2025  20:03  Descargo x Vent  USER  015937      -    1          33       FAB
+0000034112  28/04/2025  20:23  Cargo x Anulaci  USER  015937      +    1          34       EFR
+0000034118  28/04/2025  21:08  Descargo x Tran  SISH  34114       -    5          29       EFR
+0000034165  30/04/2025  18:47  Descargo x Vent  USER  015982      -    1          28       CLA
+0000034185  01/05/2025  17:53  Descargo x Vent  USER  016002      -    1          27       CLA
+0000034203  02/05/2025  12:53  Descargo x Vent  USER  016020      -    1          26       ELI
+0000034227  02/05/2025  20:12  Descargo x Tran  SISH  34227       -    5          21       EFR
+0000034229  02/05/2025  20:23  Descargo x Vent  USER  016042      -    1          20       ELI
+0000034257  03/05/2025  11:30  Descargo x Vent  USER  016062      -    1          19       CLA
+0000034320  05/05/2025  19:46  Descargo x Vent  USER  016121      -    1          18       CLA
+0000034323  05/05/2025  20:26  Descargo x Tran  SMMD  34323       -    5          13       EFR
+0000034345  06/05/2025  16:32  Descargo x Vent  USER  016141      -    1          12       ELI
+0000034362  06/05/2025  18:45  Descargo x Vent  USER  016157      -    1          11       ELI
+0000034368  06/05/2025  19:41  Descargo x Vent  USER  016163      -    1          10       ELI
+0000034408  07/05/2025  11:20  Descargo x Vent  USER  016198      -    1           9       CLA
+0000034415  07/05/2025  19:24  Descargo x Tran  SISH  34410       -    9           0       EFR
+0000034417  07/05/2025  19:25  Cargo x Compra   0016  F009-4418   +  100         100       EFR
+0000034422  07/05/2025  12:50  Descargo x Vent  USER  016206      -    1          99       CLA
+0000034447  08/05/2025  17:54  Descargo x Vent  USER  016227      -    1          98       CLA
+0000034453  08/05/2025  18:36  Descargo x Vent  USER  016233      -    1          97       CLA
+0000034454  08/05/2025  18:46  Descargo x Vent  USER  016234      -    1          96       EFR
+0000034462  08/05/2025  19:46  Descargo x Vent  USER  016241      -    1          95       CLAúZethQuark Versi¢n 7.0ú                                                              06/06/2025
+POL.LOS ANGELES                   KARDEX : ASCORBIC PROMOCION                          08:41:15
+PRG232()                          DEL 01/03/2025 AL 06/06/2025                       Pag.-    4
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000034464  08/05/2025  19:42  Descargo x Vent  USER  016243      -    1          94       CLA
+0000034493  09/05/2025  19:57  Descargo x Vent  USER  016268      -    1          93       CLA
+0000034534  10/05/2025  19:26  Descargo x Vent  USER  016302      -    1          92       FAB
+0000034550  12/05/2025  10:25  Descargo x Vent  USER  016315      -    1          91       CLA
+0000034555  12/05/2025  16:16  Descargo x Vent  USER  016320      -    1          90       CLA
+0000034575  12/05/2025  19:37  Descargo x Vent  USER  016338      -    1          89       CLA
+0000034578  12/05/2025  20:16  Descargo x Tran  SISH  34576       -    5          84       EFR
+0000034617  13/05/2025  19:47  Descargo x Tran  SISH  34617       -    5          79       EFR
+0000034618  13/05/2025  19:49  Descargo x Vent  USER  016371      -    1          78       CLA
+0000034642  14/05/2025  19:25  Descargo x Vent  USER  016394      -    1          77       ELI
+0000034643  14/05/2025  19:38  Descargo x Vent  USER  016395      -    1          76       ELI
+0000034712  16/05/2025  13:30  Descargo x Vent  USER  016444      -    1          75       CLA
+0000034729  16/05/2025  17:50  Descargo x Vent  USER  016460      -    1          74       CLA
+0000034738  16/05/2025  19:56  Descargo x Vent  USER  016468      -    1          73       ELI
+0000034742  16/05/2025  20:53  Descargo x Tran  SISH  34741       -    5          68       EFR
+0000034779  17/05/2025  18:39  Descargo x Vent  USER  016502      -    1          67       ELI
+0000034783  17/05/2025  19:27  Descargo x Vent  USER  016506      -    1          66       ELI
+0000034811  19/05/2025  15:23  Descargo x Vent  USER  016531      -    1          65       ELI
+0000034819  19/05/2025  18:08  Descargo x Vent  USER  016539      -    1          64       ELI
+0000034830  19/05/2025  20:04  Descargo x Modi  SISH  34827       -   10          54       EFR
+0000034831  19/05/2025  23:54  Descargo x Vent  USER  016548      -    1          53       FAB
+0000034840  20/05/2025  12:02  Cargo x Anulaci  USER  016548      +    1          54       EFR
+0000034858  20/05/2025  18:19  Descargo x Vent  USER  016566      -    1          53       FAB
+0000034868  20/05/2025  20:12  Descargo x Vent  USER  016576      -    1          52       FAB
+0000034869  20/05/2025  20:38  Descargo x Vent  USER  016577      -    1          51       FAB
+0000034871  20/05/2025  20:44  Descargo x Tran  SMMD  3486        -    5          46       EFR
+0000034872  20/05/2025  20:58  Descargo x Vent  USER  016579      -    1          45       FAB
+0000034874  20/05/2025  21:04  Cargo x Anulaci  USER  016579      +    1          46       EFR
+0000034875  20/05/2025  21:09  Descargo x Vent  USER  016581      -    1          45       FAB
+0000034885  21/05/2025  08:55  Descargo x Vent  USER  016590      -    1          44       CLA
+0000034925  22/05/2025  21:05  Descargo x Tran  SISH  34925       -   10          34       EFR
+0000034968  22/05/2025  18:28  Cargo x Compra   0016  F009-4732   +  100         133       GEN
+0000034953  24/05/2025  03:07  Descargo x Vent  USER  016648      -    1          33       FAB
+0000034970  24/05/2025  18:35  Descargo x Vent  USER  016661      -    1         132       FAB
+0000035011  26/05/2025  19:34  Descargo x Vent  USER  016700      -    1         131       AUD
+0000035015  26/05/2025  20:07  Descargo x Vent  USER  016703      -    1         130       AUD
+0000035018  26/05/2025  20:30  Descargo x Vent  USER  016705      -    1         129       AUD
+0000035020  26/05/2025  20:43  Descargo x Vent  USER  016707      -    1         128       AUD
+0000035022  26/05/2025  21:08  Descargo x Vent  USER  016709      -    1         127       AUD
+0000035023  26/05/2025  21:13  Descargo x Tran  SISH  35022       -   10         117       EFR
+0000035036  27/05/2025  03:12  Descargo x Vent  USER  016722      -    1         116       AUD
+0000035080  28/05/2025  06:50  Descargo x Vent  USER  016763      -    1         115       AUD
+0000035129  29/05/2025  17:07  Descargo x Vent  USER  016804      -    1         114       AUD
+0000035147  29/05/2025  19:18  Descargo x Vent  USER  016821      -    1         113       AUD
+0000035156  29/05/2025  20:39  Descargo x Vent  USER  016830      -    1         112       AUD
+0000035175  30/05/2025  19:01  Descargo x Vent  USER  016846      -    1         111       AUD
+0000035184  30/05/2025  19:56  Descargo x Vent  USER  016854      -    1         110       AUD
+0000035196  31/05/2025  01:38  Descargo x Vent  USER  016866      -    1         109       AUD
+0000035209  31/05/2025  11:32  Descargo x Tran  SISH  20250531    -   30          79       FAB
+0000035225  31/05/2025  17:51  Descargo x Vent  USER  016890      -    1          78       AUD
+0000035229  31/05/2025  18:13  Descargo x Vent  USER  016893      -    1          77       AUD
+0000035230  31/05/2025  18:26  Descargo x Vent  USER  016894      -    1          76       AUD
+0000035235  31/05/2025  18:57  Cargo x Anulaci  USER  016893      +    1          77       EFR
+0000035287  02/06/2025  18:23  Descargo x Vent  USER  016946      -    1          76       CLA
+0000035301  02/06/2025  21:02  Descargo x Vent  USER  016960      -    1          75       CLAúZethQuark Versi¢n 7.0ú                                                              06/06/2025
+POL.LOS ANGELES                   KARDEX : ASCORBIC PROMOCION                          08:41:16
+PRG232()                          DEL 01/03/2025 AL 06/06/2025                       Pag.-    5
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000035325  03/06/2025  18:05  Descargo x Vent  USER  016976      -    1          74       MCA
+0000035355  04/06/2025  17:45  Descargo x Vent  USER  017003      -    1          73       CLA
+0000035364  04/06/2025  19:09  Descargo x Vent  USER  017010      -    1          72       CLA
+0000035368  04/06/2025  20:04  Descargo x Vent  USER  017014      -    1          71       CLA
+0000035387  05/06/2025  17:32  Descargo x Vent  USER  017033      -    1          70       ELI
+0000035388  05/06/2025  17:43  Descargo x Vent  USER  017034      -    1          69       ELI
+0000035389  05/06/2025  18:05  Descargo x Vent  USER  017035      -    1          68       ELI
+0000035390  05/06/2025  18:06  Descargo x Vent  USER  017036      -    1          67       ELI
+0000035401  05/06/2025  20:12  Descargo x Vent  USER  017045      -    1          66       ELI

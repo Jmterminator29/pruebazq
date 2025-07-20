@@ -1,0 +1,50 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 30/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 27/07/2024 AL 27/07/2024                              08:34:45
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007744           EFR  EFR  27/07/2024 08:15  V                      SILVA GAMBOA CONSTANTINO       E          13.00
+007745           YOS  YOS  27/07/2024 09:35  V                      TORRES LOLI FRESIA             E          25.00
+007746           YOS  YOS  27/07/2024 09:46  V                      PEREZ JULCA FELICIANA          E         175.00
+007747           YOS  YOS  27/07/2024 10:24  V                      BLAS CAPILLO JHAJAIRA          E          45.00
+007748           YOS  YOS  27/07/2024 10:40  V                      RAMOS SANCHEZ LILIANA          E          72.00
+007749           YOS  YOS  27/07/2024 10:59  V                      CIVICO RAMOS CIELO             E         150.00
+007750           YOS  YOS  27/07/2024 11:02  V                      ROSADO PAUSICH SUE             Y          45.00
+007751           YOS  YOS  27/07/2024 11:38  V                      LUGO TRICLO FELIX              E         100.00
+007752           YOS  YOS  27/07/2024 12:56  V                      REQUENA TRINIDAD YANDETH       E          45.00
+007753           YOS  YOS  27/07/2024 13:14  V                      BLAS CAPILLO JHAHAIRA          E          61.50
+007754           YOS  YOS  27/07/2024 13:27  V                      ROSADO PAUSICH SUE             Y          80.00
+007755           YOS  YOS  27/07/2024 13:29  V                      SAMAL MOSQUERA IAN             E          60.00
+007756           YOS  YOS  27/07/2024 13:36  V                      REQUENA TRINIDAD YANDTH        E          73.20
+007757           YOS  YOS  27/07/2024 14:24  V                      ROMERO GRADOS MATEO            E          60.00
+007758           YOS  YOS  27/07/2024 15:05  V                      VELEZ CHANG DENISSE JESUS      E          45.00
+007759           YOS  YOS  27/07/2024 15:06  V                      TAPIA VELEZ ANDY               E          45.00
+007760           YOS  YOS  27/07/2024 16:38  V                      JUAN ALVARADO OBREGON          E         130.00
+007761           YOS  YOS  27/07/2024 16:51  V                      GUTIERREZ ROJAS LUCIA          Y          45.00
+007762           YOS  YOS  27/07/2024 17:11  V                      VELEZ CHANG DENISSE JESUS      E          94.00
+007763           YOS  YOS  27/07/2024 17:13  V                      TAPIA VELEZ ANDY               Y          22.00
+007764           YOS  YOS  27/07/2024 17:40  V                      GUTIERREZ ROJAS LUCIA          Y          94.50
+007765           YOS       27/07/2024 18:11  V                      UGARTE ROJAS CRISTINA          E         150.00
+007766           YOS       27/07/2024 18:44  V                      MOGOLLON CRUZ ABIGAIL          E          15.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      18       1,358.70
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      23       1,645.20                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              1,645.20                                                    Yape          :       5         286.50
+                                                                                                                    -------------
+                                                                                                                        1,645.20
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        250.92
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

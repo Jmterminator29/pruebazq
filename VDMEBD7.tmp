@@ -1,0 +1,10 @@
+úZethQuark Versi¢n 7.0ú                                                              18/04/2025
+POL.LOS ANGELES              KARDEX : SUMAQ MUJER POTE 500G AGUAJE                     17:28:59
+PRG232()                          DEL 01/03/2025 AL 18/04/2025                       Pag.-    1
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000033446  05/04/2025  20:22  Cargo x Compra   0012  14621       +    6           8       EFR
+0000033476  07/04/2025  01:27  Descargo x Vent  USER  015405      -    1           7       MAR
+0000033681  14/04/2025  19:54  Descargo x Tran  SISH  33681       -    1           6       EFR
+0000033769  18/04/2025  17:09  Descargo x Tran  SMMD  33769       -    2           4       EFR

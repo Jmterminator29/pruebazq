@@ -1,0 +1,77 @@
+úZethQuark Versi¢n 7.0ú                                               11/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 08/02/2022 AL 08/02/2022        12:51:44
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT#24 CAJAX50UNID                           1u1            0u3         SAN
+AGLUTINACIONES                                244              1           SAN
+AGUJA #18 CAJAX100UNID.                         1u85           0u10        SAN
+ANEURIN 10,000 SOLUCION INYECTABLE              8              5           SAN
+ANTIGENO HISOPADO ENERO 2022                   25              3           SAN
+ASCORBIC-C + MATERIAL DE APLICACION             9              3           ISA
+ASSIS 400 SUSPX220ML                            2              1           SAN
+CEFALOGEN 1GR IM CAJA X 1 INYECTABLE            2              5           SAN
+CLORFENAMINA 10MG/ML AMPOLL CAJX100             0              0u2         SAN
+CLORURO DE SODIO 100ML 0,9%                     6              3           SAN
+CONSULTA DR MARIO                            9852             13           SAN
+CONSULTA OBSTETRICIA                          882              4           SAN
+CULTIVO DE SEC.VAGINAL                       1841              2           SAN
+DENSITOMETRIA PROMOCION                        87              1           ISA
+DEXACORT 4MG72ML CAJAX1 AMPOLLA                 7              2           ISA
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100             1u43           0u4         SAN
+DICLOFENACO AMP 75MGx3ML CAJX100                0u17           0u3         SAN
+ENDOVENOSO INTERNO CLINICA                    404              2           ISA
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN        0u21           0u3         SAN
+ESPASMO ANTALGINA 250mg+10mg tableta 100        2u27           0u5         SAN
+ESPASMO ANTALGINA AMPOLLA                      12              1           SAN
+ESPECULO TALLA M                               10              2           SAN
+FASTUM TUBO 30GR GEL                            0              1           SAN
+FENAZOPIRIDINA 100mg TABLETA CAJA X 100         0u82           0u6         ISA
+FRASCO DE HECES                                30              3           SAN
+FRASCO ORINA ESTERIL                            6              4           SAN
+FUROSEMIDA TAB 40MGx100                         0              0u6         SAN
+GLUCOSA                                      9706              2           SAN
+HELICOBACTER PYLORI IGM                      1176              1           SAN
+HEMOGLOBINA HEMATOCRITO                       911              8           ISA
+HEMOGRAMA COMPLETO                            799              4           SAN
+HEPABIONTA DE 2ML AMPOLL CAJAX1               122              1           ISA
+JERINGA 10ML CAJAX100UNID.                      1u75           0u5         SAN
+JERINGA 20ML CAJAX50UNID.                       1u7            0u2         SAN
+JERINGA 5ML CAJAX100UNID.                       0u85           0u2         SAN
+KETESSE 25MG TABLETA CAJAX20                    0              0           SAN
+LIDOCAINA 1% AMPOLLA 3,5ML                     46              4           SAN
+LIKFERR +MATERIAL DE APLICACION                 5              1           ISA
+LORATADINA 10MG TABLX100                        9u64           0u30        ISA
+LOSARTAN  50mg CAJAX100TABLETAS                 1u12           0u30        ISA
+METAMIZOL CAJA X100 AMPOLLAS                    0u29           0u1         SAN
+MULCEROL/ESOMEPRAZOL 40 TAB CAJX30             16u17           0u10        SAN
+NAPROXENO 550 TABx100                           1u8            0u6         SAN
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10          7u4            0u1         SAN
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS           4u12           0u1         ISA
+ORINA COMPLETA                                250              3           SAN
+PAPANICOLAOU                                  931              1           SAN
+PARASITOLOGICO SIMPLE                        1640              2           SAN
+PENICILINA BENZATINICA 1200000UI CAJX10         2u2            0u3         SAN
+PERFIL HEPATICO                               346              3           SAN
+PERFIL LIPIDICO                               741              1           ISA
+PERFIL REUMATICO                              675              1           ISA
+PESO Y TALLA                                   92              1           ISA
+PRESION                                      1819              1           SAN
+PROFENID AMP 100MGx2ML CAJX6                    2u4            0u2         SANúZethQuark Versi¢n 7.0ú                                               11/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 08/02/2022 AL 08/02/2022        12:51:45
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ROWACHOL  CAPSULAX100UNID.                      0u86           0u60        ISA
+RX DE PIE FRONTAL Y LATERAL                  1979              1           ISA
+T4 LIBRE                                      625              1           ISA
+TAMSULOSINA 0.4MG TABL CAJX50                   1u8            0u30        ISA
+TERBINAFINA 1% CREMA 20G                        0              1           SAN
+TRANSAMINASA OXALACETICA (TGO)                979              1           ISA
+TRANSAMINASA PIRUVICA (TGP)                   977              1           ISA
+TSH ULTRASENSIBLE                             661              1           ISA
+--------------------------------------------------------------------------------
+T O T A L:    63
+--------------------------------------------------------------------------------

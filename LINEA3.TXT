@@ -1,0 +1,34 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (ECOGRAFIA)                   18:09:31
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17440 DOPPLER ARTERIAL CADA LADO               ZZZZ      240.00               0        100     
+17442 DOPPLER CAROTIDEO                        ZZZZ      200.00               0        100     
+17443 DOPPLER OBSTETRICA                       ZZZZ      200.00               0        100     
+17441 DOPPLER TESTICULAR                       ZZZZ      200.00               0        100     
+17439 DOPPLER VENOSO MMII CADA LADO            ZZZZ      240.00               0        100     
+15358 ECO ABDOMEN COMPLETO                     ECO       120.00               0        100     
+15351 ECO ABDOMEN INFERIOR                     ECO       100.00               0        100     
+15346 ECO ABDOMEN SUPERIOR                     ECO       100.00               0        100     
+17432 ECO CADERA ADULTO                        ZZZZ      120.00               0        100     
+17296 ECO CADERA NINO                          ZZZZ      120.00               0        100     
+17436 ECO CODO                                 ZZZZ      100.00               0        100     
+17434 ECO CUELLO                               ZZZZ      120.00               0        100     
+16947 ECO DE MAMAS                             ZZZZ      120.00               0        100     
+16946 ECO GENETICA                             ZZZZ      150.00               0        100     
+17298 ECO HOMBRO                               ZZZZ      100.00               0        100     
+16945 ECO MORFOLOGICA                          ZZZZ      150.00               0        100     
+17437 ECO MUNECA                               ZZZZ      100.00               0        100     
+16949 ECO OBSTETRICA                           ZZZZ      100.00               0        100     
+15350 ECO PARED ABDOMINAL                      ECO       100.00               0        100     
+15361 ECO PELVICA                              ECO       100.00               0        100     
+17435 ECO REGION INGUINAL                      ZZZZ      100.00               0        100     
+17433 ECO RENAL                                ZZZZ      100.00               0        100     
+17285 ECO RODILLA                              ZZZZ      100.00               0        100     
+16948 ECO TIROIDES                             ZZZZ      120.00               0        100     
+17438 ECO TOBILLO                              ZZZZ      100.00               0        100     
+15360 ECO TRANSVAGINAL                         ECO       120.00               0        100     
+16548 ECO VEJIGA PROSTATA                      ECO       100.00               0        100     
+17368 ECO VESICO RENAL                         ZZZZ      100.00               0        100     

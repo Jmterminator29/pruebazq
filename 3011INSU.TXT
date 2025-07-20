@@ -1,0 +1,53 @@
+úZethQuark Versi¢n 7.0ú                                                                                                      30/11/2024
+POL.LOS ANGELES                    REPORTE INVENTARIO VALORIZADO X LINEA (INSUMOS MEDICOS) MOSTRADOR                           19:09:56
+PRT282()                                                                                                                     Pag.-    1
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+ABOCAT #20CAJAX50UNID                        1u35     250.00     80.00          425.00           136.00           289.00
+ABOCAT#22 CAJAX50UNID                        0u30     250.00     57.50          150.00            34.50           115.50
+ABOCAT#24 CAJAX50UNID                        4u3      250.00     50.00        1,015.00           203.00           812.00
+AGUJA #18 CAJAX100UNID.                      3u79      50.00      5.75          189.50            21.79           167.71
+AGUJA #21 CAJAX100                           0u39      50.00      8.50           19.50             3.32            16.19
+AGUJA #22 CAJAX100                           1u3       50.00      6.00           51.50             6.18            45.32
+AGUJA #23 CAJAX100UNID.                      0u25      50.00      8.50           12.50             2.13            10.38
+AGUJA #25 CAJAX100UNI.                       1u79      50.00      8.50           89.50            15.22            74.29
+ALITAS 23G LONG30CM CJA100UNID.              0u82     300.00     26.00          246.00            21.32           224.68
+ALITAS 25G LONG30CM CAJA X 100UND            0u90     300.00     26.00          270.00            23.40           246.60
+BATA DESCARTABLE                             6         12.00      3.50           72.00            21.00            51.00
+BISTURI #10 CAJAX100 UNIDADES                0u33     200.00     15.00           66.00             4.95            61.05
+BOLSA COLECTORA DE ADULTO                   15         10.00      2.20          150.00            33.00           117.00
+CANULA BINASAL L ADULTO                     64          5.00      2.00          320.00           128.00           192.00
+CLORURO 250ML                               35          9.50      4.17          332.50           145.95           186.55
+CLORURO 500ML                                3          9.50                     28.50                             28.50
+CLORURO DE SODIO 100ML 0,9%                207          7.00      1.80        1,449.00           372.60         1,076.40
+DEXTROSA 33.3% 20ML UNIDAD                   2          5.00      2.89           10.00             5.78             4.22
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN     4u7      100.00     19.00          428.00            81.32           346.68
+EQUIPO MICROGOTERO CON VOLUTROL 100ML       19         15.00      3.50          285.00            66.50           218.50
+ESPECULO TALLA L                             3          5.00      2.00           15.00             6.00             9.00
+ESPECULO TALLA M                            27          5.00      2.17          135.00            58.59            76.41
+EXTENSION DISS 50CM                          8                                                                          
+FRASCO DE HECES                            169          1.50      0.45          253.50            76.05           177.45
+FRASCO ORINA ESTERIL                       123          1.50      0.50          184.50            61.50           123.00
+GASA ESTERIL MED.10X10CM CAJAX20UNID         3u5       60.00     19.00          195.00            61.75           133.25
+GLUCOTECH                                   26         10.00      2.00          260.00            52.00           208.00
+GUANTES QUIRURGICO TALLA 7.5                20          5.00      2.00          100.00            40.00            60.00
+JERINGA 10ML CAJAX100UNID.                   3u68     100.00     19.00          368.00            69.92           298.08
+JERINGA 1ML CAJAX1OOUNID.                    0u27     100.00     15.00           27.00             4.05            22.95
+JERINGA 20ML CAJAX50UNID.                    4u22      50.00     17.00          222.00            75.48           146.52
+JERINGA 3ML X100                             2u8       50.00     21.00          104.00            43.68            60.32
+JERINGA 5ML CAJAX100UNID.                    1u85     100.00     14.00          185.00            25.90           159.10
+LLAVE TRIPLE VIA CAJAX50UNID.                1u21     250.00     38.00          355.00            53.96           301.04
+MASCARA CON RESERVORIO ADULTO                2         20.00      7.00           40.00            14.00            26.00
+MASCARILLA NEBULIZADORA ADULTO              28         12.00      3.10          336.00            86.80           249.20
+MASCARILLA NEBULIZADORA NINO                33         12.00      3.10          396.00           102.30           293.70
+MASCARILLA PARA RESERVORIO PEDIATRICO        1         12.00      8.00           12.00             8.00             4.00
+NYLON #3                                     2          8.50      3.20           17.00             6.40            10.60
+NYLON #4                                     0u17     204.00     88.00          144.50            62.33            82.17
+SONDA FOLEX DE LATEX #14                     6         10.00      4.00           60.00            24.00            36.00
+SONDA FOLEY #16                              8         12.00      5.00           96.00            40.00            56.00
+SUERO FISIOLOGICO DE 1 LITRO                35         10.00      4.00          350.00           140.00           210.00
+VENDA ELASTC MEDIDA 5X5                      8          3.00      1.42           24.00            11.36            12.64
+---------------------------------------------------------------------------------------------------------------------------------------
+T O T A L E S :                                                               9,489.00         2,450.02         7,038.98
+---------------------------------------------------------------------------------------------------------------------------------------

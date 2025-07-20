@@ -1,0 +1,112 @@
+úZethQuark Versi¢n 7.0ú                                                                                                      03/12/2024
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (RAYOS X) MOSTRADOR                               20:16:11
+PRT282()                                                                                                                     Pag.-    1
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+RX ABDOMEN SIMPLE                          100         80.00                  8,000.00                          8,000.00
+RX ABDOMEN SIMPLE DE PIE                   100         80.00                  8,000.00                          8,000.00
+RX ABDOMEN SIMPLE Y CUBITO - PIE           100        150.00                 15,000.00                         15,000.00
+RX AGUJEROS OPTICOS C/LADO                 100         80.00                  8,000.00                          8,000.00
+RX ANTEBRAZO F - L                         100         60.00                  6,000.00                          6,000.00
+RX ARCO CIGOMATICOS C/LADO                 100         80.00                  8,000.00                          8,000.00
+RX ART.TEMPORO MAXILAR C/LADO (ATM)        100         80.00                  8,000.00                          8,000.00
+RX ARTICULACION TEMPORO MANDIBULAR        1000         85.00                 85,000.00                         85,000.00
+RX BRAZO COMPARATIVOS                      100        110.00                 11,000.00                         11,000.00
+RX BRAZO FRONTAL Y LATERAL                 990         75.00                 74,250.00                         74,250.00
+RX BRAZO/HUMERO C/LADO                     100         60.00                  6,000.00                          6,000.00
+RX CADERA COMPARATIVA                      100        160.00                 16,000.00                         16,000.00
+RX CADERA COXOFEMORAL                      100         80.00                  8,000.00                          8,000.00
+RX CADERA INCIDENCIA LOWESTEIN             996         95.00                 94,620.00                         94,620.00
+RX CADERA INCIDENCIA VON ROSSEN           1000         95.00                 95,000.00                         95,000.00
+RX CADERA PEDIATRICA                       100        130.00                 13,000.00                         13,000.00
+RX CALCANEO C/LADO                         100         60.00                  6,000.00                          6,000.00
+RX CALCANEO COMPARATIVOS                   100        110.00                 11,000.00                         11,000.00
+RX CAVUM (B.A-B.C)                         100         70.00                  7,000.00                          7,000.00
+RX CERVICO DORSAL FRONTAL Y LATERAL        993        110.00                109,230.00                        109,230.00
+RX CISTOGRAFIA PRE-POST MICCIONAL          100        200.00                 20,000.00                         20,000.00
+RX CLAVICULA                               100         70.00                  7,000.00                          7,000.00
+RX CODO C/LADO                             100         60.00                  6,000.00                          6,000.00
+RX CODO COMPARATIVO                        100        110.00                 11,000.00                         11,000.00
+RX CODO FRONTAL Y LATERAL                  987         75.00                 74,025.00                         74,025.00
+RX COLON DOBLE CONTRASTE                   100        340.00                 34,000.00                         34,000.00
+RX COLON ENERMA OPACA DOBLE CONTRASTE      100        340.00                 34,000.00                         34,000.00
+RX COLUMNA CERVICAL F - L                  100         90.00                  9,000.00                          9,000.00
+RX COLUMNA CERVICAL FUNCIONAL              100        160.00                 16,000.00                         16,000.00
+RX COLUMNA CERVICO DORSAL                  100        160.00                 16,000.00                         16,000.00
+RX COLUMNA DORSAL F - L                    100         80.00                  8,000.00                          8,000.00
+RX COLUMNA DORSAL F-P-Os                   100        170.00                 17,000.00                         17,000.00
+RX COLUMNA DORSAL LUMBAR                   100        180.00                 18,000.00                         18,000.00
+RX COLUMNA LUMBAR F - L                    100        100.00                 10,000.00                         10,000.00
+RX COLUMNA LUMBAR FUNCIONAL                100        180.00                 18,000.00                         18,000.00
+RX COLUMNA LUMBAR SACRA F - L              100        100.00                 10,000.00                         10,000.00
+RX COLUMNA SACRO COXIGEA F - L             100         80.00                  8,000.00                          8,000.00
+RX COLUMNA TOTAL                           100        270.00                 27,000.00                         27,000.00
+RX CORAZON GRANDES VASOS C y GV CON/C      100        260.00                 26,000.00                         26,000.00
+RX CORAZON GRANDES VASOS C y GV SIN/C      100        120.00                 12,000.00                         12,000.00
+RX COXIS F - L                             100         80.00                  8,000.00                          8,000.00
+RX CRANEO F y L                            100         80.00                  8,000.00                          8,000.00
+RX CUERPO EXTRA¥O                          100         80.00                  8,000.00                          8,000.00
+RX DE HUESOS PROPIOS DE LA NARIZ           995         85.00                 84,575.00                         84,575.00
+RX DE PIE FRONTAL Y LATERAL                963         75.00                 72,225.00                         72,225.00
+RX DE PIERNA FRONTAL Y LATERAL             987         95.00                 93,765.00                         93,765.00
+RX DE PIES COMPARATIVOS                    998        100.00                 99,800.00                         99,800.00
+RX EDAD OSEA                               100         60.00                  6,000.00                          6,000.00
+RX ESOFAGO C/CONTRASTE                     100        180.00                 18,000.00                         18,000.00
+RX ESTERNON F - L                          100         80.00                  8,000.00                          8,000.00
+RX ESTOMAGO DUODENO C/CONTRASTE            100        280.00                 28,000.00                         28,000.00
+RX FEMUR C/LADO                            100         70.00                  7,000.00                          7,000.00
+RX FRONTAL LATERAL Y OBLICUA               999         85.00                 84,915.00                         84,915.00
+RX HOMBRO C/LADO                           100         70.00                  7,000.00                          7,000.00
+RX HOMBRO ROTACION INTERNA Y EXTERNA       965         85.00                 82,025.00                         82,025.00úZethQuark Versi¢n 7.0ú                                                                                                      03/12/2024
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (RAYOS X) MOSTRADOR                               20:16:12
+PRT282()                                                                                                                     Pag.-    2
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+RX HOMBROS COMPARATIVOS                    100        130.00                 13,000.00                         13,000.00
+RX HUESOS PROPIOS DE LA NARIZ H.P.N        100         80.00                  8,000.00                          8,000.00
+RX INTESTINO DELGADO (TRANS.GASTROINTES)   100        280.00                 28,000.00                         28,000.00
+RX MADURACION OSEA                         997         95.00                 94,715.00                         94,715.00
+RX MANO C/LADO                             100         60.00                  6,000.00                          6,000.00
+RX MANO COMPARATIVAS                       100        110.00                 11,000.00                         11,000.00
+RX MASTOIDES C/LADO                        100         80.00                  8,000.00                          8,000.00
+RX MAXILAR INFERIOR                        100         80.00                  8,000.00                          8,000.00
+RX MAXILAR SUPERIOR                        100         80.00                  8,000.00                          8,000.00
+RX MEDICION DE LOS MIEMBROS INFERIORES     100        180.00                 18,000.00                         18,000.00
+RX MESURACION MIEMBROS INFERIORES          998         90.00                 89,820.00                         89,820.00
+RX MU¥ECA F y L C/LADO                     100         60.00                  6,000.00                          6,000.00
+RX MU¥ECAS COMPARATIVAS                    100        110.00                 11,000.00                         11,000.00
+RX OMOPLATO/ESCAPULA C/LADO                100         70.00                  7,000.00                          7,000.00
+RX ORBITAS C/LADO                          100         80.00                  8,000.00                          8,000.00
+RX PARRILLA COSTAL C/LADO                  100         80.00                  8,000.00                          8,000.00
+RX PELVIS                                  100         70.00                  7,000.00                          7,000.00
+RX PE¥ASCO C/LADO POSICIONES               100         80.00                  8,000.00                          8,000.00
+RX PIE C/LADO                              100         60.00                  6,000.00                          6,000.00
+RX PIELOGRAFIA S/C                         100         80.00                  8,000.00                          8,000.00
+RX PIERNA F y L                            100         60.00                  6,000.00                          6,000.00
+RX PIERNAS COMPARATIVAS                    100        110.00                 11,000.00                         11,000.00
+RX PIES COMPARATIVOS                       100        110.00                 11,000.00                         11,000.00
+RX RODILLA AXIALES ROTULA                  989         75.00                 74,175.00                         74,175.00
+RX RODILLA F y L C/LADO                    100         60.00                  6,000.00                          6,000.00
+RX RODILLAS COMPARATIVAS                   100        110.00                 11,000.00                         11,000.00
+RX SACRO COCCIGEA:FRONTAL Y LATERAL        999         95.00                 94,905.00                         94,905.00
+RX SACRO ILIACA C/LADO                     100         80.00                  8,000.00                          8,000.00
+RX SENOS PARANASALES 2T                    100         80.00                  8,000.00                          8,000.00
+RX SENOS PARANASALES 3T                    100        100.00                 10,000.00                         10,000.00
+RX SILLA TURCA                             100         70.00                  7,000.00                          7,000.00
+RX SIMPLE DECUBITO DORSAL Y DE PIE         998         90.00                 89,820.00                         89,820.00
+RX TEMPORAL C/LADO POSICIONES              100         80.00                  8,000.00                          8,000.00
+RX TOBILLO F y L C/LADO                    100         60.00                  6,000.00                          6,000.00
+RX TOBILLOS COMPARATIVOS                   100        110.00                 11,000.00                         11,000.00
+RX TORAX AP                               1000         70.00                 70,000.00                         70,000.00
+RX TORAX F                                 100         60.00                  6,000.00                          6,000.00
+RX TORAX F-L (FRONTAL-LATERAL)             100        110.00                 11,000.00                         11,000.00
+RX TORAX FRONTAL                           999         70.00                 69,930.00                         69,930.00
+RX TORAX FRONTAL PROMOCION                 271         65.00                 17,615.00                         17,615.00
+RX TORAX LATERAL                           999         75.00                 74,925.00                         74,925.00
+RX URETROCISTOGRAFIA RETROGRADA            100        330.00                 33,000.00                         33,000.00
+RX UROGRAFIA EXCRETORA (PIELOGRAFIA-URO)   100        280.00                 28,000.00                         28,000.00
+---------------------------------------------------------------------------------------------------------------------------------------
+T O T A L E S :                                                           2,627,335.00             0.00     2,627,335.00
+---------------------------------------------------------------------------------------------------------------------------------------

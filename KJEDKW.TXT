@@ -1,0 +1,81 @@
+úZethQuark Versi¢n 7.0ú                                               03/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2022 AL 01/02/2022        17:43:05
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT#24 CAJAX50UNID                           1u12           0u5         SAN
+AGLUTINACIONES                                256              5           SAN
+AGUJA #18 CAJAX100UNID.                         0u99           0u16        SAN
+ANEURIN 10,000 SOLUCION INYECTABLE             13              3           SAN
+ANEURIN 25 000 CAJA X 1AMPOLLAS                14              2           SAN
+ANTIGENO HISOPADO ENERO 2022                   19              8           SAN
+ASCORBIC-C + MATERIAL DE APLICACION             6              3           SAN
+ASSIS 400 SUSPX220ML                            3              1           SAN
+AZITROMICINA 500MG CAJAX30 TABLETAS            11u13           0u3         SAN
+BROMELIN 0,88GR SUSP ORALX100ML                 2              4           SAN
+CEFALOGEN 1GR IM CAJA X 1 INYECTABLE           12              6           SAN
+CETIRIZINA 10mg ANTIHISTAMINICO                 1u36           0u18        SAN
+CLONAZEPAM 0.5mg tabletax100                    5u4            0u35        SAN
+CLORFENAMINA 10MG/ML AMPOLL CAJX100             0u2            0u1         SAN
+CLORURO DE SODIO 100ML 0,9%                    18              3           SAN
+CONSULTA DR MARIO                            9958             29           SAN
+CONSULTA OBSTETRICIA                          888              1           ISA
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100             0u57           0u7         SAN
+DEXTROMETORFANO 15MG/5ML JARABE                 4              3           SAN
+DICLOFENACO AMP 75MGx3ML CAJX100                0u43           0u6         SAN
+DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25          5              0u1         ISA
+ENDOVENOSO INTERNO CLINICA                    413              5           SAN
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN        0u23           0u4         SAN
+ESPASMO ANTALGINA AMPOLLA                      13              1           SAN
+FLUIMICAR 600MG CAJA X 20 TABLETAS              3u7            0u38        SAN
+FRASCO DE HECES                                33              4           SAN
+FRASCO ORINA ESTERIL                           20              4           SAN
+GASA ESTERIL 7.5X7.5CM CAJAX50                  0u6            0u2         SAN
+GLUCOSA                                      9735              6           SAN
+HCG PRUEBA DE EMBARAZO                        474              1           ISA
+HELICOBACTER PYLORI IGM                      1187              3           ISA
+HEMOG. GLICOSILADA                            613              1           ISA
+HEMOGLOBINA HEMATOCRITO                       921              3           ISA
+HEMOGRAMA COMPLETO                            834              9           SAN
+JERINGA 10ML CAJAX100UNID.                      0u29           0u10        SAN
+JERINGA 20ML CAJAX50UNID.                       0u20           0u9         SAN
+KETESSE AMPOLLA CAJAX5                          6u3            0u2         SAN
+LIDOCAINA 1% AMPOLLA 3,5ML                     64              2           SAN
+LIKFERR +MATERIAL DE APLICACION                 9              1           ISA
+LLAVE TRIPLE VIA CAJAX200UNID.                  0u94           0u4         SAN
+METAMIZOL CAJA X100 AMPOLLAS                    0u31           0u1         SAN
+MICROALBUMINURIA ORINA SIMPLE                 689              1           ISA
+MULCEROL/ESOMEPRAZOL 40 TAB CAJX30             20u26           0u10        SAN
+NAPROXENO 550 TABx100                           0u44           0u26        SAN
+NEBULIZACION X 3                              964              1           SAN
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10          7u5            0u2         SAN
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS           5u2            0u3         SAN
+ORINA COMPLETA                                281              9           SAN
+PARASITOLOGICO SIMPLE                        1657              8           SAN
+PASAJE APLICACION DOMICILIO                   668              1           ISA
+PCR CUANTITATIVA                              112              2           SAN
+PENICILINA PROCAIN 1000000 CAJAX10              2u8            0u5         SAN
+PERFIL HEPATICO                               369              7           SAN
+PERFIL LIPIDICO                               767              6           SAN
+PERFIL RENAL                                  162              1           ISAúZethQuark Versi¢n 7.0ú                                               03/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/02/2022 AL 01/02/2022        17:43:07
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+PERFIL REUMATICO                              681              1           ISA
+PROFENID AMP 100MGx2ML CAJX6                    4u1            0u1         SAN
+PRUEBA RAPIDA ENERO                            14              1           SAN
+RAQUIFEROL D3                                   5              1           SAN
+REACCION INFLAMATORIA EN HECES                592              1           ISA
+RX COLUMNA DORSAL FRONTAL Y LATERAL          1986              1           ISA
+RX COLUMNA LUMBO SACRO                        960              1           SAN
+RX TORAX FRONTAL                              413              3           SAN
+SUERO FISIOLOGICO DE 1 LITRO                    0              2           SAN
+TEST GRAHAM(OXIURUS)                         1753              1           ISA
+THEVENON                                      772              1           ISA
+VITACOSE PLUS AMPOLLA                           0              1           SAN
+--------------------------------------------------------------------------------
+T O T A L:    67
+--------------------------------------------------------------------------------

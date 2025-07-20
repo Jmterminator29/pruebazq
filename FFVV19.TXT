@@ -1,0 +1,73 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 19/06/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 18/06/2025 AL 18/06/2025                              09:31:40
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+017416           GEN       18/06/2025 08:32  V                      SUSAN PALACIOS NAUPARI         PL        164.50
+017417           CLA       18/06/2025 08:52  V                      LETICIA FERNANDEZ ALTAMIRANO   E          15.00
+017418           CLA       18/06/2025 09:00  V                      DIAZ HUAYTA DINA               E          27.00
+017419           CLA       18/06/2025 09:03  V                      JOSE LUIS CA;ARI RAVICHAHUA    PL         60.00
+017420           CLA       18/06/2025 09:47  V                      LUIS HUERTA GIRALDO            PL        106.50
+017421           CLA       18/06/2025 10:26  V                      LAURENTE CERBE;O WALTER        E          45.00
+017422           CLA       18/06/2025 11:03  V                      CHOTA CUBA SANTHIAGO           E          10.00
+017423           CLA       18/06/2025 11:23  V                      LAURENTE CERBE;O WALTER        E          47.00
+017424           CLA       18/06/2025 13:20  V                      DIAZ PEDRAZA ELIAZER           E          90.00
+017425           CLA       18/06/2025 14:01  V                      ORTIZ DAVID TEODORA            PL         45.00
+017426           CLA       18/06/2025 14:28  V                      GABRIELA PANTA RODRIGUEZ       E          80.00
+017427           CLA       18/06/2025 16:44  V                      BELTRAN EULINDA                E           2.00
+017428           CLA       18/06/2025 16:48  V                      VENTA ANULADA                  PL          0.00
+017429           CLA       18/06/2025 16:54  V                      ALBITREZ JARA SOFIA            E           1.50
+017430           CLA       18/06/2025 16:57  V                      GRADOS VERAMENDI VANIA         E          45.00
+017431           CLA       18/06/2025 17:13  V                      SOLIS COCA MATEW               PL         45.00
+017432           CLA       18/06/2025 17:23  V                      DIAZ HUAYTA DINA GISELA        PL         60.00
+017433           CLA       18/06/2025 17:25  V                      AGUILAR MENDIZABA CARMEN       E          45.00
+017434           CLA       18/06/2025 17:27  V                      SONIA FLORES CARRASCO          PL        110.00
+017435           CLA       18/06/2025 17:32  V                      FLORES SUSANIBAR DOMINGO       PL         45.00
+017436           CLA       18/06/2025 17:32  V                      INES CARRASCO PARIASCA         PL         45.00
+017437           CLA       18/06/2025 17:35  V                      DILMER VILLANUEVA PATRICIO     PL         25.00
+017438           CLA       18/06/2025 17:43  V                      HERNANDEZ MATIAS MILAGROS      E          45.00
+017439           CLA       18/06/2025 18:01  V                      EBRNACHEA BRIOSO ALICIA        E          45.00
+017440           CLA       18/06/2025 18:29  V                      GRADOS VERAMENDI VANIA         E         103.00
+017441           CLA       18/06/2025 18:38  V                      ENCARNACION VALENTINA          E          80.00
+017442           CLA       18/06/2025 18:51  V                      SOLIS COCA MATEW               PL        104.00
+017443           CLA       18/06/2025 18:52  V                      SOLIS COCA MATEW               PL         65.00
+017444           CLA       18/06/2025 18:54  V                      CUBA SERPA NORMA               PL         45.00
+017445           CLA       18/06/2025 18:54  V                      SERPA ESPADA EDITH             PL         45.00
+017446           CLA       18/06/2025 19:20  V                      VENTA ANULADA                  E           0.00
+017447           CLA       18/06/2025 19:29  V                      TEODORA ORTIZ DAVID            E         135.50
+017448           FAB       18/06/2025 19:59  V                      RIVERA CASTILLO GISELLA        E          45.00
+017449           CLA       18/06/2025 20:04  V                      HERNANDEZ MATIAS MILAGROS      E         115.50
+017450           CLA       18/06/2025 20:04  V                      HERNANDEZ MATIAS MILAGROS      E          70.00
+017451           FAB       18/06/2025 20:11  V                      MILAGROS                       E           5.00
+017452           CLA       18/06/2025 20:50  V                      JAVIER CORSO                   E          26.50
+017453           FAB       18/06/2025 20:58  V                      NORMA SUBA SERPA               PL        198.00
+017454           CLA       18/06/2025 20:58  V                      SERPA EDITH                    PL        175.50
+017455           CLA       18/06/2025 21:04  V                      MANUEL TORRES                  E          35.00
+017456           CLA       18/06/2025 21:11  V                      VANIA GRADOS VERAMENDI         E          72.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      23       1,185.00
+Ticket        :       0           0.00                                                    Plin          :      16       1,338.50
+Guia Interna V:      39       2,523.50                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              2,523.50                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        2,523.50
+ÿ
+ÿúZethQuark Versi¢n 7.0ú                                                                                                 19/06/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 18/06/2025 AL 18/06/2025                              09:31:41
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        384.88
+ÿ
+ÿ
+Nro.  Documentos Anulados :            2
+Total Documentos Anulados :         0.00

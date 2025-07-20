@@ -1,0 +1,29 @@
+úZethQuark Versi¢n 7.0ú                                                              29/05/2025
+POL.LOS ANGELES            REPORTE DE PRODUCTOS X LINEA (SUPLEMENTOS)                  09:08:52
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17329 ALKALOS CAJAX20 SOBRES                   ZZZZ       75.00      3.75     0          0     
+17515 CITRAPOT POTE 300G NARANJA               ZZZZ       75.00               0          3     
+16364 COLAG HP 420GR FRUTOS DEL BOSQUE         PER       135.00               0          0     
+17310 COLAG HP 420GR VAINILLA                  ZZZZ      130.00               0          6     
+17312 ELASTIFLEX ULTRA COMPLEX POTE COLAG      ZZZZ      220.00               0          0     
+16676 ENDOVIT AL 5% DEXTROSA 1000ML            MEDI       70.00               0          0     
+17508 GENOGEL PLUS POTE X500G                  ZZZZ      130.00               0          5     
+17527 GERIA CARE POTE X1000G                   ZZZZ      150.00               0         27     
+17511 GLUCENIL D POTE X1000G                   ZZZZ      150.00               0          3     
+17416 INMUNO PED SOB X20                       ZZZZ       80.00      4.00     0          0     
+18068 INSTAFIBRA X500G                         BLAU       90.00               0          1     
+17387 LOVEGEST 450G VAINILLA                   ZZZZ       80.00               0          0     
+17512 NEUMOPUL POTE 500G VAINILLA              ZZZZ      130.00               0          4     
+17449 PRODEFEN PLUS SOB X10                    ZZZZ       90.00      9.00     0          0     
+17509 PROTEVIT KIDS POTE 1000G VAINILLA        ZZZZ      150.00               0          2     
+17646 SP NUTRITION 470G CAPUCCINO              0020      190.00               0          0     
+17645 SP NUTRITION 470G PI¥A                   0020      190.00               0          0     
+17617 SP NUTRITION 470G VAINILLA               0020      190.00               0          0     
+17665 SUEROVIT 2ML IV AMP X5                   MEDI      200.00     40.00     0          0     
+17513 SUMAQ MUJER POTE 500G AGUAJE             ZZZZ      130.00               0          2     
+17510 VITACARE POTE 1000G VAINILLA             ZZZZ      150.00               0          5     
+17743 VITAGEST 500GR VAINILLA                  0020      130.00               0          2     
+17662 ZITRAT MG 300G PI¥A                      0020       75.00               0          3     

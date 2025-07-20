@@ -1,0 +1,46 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES             REPORTE DE PRODUCTOS X LINEA (CONSULTA)                    18:08:13
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+17394 CARDIOLOGIA DR KELVIN                    ZZZZ       80.00               0       1000     
+17165 CONSULTA +PAP+ECO                        ZZZZ      155.00               0        999     
+16622 CONSULTA CIRUJIA DR LOZANO               ZZZZ       50.00               0        984     
+16524 CONSULTA CIRUJIA DR.AGUIRRE              ZZZZ       50.00               0        994     
+17118 CONSULTA CIRUJIA DRA GHANDI              ZZZZ       50.00               0         96     
+17020 CONSULTA DERMOESTETICA CAMPA;A           ZZZZ       30.00               0        982     
+17232 CONSULTA DOMICILIO DR MOLINA             ZZZZ      100.00               0          8     
+17479 CONSULTA DR KEVIN                        ZZZZ       45.00               0         45     
+17004 CONSULTA DR MARIO                        ZZZZ       45.00               0       2793     
+16911 CONSULTA ENDOCRINOLOGO                   ZZZZ       80.00               0        920     
+17258 CONSULTA GINECOLOGIA DR CUBANO           ZZZZ       50.00               0         83     
+16631 CONSULTA GINECOLOGIA DR. JOHAYRA         ZZZZ       60.00               0        951     
+16819 CONSULTA GINECOLOGIA+ECO TRANSVAGINAL    ZZZZ      120.00               0         67     
+16818 CONSULTA GINECOLOGIA+PAP                 ZZZZ       85.00               0         85     
+17257 CONSULTA MEDICINA INTERNA DRA CUBANA     ZZZZ       50.00               0         66     
+15103 CONSULTA NEUMOLOGIA                      CONS      100.00               0      99999     
+17035 CONSULTA OBSTETRICIA                     ZZZZ       35.00               0        807     
+17085 CONSULTA OFTALMOLOGIA                    ZZZZ       70.00               0        991     
+15100 CONSULTA REUMATOLOGO CUBANO              CONS       50.00               0         55     
+16499 CONSULTA SOU                             CONS       50.00               0        888     
+16577 CONSULTA TRAUMATOLOGIA Dr CABRERA        ZZZZ       70.00               0        969     
+17259 CONSULTA UROLOGO DR CUBANO               ZZZZ       50.00               0         91     
+17484 DR PIERRE RAMOS MEDICINA GENERAL         ZZZZ       45.00               0        375     
+17480 DRA GIANINA MEDICINA GENERAL             ZZZZ       45.00               0         49     
+17355 MEDIC GENERAL CONVENIOS                  ZZZZ       30.00      0.03     0        995     
+17347 MEDIC GENERAL DR EDWIN ROJAS             ZZZZ       45.00            1000        977     
+17352 MEDIC GENERAL DRA BELEM FERNANDEZ        ZZZZ       45.00               0        975     
+17375 MEDICINA GENEREAL DR KEVIN               ZZZZ       45.00               0      99992     
+17302 MEDICINA INTERNA                         ZZZZ       40.00               0          8     
+17114 MEDICINA REGENERATIVA                    ZZZZ       80.00               0        995     
+16783 NUTRICION LIC DEYVI                      ZZZZ       70.00               0        100     
+17086 OBSTETRICIA CONVENIO GRATUITO            ZZZZ        0.01               0        998     
+17233 OBSTETRICIA LIC GRECIA                   ZZZZ       35.00               0         89     
+17477 PEDIATRIA DR OMAR ORE                    ZZZZ       60.00               0         15     
+17485 PSICOLOGIA CONVENIO COLEGIOS             ZZZZ       35.00               0         50     
+15235 PSICOLOGIA LIC YAHAIRA                   CONS       50.00               0         82     
+16284 TRAUMATOLOGIA DR CORAL                   CONS       70.00               0        883     
+17496 TRAUMATOLOGIA DR HERNANDEZ               CONS       80.00               0        998     
+17399 UROLOGIA CONSULTA PROMOCION              CONS       70.00               0         98     
+17011 UROLOGIA DR JIMENEZ                      CONS       80.00               0         85     

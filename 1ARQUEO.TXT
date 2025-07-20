@@ -1,0 +1,72 @@
+úZethQuark Versi¢n 7.0ú                                               03/02/2024
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 02/02/2024 AL 03/02/2024        10:00:39
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT#24 CAJAX50UNID                           0u7            0u3         YOS
+ACTH,AM(BASAL)                                995              1           YOS
+AGLUTINACIONES                               8901              1           YOS
+AGUA ESTERIL PARA INYEC. CAJAX100 AMPOLL        0u55           0u1         YOS
+AGUJA #18 CAJAX100UNID.                         0u6            0u11        YOS
+AMIKACINA 500MG AMPOLLA CAJAX25                 0u16           0u2         YOS
+ANEURIN 10,000 SOLUCION INYECTABLE             11              4           EFR
+ANTIGENO HISOPADO COVID                        26              1           YOS
+CEFTRIAXONA 1g AMP CAJAX1OUNID                  0u6            0u8         YOS
+CLORFENAMINA 10MG/ML AMPOLL CAJX100             0u4            0u2         YOS
+CLORURO DE SODIO 100ML 0,9%                     1              5           YOS
+COLAG HP POTE 450GR VAINILLA                    4              1           YOS
+CONSULTA DR MARIO                            2623              8           YOS
+CONSULTA TERAPIA LIC TEVI                     999              1           YOS
+COPROLOGICO FUNCIONAL                         759              1           YOS
+CREATININA                                    503              1           YOS
+CURACION                                      840              1           YOS
+DICLOFENACO AMP 75MGx3ML CAJX100                0u12           0u4         EFR
+DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25          4u14           0u1         YOS
+DR PIERRE RAMOS MEDICINA GENERAL              330              2           YOS
+ENDOVENOSO INTERNO                            312              2           YOS
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN        2u16           0u2         YOS
+FACTOR REUMATOIDE CUANTITATIVO                953              1           YOS
+FRASCO DE HECES                                63              7           YOS
+FRASCO ORINA ESTERIL                           18              6           YOS
+FSH                                           988              1           YOS
+GASA ESTERIL  5X5 CAJAX20UNID                   1u11           0u3         YOS
+GLUCOSA                                      8714              2           EFR
+HEMOG. GLICOSILADA                            378              1           EFR
+HEMOGLOBINA HEMATOCRITO                       763              2           YOS
+HEMOGRAMA COMPLETO                            718              3           YOS
+HEPABIONTA DE 2ML CAJA X3 AMP                  19              0u1         YOS
+HORMONA DE CRECIMIENTO                        995              1           YOS
+JERINGA 10ML CAJAX100UNID.                      1              0u5         EFR
+JERINGA 20ML CAJAX50UNID.                       0u18           0u5         YOS
+JERINGA 5ML CAJAX100UNID.                       2u50           0u1         YOS
+LAVADO DE OIDO I                               77              1           YOS
+LIKFERR +MATERIAL DE APLICACION                 7              1           YOS
+LLAVE TRIPLE VIA CAJAX50UNID.                   1u19           0u1         YOS
+MUCOCAR 600MG CAJA X 20 SOBRES                  1u15           1u10        YOS
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10          0u4            0u1         YOS
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS           0u8            0u4         EFR
+ORINA COMPLETA                               8479              2           YOS
+PARASITOLOGICO SIMPLE                        1191              1           YOS
+PARASITOLOGICO X3                            1701              1           YOS
+PERFIL HEPATICO                               143              2           YOS
+PERFIL LIPIDICO                               539              2           YOS
+PREDNISONA 5mg CAJAX100TABLETAS                 0              0u40        YOS
+PROLACTINA                                    966              1           YOS
+PRUEBA DENGUE RAPIDA IGG IGM                   48              1           YOS
+REACCION INFLAMATORIA EN HECES                374              3           YOS
+SUERO FISIOLOGICO DE 1 LITRO                    2              1           YOS
+T4 LIBRE                                      420              1           YOS
+TEST GRAHAM(OXIURUS)                         1517              2           YOS
+TIEMPO DE PROTROMBINA-TP                      972              1           YOSúZethQuark Versi¢n 7.0ú                                               03/02/2024
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 02/02/2024 AL 03/02/2024        10:00:40
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+TSH ULTRASENSIBLE                             442              1           YOS
+UREA                                         1442              1           YOS
+UROCULTIVO                                    152              1           YOS
+--------------------------------------------------------------------------------
+T O T A L:    58
+--------------------------------------------------------------------------------

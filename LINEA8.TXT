@@ -1,0 +1,9 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES           REPORTE DE PRODUCTOS X LINEA (NEBULIZACION)                  18:17:35
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+16077 NEBULIZACION X 1                         NEB        15.00               0        360     
+17006 NEBULIZACION X 3                         ZZZZ       40.00               0        459     
+17014 NEBULIZACION X2                          ZZZZ       30.00               0         82     

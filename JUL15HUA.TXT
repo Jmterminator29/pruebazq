@@ -1,0 +1,68 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 16/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 15/07/2024 AL 15/07/2024                              09:45:55
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007300           EFR  EFR  15/07/2024 08:09  V                      DOROTEO CARRERA MELANI         Y         190.00
+007301           EFR  EFR  15/07/2024 08:18  V                      CUERLLAR OBREGON ANALI         E          21.50
+007302           EFR  EFR  15/07/2024 08:27  V                      TACUCHE CARBAJAL CELINDA       E          21.50
+007303           EFR  EFR  15/07/2024 08:50  V                      CHIRITO VILLARREAL MARIELA     E         256.00
+007304           EFR  EFR  15/07/2024 09:49  V                      RIOS BETETA CLORINDA           E          37.00
+007305           EFR  EFR  15/07/2024 10:06  V                      RAMOS BACON TOMASA             E          60.00
+007306           EFR  EFR  15/07/2024 10:08  V                      RAMOS BACON TOMASA             E          45.00
+007307           EFR  EFR  15/07/2024 10:10  V                      PIMENTEL CASTILLO LUIS         E          45.00
+007308           YOS  YOS  15/07/2024 10:32  V                      SILVESTRE ALVARADO CESAR       E          45.00
+007309           YOS  YOS  15/07/2024 10:50  V                      DIAZ DE LA CRUZ RITAS SOLEDAD  Y          45.00
+007310           YOS  YOS  15/07/2024 10:52  V                      GARCIA RAMIREZ JULIO HENRY     Y          45.00
+007311           YOS  YOS  15/07/2024 12:00  V                      PIMENTEL CASTILLO LUIS         E           1.50
+007312           YOS  YOS  15/07/2024 12:15  V                      SOSA CALLE ELIAN               E           1.50
+007313           YOS  YOS  15/07/2024 12:22  V                      BERROCAL LUIS AYDE             E          45.00
+007314           YOS  YOS  15/07/2024 12:27  V                      SILVESTRE ALVARADO CESAR       E          23.50
+007315           YOS  YOS  15/07/2024 12:51  V                      DIAZ DE LA CRUZ DE GARCIA RITA E         155.50
+007316           YOS  YOS  15/07/2024 12:54  V                      GARCIA RAMIREZ JULIO HENRY     E         137.00
+007317           YOS  YOS  15/07/2024 12:58  V                      BERNAL SIPAN HILDA             E          63.00
+007318           YOS  YOS  15/07/2024 13:05  V                      DAVILA PALOMARES LEIDI         E         154.00
+007319           YOS  YOS  15/07/2024 13:08  V                      PANANA SANCHEZ SORAYA          E          94.00
+007320           YOS  YOS  15/07/2024 13:23  V                      TRUJILLO JARA JORGE            E          45.00
+007321           YOS  YOS  15/07/2024 14:02  V                      TRUJILLO JARA JORGE            Y         140.50
+007322           YOS  YOS  15/07/2024 14:33  V                      CABELLO RAFAEL DELCY           E          15.00
+007323           YOS  YOS  15/07/2024 15:50  V                      RIVERA OBISPO NELIDA           E          45.00
+007324           YOS  YOS  15/07/2024 16:16  V                      CANALES VILLANUEVA LOURDES     Y           2.00
+007325           YOS  YOS  15/07/2024 16:24  V                      JARA RODRIGUEZ EMILIA          Y          45.00
+007326           YOS  YOS  15/07/2024 16:53  V                      CHINGA  OYOLA YULISA           E          45.00
+007327           YOS  YOS  15/07/2024 16:56  V                      DIAZ DE LA CRUZ RITAS SOLEDAD  E          99.00
+007328           YOS  YOS  15/07/2024 17:15  V                      RIVERA OBISPO NELIDA           TR         57.00
+007329           YOS  YOS  15/07/2024 17:16  V                      RIVERA OBISPO NELIDA           TR         78.00
+007330           YOS  YOS  15/07/2024 17:37  V                      RAMOS BACON TOMASA             Y         260.00
+007331           YOS       15/07/2024 17:44  V                      JARA RODRIGUEZ EMILIA          Y         102.80
+007332           YOS  YOS  15/07/2024 18:09  V                      PANANA SANCHEZ JUANA           E           0.30
+007333           YOS  YOS  15/07/2024 19:04  V                      BERNAL SIPAN HILDA             E          49.50
+007334           YOS  YOS  15/07/2024 19:21  V                      AMADEO RODRIGUEZ LEON          E          45.00
+007335           YOS  YOS  15/07/2024 19:23  V                      SOTO BASILIO GERARDO           E         100.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      26       1,649.80
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      36       2,615.10                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       2         135.00
+                              2,615.10                                                    Yape          :       8         830.30
+                                                                                                                    -------------
+                                                                                                                        2,615.10
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        398.85
+ÿ
+ÿúZethQuark Versi¢n 7.0ú                                                                                                 16/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 15/07/2024 AL 15/07/2024                              09:45:55
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

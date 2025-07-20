@@ -1,0 +1,84 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 05/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 03/08/2024 AL 03/08/2024                              08:51:13
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007902           ELI       03/08/2024 08:23  V                      CORDOVA MELGAR NORMA           E         140.00
+007903           ELI       03/08/2024 08:53  V                      BARTOLOME MENDOZA OLORTEGUI    Y          45.00
+007904           ELI       03/08/2024 08:58  V                      ROSADO PAUSICH SUE TIFFANI KAT E         376.00
+007905           ELI       03/08/2024 09:15  V                      BUITRON ZAVALA ANTONIA         E          45.00
+007906           ELI       03/08/2024 10:06  V                      OSWALDA OLIVA VALDEZ           E          45.00
+007907           ELI       03/08/2024 10:35  V                      VENTA ANULADA                  E           0.00
+007908           ELI       03/08/2024 10:44  V                      AGUAYO SIPAN ROSALIA           E          45.00
+007909           ELI       03/08/2024 10:52  V                      VENTA ANULADA                  E           0.00
+007910           ELI       03/08/2024 11:13  V                      JUAN DAVID CHERO VALVERDE      E          60.00
+007911           ELI       03/08/2024 11:21  V                      ANTONIO ANDRES MEDINA          E          45.00
+007912           ELI       03/08/2024 11:44  V                      GARCIA RAMIREZ JULIO           E          80.50
+007913           ELI       03/08/2024 11:57  V                      VILLANUEVA PADILLA OLIVIA      Y          45.00
+007914           ELI       03/08/2024 12:02  V                      GIRON LOPEN LOHAN              E          45.00
+007915           ELI       03/08/2024 12:06  V                      HILDA SOLIS CHUCHO             E          45.00
+007916           ELI       03/08/2024 12:09  V                      FONSECA CULLA GLADYS           E          45.00
+007917           ELI       03/08/2024 12:48  V                      ANTONIA CARMEN BUITRON ZAVALA  E         121.50
+007918           ELI       03/08/2024 12:53  V                      GARCIA RAMIREZ JULIO           E          98.00
+007919           ELI       03/08/2024 12:56  V                      VILLANUEVA PADILLA OLIVIA      Y          94.00
+007920           ELI       03/08/2024 13:00  V                      ANTONIA CARMEN BUITRON ZAVALA  E          61.00
+007921           ELI       03/08/2024 13:13  V                      BARTOLOME MENDOZA OLORTEGUI    Y          96.50
+007922           ELI       03/08/2024 13:21  V                      BARTOLOME MENDOZA OLORTEGUI    Y          70.50
+007923           ELI       03/08/2024 13:23  V                      ROSA ROMERO VILLAFANE          E          15.00
+007924           ELI       03/08/2024 13:39  V                      HOLGINO MONTOYA GREGG          E          45.00
+007925           ELI       03/08/2024 13:54  V                      GIRON LOPEZ LOHAN              E          79.00
+007926           ELI       03/08/2024 13:58  V                      ANDRES MEDINA APOLINARIO       E          73.00
+007927           ELI       03/08/2024 14:04  V                      LOPEZ CALDERON ANGUI           Y         203.00
+007928           ELI       03/08/2024 14:10  V                      HILDA SOLIS CHUCHO             E          16.50
+007929           ELI       03/08/2024 14:19  V                      HILDA CAMPOS                   E          25.50
+007930           ELI  ELI  03/08/2024 14:56  V                      CAMPOS DIAZ MARIBEL            E         130.00
+007931           ELI  ELI  03/08/2024 15:13  V                      LEZAMETA VILLADEZ NIKANOR      E          41.00
+007932           ELI       03/08/2024 15:14  V                      LEZAMETA VILLADEZ NIKANOR      E          51.00
+007933           ELI  ELI  03/08/2024 15:56  V                      FALCON ENCARNACION BRAYAN      E          45.00
+007934           ELI  ELI  03/08/2024 16:11  V                      CUBAS MARCOS OSCAR             Y          45.00
+007935           ELI       03/08/2024 16:23  V                      AGUERO TRUJILLO ANGELICA       Y          45.00
+007936           ELI       03/08/2024 17:01  V                      MOISES GAEAY VALDEZ            E          45.00
+007937           ELI       03/08/2024 17:07  V                      CARBAJAL LAVADO LUCIANA        Y          77.00
+007938           ELI       03/08/2024 17:18  V                      ALVINA TEODORA RUBINA REYES    E          45.00
+007939           ELI       03/08/2024 17:18  V                      ALBINA TEODORA RUBINA REYES    E          10.00
+007940           ELI       03/08/2024 17:27  V                      OSWALDA OLIVAR VALDEZ          Y          83.00
+007941           ELI       03/08/2024 17:41  V                      TEODORA RUBINA REYES           E          71.50
+007942           ELI       03/08/2024 18:02  V                      ANTONIA CARMEN BUITRON ZAVALA  E          76.00
+007943           ELI       03/08/2024 18:04  V                      FALCON ENCARNACION BRAYAN      E         164.00
+007944           ELI       03/08/2024 18:17  V                      CONEJO FLORES HEYDI            E          45.00
+007945           ELI       03/08/2024 18:30  V                      ANGELICA AGUERO TRUJILLO       Y          35.00
+007946           ELI       03/08/2024 18:40  V                      GARAY VALDEZ MOISES            E          38.00
+007947           ELI       03/08/2024 18:44  V                      ENCARNACION VALENTINA ETELDRIT E         111.50
+007948           ELI       03/08/2024 19:24  V                      DE LA CRUZ QUENEMA CARLOS      E          31.50
+007949           ELI       03/08/2024 19:34  V                      HUAYLUPU MARIA DEL CARMEN      E           6.50
+007950           ELI       03/08/2024 19:52  V                      HILDA SOLIS CHUCHO             E          15.50
+007951           ELI       03/08/2024 20:09  V                      BRAYAN ENCARNACION             E           5.00
+007952           ELI       03/08/2024 20:12  V                      WILLIAM FALCON MONTES          E           3.60
+007953           ELI       03/08/2024 20:19  V                      FALCON\                        E           9.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas úZethQuark Versi¢n 7.0ú                                                                                                 05/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 03/08/2024 AL 03/08/2024                              08:51:13
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      39       2,450.10
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      50       3,289.10                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              3,289.10                                                    Yape          :      11         839.00
+                                                                                                                    -------------
+                                                                                                                        3,289.10
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        501.68
+ÿ
+ÿ
+Nro.  Documentos Anulados :            2
+Total Documentos Anulados :         0.00

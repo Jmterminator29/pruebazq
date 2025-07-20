@@ -1,0 +1,9 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES            REPORTE DE PRODUCTOS X LINEA (INYECCIONES)                  18:13:01
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+15232 INYECTABLE   INTRAMUSCULAR EXTERNO       INYE        5.00            1000        463     
+16836 INYECTABLE DOMICILIO DOMINGO             ZZZZ       50.00               0        966     
+16738 INYECTABLE INTRAMUSCULAR DOMICILIO       ZZZZ       15.00               0         97     

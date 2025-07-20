@@ -1,0 +1,111 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 03/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/08/2024 AL 02/08/2024                              08:41:44
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007823           EFR       01/08/2024 08:30  V                      CAURINO VILLAVICECIO FREDI     E         318.00
+007824           EFR       01/08/2024 09:06  V                      APOLINARIO CORTEZ ROSALINDA    E         335.00
+007825           EFR       01/08/2024 09:08  V                      JAIMES QUICHIZ LUIS ALBERTO    E         310.00
+007826           EFR       01/08/2024 09:38  V                      ROSA INES HUAMANI              E         175.00
+007827           EFR       01/08/2024 10:02  V                      CALZADO FERNANDEZ ERENIA       E         148.00
+007828           EFR       01/08/2024 11:28  V                      OCHOA DIAZ MILAGROS            E          45.00
+007829           EFR       01/08/2024 11:41  V                      GARCIA RAMIREZ JULIO           E          45.00
+007830           EFR       01/08/2024 12:28  V                      LEZAMETA VILLADEZA MIKANOR]    Y          45.00
+007831           EFR       01/08/2024 12:54  V                      LINO GARCIA CESAR AGUSTO       E          80.00
+007832           EFR       01/08/2024 12:59  V                      BRIANA NU;EZ GUERRERO          E          45.00
+007833           EFR       01/08/2024 13:41  V                      VENTA ANULADA                  E           0.00
+007834           EFR       01/08/2024 14:23  V                      VALDEZ SOLORZANO FLORMIRA      E          80.00
+007835           EFR  EFR  01/08/2024 14:52  V                      LEZAMETA VILLADEZ MIKANOR      E          60.00
+007836           EFR  EFR  01/08/2024 14:53  V                      LEZAMETA VILLADEZ MIKANOR      E         132.50
+007837           EFR  EFR  01/08/2024 15:30  V                      GARCIA RAMIREZ JULIO           E          66.00
+007838           ELI       01/08/2024 16:06  V                      AGUAYO SIPAN ROSALIA           E          60.00
+007839           ELI       01/08/2024 16:13  V                      CHANGANAQUI VEGA LUIS ELIAM GA E          45.00
+007840           ELI       01/08/2024 16:24  V                      LEONARANDA FLORES CAURINA      E          45.00
+007841           ELI       01/08/2024 16:39  V                      EUGENIA HUERTA RAMIREZ         E          45.00
+007842           ELI       01/08/2024 17:28  V                      LEZAMETA VILLDEZA NIKANOR      E         136.50
+007843           ELI       01/08/2024 17:39  V                      CAURINO VILLAVICENCIO FREDY    E          45.00
+007844           ELI       01/08/2024 17:42  V                      DOLORES VILELA DIEGO           E           5.00
+007845           ELI       01/08/2024 18:20  V                      DE LA CRUZ QUENEMA CCARLOS     E          45.00
+007846           ELI       01/08/2024 18:40  V                      HUERTA RAMIREZ EUGENIA         Y          30.00
+007847           ELI       01/08/2024 18:43  V                      HUERTA RAMIREZ EUGENIA         E           3.00
+007848           ELI       01/08/2024 19:26  V                      PANANA SANCHEZ                 E          25.50
+007849           ELI       01/08/2024 19:43  V                                                     E         114.50
+007850           ELI       01/08/2024 19:51  V                                                     C           1.50
+007851           ELI       01/08/2024 19:53  V                      ROJAS ESPINOZA DEYSI           E          45.00
+007852           ELI       01/08/2024 20:31  V                      ROJAS ESPINOZA DEYSI           E          79.50
+007853           ELI       01/08/2024 20:35  V                      DE LA CRUZ QUENAMA CARLOS      E           4.00
+007854           ELI       02/08/2024 08:34  V                      ORTEGA ESPINOZA JUAN           E          45.00
+007855           ELI       02/08/2024 08:51  V                      HUERTA RAMIREZ EUGENIA         E         255.00
+007856           ELI       02/08/2024 09:23  V                      SALOMENA HUERTO DE ALBINO      E          80.00
+007857           ELI       02/08/2024 09:29  V                      HUAYLUPU MARIA DEL CARMEN      E           6.50
+007858           ELI       02/08/2024 10:09  V                      JAIME QUICHIZ LUIS ALBERTO     E          45.00
+007859           ELI       02/08/2024 10:47  V                      ROMERO MORALES DALILA          E          80.00
+007860           ELI       02/08/2024 11:56  V                      BLAS CAPILLO YAHAIRA           E          45.00
+007861           ELI       02/08/2024 12:14  V                      GARCIA RAMIREZ JULIO           E          80.50
+007862           ELI       02/08/2024 12:16  V                      DIAZ DE LA CRUZ RITA           E          41.00
+007863           ELI       02/08/2024 12:23  V                      DIAZ DE LA CRUZ RITA           E          15.00
+007864           ELI       02/08/2024 12:55  V                      BLAS CAPILLO YAHAIRA           E          20.50
+007865           ELI       02/08/2024 12:56  V                      BLAS CAPILLO MARITZA           E           1.50
+007866           ELI       02/08/2024 13:26  V                      NATIVIDAD PALOMINO GLORIA      E         123.00
+007867           ELI       02/08/2024 13:31  V                      PAREDES OBREGON LUCIANA        E          55.00
+007868           ELI       02/08/2024 13:36  V                      NATIVIDAD PALOMINO GLORIA      E          17.50
+007869           ELI       02/08/2024 13:47  V                      JUAN SHUAN                     E          80.00
+007870           ELI       02/08/2024 14:40  V                      DELGADO AGUIRRE EDMUNDO        E          45.00
+007871           ELI       02/08/2024 15:21  V                      NATIVIDAD PALOMINO GLORIA      E           3.00
+007872           ELI       02/08/2024 15:57  V                      AGUAYO SIPAN ROSALIA           Y          73.00
+007873           ELI       02/08/2024 16:02  V                      LEZAMETA VILLADEZA MIKANOR     Y          20.00
+007874           ELI       02/08/2024 16:09  V                      LEZAMETA VILLADEZ MIKANOR      Y          51.00
+007875           ELI       02/08/2024 16:10  V                      LEZAMETA VILLADEZ NIKANOR      Y          41.00
+007876           ELI       02/08/2024 16:26  V                      HUAMANI ROSA INES              E          45.00
+007877           ELI       02/08/2024 16:39  V                      ORTEGA ESPINOZA JUAN           E         700.00úZethQuark Versi¢n 7.0ú                                                                                                 03/08/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/08/2024 AL 02/08/2024                              08:41:45
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007878           ELI       02/08/2024 16:40  V                      LEON SAENZ CARMEN              E          45.00
+007879           ELI       02/08/2024 16:53  V                      JAIMES QUICHIZ LUIS ALBERTO    E          80.00
+007880           ELI       02/08/2024 16:54  V                      APOLINARIO CORTEZ ROSALINDA    E          45.00
+007881           ELI       02/08/2024 16:58  V                      FAUSTO VENTURA INGA ARUCA      E          45.00
+007882           ELI       02/08/2024 17:18  V                      DELGADO AGUIRRE EDMUNDO        E         127.00
+007883           ELI       02/08/2024 17:18  V                      DELGADO AGUIRRE EDMUNDO        E          22.00
+007884           ELI       02/08/2024 17:29  V                      ORTEGA ESPINOZA JUAN           E           8.00
+007885           ELI       02/08/2024 17:44  V                      CARBAJAL LAVADO LUCIANA        E           3.00
+007886           ELI       02/08/2024 17:48  V                      ROSA INES HUAMAN               E          80.00
+007887           ELI       02/08/2024 17:50  V                      VENTA ANULADA                  E           0.00
+007888           ELI       02/08/2024 18:02  V                      BLANCO LEON VICTORINO          E          80.00
+007889           ELI       02/08/2024 18:04  V                      ANDRES MEDINA ANTONIO          E          45.00
+007890           ELI       02/08/2024 18:24  V                      ROSA APOLINARIO CORTEZ         E         161.50
+007891           ELI       02/08/2024 18:27  V                      SCHARFF ARELLANO MARIA EMILIA  TR         45.00
+007892           ELI       02/08/2024 18:28  V                      ANDRES MEDINA ANTONIO          E          10.00
+007893           ELI       02/08/2024 18:29  V                      ANDRES MEDINA ANTONIO          E           1.00
+007894           ELI       02/08/2024 18:31  V                      BRIANA NU;ES GUERRERO          E          35.00
+007895           ELI       02/08/2024 18:55  V                      ROSA APOLINARIO                E          56.00
+007896           ELI       02/08/2024 19:07  V                      ANDRES MEDINA ANTONIO          E         191.50
+007897           ELI  ELI  02/08/2024 19:16  V                      SIFUENTES BRIOSO LUCIA         E           5.00
+007898           ELI       02/08/2024 19:28  V                      ANDRES MEDINA APOLINARIO       Y          77.00
+007899           ELI       02/08/2024 19:42  V                      LUCIA SIFUENTES BRIOSO         E         280.00
+007900           ELI       02/08/2024 19:47  V                      ROJAS ESPINOZA DEYSI           C          45.00
+007901           ELI       02/08/2024 20:00  V                      DE LA CRUZ QUENENA CCAROS      E          31.50
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       2          46.50
+Factura       :       0           0.00                                                    Efectivo      :      67       5,672.50
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      77       6,101.00                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       1          45.00
+                              6,101.00                                                    Yape          :       7         337.00
+                                                                                                                    -------------
+                                                                                                                        6,101.00
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        930.56
+ÿ
+ÿ
+Nro.  Documentos Anulados :            2
+Total Documentos Anulados :         0.00

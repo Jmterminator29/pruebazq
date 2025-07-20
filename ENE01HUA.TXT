@@ -1,0 +1,32 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 02/01/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/01/2025 AL 01/01/2025                              14:19:36
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+012594           ELI       01/01/2025 07:51  V                      CAVERO SALINAS RICARDO MARTIN  E         100.00
+012595           ELI       01/01/2025 08:50  V                      SILVA NICHO GAEL               E          45.00
+012596           ELI       01/01/2025 12:43  V                      LUIS FERNANDO CRUZ FERNANDEZ   E          35.00
+012597           ELI       01/01/2025 17:44  V                      RAMOS VILLANUEVA FLORIAN       E          69.40
+012598           ELI       01/01/2025 18:27  V                      ARONACA GARCIA THIAGO          E          74.20
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :       5         323.60
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:       5         323.60                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                                323.60                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                          323.60
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :         49.36
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

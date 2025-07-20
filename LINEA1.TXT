@@ -1,0 +1,11 @@
+úZethQuark Versi¢n 7.0ú                                                              10/01/2024
+POL.LOS ANGELES         REPORTE DE PRODUCTOS X LINEA (CERTIFCADO MEDICO)               18:05:37
+PRT202()                                                                             Pag.-    1
+-----------------------------------------------------------------------------------------------
+CODIGO            DESCRIPCION                  LAB.         PVP  PxUNIDAD ALMACEN    MOSTRADOR 
+-----------------------------------------------------------------------------------------------
+15237 CERT. MEDICO DOCUMENTO                   ZZZZ       25.00               0          0     
+15236 CERT. MEDICO LLENADO                     ZZZZ       30.00               0          8     
+15367 CERTIF. DE MATRIMONIO                    ZZZZ      140.00               0        971     
+17486 CERTIFICADO FISICO+RPR+HIV               ZZZZ       70.00               0         48     
+17295 LLENADO CERTIFICADO MEDICOS CUBANOS      ZZZZ       30.00               0          2     

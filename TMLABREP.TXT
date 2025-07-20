@@ -1,0 +1,12 @@
+úZethQuark Versi¢n 7.0ú                                          21/06/2025
+ELAM MEDICAL    REPORTE DE PRODUCTOS X LABORATORIO  (TMLAB)        17:06:19
+PRT201()                                                         Pag.-    1
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION              LINEA          PVP  PxUNIDAD
+---------------------------------------------------------------------------
+15170 GRUPO SANGUINEO/FACTOR RH                81       20.00          
+15186 HEMOG. GLICOSILADA                       81       55.00          
+15704 HEMOGLOBINA HEMATOCRITO                  81       10.00          
+15163 HEMOGRAMA COMPLETO                       81       25.00          
+16426 RECUENTO DE PLAQUETAS                    SE       15.00          
+15955 VELOCIDAD DE SEDIMENTACION               81       15.00          

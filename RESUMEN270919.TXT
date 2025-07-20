@@ -1,0 +1,23 @@
+úZethQuark Versi¢n 7.0ú                           03/10/2019
+POL.LOS ANGELES     TOTAL VENTAS X LINEA            18:02:18
+PRT111()                                          Pag.-    1
+------------------------------------------------------------
+       VENTAS REALIZADAS DEL 27/09/2019 AL 27/09/2019
+------------------------------------------------------------
+FARMACOS                                 :      1,384.90
+CONSULTA                                 :        300.00
+DENSITOMETRIA                            :         40.00
+ECOGRAFIA                                :         75.00
+FRASCOS                                  :         18.00
+INYECCIONES                              :          6.00
+LAVADO DE OIDO                           :         50.00
+NEBULIZACION                             :        105.00
+RECONSULTAS                              :        130.00
+RAYOS X                                  :        145.00
+SERVICIO                                 :      1,613.00
+TOPICO                                   :         62.00
+                                             ----------------
+                                                3,928.90				   
+                                      ANULADOS:   182.50
+                                                3,746.40
+ 	

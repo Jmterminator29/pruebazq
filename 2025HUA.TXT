@@ -1,0 +1,270 @@
+úZethQuark Versi¢n 7.0ú                                                                                                      31/03/2025
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              18:17:48
+PRT282()                                                                                                                     Pag.-    1
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+ACICLAV 500MG+125MG TAB                    171          2.50      0.96          427.50           164.16           263.34
+ACICLAV 875MG+125MG TAB                     51          3.00      1.89          153.00            96.39            56.61
+ACICLOVIR 400MG TAB                         55          1.00      0.37           55.00            20.35            34.65
+ACIDO FOLICO 0.5MG TAB BLSTX10               4          3.00      0.60           12.00             2.40             9.60
+ACIDO FUSIDICO 2% CREMA X15G                 6         20.00     14.00          120.00            84.00            36.00
+AERO-SIM 80M/1ML GOTAS X15ML FRESA           6         20.00      8.70          120.00            52.20            67.80
+AGUA ESTERIL PARA INYEC.AMP                 87          1.00      0.28           87.00            24.36            62.64
+AIRUM JAT SOL.ORAL X120ML                    3         80.00     44.50          240.00           133.50           106.50
+ALBENDAZOL 200MG TAB                        98          1.00      0.23           98.00            22.54            75.46
+ALERCHECK PLUS 10MG CAP                    110          1.50      0.26          165.00            28.60           136.40
+ALERGIZINA 5MG/5ML JRBE X60ML                5         24.00     10.80          120.00            54.00            66.00
+ALERGIZINA D TAB                            32          2.50      1.59           80.00            50.88            29.12
+ALERLIV 5MG TAB                             20          2.00      0.22           40.00             4.40            35.60
+AMBROXOL 30MG/5ML ADULTO JRBE X120ML         4         15.00      3.90           60.00            15.60            44.40
+AMIKACINA 500MG/2ML (IM/IV) AMP             51          5.70      1.55          290.70            79.05           211.65
+AMPICILINA 1G (IM/IV) AMP                   10          4.00      1.69           40.00            16.90            23.10
+ANEURIN 25 000 SOLUCION INYECTABLE           4         35.00     14.00          140.00            56.00            84.00
+ASCORBIC PROMOCION                          34         80.00     25.00        2,720.00           850.00         1,870.00
+ASSA 81MG TAB                               20          1.00      0.75           20.00            15.00             5.00
+ATORVASTATINA 20MG TAB BLSTX10               9          3.00      1.80           27.00            16.20            10.80
+ATROPINA 0.50MG/1ML (IM/IV) AMP             20          4.00      1.47           80.00            29.40            50.60
+ATROPINA 1MG/1ML (IM/IV) AMP                 1          4.00      2.40            4.00             2.40             1.60
+AZITROMICINA 500MG TAB                      85          3.00      0.78          255.00            66.30           188.70
+B12 ANKERMANN 1000ug TAB                    88          1.30      0.01          114.40             0.88           113.52
+BACTAMOX 500MG TAB                         231          1.30      0.28          300.30            64.68           235.62
+BAGOLIFE CAP                                30          3.80      2.50          114.00            75.00            39.00
+BENCILPENIC BENZATINICA 1200000 AMP         21          8.00      1.50          168.00            31.50           136.50
+BENCILPENIC PROCAINICA 1000000 AMP          74          8.50      1.50          629.00           111.00           518.00
+BETACORT DEPOT 2 10MG+4MG/2ML AMP            6         37.00     26.00          222.00           156.00            66.00
+BETACORT DEPOT 5MG+2MG/1ML AMP               7         30.00     19.00          210.00           133.00            77.00
+BETADUO 5MG/2MG 1ML PRELLENADA               2         35.00      0.01           70.00             0.02            69.98
+BETAHISTINA 24MG TAB                        44          3.00      1.25          132.00            55.00            77.00
+BETAMETASONA 4MG/1ML AMP                    18         14.00      2.85          252.00            51.30           200.70
+BIONIS 15MG/5ML SOL.ORAL X100ML              4         36.00     26.40          144.00           105.60            38.40
+BISMOSAN SUSP X120ML                         4         14.00      7.50           56.00            30.00            26.00
+BONACOXIB 90MG TAB                          62          4.00      1.14          248.00            70.68           177.32
+BROMELIN 0,88GR SUSP X100ML                 32         35.00     18.00        1,120.00           576.00           544.00
+BROMURO DE IPRATROPIO 20MCG/D AEROSOL        6         40.00     14.00          240.00            84.00           156.00
+BRONCOXAN DILAT JRBE X120ML                  6         42.00     21.80          252.00           130.80           121.20
+C-FLOX 500MG TAB                           100          1.40      0.20          140.00            20.00           120.00
+CADELIUS 600MG/1000UL TAB X30                2         85.00     60.63          170.00           121.26            48.74
+CAPTOPRIL 25MG TAB BLSTX10                  22          2.00      0.47           44.00            10.34            33.66
+CEFALEXINA 250MG/5ML SUSPX60ML               2         11.00      7.99           22.00            15.98             6.02
+CEFTRIAXONA 1G AMP                          93          8.00      1.25          744.00           116.25           627.75
+CELECOXIB 200MG CAP BLSTX10                  8          3.00      1.69           24.00            13.52            10.48
+CIDOBEL 500MG CAP                          190          1.50      0.64          285.00           121.60           163.40
+CIFLOXDAN 200MG/100ML AMP X100ML             3         13.50      3.40           40.50            10.20            30.30
+CIPROFLOXACINO 500MG TAB BLSTX10            13          5.00      1.85           65.00            24.05            40.95
+CLARIMED 250MG/5ML SUSP X60ML                6         70.00     41.30          420.00           247.80           172.20
+CLARITROX 500MG TAB                        231          2.50      1.50          577.50           346.50           231.00
+CLAVUMOX 600 SUSP X100ML                     1         90.00     54.60           90.00            54.60            35.40
+CLAVUTRIM 250MG/5ML SUSP X60ML               4         14.90      5.00           59.60            20.00            39.60
+CLAVUTRIM CL PPS 250MG+62.5MG/5ML X60ML      6         30.00     10.50          180.00            63.00           117.00
+CLENBUVENT GOTAS X15ML                       1         22.00     16.00           22.00            16.00             6.00
+CLERILAX 250MG TAB                          20          3.50      2.19           70.00            43.80            26.20úZethQuark Versi¢n 7.0ú                                                                                                      31/03/2025
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              18:17:49
+PRT282()                                                                                                                     Pag.-    2
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+CLINDA C 300MG CAP                          54          2.50      0.90          135.00            48.60            86.40
+CLINDAMICINA 600MG/4ML AMP                  32          6.00      3.40          192.00           108.80            83.20
+CLOBULER 15MG/5ML JRBE X100ML                1         14.00      6.90           14.00             6.90             7.10
+CLOBULER DUO FORTE JRBE ADULTO X120ML        3         25.00     10.90           75.00            32.70            42.30
+CLONAZEPAM 0.5MG TAB                       145          0.80      0.13          116.00            18.85            97.15
+CLORFEDAN 10MG/1ML (IM/IV) AMP              32          5.60      0.65          179.20            20.80           158.40
+CLORFENAMINA 2MG/5ML SOL.ORAL X60ML          6          5.00      2.00           30.00            12.00            18.00
+CLORFENAMINA 4MG BLSTX10                    20          2.00      0.32           40.00             6.40            33.60
+CLORURO DE SODIO 0,9% X100ML               456          7.00      1.20        3,192.00           547.20         2,644.80
+CLORURO DE SODIO 0,9% X250ML                43          9.50      3.70          408.50           159.10           249.40
+CLORURO DE SODIO 0,9% X500ML                 1          9.50      5.00            9.50             5.00             4.50
+CLORURO DE SODIO 20% AMP                     9          2.00      1.00           18.00             9.00             9.00
+CORIFAN 1MG/1ML GOTAS X20ML                  3         30.00     21.00           90.00            63.00            27.00
+CORTIFLEX 50MG/5ML AMP                       1         50.00      0.01           50.00             0.01            49.99
+CYMAPRAM 10MG TAB                           60          3.00      0.97          180.00            58.20           121.80
+CYTOTEC 200MCG TAB                          48         15.00      5.00          720.00           240.00           480.00
+DELTIUS 22400 U.L TAB X1                     1         30.00     20.31           30.00            20.31             9.69
+DEQUAZOL ORAL 250MG/5ML SUSP X120ML          4         53.00     39.80          212.00           159.20            52.80
+DESAZONA 4MG TAB                           100          0.50      0.10           50.00            10.00            40.00
+DEXAFLAM NF 2MG/5ML JRBE X100ML              4         23.00     13.00           92.00            52.00            40.00
+DEXAFLAN 0.5MG/5ML SOL.ORAL X100ML           1         20.00      9.70           20.00             9.70            10.30
+DEXCORTIL 4MG/2ML (IM/IV) AMP               77          4.70      0.47          361.90            36.19           325.71
+DEXIDE SR 1000 TAB                         146          4.00      2.30          584.00           335.80           248.20
+DEXIDE SR 500 TAB                          120          3.00      1.44          360.00           172.80           187.20
+DEXIDE SR 750 TAB                          120          3.00      2.12          360.00           254.40           105.60
+DEXTROSA 33.3% SOL.INY 20ML                  2          5.00      2.89           10.00             5.78             4.22
+DEXTROSA 5% X1000ML                          4         10.00      5.00           40.00            20.00            20.00
+DI-PROKET 150MG CAP                        100          4.00      1.68          400.00           168.00           232.00
+DIAZEPAM 10MG/2ML AMP                        8         15.00      6.00          120.00            48.00            72.00
+DICLOFENACO 50MG TAB BLSTX10                 4          3.00      0.80           12.00             3.20             8.80
+DICLOFIX 75MG/3ML (IM) AMP                  94          5.00      0.47          470.00            44.18           425.82
+DIGESTASE 80MG TAB                          60          1.50      0.89           90.00            53.40            36.60
+DIMENS 5MG/5ML JRBE X120ML                   5         25.00      9.50          125.00            47.50            77.50
+DIPHA-SCBIX 5% CREMA X30G                    5         45.00     32.00          225.00           160.00            65.00
+DOBESIUM 100MCG TAB                        110          0.70      0.21           77.00            23.10            53.90
+DOBESIUM 25MCG TAB                          50          0.50      0.22           25.00            11.00            14.00
+DOBESIUM 50MCG TAB                          40          0.50      0.21           20.00             8.40            11.60
+DOBESIUM 75MCG TAB                          50          0.70      0.23           35.00            11.50            23.50
+DOLALIVIO COLIK TAB                         78          1.15      0.65           89.70            50.70            39.00
+DOLO NEUROBION FORTE TAB                   100          2.50      1.00          250.00           100.00           150.00
+DOLO-KET 60MG/2ML (IM) AMP                  30          4.90      1.12          147.00            33.60           113.40
+DOLOL 100MG/1ML GOTAS X15ML                  5         10.00      5.57           50.00            27.85            22.15
+DOLOL 160MG/5ML JRBE X60ML                  11         10.50      5.57          115.50            61.27            54.23
+DOXICICLINA 100MG CAP                       29          0.90      0.17           26.10             4.93            21.17
+DOXIPROCT PLUS POMADA X12G                   7         45.00     33.00          315.00           231.00            84.00
+DR.FLU CAP.BLANDAS                          70          1.50      0.51          105.00            35.70            69.30
+ENALAPRIL 20MG TAB BLSTX10                   6          4.00      0.90           24.00             5.40            18.60
+ENTEROGERMINA AMP.BEBIBLE                   40          6.00      3.83          240.00           153.20            86.80
+ENZIMATIK CAP                               26          1.50      0.90           39.00            23.40            15.60
+EPINEFRINA 1MG/ML AMP                       11          4.50      2.97           49.50            32.67            16.83
+ERGICO 2.5MG/5ML SOL.ORAL X60ML              6         25.00     12.50          150.00            75.00            75.00
+EVACUOL PLUS SOLUCION X266ML                 2         53.00     39.40          106.00            78.80            27.20
+EYEMO COLIRIO 0.05% SOL.OFTA X8ML            1         14.90      8.20           14.90             8.20             6.70
+FERROPRIME 100MG/5ML + MATERIAL             10         40.00      5.00          400.00            50.00           350.00
+FERROSIL 100MG/5ML AMP.BEBIBLE              15          9.00      5.95          135.00            89.25            45.75úZethQuark Versi¢n 7.0ú                                                                                                      31/03/2025
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              18:17:49
+PRT282()                                                                                                                     Pag.-    3
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+FISIOFER 40MG/15ML AMP.BEBIBLE               2          9.00      6.40           18.00            12.80             5.20
+FISIOFER 40MG/15ML SOL.ORAL X120ML           1         40.00     26.31           40.00            26.31            13.69
+FLEX 4MG TAB                                90          3.50      2.47          315.00           222.30            92.70
+FLOREA CAP                                  60          3.00      1.75          180.00           105.00            75.00
+FLUIMEXINA 600MG SOB                       159          3.50      0.80          556.50           127.20           429.30
+FLUIMUCIL ORAL 200MG SOBRES                  3          2.50      0.01            7.50             0.03             7.47
+FLUTOX 17.5MG/5ML SUSP X120ML                3         48.00     35.47          144.00           106.41            37.59
+FOSFUROL 3G SOB X1                           4         48.00     36.00          192.00           144.00            48.00
+FUROSEMIDA 20MG/2ML AMP                     14          8.00      0.62          112.00             8.68           103.32
+FUROSEMIDA 40MG TAB BLSTX10                  8          3.00      0.80           24.00             6.40            17.60
+GASEOVET MS SUSP X220ML                      1         30.00     19.00           30.00            19.00            11.00
+GENTAMICINA 160MG/2ML AMP                    8          4.00      1.80           32.00            14.40            17.60
+GESTAFOL 0.5MG TAB                          88          1.50      0.55          132.00            48.40            83.60
+GINGISONA L NF TOQUES SOL.TOPICA X30ML       6         26.00     18.00          156.00           108.00            48.00
+GINOFURAN XR 100MG CAP                      66          4.70      2.40          310.20           158.40           151.80
+GLIBENCLAMIDA 5MG TAB BLSTX10               19          2.00      0.38           38.00             7.22            30.78
+GLYCOLAX 17G SOB                            37          6.00      4.42          222.00           163.54            58.46
+GRAVDAN 50MG/5ML (IM/IV) AMP                25          4.00      1.08          100.00            27.00            73.00
+HEPABIONTA 2ML AMP                          18         25.00      6.00          450.00           108.00           342.00
+HEPABIONTA GRAGEAS                         120          2.50      1.15          300.00           138.00           162.00
+HEPTRAL 500MG TAB                            6          6.00      0.01           36.00             0.06            35.94
+HIDROCLOROTIAZIDA 25MG TAB BLSTX10           9          3.00      1.30           27.00            11.70            15.30
+HIDROCORTISONA 100MG AMP                     2          8.00      5.00           16.00            10.00             6.00
+HIDROCORTISONA 250MG AMP                     6         20.00      9.60          120.00            57.60            62.40
+HIOSIMOL10 10MG TAB                        105          0.90      0.33           94.50            34.65            59.85
+HIRUDOID 0.300% POMADA X14GR                 8         22.00     14.90          176.00           119.20            56.80
+HIRUDOID FORTE CREMA X14G                    8         42.50     24.60          340.00           196.80           143.20
+HIRUDOID FORTE GEL X14GR                     8         55.00     24.80          440.00           198.40           241.60
+HYALU-PLUS 30MG/2ML INYECTABLE               4        650.00    180.00        2,600.00           720.00         1,880.00
+IBANCHECK 75MG CAP                          90          2.50      0.66          225.00            59.40           165.60
+IBONIX 150MG TAB X1                          3         51.00     25.50          153.00            76.50            76.50
+IBUSOL 100MG/5ML SUSP X60ML                  9         12.00      4.50          108.00            40.50            67.50
+INMUNO PED SOBRE                           347          4.00      2.91        1,388.00         1,009.77           378.23
+INSULINA APLICACION 1-3 WOSULIN N            5         20.00      3.74          100.00            18.70            81.30
+ITUBIOT 500MG/2ML (IM/IV) AMP               40          5.70      1.78          228.00            71.20           156.80
+KETALGESICO 25MG TAB                        54          3.50      1.50          189.00            81.00           108.00
+KETOPROFENO 100MG/2ML (IM) AMP               8          5.50      1.88           44.00            15.04            28.96
+KETOPROPHARM 100MG/5ML (IV) AMP             62         12.50      2.50          775.00           155.00           620.00
+KIDCAL JRBE X180ML                           2         52.00     33.15          104.00            66.30            37.70
+KITADOL MIGRA¥A TAB                         30          2.00      1.00           60.00            30.00            30.00
+LACTULOSA 3.3G/5ML SOL.ORAL X120ML           5         21.00      7.50          105.00            37.50            67.50
+LAGOSA 150MG TAB                           250          4.00      2.99        1,000.00           747.50           252.50
+LANCIPROX 0.3% GOTAS X5ML                    4         40.00     24.50          160.00            98.00            62.00
+LEVOCTRIM FORTE 750MG TAB                   14          4.00      1.61           56.00            22.54            33.46
+LEVOFLOXACINO 500MG TAB                    147          2.00      0.33          294.00            48.51           245.49
+LIDOCAINA 2% X20ML AMP                      29          8.00      3.19          232.00            92.51           139.49
+LINCOMAX 600MG/2ML (IM/IV) AMP              26          7.00      1.05          182.00            27.30           154.70
+LINDONOSTRUM 2% GEL X30G                     2         20.00      9.90           40.00            19.80            20.20
+LITIASIN K 1080 TAB                         40          2.00      1.41           80.00            56.40            23.60
+LOPERAMIDA 2MG TAB BLSTX10                   5          3.00      0.80           15.00             4.00            11.00
+LORATADINA 10MG TAB BLSTX10                 10          3.00      0.70           30.00             7.00            23.00
+MAGNEROT 500MG TAB                          20          1.70      0.01           34.00             0.20            33.80
+MEBO TUBO X15G                               4         75.00     50.71          300.00           202.84            97.16
+MEGADERM CREMA X10G                          4         10.00      3.90           40.00            15.60            24.40
+MELATONIN 500MCG TAB.SUBLING X60             3         72.00     49.20          216.00           147.60            68.40úZethQuark Versi¢n 7.0ú                                                                                                      31/03/2025
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              18:17:50
+PRT282()                                                                                                                     Pag.-    4
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+MELOXICAM 15MG TAB BLSTX10                  25          4.00      0.80          100.00            20.00            80.00
+METAMIZOL 1G/2ML AMP                        50          4.00      0.59          200.00            29.50           170.50
+METOCLONYL 10MG/2ML AMP                     10          6.00      0.88           60.00             8.80            51.20
+METOCLOPRAMIDA 10MG TAB BLSTX10             15          3.00      0.90           45.00            13.50            31.50
+METRONIDAZOL 500MG TAB                      86          0.50      0.10           43.00             8.60            34.40
+METRONIDAZOL 500MG/100ML AMP X100ML          2         12.00      3.00           24.00             6.00            18.00
+MILGAMMA 300 PROTEKT                         8          6.20                     49.60                             49.60
+MILGAMMA MONO 150MG                         16          3.00                     48.00                             48.00
+MOBILISIN GEL X40GR                          6         50.00     35.85          300.00           215.10            84.90
+MOTRIF 1% GEL TUBO X50G                      2         14.00      5.50           28.00            11.00            17.00
+MUCOBROL 300MG/3ML AMP                       8         15.00      7.50          120.00            60.00            60.00
+MUCOCETIL 100MG/5ML SOL.ORAL X120ML          7         24.00     13.80          168.00            96.60            71.40
+MUCOTRIM GOTx15ML                            1         19.00     12.50           19.00            12.50             6.50
+MULCEROL 40MG TAB                          297          2.50      0.54          742.50           160.38           582.12
+NAXODOL 550MG TAB                           60          1.00      0.30           60.00            18.00            42.00
+NISONA 5MG/5ML SUSP X100ML                   4         27.00     18.00          108.00            72.00            36.00
+NORMON 5MG/100ML + MATERIAL                  2        750.00    450.00        1,500.00           900.00           600.00
+NORSPAN 10MG PARCHE                          2        170.00    114.69          340.00           229.38           110.62
+OMEPRAZOL 40MG AMP                          61          8.50      2.20          518.50           134.20           384.30
+OMETAB 20MG TAB                            125          1.70      0.08          212.50            10.00           202.50
+ORFEDRIN 100MG TAB                         120          1.50      0.62          180.00            74.40           105.60
+ORFELAX 60MG/2ML (IM/IV) AMP                78          4.00      1.65          312.00           128.70           183.30
+OTIDOL NF SOL.OTICA X5ML                     3         14.00      9.90           42.00            29.70            12.30
+PALATOX 15MG/5ML JRBE X120ML                 2         13.90      5.50           27.80            11.00            16.80
+PANTOPRAZOL 20MG TAB                        30          1.50      0.87           45.00            26.10            18.90
+PARACETAMOL 1000MG/100ML (IV) AMP            9         42.50     22.00          382.50           198.00           184.50
+PARACETAMOL 120MG/5ML SOL.ORAL X60ML         2          6.00      2.80           12.00             5.60             6.40
+PARACETAMOL 500MG TAB BLSTX10               28          3.00      0.70           84.00            19.60            64.40
+PARDIL 500MG TAB                            24          4.50      2.00          108.00            48.00            60.00
+PASMODAN 20MG/ML (IM/IV) AMP                33          5.50      1.55          181.50            51.15           130.35
+PEDIALYTE MAX SABOR UVA X500ML               8         10.00      0.01           80.00             0.08            79.92
+PHYTO SOYA 17.5MG TAB                       73          2.20      1.59          160.60           116.07            44.53
+PIRALGINA 250MG/5ML JRBE X50ML               2         12.00      7.00           24.00            14.00            10.00
+PIRIALIV 100MG TAB                         126          1.00      0.27          126.00            34.02            91.98
+PLIDOCHECK 400MG CAP                       136          0.80      0.28          108.80            38.08            70.72
+PREDNISONA 5MG TAB BLSTX10                  14          2.00      0.50           28.00             7.00            21.00
+PRIPAX 75MG CAPSULA                         13          3.70                     48.10                             48.10
+PRODEFEN PLUS SOBRE                         45          9.00      6.11          405.00           274.95           130.05
+PROFEKED 2.5% GEL X30G                       4         25.50     13.40          102.00            53.60            48.40
+PROFEKET 100MG/2ML AMP X1                    1         17.50     10.00           17.50            10.00             7.50
+PROFEKET 100MG/5ML AMP IV                    1         13.00      0.01           13.00             0.01            12.99
+PRONTEL 100MG/5ML JRBE X20ML                 7         11.00      3.95           77.00            27.65            49.35
+PROSTASIL 0.5MG CAP                         40          6.00      4.53          240.00           181.20            58.80
+RETEVEN 5MG TAB                             60          4.00      0.01          240.00             0.60           239.40
+REXALER 2.5MG/5ML SOL.ORAL X60ML             6         25.00      8.90          150.00            53.40            96.60
+RINOFLUIMUCIL 10MG/1ML SOL.NASAL             2         65.00     47.34          130.00            94.68            35.32
+ROWACHOL CAPSULAS                           71          2.50      1.45          177.50           102.95            74.55
+ROWATINEX CAPSULAS                         246          2.50      1.11          615.00           273.06           341.94
+SALBUTEX 100MCG AEROSOL X200DOSIS            8         15.00      4.50          120.00            36.00            84.00
+SILENTUSS 30MG/5ML JRBE X120ML               4         32.00     21.50          128.00            86.00            42.00
+SINGLOINT 20MG/2ML + MATERIAL                1        350.00    150.00          350.00           150.00           200.00
+SUEROVIT 2ML AMP                            25         40.00     12.72        1,000.00           318.00           682.00
+SULFANIL 1% CREMA 50G                        4         20.00     11.90           80.00            47.60            32.40
+TERBIFUN 1% SPRAY X30ML                      5         27.00     12.50          135.00            62.50            72.50
+TERBINAFINA 250MG TAB                      137          1.00      0.36          137.00            49.32            87.68úZethQuark Versi¢n 7.0ú                                                                                                      31/03/2025
+POL.LOS ANGELES                        REPORTE INVENTARIO VALORIZADO X LINEA (FARMACOS) MOSTRADOR                              18:17:50
+PRT282()                                                                                                                     Pag.-    5
+---------------------------------------------------------------------------------------------------------------------------------------
+            DESCRIPCION                  STOCK            PV     ULTCOS       TOTAL PV      TOTAL ULTCOS        UTILIDAD
+---------------------------------------------------------------------------------------------------------------------------------------
+TERFITIL 1% CREMA X20G                       2         16.00      6.90           32.00            13.80            18.20
+THIOGAMMA 600MG TAB                          6          6.80      0.01           40.80             0.06            40.74
+TOPIMICYN NF UNGUENTO X14G                   7         30.00     13.00          210.00            91.00           119.00
+TRAMADOL 50MG/1ML AMP                        8          5.00      1.09           40.00             8.72            31.28
+TRANEXCHYK 1G/10ML (IV) AMP                  5         30.00      1.00          150.00             5.00           145.00
+TRICOFAR ORAL 500MG TAB                    244          0.75      0.57          183.00           139.08            43.92
+TRIGLIOUT 100MG TAB                        194          3.50      1.65          679.00           320.10           358.90
+UROFURIN 100MG TAB                          62          2.20      1.48          136.40            91.76            44.64
+UROFURIN 25MG/5ML SUSP X120ML                3         38.00     24.90          114.00            74.70            39.30
+VAGISTEN 0.1% CREMA X15G                     4         45.00     32.00          180.00           128.00            52.00
+VARICOSIN 500MG CAPSULA                      2          2.00      0.01            4.00             0.02             3.98
+VAXIGEL OVULOS                              68          4.00      1.40          272.00            95.20           176.80
+VELTAM 0.4MG TAB                           201          3.00      0.19          603.00            38.19           564.81
+VENOCALM 500MG CAP                          50          3.00      1.17          150.00            58.50            91.50
+VERSATIS 5% 700MG PARCHE                    11         35.00      0.01          385.00             0.11           384.89
+VINIL 75MG/3ML (IM/IV) AMP                  48          8.50      4.20          408.00           201.60           206.40
+VITACOSE 2ML INYECTABLE                     87         20.00      9.00        1,740.00           783.00           957.00
+VIVERA SOB                                   8          6.00      3.80           48.00            30.40            17.60
+VOMIXTAL 50MG TAB                           80          1.00      0.29           80.00            23.20            56.80
+ZETALER 5MG/5ML SUSPESION X 60ML             1         40.00      0.01           40.00             0.01            39.99
+ZITROLAB 200MG/5ML SUSP X15ML                7         30.00     10.50          210.00            73.50           136.50
+---------------------------------------------------------------------------------------------------------------------------------------
+T O T A L E S :                                                              53,829.60        21,711.72        32,117.88
+---------------------------------------------------------------------------------------------------------------------------------------

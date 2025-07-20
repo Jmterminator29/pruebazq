@@ -1,0 +1,801 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:14
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015236           EFR       01/04/2025 08:18  V                      ALEJANDRINA TAPIA FLORES       E         139.50
+015237           EFR       01/04/2025 08:21  V                      ALEJANDRINA TAPIA FLORES       E          45.00
+015238           EFR       01/04/2025 08:28  V                      ZORAYDA NU;EZ ARIZA            E          10.00
+015239           EFR       01/04/2025 11:29  V                      BUILTRON ZAVALA ANTONIA        E         150.00
+015240           EFR       01/04/2025 15:34  V                      CORDOVA NARCISO ROSALINDA      PL         45.00
+015241           EFR       01/04/2025 15:59  V                      ADALBERTO OYOLA DIESTRA        E          45.00
+015242           EFR       01/04/2025 16:27  V                      GALVAN CASAVILCA URSICIR       E          45.00
+015243           EFR       01/04/2025 17:37  V                      VENTA ANULADA                  E           0.00
+015244           EFR       01/04/2025 17:52  V                      OYOLA DIESTRA ADALBERTO        PL        127.50
+015245           EFR       01/04/2025 17:52  V                      OYOLA DIESTRA ADALBERTO        E         112.50
+015246           EFR       01/04/2025 17:54  V                      PAMELA FELICES VALLEJO         PL         45.00
+015247           EFR       01/04/2025 18:10  V                      PEDRO MELLISO GUARMI           E          45.00
+015248           EFR       01/04/2025 18:23  V                      TAPIA FLORES ALEJANDRINA       E          92.50
+015249           EFR       01/04/2025 18:23  V                      TAPIA FLORES ALEJANDRINA       PL        235.00
+015250           EFR       01/04/2025 18:32  V                      CASAVILCA MARCELA              E         109.90
+015251           EFR       01/04/2025 18:37  V                      DAYANA VERA ORTIZ              E          64.50
+015252           EFR       01/04/2025 18:40  V                      OYOLA DIESTRA ADALBERTO        E          70.00
+015253           EFR       01/04/2025 18:55  V                      PAMELA FELICES VALLEJOS        PL         67.40
+015254           EFR       01/04/2025 19:05  V                      ROMERO LA ROSA JADE            PL         45.00
+015255           EFR       01/04/2025 19:09  V                      ABEL MAYA                      E          10.00
+015256           EFR       01/04/2025 19:18  V                      PEDRO MELLISO                  E         230.00
+015257           EFR       01/04/2025 19:28  V                      ALEJANDRO CARRERA OLIVARES     PL         23.00
+015258           EFR       01/04/2025 19:29  V                      ALEJANDRO CARRERA OLIVARES     PL         70.00
+015259           EFR       01/04/2025 19:35  V                      IVAN LOZANO                    E          15.50
+015260           EFR       01/04/2025 20:19  V                      ROEMERO LA ROSA JADE BRIANA    PL         88.00
+015261           EFR       01/04/2025 20:56  V                      ALEJANDRO CARRERA OLIVARES     E          52.50
+015262           ELI       02/04/2025 08:49  V                      ZOE ISAMAR FLORES TAFUR        PL         45.00
+015263           ELI       02/04/2025 09:23  V                      JOSE VERANO MENDOZA            E          33.00
+015264           ELI       02/04/2025 10:21  V                      VENTA ANULADA                  PL          0.00
+015265           ELI       02/04/2025 10:28  V                      FLORES TAFFUR ZOE              PL         99.00
+015266           ELI       02/04/2025 10:29  V                      FLORES TAFFUR ZOE              PL          2.00
+015267           ELI       02/04/2025 12:02  V                      MARCOS PICHILINGUE LUIS        E          10.00
+015268           ELI       02/04/2025 14:22  V                      LUCIAN CIGUE;AS                E           5.00
+015269           ELI       02/04/2025 15:00  V                      YANET NIETO TORIBIO            PL         45.00
+015270           ELI       02/04/2025 15:01  V                      CARRASCO NIETO GEROGE          PL         45.00
+015271           ELI       02/04/2025 15:55  V                      CASAVILCA MARCELA              E          40.40
+015272           ELI       02/04/2025 15:58  V                      HUIZA LOPEZ                    E          45.00
+015273           ELI       02/04/2025 16:18  V                      JHOAN FABRIZIO PADILLA SOLIS   E         120.00
+015274           ELI       02/04/2025 16:36  V                      COSINA DE LOAIZA               E          45.00
+015275           ELI       02/04/2025 16:42  V                      CODINA DE LOIZA                E          10.00
+015276           ELI       02/04/2025 17:03  V                      INOSTROZA LOPES                E          45.00
+015277           ELI       02/04/2025 17:48  V                      ALEJOS CORDOVA                 E          45.00
+015278           ELI       02/04/2025 17:49  V                      EUGENIO ORTIZ                  E          29.00
+015279           ELI       02/04/2025 17:51  V                      VENTA ANULADA                  PL          0.00
+015280           ELI       02/04/2025 18:00  V                      ESPINOZA QUISPE                PL         45.00
+015281           ELI       02/04/2025 18:03  V                      FELICES VALLEJO PAMELA         PL         67.40
+015282           ELI       02/04/2025 18:27  V                      CARRANSA OLIVARES              E         116.00
+015283           ELI       02/04/2025 18:28  V                      SILVIA PALMA VEGA              E          45.00
+015284           ELI       02/04/2025 18:37  V                      GEORGE CARRASGO NIETO          E          67.00
+015285           ELI       02/04/2025 18:44  V                      YANET NIETO                    E          40.00
+015286           ELI       02/04/2025 18:47  V                      DIAZ ORTIZ                     PL         45.00
+015287           ELI       02/04/2025 18:52  V                      HUIZA LOPEZ LIAM               E          48.50
+015288           ELI       02/04/2025 18:56  V                      CONCHUCOS URCIA HENRY          E         103.00
+015289           ELI       02/04/2025 18:56  V                      HENRY CONCHUCOS                E         113.00
+015290           ELI       02/04/2025 19:01  V                      YOMAR JAVIER                   PL         39.50úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:14
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015291           ELI       02/04/2025 19:13  V                      FRANCISCA CODINA               E         139.00
+015292           ELI       02/04/2025 19:17  V                      YOMAR                          E           2.00
+015293           ELI       02/04/2025 19:20  V                      IVAN LOZANO                    E          16.00
+015294           EFR       02/04/2025 19:35  V                      GODINA DE LOAYZA FRANCISCA     E         243.00
+015295           EFR       02/04/2025 19:50  V                      GODINA DE LOAYZA FRANCISCA     E           8.00
+015296           EFR       02/04/2025 19:55  V                      ESPONIZA VALVERDE YERKIS       PL        160.00
+015297           ELI       02/04/2025 20:07  V                      LUCIANO CIGUE;AS               E           5.00
+015298           ELI       02/04/2025 20:36  V                      DINA ISABEL DIAZ ORTIZ         PL        130.00
+015299           ELI       02/04/2025 20:47  V                      INES ALEJOS CORDOVA            E          76.00
+015300           ELI       02/04/2025 21:02  V                      CODINA DE LOAYSA FRANCISCA     C          45.00
+015301           ELI       03/04/2025 08:29  V                      JUAN CARLO HOROYA ROSEL        PL         70.00
+015302           ELI       03/04/2025 09:03  V                      JOSE SILVA CALDERON            E          45.00
+015303           RFE       03/04/2025 22:29  V                      VENTA ANULADA                  C           0.00
+015304           RFE       03/04/2025 22:43  V                      VENTA ANULADA                  C           0.00
+015305           FAB       04/04/2025 08:48  V                      YANET NIETO TORIBIA            PL        228.00
+015306           GEN       04/04/2025 09:00  V                      FRANCISCO ESPINOZA CHINCHAY    E          30.00
+015307           GEN       04/04/2025 09:01  V                      ALEJANDRINA FLORES ARON        E          45.00
+015308           GEN       04/04/2025 09:02  V                      JUAN CARLOS HOROYA ROSELL      PL         45.00
+015309           GEN       04/04/2025 09:03  V                      SUYON DE NOVOA FELIPA          E          45.00
+015310           GEN       04/04/2025 09:04  V                      TAPIA FLORES ALEJANDRINA       E          45.00
+015311           GEN       04/04/2025 09:06  V                      WALHOFF VEGA MARIA LUPE        E          45.00
+015312           GEN       04/04/2025 09:06  V                      YOMAR JAVIER TORRES            E          26.50
+015313           GEN       04/04/2025 09:09  V                      ELIZABETH JULIAN SAENZ         E          45.00
+015314           GEN       04/04/2025 09:09  V                      CARRERA OLIVARES ALEJANDRO     E          45.00
+015315           GEN       04/04/2025 09:10  V                      CARRERA OLIVARES ALEJANDRO     E          11.50
+015316           GEN       04/04/2025 09:12  V                      ELIZABETH JULIAN SAENZ         PL        190.00
+015317           GEN       04/04/2025 09:13  V                      ALEJOS CORDOVA                 E          45.00
+015318           GEN       04/04/2025 09:18  V                      CARRERA OLIVARES ALEJANDRO     E          69.50
+015319           GEN       04/04/2025 09:19  V                      CARRERA OLIVARES ALEJANDRO     E         120.00
+015320           GEN       04/04/2025 09:21  V                      JANET NIETO TORIBIA            PL         15.00
+015321           GEN       04/04/2025 09:22  V                      LA ROSA ESCOBAR MARIA          PL          3.00
+015322           GEN  GEN  04/04/2025 09:28  V                      JUAN CARLOS HOROYA ROSELL      PL        163.00
+015323           GEN       04/04/2025 09:52  V                      ALEJOS CORDOVA INES            E          86.50
+015324           GEN       04/04/2025 10:14  V                      INES ALEJOS CORDOVA            E           3.00
+015325           FAB       04/04/2025 10:33  V                      SALOME HUERTA DE ALBINO        PL         45.00
+015326           GEN       04/04/2025 10:51  V                      JUAN CARLOS HOROYA ROSELL      PL        156.50
+015327           FAB       04/04/2025 11:31  V                      SALOME HUERTO DE ALBINO        PL        132.50
+015328           FAB       04/04/2025 11:45  V                      FELIPA SULLON CHIROQUE         E         418.00
+015329           FAB       04/04/2025 12:03  V                      SALOME HUERTO DE ALBINO        PL        226.00
+015330           GEN       04/04/2025 14:51  V                      SALOME HUERTA DE ALBINO        PL         82.35
+015331           GEN       04/04/2025 15:38  V                      ZORRILLA ASENCIO ALMAQUIO      E          45.00
+015332           GEN       04/04/2025 15:57  V                      CHAVEZ MALLQUI PILAR           E          45.00
+015333           GEN       04/04/2025 16:20  V                      PAMELA FELICES VALLEJOS        PL         36.40
+015334           GEN       04/04/2025 16:26  V                      ASCENCIO SILVA YENINA          PL         45.00
+015335           GEN       04/04/2025 16:49  V                      VENTOCILLA LOPEZ AMADEO        E          45.00
+015336           GEN       04/04/2025 17:08  V                      TAPIA FLORES ALEJANDRINA       E          38.00
+015337           GEN       04/04/2025 17:20  V                      TAPIA FLORES ALEJANDRINA       E           4.00
+015338           GEN       04/04/2025 17:26  V                      CARRERA OLIVARES ALEJANDRO     E          64.50
+015339           GEN       04/04/2025 17:28  V                      GERONIMO ROBLES MARCO          E          45.00
+015340           GEN       04/04/2025 17:29  V                      CESAR VERASTEGUI PAREDES       E          10.00
+015341           GEN       04/04/2025 17:50  V                      URBANA OLIVALES LEON           PL         45.00
+015342           GEN       04/04/2025 18:06  V                      SANTA CAMILLA AYALA            E          45.00
+015343           FAB       04/04/2025 18:13  V                      VENTA ANULADA                  PL          0.00
+015344           FAB       04/04/2025 18:17  V                      YAMINA ACENCIO ]               PL         13.50
+015345           FAB       04/04/2025 18:19  V                      QUISPE CALDA EUGENIA           E          80.00úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:14
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015346           FAB       04/04/2025 18:24  V                      EDGAR EMANUEL                  E          45.00
+015347           FAB       04/04/2025 18:38  V                      GERONIMO ROBLES                E         148.70
+015348           FAB       04/04/2025 18:44  V                      ESPINOZA MAGUI;A NELIA         E          45.00
+015349           FAB       04/04/2025 18:47  V                      URBANA OLIVARES LEON           C          56.50
+015350           FAB       04/04/2025 18:50  V                      URBANA OLIVARES LEON           C         139.00
+015351           EFR       04/04/2025 19:15  V                      YEMINA ACENCIO SILVA           PL         58.00
+015352           EFR       04/04/2025 19:18  V                      GEORGE CARRASCO NIETO          E          16.00
+015353           FAB       04/04/2025 19:30  V                      CAMILLA AYALA SANTA            PL        121.50
+015354           FAB       04/04/2025 19:32  V                      YEMINA ASENCIOS                E           3.00
+015355           EFR       04/04/2025 19:55  V                      ESPINOZA MAGUI¥A NELIA         E          74.50
+015356           GEN       04/04/2025 20:46  V                      NELIA ESPINOZA                 E           3.00
+015357           FAB       04/04/2025 20:56  V                      VENTA ANULADA                  PL          0.00
+015358           FAB       05/04/2025 08:31  V                      ESPINOZA MAAGUI;A NELIA        E         216.00
+015359           FAB       05/04/2025 08:39  V                      GUERRERO SANCHEZ YUBIRY MAYERL E          58.00
+015360           FAB       05/04/2025 08:40  V                      SANCHEZ PATRICIO MARTZA YOVANA E          58.00
+015361           FAB       05/04/2025 11:16  V                      YANET NIETO TORIBIO            E          15.00
+015362           FAB       05/04/2025 12:10  V                      VENTA ANULADA                  PL          0.00
+015363           FAB       05/04/2025 13:30  V                      VICTORIA MIRANDA SUAREZ        E          45.00
+015364           FAB       05/04/2025 16:10  V                      FELIPA SULLON                  E         147.00
+015365           FAB       05/04/2025 16:14  V                      ORTIZ TEOSORO MELINA MARIA     E          45.00
+015366           FAB       05/04/2025 16:28  V                      PAMELA FELICES VALLEJOS        E          41.90
+015367           GEN       05/04/2025 16:27  V                      LUZ GENY DULANTO MAGUI;A       E          45.00
+015368           FAB       05/04/2025 17:13  V                      SUE ROSADO PAUSICH             E          45.00
+015369           FAB       05/04/2025 17:57  V                      LUZ DULANTO MAGUI;A            E          40.50
+015370           FAB       05/04/2025 18:00  V                      FELIPA SULLON CHIRROQUE        E          45.00
+015371           FAB       05/04/2025 18:35  V                      ESPINOZA MAGUI;A NELIA         E          45.00
+015372           FAB       05/04/2025 18:47  V                      CARRERA OLIVARES ALEJANDRO     E          64.50
+015373           FAB       05/04/2025 19:13  V                      FELIPA SULLON                  E          19.00
+015374           FAB       05/04/2025 19:15  V                      YEMINA ACENCIO SILVA           PL         13.50
+015375           FAB       05/04/2025 19:18  V                      YEMINA ASENCIOS SILVA          PL        162.00
+015376           FAB       05/04/2025 19:26  V                      ESPINOZA MEGUI;A               E          34.50
+015377           FAB       05/04/2025 19:28  V                      ASHU;AHUA COTILLO GUILLERMO JA E          45.00
+015378           FAB       05/04/2025 19:43  V                      MEJIA CORPUS ANSUET PALOMA     E          45.00
+015379           FAB       05/04/2025 19:55  V                      WILLIAM MONTES                 E          15.00
+015380           FAB       05/04/2025 20:02  V                      PALOMA MEJIA CORPUS            E          17.50
+015381           FAB       05/04/2025 20:58  V                      ASHU;AHUA COTILLO GUILLERMO JA E          86.50
+015382           FAB       05/04/2025 21:28  V                      MEJIA CORPUS ANSUET PALOMA     E          16.50
+015383           FAB       05/04/2025 21:29  V                      PALOMA MEJIA CORPUS            E          61.00
+015384           EFR       06/04/2025 11:51  V                                                     E         119.50
+015385           EFR       06/04/2025 12:23  V                      GUEVARA HUAIRI                 E          63.70
+015386           EFR       06/04/2025 14:18  V                      RIMAC LEON                     E          45.00
+015387           EFR       06/04/2025 15:14  V                      RIMAC LEON LEONIDAS            E         246.00
+015388           EFR       06/04/2025 17:22  V                      VICTORIA RIMAC LEON            E           3.00
+015389           EFR       06/04/2025 17:36  V                      VICTORIA RIMAC LEON            PL        105.00
+015390           EFR       06/04/2025 17:37  V                      RIMAC LEON VICTORIA            PL         70.00
+015391           EFR       06/04/2025 17:56  V                      PAMELA FELICES VALLEJOS        E          41.90
+015392           EFR       06/04/2025 18:41  V                      ANA LUZ TENA ROJAS             PL         15.00
+015393           EFR       06/04/2025 18:51  V                      PAREDES FELICES                E           5.00
+015394           MAR       07/04/2025 22:24  V                      CELESTINA TOLENTINO HIDALGO    E         195.00
+015395           MAR       07/04/2025 22:44  V                      KEVIN PAIVA PUESAS             PL         45.00
+015396           MAR       07/04/2025 22:53  V                      TARICUARIMA CORNEJO KETTY      E          15.00
+015397           MAR       07/04/2025 23:15  V                      KEVIN PAIVA PUESCAS            PL         30.00
+015398           MAR       07/04/2025 23:41  V                      PI;ARES NAVARRO YULISSA        E          45.00
+015399           MAR       07/04/2025 23:44  V                      ZORRILLA VALENZUELA ELSA       E          45.00
+015400           MAR       07/04/2025 23:48  V                      PAIVA PUESCAS KEVIN            PL        154.50úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:14
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015401           MAR       07/04/2025 00:11  V                      BERNABE SANCHEZ IRMA           E          45.00
+015402           MAR       07/04/2025 00:16  V                      YULISSA PI;ARES NAVARRO        E         101.50
+015403           MAR       07/04/2025 00:25  V                      HUAMAN CHIRITO FRANK           PL        140.00
+015404           MAR       07/04/2025 00:42  V                      PI;ARES NAVARRO YULISSA        E         121.50
+015405           MAR       07/04/2025 01:27  V                      BERNABE SANCHEZ YRMA           E         259.00
+015406           MAR       07/04/2025 11:55  V                      BERNABE SANCHEZ YRMA           E         299.50
+015407           MAR       07/04/2025 14:41  V                      PEREZ VEGA FRIEDRICH           PL         45.00
+015408           MAR       07/04/2025 15:55  V                      ZORILLA ASENCIO ALMAQUIO       E         189.00
+015409           MAR       07/04/2025 16:02  V                      CANDELARIO NEIRA GIOSUE        E          45.00
+015410           MAR       07/04/2025 06:01  V                      PALOMA MEJIA CORPUS            PL         45.00
+015411           MAR       07/04/2025 06:09  V                      BRENDA CORPUS                  E           3.00
+015412           MAR       07/04/2025 06:23  V                      NICOLAS SANCHEZ LARA           E          45.00
+015413           MAR       07/04/2025 17:03  V                      MAMANI MEZA PILAR              E          45.00
+015414           MAR       07/04/2025 17:11  V                      LLACCHI MATOS                  PL         45.00
+015415           MAR       07/04/2025 06:54  V                      VICTORIA MIRANDA SUAREZ        E         192.00
+015416           MAR       07/04/2025 17:39  V                      PEREZ VEGA FRIEDRICH           PL        113.00
+015417           MAR       07/04/2025 17:48  V                      PAREDES FELICES                E          41.90
+015418           MAR       07/04/2025 17:52  V                      CANDELARIO NEIRA GIOSUE        E          79.50
+015419           MAR       07/04/2025 07:26  V                      CANDELARIO NEIRA GIOSUE        E          61.50
+015420           MAR       07/04/2025 07:32  V                      MARCELINA BERNECHEA BRIOSO     PL         45.00
+015421           MAR       07/04/2025 18:04  V                      VERA ORTIZ DAYANA              E          45.00
+015422           MAR       07/04/2025 18:09  V                      NICOLAS SANCHEZ LARA           E          65.00
+015423           MAR       07/04/2025 18:10  V                      MEJIA CORPUS ANSUET            PL         50.00
+015424           MAR       07/04/2025 07:44  V                      MEJIA CORPUS  ANSUET           PL        105.50
+015425           MAR       07/04/2025 18:15  V                      CANDELARIO NEIRA GIOSUE        E          25.00
+015426           MAR       07/04/2025 18:25  V                      MEJIA CORPUS ANSUET            PL          9.00
+015427           MAR       07/04/2025 18:57  V                      BERNECHEA BRIOSO MARCELINA     PL        191.00
+015428           MAR       07/04/2025 08:31  V                      BARNECHEA BRIOSO MARCELINA     PL        120.00
+015429           MAR       07/04/2025 08:54  V                      DAYANA VERA ORTIZ              PL         80.00
+015430           MAR       07/04/2025 08:57  V                      MEJIA CORPUS ANSUET            E           3.00
+015431           MAR       07/04/2025 19:41  V                      CARRERA OLIVARES ALEJANDRO     E          56.50
+015432           MAR       07/04/2025 09:37  V                      GIOSUE CANDELARIO NEIRA        E          88.00
+015433           MAR       07/04/2025 20:20  V                      MEJIA CORPUES PALOMA           PL         10.00
+015434           MAR       07/04/2025 20:25  V                      CARRERA OLIVARES ALEJANDRO     E          35.00
+015435           FAB       07/04/2025 20:45  V                      VENTA ANULADA                  E           0.00
+015436           FAB       08/04/2025 08:53  V                      FALCON MONTES                  E           8.50
+015437           FAB       08/04/2025 09:37  V                      RIMAC LEON LEONIDAS            E          45.00
+015438           FAB       08/04/2025 09:43  V                      MARCELINA BERMACHEA BRIOSO     E          45.00
+015439           FAB       08/04/2025 11:44  V                      YEMINA ASENCIO SILVA           PL         45.00
+015440           EFR       08/04/2025 13:11  V                      VERA ORTIZ DAYANA              E          29.00
+015441           FAB       08/04/2025 13:49  V                      BARTOLOME RAMIREZ              E          17.50
+015442           FAB       08/04/2025 14:34  V                      ROMAN ALVARO LUILLIER          PL         43.50
+015443           FAB       08/04/2025 17:01  V                      HUAMAN CHIRITO FRANCK\         E          45.00
+015444           FAB       08/04/2025 17:09  V                      PEREZ VEGA FRIEDRICH           PL         45.00
+015445           FAB       08/04/2025 17:31  V                      KATERINE PA;A PE;A             E          60.00
+015446           FAB       08/04/2025 17:48  V                      CARRERA OLIVARES ALEJANDRO     E          46.50
+015447           FAB       08/04/2025 17:57  V                      NIETO TORIBIO YANET            E          45.00
+015448           FAB       08/04/2025 18:10  V                      KATERIN PE;A PE;A              E          45.00
+015449           EFR       08/04/2025 18:19  V                      BERNECHEA BRIOSO MARCELINA     PL         95.00
+015450           EFR       08/04/2025 18:19  V                      BERNECHEA BRIOSO MARCELINA     PL        167.40
+015451           FAB       08/04/2025 19:11  V                      CORDOVA DE ALEJOS LIDUBINA     PL         45.00
+015452           FAB       08/04/2025 19:14  V                      CORDOVA DE ALEJOS              E           2.00
+015453           FAB       08/04/2025 19:18  V                      HUAMAN CHIRRITO FRANCK         E         173.00
+015454           FAB       08/04/2025 19:20  V                      FRANCK HUAMAN CHIRITO          E           3.00
+015455           FAB       08/04/2025 19:26  V                      VENTA ANULADA                  PL          0.00úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:14
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015456           FAB       08/04/2025 19:54  V                      YAMINA ASENCIO SILVA           PL          8.50
+015457           FAB       08/04/2025 20:27  V                      CORDOVA DE ALEJOS LIDUBINA     E         150.00
+015458           MAR       09/04/2025 09:15  V                      ZORAIDA NU;EZ                  E          10.00
+015459           MAR       09/04/2025 09:19  V                      SANCHEZ BRAVO ISAIAS           E          80.00
+015460           MAR       09/04/2025 09:40  V                      HUAMAN CHIRITO FRANK           E          27.00
+015461           MAR       09/04/2025 09:43  V                      YULISSA PI;ARES NAVARRO        E          45.00
+015462           MAR       09/04/2025 09:44  V                      CARMEN PATRICIA ALBINO GUERRER E          45.00
+015463           MAR       09/04/2025 09:47  V                      HUAMAN CHIRITO FRANK           E          78.00
+015464           MAR       09/04/2025 13:19  V                      GUERRERO DE GIRALDO GLORIA     E          45.00
+015465           MAR       09/04/2025 13:35  V                      YAMINA ASENCIO SILVA           PL          8.50
+015466           MAR       09/04/2025 15:10  V                      CERVANTES MALLQUI LUZ          E          45.00
+015467           MAR       09/04/2025 16:44  V                      DYLAN ORDAYA EVANGELISTA       E          45.00
+015468           MAR       09/04/2025 17:02  V                      BERNECHEA BRIOSO  MARCELINA    E          91.40
+015469           MAR       09/04/2025 17:15  V                      JESUS MARCHELA                 E          80.00
+015470           MAR       09/04/2025 17:16  V                      NARVASTA OLIVARES LOURDES      E          45.00
+015471           MAR       09/04/2025 17:20  V                      GLORIA GUERRERO DE GIRALDO     E         134.50
+015472           MAR       09/04/2025 17:21  V                      GLORIA GUERRERO DE GIRALDO     E          41.50
+015473           MAR       09/04/2025 17:22  V                      GLORIA GUERRERO DE GIRALDO     E         120.00
+015474           MAR       09/04/2025 17:45  V                      GABRIELA PANTA RODRIGUEZ       PL         45.00
+015475           MAR       09/04/2025 18:03  V                      LUZ CERVANTES MALLQUI          E          31.00
+015476           MAR       09/04/2025 18:26  V                      DYLAN ORDAYA EVANGELISTA       E          20.00
+015477           MAR       09/04/2025 18:27  V                      LUNA RAMOS CARMEN              PL         45.00
+015478           MAR       09/04/2025 18:31  V                      NARVASTA OLIVARES LOURDES      E          27.00
+015479           MAR       09/04/2025 18:50  V                      REYES LOPEZ ROBETH             E          45.00
+015480           MAR       09/04/2025 19:07  V                      CARMEN LUNA RAMOS              PL         78.00
+015481           MAR       09/04/2025 19:07  V                      GABRIELA PANTA RODRIGUEZ       PL        295.50
+015482           MAR       09/04/2025 19:18  V                      ANTONIO MAUTINO RIMAC          PL        165.00
+015483           MAR       09/04/2025 19:59  V                      GLORIA GUERRERO DE GRIMALDO    E         130.00
+015484           MAR       09/04/2025 20:18  V                      CARRILLO ESPINOZA BRYAN        E          45.00
+015485           EFR       09/04/2025 23:17  V                      VENTA ANULADA                  E           0.00
+015486           CLA       10/04/2025 00:00  V                      VICTOR OLIVARES                E          10.00
+015487           CLA       10/04/2025 11:52  V                      JUAN ALBERTO PAJUELO ENRIQUEZ  E          70.00
+015488           CLA       10/04/2025 15:18  V                      GLORIA GUERRERO DE GIRALDO     E          60.00
+015489           CLA       10/04/2025 16:12  V                      GLORIA GUERRERO DE GIRALDO     E          40.00
+015490           CLA       10/04/2025 16:13  V                      GUERRERO DE GIRALDO GLORIA     E          58.90
+015491           CLA       10/04/2025 16:57  V                      BERNECHEA BRIOSO MARCELINA     E          81.40
+015492           CLA       10/04/2025 17:17  V                      FLORES TRONCOSO MIA            E          45.00
+015493           CLA       10/04/2025 17:54  V                      VENTA ANULADA                  E           0.00
+015494           CLA       10/04/2025 17:56  V                      BRYAN CARRILLO ESPINOZA        E          57.00
+015495           CLA       10/04/2025 18:00  V                      ESTEISY CARO ESPINOZA          PL         35.00
+015496           CLA       10/04/2025 18:11  V                      FLORES TRONCOSO MIA            TR        125.00
+015497           CLA       10/04/2025 18:11  V                      FLORES TRONCOSO MIA            TR         67.00
+015498           CLA       10/04/2025 18:18  V                      FLORES TRONCOSO MIA            TR        140.00
+015499           CLA       10/04/2025 19:09  V                      ROBERT REYES LOPEZ             E          31.00
+015500           FAB       11/04/2025 07:58  V                      GONZALES ZAPATA DELFIN         E          10.00
+015501           FAB       11/04/2025 12:08  V                      ESPINOZA AGUIRRE SOFIA         E          70.00
+015502           FAB       11/04/2025 16:20  V                      GLORIA GUERRERO DE GIRALDO     E          65.20
+015503           FAB       11/04/2025 16:42  V                      GLORIA GUERRERO DE GIRALDO     E           5.70
+015504           EFR       11/04/2025 18:13  V                      JAREN JARA                     E          32.00
+015505           EFR       11/04/2025 18:14  V                      JAREN JARA                     E          14.00
+015506           EFR       11/04/2025 18:53  V                      NARVASTA OLIVARES LOURDES      E          27.00
+015507           EFR       11/04/2025 19:40  V                      REYES VASQUEZ                  E          31.50
+015508           FAB       12/04/2025 09:27  V                      PALCIOS IDALGO CARLO           E          80.00
+015509           FAB       12/04/2025 09:57  V                      TRUJILLO ORTEGA ABRAHAM        E          70.00
+015510           FAB       12/04/2025 10:32  V                      TRUJILLO ORTEGA ABRAHAM ESIQUI E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015511           FAB       12/04/2025 10:50  V                      BRIAN AVALENZUELA GONZALES     E          45.00
+015512           FAB       12/04/2025 11:53  V                      VALENZUELA GONZALES            E          32.00
+015513           FAB       12/04/2025 11:54  V                      VENTA ANULADA                  PL          0.00
+015514           FAB       12/04/2025 11:57  V                      BRIAN VALENZUELA GONZALES      PL        211.00
+015515           FAB       12/04/2025 15:04  V                      DIONICIO IPANAQUE VAERY        E          45.00
+015516           FAB       12/04/2025 15:35  V                      DIONICIO IPANAQUE VALERI       E          33.10
+015517           FAB       12/04/2025 17:28  V                      LOZANO SALOME                  PL          5.00
+015518           FAB       12/04/2025 17:31  V                      MARCELO ARCOSA                 E         130.00
+015519           EFR       12/04/2025 17:57  V                      LIBERATO GALLARDO ORLANDO      E           5.00
+015520           FAB       12/04/2025 19:00  V                      REYES LOPEZ                    E          31.00
+015521           FAB       13/04/2025 09:52  V                      CHAVEZ TORRES SANDRA           PL         45.00
+015522           FAB       13/04/2025 10:33  V                      MIRIAM LOLI                    E          45.00
+015523           FAB       13/04/2025 10:43  V                      CHAVEZ TORRES ANTONIA          PL        153.00
+015524           FAB       13/04/2025 10:46  V                      CHAVEZ TORRES ANTONIA          E          30.00
+015525           FAB       13/04/2025 11:03  V                      BRIAM VALENZUELA GONZALES      PL         30.00
+015526           FAB       13/04/2025 11:28  V                      INGA RODRIGUEZ MICAELA SANTA   E          45.00
+015527           FAB       13/04/2025 11:41  V                      LOLI JORI MIRIAM               E          56.60
+015528           FAB       13/04/2025 12:03  V                      SALAZAR GO;E ANTONELA          PL         67.00
+015529           FAB       13/04/2025 12:04  V                      MIRIAM LOLI JOLI               E         125.00
+015530           FAB       13/04/2025 12:34  V                      SALAZAR ANTONELA               PL          2.00
+015531           FAB       13/04/2025 13:08  V                      ALVARO FERNANDEZ YOCELIN       E          15.00
+015532           FAB       13/04/2025 14:28  V                      AMADO MEDALLA SOFIA            PL        130.00
+015533           FAB       13/04/2025 16:31  V                      LOZANO SALOME                  E           5.00
+015534           FAB       13/04/2025 17:53  V                      LIBERATO GALLARDO ORLANDO      E           5.00
+015535           CLA       14/04/2025 08:35  V                      NOVOA VASQUEZ DE OSORIO JACKEL PL        162.50
+015536           CLA       14/04/2025 08:38  V                      NOVOA VASQUEZ JACKELINE        PL         45.00
+015537           CLA       14/04/2025 08:46  V                      ZELAYA EUGENIA CARLOS          E          55.00
+015538           CLA       14/04/2025 08:58  V                      CASTILLO SOLORZANO             E          45.00
+015539           CLA       14/04/2025 09:05  V                      LUCIA COBE;AS VALENZUELA       E          10.00
+015540           CLA       14/04/2025 09:10  V                      NOVOA VASQUEZ JACKLINE         PL        120.00
+015541           CLA       14/04/2025 09:24  V                      ORTEGA TORRES ADRIANA          E         110.00
+015542           CLA       14/04/2025 09:30  V                      CHAVEZ TOCAS SATORA            PL        188.00
+015543           CLA       14/04/2025 09:47  V                      ZELAYA EUGENIO CARLOS          E          54.00
+015544           CLA       14/04/2025 09:59  V                      ZELAYA EUGENIA CARLOS          E         163.00
+015545           CLA       14/04/2025 10:14  V                      VENTA ANULADA                  E           0.00
+015546           CLA       14/04/2025 10:19  V                      ANTUNEZ SOSA FRANCO            PL         45.00
+015547           CLA       14/04/2025 10:24  V                      CASTILLO SOLORZANO             E          24.00
+015548           CLA       14/04/2025 10:44  V                      CARLOS ZELAYA                  E           2.00
+015549           CLA       14/04/2025 11:07  V                      JORGE ESPINOZA MEYER           E          60.00
+015550           CLA       14/04/2025 11:12  V                      CASTILLO SOLORZANO ANTUAN      E         125.00
+015551           CLA       14/04/2025 12:07  V                      ZELAYA EUGENIO CARLOS          E          30.00
+015552           CLA       14/04/2025 12:26  V                      VASQUEZ AYAY NEYMAR JUNIOR     PL         60.00
+015553           CLA       14/04/2025 13:32  V                      ZELAYA EUGENIO CARLOS          E          10.00
+015554           CLA       14/04/2025 14:40  V                      ZELAYA EUGENIO CARLOS          E          40.00
+015555           CLA       14/04/2025 15:41  V                      PAMELA GONZALES PUNTILLO       PL         45.00
+015556           CLA       14/04/2025 15:52  V                      CHAVEZ RIOS PEREGRINA          E          41.50
+015557           CLA       14/04/2025 16:45  V                      MARCELIN BRIOSO BERNECHEA      E          45.00
+015558           CLA       14/04/2025 17:52  V                      LIBERATO GALLARDO ORLANDO      E           5.00
+015559           CLA       14/04/2025 18:34  V                      NELIA ESPINOZA MAGUI;A         E          45.00
+015560           CLA       14/04/2025 18:40  V                      YOMAR JAVIER CORZO             E          26.50
+015561           CLA       14/04/2025 18:47  V                      LOLI JORI MIRIHAN              E          11.20
+015562           CLA       14/04/2025 18:54  V                      GONZALES PUNTILLO DE ZAMUDIO P PL        178.00
+015563           CLA       14/04/2025 19:01  V                      GONZALES PUNTILLO DE ZAMUDIO   PL        154.50
+015564           CLA       14/04/2025 19:10  V                      GOMZALES PUNTILLO              E           5.00
+015565           EFR       14/04/2025 19:28  V                      NOVOA VAZQUES JAQUELINE        PL        139.50úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015566           CLA       15/04/2025 08:19  V                      TREJO IDALGO                   E          10.00
+015567           CLA       15/04/2025 08:22  V                      JACKELINE NOVOA VASQUEZ        PL        336.50
+015568           CLA       15/04/2025 08:25  V                      GONZALES PUNTILLO              E          93.00
+015569           CLA       15/04/2025 09:17  V                      SORAIDA NU;EZ                  E          10.00
+015570           CLA       15/04/2025 09:35  V                      BERNACHEA BRIOSO ALICIA        E          95.00
+015571           CLA       15/04/2025 09:56  V                      CHAVEZ TOCAS SANTORA           PL         41.50
+015572           CLA       15/04/2025 11:16  V                      KATY DIEGO LISETTY             PL         31.00
+015573           CLA       15/04/2025 12:12  V                      RIVERA RAMIREZ ROCIO           E          45.00
+015574           CLA       15/04/2025 13:08  V                      ZELAYO EUGENIO CARLOS          E          45.00
+015575           CLA       15/04/2025 13:45  V                      ZELAYA EUGENIO CARLOS          E          10.00
+015576           CLA       15/04/2025 14:11  V                      ZELAYA EUGENIO CARLOS          E          54.00
+015577           CLA       15/04/2025 15:40  V                      LOPEZ LOPEZ RODRIGO            PL         45.00
+015578           CLA       15/04/2025 16:24  V                      RIVERA CLAROS NEMECIOS         E          45.00
+015579           CLA       15/04/2025 17:05  V                      OYOLA HUAMAN LOUIS ANTHONY     E          50.00
+015580           CLA       15/04/2025 17:33  V                      LOPEZ LOPEZ RODRIGO            E           1.50
+015581           CLA       15/04/2025 17:44  V                      LIBERATO  GALLARDO ORLANDO     E           5.00
+015582           CLA       15/04/2025 17:56  V                      RIVERA CLAROS NEMESIO NELSON   PL        105.00
+015583           CLA       15/04/2025 17:26  V                      RIVERA CLAROS NEMECIOS         E          13.50
+015584           CLA       15/04/2025 18:03  V                      RINO SALAZAR SEMINARIO         E          45.00
+015585           CLA       15/04/2025 18:29  V                      ROBERT REYES LOPEZ             E         139.50
+015586           CLA       15/04/2025 18:32  V                      RIVERA CLAROS NEMECIOS         PL        142.50
+015587           CLA       15/04/2025 19:05  V                      JIMENO GOMEZ LIDDA             E          45.00
+015588           CLA       15/04/2025 19:40  V                      JIMENO RODRIGO LIDDA           E          80.00
+015589           CLA       15/04/2025 19:48  V                      JIMENO GOMEZ LIDDA             E          80.00
+015590           CLA       15/04/2025 19:59  V                      ABEL MAYER                     E          37.00
+015591           CLA       15/04/2025 20:02  V                      YOMAR JAVIER                   PL         26.50
+015592           CLA       15/04/2025 20:15  V                      TORRES HUERTAS MIRYHA          E          45.00
+015593           FAB       16/04/2025 08:19  V                      VICTORIA GONZALESPUNTILLO      PL         45.00
+015594           FAB       16/04/2025 08:21  V                      ESPINOZA MAGUI;A NELIA         E          40.00
+015595           FAB       16/04/2025 08:28  V                      VICTOR OBREGON CASTILLO        E          10.00
+015596           FAB       16/04/2025 08:39  V                      SORAIDA NU;ES                  E          10.00
+015597           FAB       16/04/2025 10:33  V                      CHAVEZ TOCAS                   E           1.50
+015598           FAB       16/04/2025 14:41  V                      KATY DIEGO LIZETI              PL         31.00
+015599           EFR       16/04/2025 15:43  V                      KATERIN MOLINA AYALA           E           6.50
+015600           EFR       16/04/2025 16:10  V                      GLORIA DE GIRALDO              E          45.00
+015601           EFR       16/04/2025 16:27  V                      CHACON SAMANAMA CRISTIAN       PL         45.00
+015602           FAB       16/04/2025 16:33  V                      YAMILA RIVERA CALDERON         PL         45.00
+015603           FAB       16/04/2025 16:45  V                      CORDOVA MEDINA ELENA           E          45.00
+015604           FAB       16/04/2025 16:54  V                      VENTA ANULADA                  E           0.00
+015605           EFR       16/04/2025 16:55  V                      CHRISTIAN CHACON               PL        126.70
+015606           FAB       16/04/2025 16:57  V                      CHACON CHRISTIAN               PL        120.00
+015607           FAB       16/04/2025 17:09  V                      VENTA ANULADA                  E           0.00
+015608           FAB       16/04/2025 17:23  V                      YAMILA RIVERA CALDERON         PL        150.50
+015609           FAB       16/04/2025 17:24  V                      YAMILA RIVERA CALDERON         PL        119.50
+015610           FAB       16/04/2025 17:32  V                      GLORIA GUERRERO DE GIRALDO     E         278.60
+015611           FAB       16/04/2025 17:37  V                      RIVERA CLAROS NEMECIOS         PL         68.50
+015612           FAB       16/04/2025 17:41  V                      LIEBRATO ORLANDO               E           5.00
+015613           FAB       16/04/2025 17:44  V                      ALICIA VERMACHEA BRIOSO        E          45.00
+015614           FAB       16/04/2025 17:45  V                      FRANCIA VERMACHEA SEBASTIAN    E          45.00
+015615           FAB       16/04/2025 18:24  V                      YAMILA RIVERA CALDERON         PL          5.00
+015616           FAB       16/04/2025 18:31  V                      GONZALES PUNTILLO PAMELA       E          40.00
+015617           FAB       16/04/2025 18:32  V                      GONZALES PUNTILLO PAMELA       PL        237.70
+015618           FAB       16/04/2025 19:24  V                      DIAZ MARCOS ANTONIO            E          45.00
+015619           FAB       16/04/2025 19:35  V                      NARVASTA OLIVARES LOURDES      E          45.00
+015620           FAB       16/04/2025 19:42  V                      GLORIA GUERRERO DE GIRALDO     E           1.50úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-    8
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015621           FAB       16/04/2025 19:49  V                      ROJAS DE SANCHEZ DELFINA       E          45.00
+015622           FAB       16/04/2025 19:58  V                      YAMILA RIVERA CALDERON         PL         41.50
+015623           FAB       16/04/2025 20:18  V                      DIAZ MARCOS ANTONIO            E         162.50
+015624           FAB       16/04/2025 20:47  V                      NARVASTA OLIVARES              E          24.00
+015625           FAB       16/04/2025 20:50  V                      DIAZ MARCOS MARCO ANTONIO      E         103.00
+015626           FAB       16/04/2025 20:52  V                      DIAZ MARCOS                    E           8.00
+015627           FAB       16/04/2025 21:02  V                      NARVASTA OLIVARES              E          73.50
+015628           FAB       16/04/2025 22:16  V                      VALENZUELA CHAGUA MARIA ANGELA E          80.00
+015629           FAB       17/04/2025 23:03  V                      RAMOS CADENAS VICTORIANA IRENE E          60.00
+015630           FAB       17/04/2025 23:48  V                      ANATOLIO CADILLO JIMENEZ       E          88.00
+015631           FAB       17/04/2025 05:08  V                      VANIA VALENCIA SANCHEZ         E          40.00
+015632           FAB       17/04/2025 14:43  V                      PAMELA GONZALES PUNTILLO       E          10.00
+015633           FAB       17/04/2025 15:29  V                      DIAZ MARCOS MARCO ANTONIO      E          45.00
+015634           FAB       17/04/2025 15:42  V                      RIVERA CLAROS NEMECIOS         E          68.50
+015635           FAB       17/04/2025 15:48  V                      KATERIN MOLINA                 E           6.50
+015636           FAB       17/04/2025 17:14  V                      DIAZ MARCOS MARCO              E          90.50
+015637           FAB       17/04/2025 19:17  V                      JUAN ALVARADO OBREGON          E          45.00
+015638           FAB       17/04/2025 19:51  V                      JUAN ALVARADO OBREGON          E          43.50
+015639           FAB       17/04/2025 20:29  V                      ROJAS FERNANDEZ DORCAS         E          15.00
+015640           CLA       18/04/2025 10:24  V                      ALVARADO OBREGON JUAN          E          37.00
+015641           CLA       18/04/2025 11:51  V                      LUNA BAUTISTA JUAN             E          45.00
+015642           EFR       18/04/2025 13:49  V                      NARVASTA OLIVARES              E          16.00
+015643           EFR       18/04/2025 16:10  V                      DANIA CASTILLO SANCHEZ         E          45.00
+015644           EFR       18/04/2025 16:29  V                      PALOMINO LEON WILFREDO         E          45.00
+015645           EFR       18/04/2025 17:03  V                      GLORIA INES GUERRERO DE GIRALD E         193.50
+015646           EFR       18/04/2025 17:20  V                      BERNECHEA BRIOSO MARCELINA     E          45.00
+015647           CLA       18/04/2025 18:24  V                      JUAN ALVARADO OBREGON          E          45.00
+015648           CLA       18/04/2025 18:34  V                      DARIA CASTILLO SANCHEZ         E          86.10
+015649           CLA       18/04/2025 18:39  V                      CASTILLO SANCHEZ DARIA         PL        258.00
+015650           CLA       18/04/2025 19:03  V                      WILFREDO PALOMINO              E          78.50
+015651           CLA       18/04/2025 19:53  V                      JUAN ALVARADO OBREGON          E          56.50
+015652           ELI       19/04/2025 09:21  V                      DANNA MILAGROS ARAINDIA CASTIL E          40.00
+015653           ELI       19/04/2025 09:30  V                      GRACIELA MILAGROS VELASQUEZ MA E          25.00
+015654           ELI       19/04/2025 10:02  V                      VENTA ANULADA                  E           0.00
+015655           ELI       19/04/2025 10:03  V                      RIVERA CALDERON YAMILA         E          45.00
+015656           ELI       19/04/2025 10:15  V                      CARDENAS SALVADOR FABRICIO     E          45.00
+015657           ELI       19/04/2025 10:41  V                      RIVERA CALDERON YAMILA         E          15.00
+015658           ELI       19/04/2025 10:55  V                      ENCARNACION VALENTIN ETELDRITA E          45.00
+015659           ELI       19/04/2025 11:01  V                      JHOANA RODRIGUEZ RAMOS         E          15.00
+015660           ELI       19/04/2025 11:02  V                      ADAYA ANGULO CARO              PL         45.00
+015661           ELI       19/04/2025 11:25  V                      CARLOS GARCIA MARCOS           E           5.00
+015662           EFR       19/04/2025 13:09  V                      CHAVEZ TOCAS SANTORA           E          45.00
+015663           EFR       19/04/2025 14:42  V                      CAPRISTAN BERROCAL NIMIA       E         149.50
+015664           ELI       19/04/2025 14:42  V                      CAPRISTAN BERROCAL NIA         E         220.50
+015665           ELI       19/04/2025 15:24  V                      MARCELA GALVAN CASAVILCA       E         150.00
+015666           ELI       19/04/2025 15:49  V                      GLORIA GUERRERO DE GIRALDO     E          45.00
+015667           ELI       19/04/2025 15:59  V                      ZORILLA ASENCIO ALMAQUIO       E          45.00
+015668           ELI       19/04/2025 16:06  V                      CORDOVA DE ALEJOS LIDUVINA     E          45.00
+015669           ELI       19/04/2025 16:29  V                      GODO PENADILLO JESICA          E          10.00
+015670           ELI       19/04/2025 16:35  V                      DELFINA ROJAS DE SANCHEZ       E         185.00
+015671           ELI       19/04/2025 17:22  V                      CAPRISTAN BERROCAL NIMIA       E          31.50
+015672           ELI       19/04/2025 17:30  V                      BERROCAL CAPRISTAN NIMIA       E          40.00
+015673           ELI       19/04/2025 17:33  V                      GONZALES PUNTILLO DE ZAMUDIO P E          45.00
+015674           ELI       19/04/2025 17:47  V                      BERROCAL CAPRISTAN NIMIA       E          10.00
+015675           ELI       19/04/2025 17:51  V                      ENCARNACION VALENTIN ETELDRITA E         130.00úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-    9
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015676           ELI       19/04/2025 18:20  V                      ANGULO ADAIA                   PL         35.00
+015677           ELI       19/04/2025 18:33  V                      CHAVES TOCAS SANTORA           E          95.90
+015678           ELI       19/04/2025 18:35  V                      ENCARNACION VALENTIN ROSITA    E          80.00
+015679           ELI       19/04/2025 18:40  V                      PALACIN CARRASCO AQUILES       E          45.00
+015680           ELI       19/04/2025 18:47  V                      ZORRILLA ASENCIO AQUILES       E          63.50
+015681           ELI       19/04/2025 18:53  V                      GUTIERRES ISQUIERDO LOA        E          45.00
+015682           ELI       19/04/2025 18:58  V                      NARVASTA OLIVARES              E          16.00
+015683           ELI       19/04/2025 19:14  V                      LOA GUTIERRES ISQUIERDO        E           6.00
+015684           ELI       19/04/2025 19:35  V                      GUTIERRES IZQUIERDO LOA        E          12.00
+015685           ELI       19/04/2025 19:48  V                      GLORIA GUERRERO                E          27.00
+015686           ELI       19/04/2025 20:04  V                      CHAVEZ TOCAS SANTORA           E          45.00
+015687           ELI       19/04/2025 21:26  V                      LOA GUTIERREZ ISQUIERDO        PL         63.00
+015688           ELI       19/04/2025 21:30  V                      GUTIERRES ESPINOZA LOAH        PL         12.00
+015689           FAB       20/04/2025 00:50  V                      PALACIN CARRASCO AQUILES       E         142.00
+015690           FAB       20/04/2025 02:01  V                      CAJALEON CORTINA IREARTE HORAC PL         45.00
+015691           FAB       20/04/2025 02:43  V                      PAMELA VICTORIA GONZALES PUNTI PL        254.60
+015692           FAB       20/04/2025 02:47  V                      NAYLA ZAMUDIO GONZALES         E          75.00
+015693           FAB       20/04/2025 02:57  V                      CAJALEON COTRINA IRIARTE       PL        158.50
+015694           FAB       20/04/2025 03:27  V                      LOAN GUTIERREZ IZQUIERDO       E         438.00
+015695           FAB       20/04/2025 03:38  V                      CASARES CORTES LUIS            PL         45.00
+015696           FAB       20/04/2025 03:43  V                      LOA GUTIERREZ                  E          30.00
+015697           FAB       20/04/2025 05:09  V                      LOAN GUTIERREZ IZQUIERDO       E          83.50
+015698           FAB       20/04/2025 05:15  V                      GRIMALDO PALMA JHENYFER        PL         15.00
+015699           FAB       20/04/2025 11:05  V                      CHAVES TOCAS SANTORA           E          85.90
+015700           CLA       21/04/2025 08:21  V                      AGUILAR MERINO MONIQUE         E          15.00
+015701           CLA       21/04/2025 08:24  V                      ZORRILLA ASENCIO AQUILES       E         110.00
+015702           CLA       21/04/2025 09:59  V                      ANGELO PAREDES BUENO           E          45.00
+015703           CLA       21/04/2025 10:20  V                      PAREDES BUENO ANGELO           E          47.00
+015704           CLA       21/04/2025 14:02  V                      ALEJOS CORDOVA                 E          26.90
+015705           CLA       21/04/2025 14:13  V                      ALEJOS CORDOVA                 E           3.00
+015706           CLA       21/04/2025 14:59  V                      ALVA PERLA CANDY               PL         45.00
+015707           CLA       21/04/2025 15:40  V                      CAJALEON COTRINA IRIARTE       E         180.00
+015708           CLA       21/04/2025 15:45  V                      MENDOZA ZU;IGA JUAN            E          45.00
+015709           CLA       21/04/2025 16:10  V                      NORMA HUASHA BAILON            E          45.00
+015710           CLA       21/04/2025 16:23  V                      CAJALEON COTRINA IRIARTE       E          83.50
+015711           CLA       21/04/2025 16:27  V                      PALOMINO LEON                  E          45.00
+015712           CLA       21/04/2025 16:47  V                      SANGANAQUI VEGA                E          24.00
+015713           CLA       21/04/2025 16:49  V                      DARIA CASTILLO VEGA            E          45.00
+015714           CLA       21/04/2025 16:51  V                      PICON CASTILLO GIAN LUCA       E          45.00
+015715           CLA       21/04/2025 16:54  V                      ZORRILLA ASCENCIOS ALMAQUIO    E          45.00
+015716           CLA       21/04/2025 16:56  V                      LOAN GUTIERREZ IZQUIERDO       E          45.00
+015717           CLA       21/04/2025 17:18  V                      CHAVEZ  TOCAS SANTURA          E          85.90
+015718           CLA       21/04/2025 17:37  V                      ESTUPI;AN ROSALES ZARELY       E          45.00
+015719           CLA       21/04/2025 17:56  V                      HUANSHA BAILON NORMA           E         109.50
+015720           CLA       21/04/2025 18:04  V                      SACRAMENTO CASTILLO JOSUE      E          45.00
+015721           CLA       21/04/2025 18:06  V                      GLORIA GUERRERO                E          27.00
+015722           CLA       21/04/2025 18:15  V                      LEON PALOMINO WILFREDO         E          69.00
+015723           CLA       21/04/2025 18:36  V                      PICON CASTILLA GIANLUCA        E          48.50
+015724           CLA       21/04/2025 18:40  V                      PICON CASTILLA GIANLUCA        E          71.00
+015725           CLA       21/04/2025 18:59  V                      LEONIDAS CARRION MENTOCILLA    PL         45.00
+015726           CLA       21/04/2025 19:05  V                      ELIAS CHAFALOTE ALVA           PL         32.00
+015727           CLA       21/04/2025 19:06  V                      ALVARO CHAFALOTE ALVA          PL         32.00
+015728           CLA       21/04/2025 19:08  V                      DARIA CASTILLO SANCHEZ         PL        179.50
+015729           CLA       21/04/2025 19:12  V                      ZORRILLA ASCENCIOS ALMAQUIO    E          31.00
+015730           CLA       21/04/2025 19:16  V                      ROSARIO SALAZAR ROSALES        E          45.00úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-   10
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015731           CLA       21/04/2025 19:29  V                      LOAN GUITIRREZ IZQUIERDO       E          30.00
+015732           CLA       21/04/2025 19:46  V                      ESTUPI;AN ROSALES ZARELY       E         213.00
+015733           CLA       21/04/2025 19:49  V                      MORALES CADILLO ANTHONY        PL         45.00
+015734           CLA       21/04/2025 20:03  V                      ZARELY ESTUPI;AN ROSALES       E         190.50
+015735           CLA       21/04/2025 20:04  V                      JUAN MEDOZA                    E         132.50
+015736           CLA       21/04/2025 20:22  V                      LEONIDAS CARRION MENDOSILLA    E         252.00
+015737           CLA       21/04/2025 20:35  V                      ROSARIO SALAZAR ROSALEZ        E         139.50
+015738           CLA       21/04/2025 21:16  V                      LEONIDAS CARRION               PL         10.00
+015739           CLA       21/04/2025 21:23  V                      JUAN MENDOZA                   E           3.00
+015740           CLA       21/04/2025 21:53  V                      LEONIDAS CARRION               E          15.00
+015741           CLA       21/04/2025 21:58  V                      LEONIDAS CARRION MENTOCILLA    PL        268.00
+015742           CLA       22/04/2025 08:02  V                      PALACIOS SANCHEZ ROSAURA       E          28.00
+015743           CLA       22/04/2025 08:05  V                      VENTA ANULADA                  E           0.00
+015744           CLA       22/04/2025 08:23  V                      SILVA GAMBOA CONCEPCION        PL         58.00
+015745           CLA       22/04/2025 08:24  V                      MENDOZA SILVA ALEXIS           PL         58.00
+015746           CLA       22/04/2025 08:48  V                      JOSE JUSTO CORONADO            E          25.00
+015747           CLA       22/04/2025 08:55  V                      ROJAS ESPINOZA FERNANDO        PL         10.00
+015748           CLA       22/04/2025 09:05  V                      SAAVEDRA CASTILLO FELIZ        E          45.00
+015749           CLA       22/04/2025 09:18  V                      CHIROQUE AREVALO MANUELA       E          83.00
+015750           CLA       22/04/2025 09:21  V                      JULIO FRANCISCO MORENO         PL         45.00
+015751           CLA       22/04/2025 09:53  V                      KALEB DE LA CRUZ ESPINOZA      PL         13.50
+015752           CLA       22/04/2025 10:20  V                      VENTA ANULADA                  PL          0.00
+015753           CLA       22/04/2025 10:25  V                      VENTA ANULADA                  E           0.00
+015754           CLA       22/04/2025 10:35  V                      ALEJOS CORDOVA                 PL         42.20
+015755           CLA       22/04/2025 13:02  V                      FRANCISCO MORENO JULIO         E          16.90
+015756           CLA       22/04/2025 13:33  V                      LUIS BERNAL                    E          21.00
+015757           CLA       22/04/2025 15:17  V                      CHAVEZ RIOS PEREGRINA          E          45.00
+015758           CLA       22/04/2025 15:37  V                      ZORRILLA ASENCIOS ALMAQUIO     E          45.00
+015759           CLA       22/04/2025 16:32  V                      KAREN HERRAN ROJAS             E          45.00
+015760           CLA       22/04/2025 16:50  V                      LEONIDAS CARRION PEREGRINA     PL         45.00
+015761           CLA       22/04/2025 17:11  V                      DARIA CASTILLO SANCHEZ         PL         57.50
+015762           CLA       22/04/2025 17:22  V                      LEONIDAS CARRION               E          55.50
+015763           CLA       22/04/2025 17:24  V                      ANGELICA AGUERO TRUJILLO       PL         80.00
+015764           CLA       22/04/2025 17:28  V                      HUASHA BAILON NORMA            E          16.50
+015765           CLA       22/04/2025 17:42  V                      CHAVEZ RIOS PEREGRINA          E          92.00
+015766           CLA       22/04/2025 17:46  V                      ZARELY ESTUPI;AN SALINAS       PL         45.00
+015767           CLA       22/04/2025 17:51  V                      ZORRILLAS ASCENSIOS ALMAQUIO   E          31.00
+015768           CLA       22/04/2025 18:00  V                      KAREN HERRAN ROJAS             E          66.50
+015769           CLA       22/04/2025 18:01  V                      KAREN HERRAN ROJAS             E          64.50
+015770           CLA       22/04/2025 18:37  V                      CHAVEZ TOCAS                   E          66.20
+015771           CLA       22/04/2025 18:39  V                      CHAVEZ TOCAS                   E           5.70
+015772           CLA       22/04/2025 18:41  V                      LUCIO CARRION                  E          10.00
+015773           CLA       22/04/2025 18:43  V                      CHAVEZ RIOS PEREGRINA          PL         60.00
+015774           CLA       22/04/2025 18:54  V                      EUGENIO RETUERTO PALOMINO      E          28.00
+015775           CLA       22/04/2025 19:00  V                      KAREN HERRAN ROJAS             PL         26.20
+015776           CLA       22/04/2025 19:06  V                      LEONIDAS CARRION MENTOCILLA    PL         61.50
+015777           FAB       23/04/2025 08:01  V                      FRANCISCO MORENO JULIO         PL         83.00
+015778           FAB       23/04/2025 09:39  V                      MARIA REATIGUI PADILLA         E          45.00
+015779           FAB       23/04/2025 09:44  V                      CHIRRE MENDOZA REMIGIA         PL         69.00
+015780           ELI       23/04/2025 13:58  V                      HUANSHA BAILON NANCY           E           6.50
+015781           FAB       23/04/2025 16:45  V                      ZORRILLA ASENCIOS ALMAQUIO     E          31.00
+015782           FAB       23/04/2025 16:53  V                      HUIZA LOPEZ LIAM               E          45.00
+015783           FAB       23/04/2025 17:05  V                      APARCANA CASTILLO ANIBETH      E          15.00
+015784           FAB       23/04/2025 17:07  V                      SOFIA MEJIA BENEDICTOR         E          45.00
+015785           FAB       23/04/2025 17:11  V                      RAMOS CALDERON BRANDON         PL         45.00úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-   11
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015786           FAB       23/04/2025 17:15  V                      DARIA CASTILLO SANCHEZ         PL         57.50
+015787           FAB       23/04/2025 17:30  V                      FUKUDA PICHILINGUE SULEMA      E          45.00
+015788           FAB       23/04/2025 17:59  V                      CAPRISTAN BERROCAL KRISSTEL    E          45.00
+015789           FAB       23/04/2025 18:01  V                      HUASHA BAILON NORMA            E          16.50
+015790           FAB       23/04/2025 18:02  V                      LEONIDAS CARRION               E          10.00
+015791           FAB       23/04/2025 18:10  V                      CHAVEZ TOCAS                   E          71.90
+015792           FAB       23/04/2025 18:22  V                      VENTURA NORE;A ETHAN           E          45.00
+015793           FAB       23/04/2025 18:43  V                      QUISPE REINOSO JEDAIAS         E          45.00
+015794           FAB       23/04/2025 18:46  V                      MELINDA SANCHEZ NAZAR          E          45.00
+015795           FAB       23/04/2025 19:03  V                      RAMOS CALDERON BRANDON         PL         90.00
+015796           FAB       23/04/2025 19:04  V                      RAMOS CALDERON BRANDON         PL         23.50
+015797           EFR       23/04/2025 19:06  V                      ESPINOZA MAGUI¥A NELIA         E          48.00
+015798           FAB       23/04/2025 19:15  V                      FUKUDA PICHILINGUE SULEMA      E          66.50
+015799           FAB       23/04/2025 19:36  V                      SIFUENTE FLORES LIDEA          E          45.00
+015800           FAB       23/04/2025 20:22  V                      SULEMA FUKUDA                  PL         44.00
+015801           FAB       23/04/2025 20:26  V                      QUISPE REINOSO JEDAIAS         E          60.50
+015802           FAB       23/04/2025 20:31  V                      CHAVEZ TORRES SANTA            E          30.00
+015803           FAB       23/04/2025 20:34  V                      QUISPE REINOSO JADAIAS         E          91.50
+015804           FAB       23/04/2025 20:59  V                      MELINDA SANCHEZ                E           1.50
+015805           FAB       23/04/2025 21:02  V                      PELTROCHE MELES MORO ANTONIO   E          50.00
+015806           FAB       24/04/2025 08:12  V                      FRANCISCO MORENO JULIO         PL         45.00
+015807           MAR       24/04/2025 12:47  V                      GARCIA TAPIA DEIFILIA          PL         69.00
+015808           MAR       24/04/2025 14:56  V                      LAZO BA;EZ EDITH               E          70.00
+015809           MAR       24/04/2025 16:09  V                      DARIA CASTILLO SANCHEZ         E          38.50
+015810           MAR       24/04/2025 16:11  V                      ARLETT SANCHEZ MANDAMIENTO     E          45.00
+015811           MAR       24/04/2025 16:49  V                      LIDIA SIFUENTES FLORES         E         265.00
+015812           MAR       24/04/2025 17:25  V                      TRUJILLO TARAZONA MADYSSON     E          45.00
+015813           MAR       24/04/2025 18:15  V                      RAMOS CALDERON JOEL            PL         65.00
+015814           MAR       24/04/2025 18:35  V                      MARIA REATEGUI PADILLA         E         139.00
+015815           MAR       24/04/2025 18:37  V                      ARLET  SANCHEZ MANDAMIENTO     E          24.00
+015816           MAR       24/04/2025 18:39  V                      SANCHEZ MANDAMIENTO ARLET ORIA E         115.00
+015817           MAR       24/04/2025 18:43  V                      CHAVEZ TOCAS                   E          61.90
+015818           MAR       24/04/2025 18:45  V                      HUASHA BAILON NORMA            E          10.00
+015819           MAR       24/04/2025 18:46  V                      NOVOA VASQUEZ JACKELINE        PL         45.00
+015820           MAR       24/04/2025 18:56  V                      MADYSSON TRUJILLO TARAZONA     E          40.00
+015821           MAR       24/04/2025 19:22  V                      LOAN GUTIERREZ IZQUIERDO       E         128.00
+015822           MAR       24/04/2025 19:37  V                      NOVOA VASQUEZ JAQUELINE        PL         28.50
+015823           MAR       24/04/2025 19:41  V                      SIFUENTES FLORES LIDIA         E           6.00
+015824           MAR       24/04/2025 19:59  V                      JESUS MARTIN                   PL         20.00
+015825           MAR       24/04/2025 20:14  V                      SAUCEDO CORPUS LIAM            E          45.00
+015826           MAR       24/04/2025 20:33  V                      LIAM SAUCEDO CORPUS            E          43.00
+015827           MAR       24/04/2025 20:45  V                      SAUCEDO CORPUS LIAM            E          14.90
+015828           FAB       25/04/2025 01:15  V                      ZORAYA NU;ES ARIZA             E          10.00
+015829           FAB       25/04/2025 01:27  V                      BARRENECHEA TADEO CASIMIRA     E          10.00
+015830           FAB       25/04/2025 01:52  V                      WILDER SIGUE;AS                E          45.00
+015831           FAB       25/04/2025 03:11  V                      FERNANDO BENJAMIN CRUZ LOSA    PL        215.00
+015832           FAB       25/04/2025 15:31  V                      SALIS ESPINOZA CORINA          E          80.00
+015833           FAB       25/04/2025 16:37  V                      CASSTILLO SANCHEZ DARIA        E          10.50
+015834           FAB       25/04/2025 16:38  V                      CASTILLO SANCHEZ DARIA         E          45.00
+015835           FAB       25/04/2025 17:19  V                      SANCHEZ MANDAMIENTO ARLET      E          45.00
+015836           FAB       25/04/2025 17:36  V                      HUANSHA ANTUYAN ZENOBIO        E          10.00
+015837           FAB       25/04/2025 17:38  V                      HUANSHA ANTUYAN ZENOBIO        E          45.00
+015838           FAB       25/04/2025 17:49  V                      HUANSHA ANTUYAN ZENOBIO        PL         54.50
+015839           FAB       25/04/2025 17:53  V                      ANGELO QUISPE CRUZ             E          45.00
+015840           FAB       25/04/2025 17:57  V                      HUANSHA ANTUYAN ZENOBIO        PL        126.50úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-   12
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015841           FAB       25/04/2025 18:08  V                      HUASHA BAILON NORMA            E          46.00
+015842           FAB       25/04/2025 18:14  V                      CASTILLO SANCHEZ DARIA         E         229.50
+015843           FAB       25/04/2025 18:28  V                      ARLET SANCHEZ                  E          36.00
+015844           FAB       25/04/2025 18:32  V                      ANGUELO QUISPE CRUZ            E         116.50
+015845           FAB       25/04/2025 18:39  V                      ANGELO QUISPE CRUZ             E          42.50
+015846           FAB       25/04/2025 18:42  V                      HUANSHA ANTUYAN ZENOBIO        PL        157.50
+015847           FAB       25/04/2025 18:48  V                      CHAVEZ TOCAS SANTA             E          66.90
+015848           FAB       25/04/2025 19:09  V                      ARTURO ROJAS VERAMENDI         PL         45.00
+015849           FAB       25/04/2025 19:16  V                      CASTILLO SANCHEZ DARIA         E           0.50
+015850           FAB       25/04/2025 19:48  V                      ROJAS VERAMENDI ARTURO         PL         98.00
+015851           FAB       25/04/2025 20:21  V                      VENTA ANULADA                  E           0.00
+015852           FAB       25/04/2025 20:21  V                      HUANSHA ANTUYAN ZENOBIO        E          16.00
+015853           CLA       26/04/2025 07:24  V                      MERCEDES NIETO PE;A            E          80.00
+015854           CLA       26/04/2025 09:30  V                      CENOVIO HUANCHA                E          52.50
+015855           CLA       26/04/2025 10:25  V                      CUEVA PIZARRO LUIS             E          45.00
+015856           CLA       26/04/2025 12:38  V                      GIULIANA CARRION SOLIS         E          75.00
+015857           CLA       26/04/2025 13:27  V                      MADYSSON TRUJILLO TARAZONA     PL         62.00
+015858           CLA       26/04/2025 13:55  V                      RIOS TOLENTINO BRAYAN          E          45.00
+015859           CLA       26/04/2025 14:38  V                      ROJAS JARA                     E          45.00
+015860           CLA       26/04/2025 14:40  V                      CERVATES MALLQUI LUZ           PL      2,600.00
+015861           CLA       26/04/2025 14:46  V                      BRYAN RIOS TOLENTINO           E          44.50
+015862           CLA       26/04/2025 14:53  V                      BRYAN RIOS                     E          10.00
+015863           CLA       26/04/2025 15:16  V                      JULIA YABAR SAENZ              E          45.00
+015864           CLA       26/04/2025 16:04  V                      LIDDA JIMENEZ GOMEZ            E          45.00
+015865           CLA       26/04/2025 16:06  V                      JUANA LUZ FARRO YABAR          E          15.00
+015866           CLA       26/04/2025 16:07  V                      CERVATES MALLQUI LUZ           PL        136.00
+015867           CLA       26/04/2025 16:13  V                      BRYAN RIOS TOLENTINO           E         129.70
+015868           CLA       26/04/2025 16:46  V                      LUIS CUEVA PIZARRO             E          95.50
+015869           CLA       26/04/2025 16:48  V                      LUIS CUEVA PIZARRO             E           3.00
+015870           CLA       26/04/2025 17:05  V                      REYNA GAMARRA CANO             PL         45.00
+015871           CLA       26/04/2025 17:24  V                      MARILYN ESPINOZA MU;OZ         E          25.00
+015872           CLA       26/04/2025 17:28  V                      ROJAS JARA YOJUANA             E          70.00
+015873           CLA       26/04/2025 17:29  V                      LEON CARRERA RUBEN             E          45.00
+015874           CLA       26/04/2025 17:31  V                      JULIA YABAR                    E           3.00
+015875           CLA       26/04/2025 17:42  V                      ROJAS JARA YOJUANA VALENTINA   E         157.50
+015876           CLA       26/04/2025 17:45  V                      YOJUANA ROJAS JARA             E         141.50
+015877           CLA       26/04/2025 17:48  V                      YOJUANA ROJAS JARA             E           7.00
+015878           CLA       26/04/2025 17:59  V                      KAREN AMBROCIO OCHOA           E          45.00
+015879           CLA       26/04/2025 18:02  V                      VENTA ANULADA                  E           0.00
+015880           CLA       26/04/2025 18:05  V                      LIDDA JIMENO GOMEZ             E          15.00
+015881           CLA       26/04/2025 18:31  V                      CESAR LINO GARCIA              PL         31.00
+015882           CLA       26/04/2025 18:31  V                      REYNA GAMARRA CANO             PL        146.50
+015883           CLA       26/04/2025 18:31  V                      CESAR LINO GARCIA              PL        120.00
+015884           CLA       26/04/2025 18:37  V                      RUBEN LEON CARRERA             E          31.00
+015885           CLA       26/04/2025 18:38  V                      RUBEN LEON CARRERA             E          80.00
+015886           CLA       26/04/2025 18:48  V                      KAREN AMBROCIO OCHOA           E          83.50
+015887           FAB       27/04/2025 08:11  V                      CUEVA PIZARRO LUIS RAUL        E         516.00
+015888           FAB       27/04/2025 08:42  V                      GAMARRA CANO REYNA ELVIRA      E         210.00
+015889           FAB       27/04/2025 10:23  V                      BRYAN RIOS TOLENTINO           E          54.70
+015890           FAB       27/04/2025 10:41  V                      CAJALEON COTRINA IRIARTE       E          45.00
+015891           FAB       27/04/2025 11:46  V                      MARTIN PICHILINFUE             E           2.50
+015892           FAB       27/04/2025 11:47  V                      MARTIN PICHILINGUE             E           3.00
+015893           FAB       27/04/2025 11:54  V                      ROJAS JARA YOHUANA             E          63.50
+015894           FAB       27/04/2025 12:41  V                      ROJAS JARA VALENTINA           E           1.50
+015895           FAB       27/04/2025 13:05  V                      ENRIQUE ROCANO SALOME          E           2.00úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-   13
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+015896           FAB       27/04/2025 13:49  V                      ABEL MAYA                      PL         37.00
+015897           FAB       27/04/2025 16:15  V                      CESAR LINO                     PL         40.00
+015898           FAB       27/04/2025 17:22  V                      PADILLA DAMIAN AURORA          E          15.00
+015899           FAB       28/04/2025 08:03  V                      VENTA ANULADA                  E           0.00
+015900           FAB       28/04/2025 08:11  V                      CRUZ DE RODRIGUEZ REDINA       E          13.00
+015901           FAB       28/04/2025 08:29  V                      ROJAS JARA VALENTINA           E          68.50
+015902           FAB       28/04/2025 09:13  V                      FERMIN HUAMAN TORRES           E          83.00
+015903           FAB       28/04/2025 09:14  V                      BRAYAN ATANACIO JAVIER         E          32.00
+015904           FAB       28/04/2025 10:23  V                      NU;EZ YUCYUC PABLO FORTUNATO   E          45.00
+015905           FAB       28/04/2025 10:28  V                      ROJAS FLOR                     E         150.00
+015906           FAB       28/04/2025 10:31  V                      CALZADO JUSTO FRANCISCA        E          45.00
+015907           FAB       28/04/2025 11:28  V                      NU;EZ YUCYUC PABLO             E         185.00
+015908           FAB       28/04/2025 11:35  V                      BERNAL PANDURO JAQUELIN        E          40.00
+015909           FAB       28/04/2025 11:51  V                      BRAYAN ATANACIO JAVIER         PL         14.00
+015910           FAB       28/04/2025 12:25  V                      CALZADO JUSTO FRANCISCA        E          16.50
+015911           FAB       28/04/2025 14:59  V                      DHILAN GURGURA CHURANO         E          45.00
+015912           FAB       28/04/2025 15:47  V                      DHILAN GURGURA CHURANO         E           3.00
+015913           FAB       28/04/2025 16:07  V                      ORTIZ INOCENTE  DIEGO ERNESTOR PL         70.00
+015914           FAB       28/04/2025 16:57  V                      GABRIELA PANTA RODRIGUEZ       PL         45.00
+015915           FAB       28/04/2025 17:05  V                      MARTIN PICHILINGUE             PL          1.00
+015916           FAB       28/04/2025 17:10  V                      MARTIN PICHILINGUE             PL          4.20
+015917           FAB       28/04/2025 17:13  V                      DILAN GURGURA CHURANO          E          18.00
+015918           FAB       28/04/2025 17:17  V                      GONZALES CAMONES MARTINA       E          45.00
+015919           FAB       28/04/2025 17:19  V                      VALENTINA SANCHEZ GARAY        E          45.00
+015920           FAB       28/04/2025 17:26  V                      PANTA RODRIGUES GABRIELA       PL        265.00
+015921           FAB       28/04/2025 17:41  V                      MARTIN PICHILINGUE             PL         81.00
+015922           FAB       28/04/2025 17:53  V                      VALENTINA SANCHEZ GARAY        E          78.50
+015923           FAB       28/04/2025 18:12  V                      MARTINA MARIA GONZALES CAMONES E         144.50
+015924           FAB       28/04/2025 18:25  V                      MARTINA GONZALES CAMONES       PL        151.00
+015925           FAB       28/04/2025 18:27  V                      CHURANO TINOJO JIULIANA        PL         45.00
+015926           FAB       28/04/2025 18:47  V                      SOLIS GARCIA ADELINA           E          45.00
+015927           FAB       28/04/2025 18:48  V                      REYNA GAMARRA                  E          25.00
+015928           FAB       28/04/2025 18:49  V                      MARELIN CABRACANCHA GO;I       E          30.00
+015929           FAB       28/04/2025 18:54  V                      CHURANO TINOJO GIULIANA        C         143.00
+015930           FAB       28/04/2025 18:55  V                      CHAVEZ TOCAS SANTA             E          45.00
+015931           FAB       28/04/2025 19:04  V                      PRISCILA BASILIO SALINAS       E          45.00
+015932           FAB       28/04/2025 19:14  V                      GIANCARLO ORDAYA               E          16.00
+015933           FAB       28/04/2025 19:24  V                      ADELINA SOLIS GARCIA           E          91.10
+015934           FAB       28/04/2025 19:24  V                      ADELINA SOLIS GARCIA           E         173.00
+015935           FAB       28/04/2025 19:36  V                      VALENDINA SANCHEZ              E          47.00
+015936           FAB       28/04/2025 20:02  V                      SANTORA CHAVEZ TOCAS           TR         71.50
+015937           FAB       28/04/2025 20:03  V                      VENTA ANULADA                  TR          0.00
+015938           FAB       28/04/2025 20:05  V                      GILMER VASQUEZ                 E           5.00
+015939           FAB       28/04/2025 20:24  V                      SANTORA CHAVEZ TOCAS           TR        119.00
+015940           FAB       28/04/2025 20:55  V                      PRISCILA BASILIO SALINAS       E          30.00
+015941           FAB       28/04/2025 21:07  V                      VENTA ANULADA                  E           0.00
+015942           FAB       28/04/2025 21:09  V                      PRISCILA BASILIO               E           3.00
+015943           FAB       28/04/2025 21:21  V                      PORTELLA BLAS ROGATA           E           8.00
+015944           FAB       28/04/2025 21:44  V                      MARTINA GONZALES CAMONES       PL         60.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       4         383.50
+Factura       :       0           0.00                                                    Efectivo      :     496      28,932.60úZethQuark Versi¢n 7.0ú                                                                                                 29/04/2025
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/04/2025 AL 28/04/2025                              08:44:15
+PRT102()                                                                                                                Pag.-   14
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+Ticket        :       0           0.00                                                    Plin          :     179      16,927.55
+Guia Interna V:     684      46,766.15                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       5         522.50
+                             46,766.15                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                       46,766.15
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      7,133.23
+ÿ
+ÿ
+Nro.  Documentos Anulados :           25
+Total Documentos Anulados :         0.00

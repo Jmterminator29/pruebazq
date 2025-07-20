@@ -1,0 +1,76 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 24/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 23/07/2024 AL 23/07/2024                              15:49:01
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+007610           EFR  EFR  23/07/2024 08:28  V                      ROSALES CHANGANAQUI SEBASTIAN  E          44.00
+007611           EFR  EFR  23/07/2024 08:31  V                      CHIRITO VILLAREAL MIRIAM       E         153.00
+007612           EFR  EFR  23/07/2024 08:36  V                      VARGAS FERNANDEZ FELIX         E          10.00
+007613           EFR  EFR  23/07/2024 08:46  V                      ACHIC GAMARRA LIZ              E         176.00
+007614           EFR  EFR  23/07/2024 09:58  V                      CHOROCO QUINTANA YANET         E          15.00
+007615           EFR  EFR  23/07/2024 11:28  V                      C¡VICO RAMOS CIELO             E          45.00
+007616           EFR  EFR  23/07/2024 11:51  V                      JACOME CAHUANA RAUL            E          45.00
+007617           EFR  EFR  23/07/2024 12:27  V                      C¡VICO RAMOS CIELO             E          47.00
+007618           EFR  EFR  23/07/2024 12:30  V                      ROJAS CCANCHI LIAM             E          45.00
+007619           EFR  EFR  23/07/2024 12:37  V                      JACOME CAHUANA RAUL            E          25.60
+007620           EFR  EFR  23/07/2024 13:07  V                      ROJAS CCANCHI LIAM             E          81.00
+007621           EFR  EFR  23/07/2024 13:15  V                      CUELLAR OBREGON ANALI          E          21.50
+007622           EFR  EFR  23/07/2024 13:16  V                      NU:EZ GUERRERO BRIANA          E          45.00
+007623           EFR  EFR  23/07/2024 13:19  V                      DIAZ VARGAS VERONICA           E          45.00
+007624           EFR  EFR  23/07/2024 13:35  V                      CROSSI VENTOCILLA JORGE        E           6.00
+007625           EFR  EFR  23/07/2024 13:52  V                      NU¥EZ GUERRERO BRYHANA         E         163.00
+007626           EFR  EFR  23/07/2024 14:04  V                      DIAZ VARGAS VERONICA ALINSSON  E          45.00
+007627           EFR  EFR  23/07/2024 14:40  V                      MARTIN ROJAS DIOGENES          E         150.00
+007628           EFR  EFR  23/07/2024 15:36  V                      VERAMENDI VILLANUEVA MARGARITA E          70.50
+007629           EFR  EFR  23/07/2024 15:46  V                      PICHILINGUE SALVO LIZ VERONICA E          40.00
+007630           EFR  EFR  23/07/2024 15:49  V                      TRUJILLO JARA JORGE            E          45.00
+007631           EFR  EFR  23/07/2024 15:53  V                      GAMARRA SANCHEZ PETER          E          45.00
+007632           EFR  EFR  23/07/2024 16:05  V                      SANTOS CIERTO ESTELITA         C          45.00
+007633           EFR  EFR  23/07/2024 16:06  V                      ACHIC GAMARRA LIZ              E          45.00
+007634           EFR  EFR  23/07/2024 16:08  V                      RIVERA OBISPO NELIDA           E          45.00
+007635           EFR  EFR  23/07/2024 16:26  V                      GAMARRA CANO REYNA             C           2.00
+007636           EFR  EFR  23/07/2024 16:45  V                      CHIRITO VILLAREAL MIRIAM       E          45.00
+007637           EFR  EFR  23/07/2024 16:52  V                      PICHILINGUE SALVO LIZ          E          12.00
+007638           EFR  EFR  23/07/2024 16:55  V                      PICHILINGUE SALVO LIZ          E          45.00
+007639           EFR  EFR  23/07/2024 17:29  V                      GUTIERREZ BALTUANO MONICA      E          40.00
+007640           EFR  EFR  23/07/2024 17:40  V                      TRUJILLO JARA JORGE            E         171.50
+007641           EFR  EFR  23/07/2024 17:46  V                      GAMARRA SANCHEZ PETER          E          15.50
+007642           EFR  EFR  23/07/2024 17:53  V                      AVILA CAJALEON EMILI           E          45.00
+007643           EFR  EFR  23/07/2024 18:14  V                      SANTOS CIERTO ESTELITA         C         269.50
+007644           EFR  EFR  23/07/2024 18:16  V                      SANTOS CIERTO ESTELITA         C         312.50
+007645           EFR  EFR  23/07/2024 18:35  V                      GAMARRA SANCHEZ PETER          E          71.00
+007646           EFR  EFR  23/07/2024 18:36  V                      AVILA CAJALEON EMILI           E           3.00
+007647           EFR  EFR  23/07/2024 18:47  V                      DOROTEO CARRERA MELANIE        E          45.00
+007648           EFR  EFR  23/07/2024 18:50  V                      CHIRITO VILLARREAL MIRIAN      E          40.00
+007649           EFR  EFR  23/07/2024 19:30  V                      CARRERA LLARES ROCIO           E          22.00
+007650           EFR  EFR  23/07/2024 19:35  V                      DOROTEO CARRERA MELANIE        E          52.00
+007651           EFR  EFR  23/07/2024 19:37  V                      PAULINO CAMPOS DIAZ            TR          8.50
+007652           EFR  EFR  23/07/2024 19:41  V                      AVILA CAJALEON EMILI           C          53.50
+007653           EFR  EFR  23/07/2024 20:04  V                      PAULINO CAMPOS                 E           4.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       5         682.50
+Factura       :       0           0.00                                                    Efectivo      :      38       2,063.60
+Ticket        :       0           0.00                                                    Plin          :       0           0.00
+Guia Interna V:      44       2,754.60                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       1           8.50
+                              2,754.60                                                    Yape          :       0           0.00
+                                                                                                                    -------------úZethQuark Versi¢n 7.0ú                                                                                                 24/07/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 23/07/2024 AL 23/07/2024                              15:49:01
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                        2,754.60
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        420.14
+ÿ
+ÿ
+Nro.  Documentos Anulados :            0
+Total Documentos Anulados :         0.00

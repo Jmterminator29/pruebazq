@@ -1,0 +1,59 @@
+úZethQuark Versi¢n 7.0ú                                               02/06/2025
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 01/06/2025 AL 02/06/2025        17:58:37
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT #24                                    688              4           CLA
+ACICLAV 875MG+125MG TAB                        46             14           JES
+AGUA ESTERIL PARA INYEC.AMP                   211              2           JES
+AGUJA #18                                    1828             19           CLA
+AGUJA #23                                      31              1           JES
+AMIKACINA 500MG/2ML (IM/IV) AMP                84              4           CLA
+BENCILPENIC PROCAINICA 1000000 AMP            103              1           JES
+CEFTRIAXONA 1G AMP                             85              4           CLA
+CIDOBEL 500MG CAP                             164             30           CLA
+CLORURO DE SODIO 0,9% X100ML                  855             10           CLA
+CLORURO DE SODIO 0,9% X250ML                  163              3           CLA
+CONSULTA MEDICINA GENERAL DR E.JAIMES         990              2           JES
+CONSULTA MEDICINA GENERAL DR M.DIAZ           977              3           CLA
+CONSULTA MEDICINA GENERAL DR M.MOLINA         605              3           CLA
+CREATININA                                    987              2           CLA
+CURACION MENOR                                490              1           CLA
+DEXCORTIL 4MG/2ML (IM/IV) AMP                 113              2           CLA
+DICLOFIX 75MG/3ML (IM) AMP                    137              2           CLA
+ENDOVENOSO INTERNO                          44843              8           CLA
+EQUIPO DE VENOCLISIS 20GOT/ML                 828              7           CLA
+FRASCO PARA M.HECES                           349              1           CLA
+FRASCO PARA M.ORINA                           270              6           CLA
+GASA 10X10                                    138              4           CLA
+GLUCOSA                                      8600              1           CLA
+GUANTES QUIRURGICO TALLA 7.5                   25              1           JES
+HEMOG. GLICOSILADA                           9997              1           CLA
+HEMOGRAMA COMPLETO                           9971              3           CLA
+INYECTABLE   INTRAMUSCULAR EXTERNO           1315              2           CLA
+JERINGA 10ML                                  404             12           CLA
+JERINGA 1ML                                   171              1           CLA
+JERINGA 20ML                                 1094              4           CLA
+JERINGA 5ML                                    54              1           JES
+KETALGESICO 25MG TAB                           48              6           JES
+KETOPROPHARM 100MG/5ML (IV) AMP               214              5           CLA
+LIDOCAINA 2% X20ML AMP                         31              1           JES
+LLAVE TRIPLE VIA                              188              1           JES
+MICROALBUMINURIA ORINA SIMPLE                9992              1           CLA
+NEUMOPUL POTE 500G VAINILLA                     3              1           CLA
+NYLON #4                                       43              1           JES
+ORFELAX 60MG/2ML (IM/IV) AMP                  125              4           CLA
+ORINA COMPLETA                               7500              3           CLA
+PERFIL HEPATICO                               986              1           CLA
+PERFIL LIPIDICO                              1012              2           CLA
+PLIDOCHECK 400MG CAP                           31             13           CLA
+PROFEKED 2.5% GEL X30G                          0              1           CLA
+PROSTASIL 0.5MG CAP                             0             10           JES
+PRUEBA DE ALERGIA                             960              1           CLA
+RX COLUMNA LUMBO SACRO F - L                 9985              2           CLA
+SUTURA MAYOR DE 3 A 5 PUNTOS                  998              1           JES
+UREA                                         9992              2           CLA
+--------------------------------------------------------------------------------
+T O T A L:    50
+--------------------------------------------------------------------------------

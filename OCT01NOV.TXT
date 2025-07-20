@@ -1,0 +1,56 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 02/11/2024
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 01/11/2024 AL 01/11/2024                              08:17:04
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+010768           ELI       01/11/2024 08:49  V                      CASTILLO LEON ILMER            E          45.00
+010769           ELI       01/11/2024 10:35  V                      ARIAS CASTILLO NORIS           E          40.90
+010770           ELI       01/11/2024 11:33  V                      AGUIRRE RODRIGUEZ LIDIA        E           2.00
+010771           ELI       01/11/2024 11:48  V                      ARIAS CASTILLO                 E          10.00
+010772           ELI       01/11/2024 13:10  V                      IRENE NICOLLE DIAZ ALBINO      PL         80.00
+010773           ELI       01/11/2024 14:30  V                      CAMPOS DIAZ PAULINO            E          17.00
+010774           ELI       01/11/2024 15:24  V                      SILVA ISLADO LORENA            PL         15.00
+010775           ELI  ELI  01/11/2024 16:33  V                      VENTA ANULADA                  PL          0.00
+010776           ELI  ELI  01/11/2024 16:44  V                      MAGDALENA SILVA BRAVO          PL         37.40
+010777           ELI       01/11/2024 16:51  V                      AMADO MEDALLA SOFIA            E          45.00
+010778           ELI       01/11/2024 16:54  V                      VENTA ANULADA                  E           0.00
+010779           ELI  ELI  01/11/2024 17:14  V                      MORA BARRERA ABIGAEL           PL         45.00
+010780           ELI  ELI  01/11/2024 17:36  V                      ASIS LEON LUANA                E           3.00
+010781           ELI  ELI  01/11/2024 17:46  V                      ROSALES AYALA YANDELI          E          45.00
+010782           ELI  ELI  01/11/2024 17:56  V                      ROSALES AYALA YANDELI          E           3.00
+010783           ELI  ELI  01/11/2024 17:58  V                      BACILIO REYES SEGUNDINO        E          45.00
+010784           ELI  ELI  01/11/2024 18:00  V                      ROSALES AYALA YANDELI          E          15.00
+010785           ELI  ELI  01/11/2024 18:19  V                      PECAN CRUZ LAURA               E          74.80
+010786           ELI       01/11/2024 18:22  V                      GONZALES LEYVA CLAUDIA         E          45.00
+010787           ELI       01/11/2024 18:32  V                      BACILIO REYES SEGUNDINO        E          76.50
+010788           ELI  ELI  01/11/2024 18:35  V                      MORA BARRERA ABIGAEL           PL        123.70
+010789           ELI  ELI  01/11/2024 18:38  V                      AMADO MEDALLA SOFIA            E         280.00
+010790           ELI       01/11/2024 18:50  V                      CABANILLA CURIOSO JORGE        E          29.50
+010791           ELI       01/11/2024 18:51  V                      AGUIRRE RODRIGUEZ LIDIA        E           2.00
+010792           ELI       01/11/2024 19:02  V                      ROSALES AYALA YANDELI          E          53.00
+010793           ELI       01/11/2024 19:18  V                      GONZALES LEYVA CLAUDIA         E           7.00
+010794           ELI       01/11/2024 19:20  V                      VELASQUEZ CORNELIO YADER       E          31.40
+010795           ELI       01/11/2024 19:48  V                      MEZA HELLEN                    PL         15.70
+010796           ELI       01/11/2024 20:16  V                      MORA BARRERA ABIGAEL           PL          4.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Credito       :       0           0.00
+Factura       :       0           0.00                                                    Efectivo      :      20         870.10
+Ticket        :       0           0.00                                                    Plin          :       7         320.80
+Guia Interna V:      27       1,190.90                                                    Tarjeta       :       0           0.00
+                          -------------                                                   Transferencia :       0           0.00
+                              1,190.90                                                    Yape          :       0           0.00
+                                                                                                                    -------------
+                                                                                                                        1,190.90
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :        181.65
+ÿ
+ÿ
+Nro.  Documentos Anulados :            2
+Total Documentos Anulados :         0.00

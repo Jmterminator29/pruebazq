@@ -1,0 +1,74 @@
+úZethQuark Versi¢n 7.0ú                                          21/06/2025
+ELAM MEDICAL    REPORTE DE PRODUCTOS X LABORATORIO  (SYNLAB)       15:41:45
+PRT201()                                                         Pag.-    1
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION              LINEA          PVP  PxUNIDAD
+---------------------------------------------------------------------------
+15412 ANA ANTICUERPOS ANTINUCLEARES,SUERO      81       71.00          
+15420 ANTI CCP IGG/PEPTIDO CICLICO CITRULINADO 81      276.00          
+15429 ANTI-ESTREPTOLISINAS ASO                 81       36.00          
+15483 BRUCELLA 2MET                            81       83.00          
+15484 BRUCELLA AGLUTINACIONES TUBO             81       43.00          
+15490 BRUCELLA ROSA DE BENGALA                 81       83.00          
+15303 CA-125                                   81       70.00          
+15301 CA-19-9                                  81       70.00          
+15304 CA-72.4                                  81       90.00          
+15497 CALCIO EN  ORINA 24 HORAS                81       16.00          
+15499 CALCIO SERICO                            81       18.00          
+15296 CALCITONINA, SUERO                       81      117.00          
+15514 CEA (ANTIGENO CARCINOEMBRIONARIO)        81       52.00          
+15299 CEA(CANCER DE PULMON Y COLON)            SE       42.00          
+18082 COPROLOGICO FUNCIONAL                    81       53.00          
+15196 CORTISOL 4PM                             81       45.00          
+15195 CORTISOL 8AM                             81       44.00          
+15220 CULTIVO SECRECION FARINGEA Y MIC Test    82       61.00          
+16749 CULTIVO SECRECION OTICA Y MIC Test       81       65.00          
+16780 CULTIVO SECRECION URETRAL                81       52.00          
+15218 CULTIVO SECRECION VAGINAL Y MIC Test     81       62.00          
+17506 CULTIVO SECRECION Y MIC Test             81       53.00          
+16165 ESTRADIOL                                81       50.00          
+15780 ESTUDIO DE LEISHMANIASIS                 81       22.00          
+15198 FSH                                      81       50.00          
+15673 GAMMA GLUTAMIL TRANSPEPTIDASA GGT,SUERO  81       24.00          
+16816 GLUTAMATO DESHIDROGENASA (GLDH),SUERO    SE      693.00          
+15204 HELICOBACTER P IGM                       81       60.00          
+16624 HELICOBACTER PYLORI C-13,PRUEBA ALIENTO  81      518.00          
+15205 HELICOBACTER PYLORI IGG                  81       58.00          
+17195 HELICOBACTER PYORI ANTIGENO HECES        81      155.00          
+18081 HEPATITIS B ANTIGENO AUSTRALIANO, SUERO  81       58.00          
+18080 HEPATITIS B-ANTIAG HBS(CONVENIO SO)      81       30.00          
+18079 HERPES I ANTICUERPOS IGM , SUERO         81       59.00          
+16859 HERPES II ANTICUERPO IGM, SUERO          81       57.00          
+16858 HERPES II ANTICUERPOS IGG,SUERO          81       56.00          
+15740 HORMONA ANTI MULLERIANA(AMH/MIS)SUERO    81      324.00          
+15199 HORMONA DE CRECIMIENTO                   81       64.00          
+15749 INDICE DE SATURACION DE TRANSFERRINA     81       70.00          
+15297 INMUNOGLOBULINA E                        81       43.00          
+15764 INSULINA                                 81       55.00          
+15316 LAMINA PERIFERICA                        81       19.90          
+15783 LEPTOSPIRA INTERROGANS  ANTICUERPOS IGM  81      210.20          
+15201 LH HORMONA LUTEINIZANTE, SUERO           81       50.00          
+15828 PANEL DE ALERGIA(32 ALERGENOS/PANEL PERU 81      284.00          
+15830 PAPANICOLAOU                             81       35.00          
+16340 PERFIL HORMONAL (FSH,LH,ESTRADIOL,PRL)   81       83.00          
+15180 PERFIL TIROIDEO REF                      81       62.00          
+15203 PROLACTINA                               81       53.00          
+15305 PSA LIBRE                                81       60.00          
+15881 PSA TOTAL                                81       46.00          
+16525 T3 LIBRE  TRIYODOTIRONINA LIBRE          81       42.00          
+18078 T3 TOTAL TRIYODOTIRONINA TOTAL , SUERO   81       29.00          
+15264 T4 LIBRE TIROXINA LIBRE , SUERO          81       42.00          
+18083 T4 TIROXINA TOTAL,SUERO                  81       33.00          úZethQuark Versi¢n 7.0ú                                          21/06/2025
+ELAM MEDICAL    REPORTE DE PRODUCTOS X LABORATORIO  (SYNLAB)       15:41:45
+PRT201()                                                         Pag.-    2
+---------------------------------------------------------------------------
+CODIGO            DESCRIPCION              LINEA          PVP  PxUNIDAD
+---------------------------------------------------------------------------
+15919 TESTOSTERONA                             81       53.00          
+15926 TINTA CHINA(CRYPTOCOCOS)                 81       32.20          
+15927 TIROGLOBULINA                            81       57.00          
+15933 TORCH IGM                                81      200.00          
+15191 TRANSAMINASA OXALACETICA TGO, SUERO      81       20.00          
+15192 TRANSAMINASA PIRUVICA TGP, SUERO         82       20.00          
+15208 TSH ULTRASENSIBLE                        81       39.00          
+15169 VITAMINA B12                             81       63.00          

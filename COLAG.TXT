@@ -1,0 +1,33 @@
+úZethQuark Versi¢n 7.0ú                                                              06/06/2025
+POL.LOS ANGELES                 KARDEX : COLAG HP 420GR VAINILLA                       08:43:36
+PRG232()                          DEL 01/03/2025 AL 06/06/2025                       Pag.-    1
+-----------------------------------------------------------------------------------------------
+ INTERNO      FECHA     HORA     MOVIMIENTO     PROV  DOCUMENTO    CANTIDAD    STOCK       RESP
+-----------------------------------------------------------------------------------------------
+0000032169  04/03/2025  19:44  Descargo x Vent  USER  014427      -    1           4       ELI
+0000032195  05/03/2025  15:55  Descargo x Vent  USER  014444      -    1           3       ELI
+0000032230  06/03/2025  10:33  Descargo x Vent  USER  014478      -    1           2       ELI
+0000032291  07/03/2025  10:06  Cargo x Anulaci  USER  014478      +    1           3       GEN
+0000032324  07/03/2025  18:52  Descargo x Modi  USER  0000032324  -    3           0       EFR
+0000032477  11/03/2025  17:11  Cargo x Compra   0016  4300        +    6           6       EFR
+0000032766  15/03/2025  19:04  Descargo x Vent  USER  014838      -    1           5       ELI
+0000032843  18/03/2025  18:01  Descargo x Vent  USER  014901      -    1           4       ELI
+0000033235  31/03/2025  14:31  Descargo x Vent  USER  015215      -    1           3       ELI
+0000033290  01/04/2025  20:26  Descargo x Tran  SISH  33288       -    2           1       EFR
+0000033392  04/04/2025  17:53  Cargo x Compra   0016  F009-4349   +    6           7       EFR
+0000033584  09/04/2025  19:59  Descargo x Vent  USER  015483      -    1           6       MAR
+0000034030  26/04/2025  16:07  Descargo x Vent  USER  015866      -    1           5       CLA
+0000034077  28/04/2025  11:28  Descargo x Vent  USER  015907      -    1           4       FAB
+0000034313  05/05/2025  18:51  Descargo x Vent  USER  016114      -    1           3       CLA
+0000034375  06/05/2025  21:12  Descargo x Tran  SISH  34375       -    2           1       EFR
+0000034631  14/05/2025  17:50  Descargo x Vent  USER  016383      -    1           0       ELI
+0000034719  16/05/2025  16:17  Cargo x Compra   0016  F009-4582   +    6           6       EFR
+0000034742  16/05/2025  20:53  Descargo x Tran  SISH  34741       -    2           4       EFR
+0000034745  16/05/2025  21:04  Cargo x Modif.   USER  0000034745  +    1           5       EFR
+0000034749  17/05/2025  08:39  Descargo x Tran  SMMD  34749       -    2           3       EFR
+0000034830  19/05/2025  20:04  Descargo x Modi  SISH  34827       -    1           2       EFR
+0000034967  19/05/2025  18:27  Cargo x Compra   0016  F009-4672   +    6           8       GEN
+0000035023  26/05/2025  21:13  Descargo x Tran  SISH  35022       -    1           7       EFR
+0000035045  27/05/2025  18:28  Descargo x Vent  USER  016731      -    1           6       AUD
+0000035209  31/05/2025  11:32  Descargo x Tran  SISH  20250531    -    1           5       FAB
+0000035211  31/05/2025  11:49  Descargo x Tran  0005  20250531    -    2           3       FAB

@@ -1,0 +1,85 @@
+úZethQuark Versi¢n 7.0ú                                               14/02/2024
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 13/02/2024 AL 14/02/2024        10:57:21
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT #20CAJAX50UNID                           0u24           0u1         YOS
+ABOCAT#22 CAJAX50UNID                           0u1            0u1         YOS
+ABOCAT#24 CAJAX50UNID                           3u9            0u8         YOS
+AGLUTINACIONES                               8886              4           EFR
+AGUA ESTERIL PARA INYEC. CAJAX100 AMPOLL        0u39           0u9         YOS
+AGUJA #18 CAJAX100UNID.                         1u79           0u32        YOS
+ALERCHECK PLUS 10MG CAPSULA/CAJAX30             2u14           0u10        YOS
+AMIKACINA 500MG AMPOLLA CAJAX25                 0              0u8         YOS
+ANEURIN 25 000 CAJA X 1AMPOLLAS                14              7           EFR
+ASCORBIC PROMOCION                              8              2           YOS
+BISTURI #10 CAJAX100 UNIDADES                   0u57           0u1         YOS
+CEFTRIAXONA 1g AMP CAJAX1OUNID                 10u8            0u14        YOS
+CERT. MEDICO LLENADO                            2              2           YOS
+CLAVUMOX 600 SUSPENSION                         0              1           YOS
+CLONAZEPAM 0.5mg tabletax100                    3u60           0u10        YOS
+CLORURO DE SODIO 100ML 0,9%                    37             17           YOS
+CONSULTA DR MARIO                            2541              8           YOS
+CREATINA                                      872              1           EFR
+CREATININA                                    496              2           EFR
+CURACION                                      838              1           YOS
+DERMODAX CREMA X 20G                            0              1           YOS
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100             1u55           0u5         YOS
+DICLOFIX (DICLOFENACO 75MG/3ML) X 10 AMP        8u6            0u4         EFR
+DIMENHIDRINATO 50MG/5ML AMPOLL CAJAX25          4u3            0u3         YOS
+DR PIERRE RAMOS MEDICINA GENERAL              302             10           YOS
+ENDOVENOSO  EXTERNO                            68              1           YOS
+ENDOVENOSO INTERNO                            250             10           YOS
+ENDOVIT +MATERIAL APLICACION                    4              2           YOS
+EQUIPO DE VENOCLISIS 20GOT/ML  CAJAX25UN        2u8            0u8         YOS
+FLAGYL 500MG TABX20                             0u11           0u10        YOS
+FRASCO DE HECES                                89              5           YOS
+FRASCO ORINA ESTERIL                           37             11           YOS
+FROTIS DIRECTO(KOH-HONGOS)                   1736              1           YOS
+GASA ESTERIL  5X5 CAJAX20UNID                   0u13           0u2         YOS
+GASTRORAL SUSP X 200ML                          4              3           YOS
+GENOGEL PLUS POTE X 500G                        8              1           YOS
+GLUCOSA                                      8708              3           YOS
+GLUCOTECH                                      45              2           YOS
+HCG PRUEBA DE EMBARAZO                         21              2           YOS
+HCG SUB UNIDAD BETA CUANTITATIVO              916              1           YOS
+HELICOBACTER IGM                              354              5           EFR
+HEMOG. GLICOSILADA                            374              3           YOS
+HEMOGRAMA COMPLETO                            687             11           YOS
+HEPABIONTA DE 2ML CAJA X3 AMP                  12u1            0u1         YOS
+INYECTABLE   INTRAMUSCULAR EXTERNO           1452              2           EFR
+JERINGA 10ML CAJAX100UNID.                      1u42           0u19        YOS
+JERINGA 20ML CAJAX50UNID.                       0u40           0u12        YOS
+JERINGA 5ML CAJAX100UNID.                       2u47           0u1         YOS
+KETESSE AMPOLLA CAJAX5                          0              0u5         YOS
+LLAVE TRIPLE VIA CAJAX50UNID.                   1u25           0u11        YOS
+METAMIZOL SODICO 1G/2ML AMPOLLA X25             2              0u2         YOS
+METOCLOPRAMIDA 10MG CAJA X 100 TABLETAS         0u47           0u3         YOS
+MICROALBUMINURIA ORINA SIMPLE                 478              2           EFR
+MUCOCAR 600MG CAJA X 20 SOBRES                  0u14           0u2         YOS
+NAPROXENO 550 TABx100                           1u44           0u6         YOSúZethQuark Versi¢n 7.0ú                                               14/02/2024
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 13/02/2024 AL 14/02/2024        10:57:26
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+OMEPRAZOL 40MG POLVO INYECTABLE CAJX10          2u2            0u3         YOS
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS           1u11           0u6         EFR
+ORINA COMPLETA                               8448              9           EFR
+PARACETAMOL 500MG TABX100                       0              0u1         EFR
+PARASITOLOGICO SIMPLE                        1173              6           EFR
+PCR CUANTITATIVA                               65              1           EFR
+PERFIL HEPATICO                               129              4           EFR
+PERFIL LIPIDICO                               524              5           EFR
+PERFIL REUMATICO                               77              1           EFR
+PSA TOTAL                                     795              1           YOS
+REACCION INFLAMATORIA EN HECES                366              2           YOS
+SUERO FISIOLOGICO DE 1 LITRO                   40              3           YOS
+THEVENON                                      653              1           EFR
+UREA                                         1434              3           EFR
+UROCULTIVO                                    146              1           YOS
+VITACOSE 2 ML INYECTABLE                       63              5           YOS
+--------------------------------------------------------------------------------
+T O T A L:    71
+--------------------------------------------------------------------------------

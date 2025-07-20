@@ -1,0 +1,618 @@
+úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:33
+PRT102()                                                                                                                Pag.-    1
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028348           MAR  MAR  22/02/2021 07:53  V                      BARRIOS MORALES MARLON EMILIO  C         219.50
+028349           MAR  MAR  22/02/2021 07:54  V                      BARRIOS MORALES MARLON EMILIO  C          70.00
+028350           MAR  MAR  22/02/2021 07:56  V                      BARRIOS MORALES MARLON         C          40.00
+028351           MAR  MAR  22/02/2021 08:16  V                      BARRIOS MORALES                C          30.00
+028352           MAR  MAR  22/02/2021 08:18  V                      SALTACHIN SANTIBA;EZ           C          10.00
+028353           MAR  MAR  22/02/2021 08:32  V                      RAMOS INGA MAYOMI              C          75.00
+028354           MAR  MAR  22/02/2021 08:41  V                      LEA;O TADEO ROVBERTO ULISES    C          50.00
+028355           MAR  MAR  22/02/2021 08:48  V                      SUSANIBAR CASTRO ELEUTERIA     C          40.00
+028356           MAR  MAR  22/02/2021 08:50  V                      TRINIDAD TIBURCIO RUBER PROPER C         100.00
+028357           MAR  MAR  22/02/2021 08:53  V                      VENTA ANULADA                  C           0.00
+028358           MAR  MAR  22/02/2021 08:58  V                      BARDALES JARA RUFO FERMIN      C         100.00
+028359           MAR  MAR  22/02/2021 09:02  V                      HUERTA INFANTES FALCONERIO     C         100.00
+028360           MAR  MAR  22/02/2021 09:06  V                      VASQUEZ CHAVEZ WALTER          C         100.00
+028361           MAR  MAR  22/02/2021 09:09  V                      RAMIREZ OLORTEGUI VALENTINA    C          40.00
+028362           MAR  MAR  22/02/2021 09:26  V                      PADILLA TADEO GERVACIO         C          40.00
+028363           MAR  MAR  22/02/2021 09:38  V                      CASTILLO SEGURA SEFERINO GABRI C          50.00
+028364           MAR  MAR  22/02/2021 09:39  V                      RODRIGUEZ CRUZ ABDIAS          C          50.00
+028365           MAR  MAR  22/02/2021 09:40  V                      EUGENIO TEVEZ CESAR            C          50.00
+028366           MAR  MAR  22/02/2021 09:49  V                      LOPEZ OBISPO ALDO JESUS        C          40.00
+028367           MAR  MAR  22/02/2021 09:50  V                      LOPEZ OBISPO ALDO JESUS        C          30.00
+028368           MAR  MAR  22/02/2021 09:51  V                      PE;A CRUZ SUSANA               C          70.00
+028369           MAR  MAR  22/02/2021 09:52  V                      RAMIREZ ESPADA MILTON CESAR    C          70.00
+028370           MAR  MAR  22/02/2021 10:21  V                      PALACIOS VERAMENDI ESTHER      C          40.00
+028371           MAR  MAR  22/02/2021 10:23  V                      INOSTROZA LOPEZ JAVIER         C          70.00
+028372           MAR  MAR  22/02/2021 10:23  V                      HUANCHA BAILON NANCY           C          70.00
+028373           MAR  MAR  22/02/2021 10:24  V                      BERNAL NONATO HECTOR           C          70.00
+028374           MAR  MAR  22/02/2021 10:30  V                      VARILLA MELGAREJO FERNANDO     C          86.50
+028375           MAR  MAR  22/02/2021 10:34  V                      IGLESIAS VENTOCILLA TAYLOR     C          15.00
+028376           MAR  MAR  22/02/2021 10:38  V                      VENTA ANULADA                  C           0.00
+028377           MAR  MAR  22/02/2021 10:40  V                      RAMOS RAMOS JOSE SEGUNDO       C          40.00
+028378           MAR  MAR  22/02/2021 10:41  V                      RAMOS RAMOS JOSE SEGUNDO       C          70.00
+028379           MAR  MAR  22/02/2021 10:41  V                      RAMOS RAMOS JOSE SEGUNDO       C         105.00
+028380           MAR  MAR  22/02/2021 10:48  V                      GUARDIA SANCHEZ VICTORIA       C          70.00
+028381           MAR  MAR  22/02/2021 10:50  V                      RUIZ TOLEDO PATRICIA           C         105.00
+028382           MAR  MAR  22/02/2021 10:50  V                      RUIZ TOLEDO PATRICIA           C          70.00
+028383           MAR  MAR  22/02/2021 10:51  V                      RUIZ TOLEDO PATRICIA           C          40.00
+028384           MAR  MAR  22/02/2021 10:53  V                      HISNOSTOZA INGA JENTSHON BREYE C         100.00
+028385           MAR  MAR  22/02/2021 11:02  V                      ALCANTARA CURIOSO FREDY        C          40.00
+028386           MAR  MAR  22/02/2021 11:03  V                      ALCANTARA CURIOSO FREDY        C          70.00
+028387           MAR  MAR  22/02/2021 11:05  V                      PADILLA GERVACIO TIMOTEO       C         100.00
+028388           MAR  MAR  22/02/2021 11:12  V                      ORTIZ TUYA JUANA               C          40.00
+028389           MAR  MAR  22/02/2021 11:21  V                      ANGELA ARAINDIA BARRETO        C          24.00
+028390           MAR  MAR  22/02/2021 11:29  V                      PE;A CRUZ SUSANA               C          40.00
+028391           MAR  MAR  22/02/2021 11:47  V                      JARA VERAMENDI                 C          15.00
+028392           MAR  MAR  22/02/2021 11:49  V                      PADILLA GERVACIO TIMOTEO       C         105.00
+028393           MAR  MAR  22/02/2021 12:12  V                      ROBLES MALLQUI ANA MARIA       C         100.00
+028394           MAR  MAR  22/02/2021 12:12  V                      ROBLES MALLQUI ANA MARIA       C          70.00
+028395           MAR  MAR  22/02/2021 12:57  V                      MESA QUEVEDO JESUS             C          40.00
+028396           MAR  MAR  22/02/2021 12:57  V                      MEZA QUEVEDO JESUS             C         105.00
+028397           MAR  MAR  22/02/2021 12:57  V                      MEZA QUEVEDO JESUS             C          70.00
+028398           MAR  MAR  22/02/2021 13:00  V                      PIMENTEL AGURTO SILVIA YOVANA  C          35.00
+028399           MAR  MAR  22/02/2021 13:14  V                                                     C           1.50
+028400           MAR  MAR  22/02/2021 13:15  V                      AMADO RAMIREZ CARLOS           C          70.00
+028401           MAR  MAR  22/02/2021 13:23  V                      ESPINOZA CAJAS MICHEL          C          40.00
+028402           MAR  MAR  22/02/2021 13:32  V                      INOSTROZA LOPEZ GRACIELA       C          20.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:34
+PRT102()                                                                                                                Pag.-    2
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028403           MAR  MAR  22/02/2021 13:33  V                      INOSTROZA LOPEZ JAVIER         C          20.00
+028404           MAR  MAR  22/02/2021 13:43  V                      TOMAS CONTRERAS ALCIDES GONZAL C          40.00
+028405           MAR  MAR  22/02/2021 13:43  V                      TOMAS CONTRERAS ALCIDES        C         105.00
+028406           MAR  MAR  22/02/2021 13:44  V                      TOMAS CONTRERFAS ALCIDES       C          70.00
+028407           MAR  MAR  22/02/2021 13:45  V                      GONZALES CUMPA JAIME           C          20.00
+028408           MAR  MAR  22/02/2021 13:51  V                      ESPINOZA CAJAS MICHEL          C          14.50
+028409           MAR  MAR  22/02/2021 14:01  V                      FERNADNDEZ RAFAEL VICTOR       C         120.00
+028410           MAR  MAR  22/02/2021 14:27  V                      PADILLA TADEO GERVACIO         C          70.00
+028411           MAR  MAR  22/02/2021 14:32  V                      MELLIZO TARAZONA ELEODORO      C          20.00
+028412           MAR  MAR  22/02/2021 14:34  V                      VENTA ANULADA                  C           0.00
+028413           MAR  MAR  22/02/2021 14:35  V                      VENTA ANULADA                  C           0.00
+028414           MAR  MAR  22/02/2021 14:42  V                      INOSTROZA LOPEZ GRACIELA       C         291.50
+028415           MAR  MAR  22/02/2021 14:56  V                      GONZALES CUMPA JAIME           C         105.00
+028416           MAR  MAR  22/02/2021 14:56  V                      GONZALES CUMPA JAIME           C          70.00
+028417           MAR  MAR  22/02/2021 15:21  V                      TOMAS CONTRERAS ALCIDES        C       1,452.00
+028418           MAR  MAR  22/02/2021 15:30  V                      CHAUCA GARCIA GLADIS           C          40.00
+028419           MAR  MAR  22/02/2021 15:37  V                      RUIZ TOLEDO PATRICIA           C         912.50
+028420           MAR  MAR  22/02/2021 15:38  V                      VENTA ANULADA                  C           0.00
+028421           MAR  MAR  22/02/2021 15:40  V                      VENTA ANULADA                  C           0.00
+028422           MAR  MAR  22/02/2021 15:47  V                      VENTA ANULADA                  C           0.00
+028423           MAR  MAR  22/02/2021 15:47  V                      VENTA ANULADA                  C           0.00
+028424           MAR  MAR  22/02/2021 15:55  V                      BLAS MEJIA EDUARDO             C          50.00
+028425           MAR  MAR  22/02/2021 15:56  V                      LUNA ZAMUDIO CRISTHIAM         C          50.00
+028426           MAR  MAR  22/02/2021 16:14  V                      LUNA ZAMUDIO CHRISTIAN         C          20.00
+028427           MAR  MAR  22/02/2021 16:19  V                      PADILLA GERVACIO TIMOTEO       C         344.00
+028428           MAR  MAR  22/02/2021 16:24  V                      ASIS DE LA CRUZ WALTER JESUS   C          70.00
+028429           MAR  MAR  22/02/2021 16:28  V                      BARRIOS MORALES MARLON         C         336.50
+028430           MAR  MAR  22/02/2021 16:30  V                                                     C           2.00
+028431           MAR  MAR  22/02/2021 16:32  V                      HIDALGO BARRETO MARCELA        C          50.00
+028432           MAR  MAR  22/02/2021 16:33  V                      ORIHUELA ANDRES                C          40.00
+028433           MAR  MAR  22/02/2021 16:35  V                      PRINCIPE HUERTAS MARIBEL       C          40.00
+028434           MAR  MAR  22/02/2021 16:41  V                      ASIS DE LA CRUZ WALTER         C         105.00
+028435           MAR  MAR  22/02/2021 16:41  V                      ASIS DE LA CRUZ WALTER         C          40.00
+028436           MAR  MAR  22/02/2021 16:44  V                      PEREZ CHAFALOTE ELIZABETH      C          20.00
+028437           MAR  MAR  22/02/2021 16:52  V                      SOLIS TRUJILLO ABRHAM          C          20.00
+028438           MAR  MAR  22/02/2021 16:56  V                                                     C           6.00
+028439           MAR  MAR  22/02/2021 17:00  V                      DIAZ RAMOS MALDONADO           C          70.00
+028440           MAR  MAR  22/02/2021 17:03  V                      VENTA ANULADA                  C           0.00
+028441           MAR  MAR  22/02/2021 17:04  V                      TRUJILLO DAZA ZENON            C          70.00
+028442           MAR  MAR  22/02/2021 17:05  V                                                     C           1.50
+028443           MAR  MAR  22/02/2021 17:08  V                      NIETO ESPINOZA RUSEL           C          50.00
+028444           MAR  MAR  22/02/2021 17:12  V                      BAZALAR BORJA VDA DE RIVERA LU C          40.00
+028445           MAR  MAR  22/02/2021 17:18  V                      RIVAS CONSTAN D MONTREULCA ANA C          40.00
+028446           MAR  MAR  22/02/2021 17:30  V                      LOPEZ ESPINOZA JOHAN           C         100.00
+028447           MAR  MAR  22/02/2021 17:35  V                      ZOILA MARCELO                  C         150.00
+028448           MAR  MAR  22/02/2021 17:42  V                      PRINCIPE HUERTAS               C          45.00
+028449           MAR  MAR  22/02/2021 17:49  V                      VENTA ANULADA                  C           0.00
+028450           MAR  MAR  22/02/2021 17:52  V                      BAZALAR BORJA VDA DE RIVERA LU C          51.00
+028451           MAR  MAR  22/02/2021 17:54  V                      BAZALAR BORJA                  C          21.50
+028452           MAR  MAR  22/02/2021 18:14  V                      ALCANTARA CURIOSO FREDY        C          94.50
+028453           MAR  MAR  22/02/2021 18:18  V                      BARRIOS MORALES MARLON         C          20.00
+028454           MAR  MAR  22/02/2021 18:27  V                      AURA                           C           8.50
+028455           MAR  MAR  22/02/2021 19:11  V                      BLAS CRISTIAM                  C          41.00
+028456           MAR  MAR  23/02/2021 07:35  V                      CUSQUI RAMIREZ ALBERTO         C         120.00
+028457           MAR  MAR  23/02/2021 07:40  V                      HUAMAN TORRES MARIA            C          40.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:34
+PRT102()                                                                                                                Pag.-    3
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028458           MAR  MAR  23/02/2021 07:42  V                      AYER NEBULIZACION              C          30.00
+028459           MAR  MAR  23/02/2021 08:00  V                      CHAGUA SIFUENTES JOSE ANTONIO  C         100.00
+028460           MAR  MAR  23/02/2021 08:15  V                      CABELLO TAFUR BILO ROBINZON    C          50.00
+028461           MAR  MAR  23/02/2021 08:24  V                      SALTACHIN SANTIBA;EZ           C          10.00
+028462           MAR  MAR  23/02/2021 08:29  V                      GRADOS MELENDES BRAYAN SMITH   C          70.00
+028463           MAR  MAR  23/02/2021 08:54  V                      RUIZ TOLEDO PATRICIA           C         498.00
+028464           MAR  MAR  23/02/2021 09:13  V                      PE;A CRUZ SUSANA  CARMEN       C         138.00
+028465           MAR  MAR  23/02/2021 09:17  V                      CACERES ROJAS                  C          40.00
+028466           MAR  MAR  23/02/2021 09:20  V                      VENTURA CRUZ LEONID            C         100.00
+028467           MAR  MAR  23/02/2021 09:28  V                      NARRO FLORES NIDIA             C          15.00
+028468           MAR  MAR  23/02/2021 09:43  V                      CASTILLO TARAZONA ANDREA       C          70.00
+028469           MAR  MAR  23/02/2021 09:48  V                      SEBASTIAN VARA RAYMUNDA        C         100.00
+028470           MAR  MAR  23/02/2021 09:58  V                      CISNEROS AQUINO EMILIO         C          40.00
+028471           MAR  MAR  23/02/2021 11:01  V                      MANRIQUE DOMINGUEZ PAMELA      C          70.00
+028472           MAR  MAR  23/02/2021 11:10  V                      VENTA ANULADA                  C           0.00
+028473           MAR  MAR  23/02/2021 12:10  V                      SULLON CALATAYU JOSE ANTONIO   C          20.00
+028474           MAR  MAR  23/02/2021 12:11  V                      TIMBA QUIRO FLORENCIA          C         130.00
+028475           MAR  MAR  23/02/2021 12:16  V                      CONTRERAS CAMPOS ROBERT        C          70.00
+028476           MAR  MAR  23/02/2021 12:30  V                      BARBOZA BISGIL THALIA          C          15.00
+028477           MAR  MAR  23/02/2021 12:35  V                      LA CRUZ MARCOS ORLANDO JULIAN  C         100.00
+028478           MAR  MAR  23/02/2021 12:39  V                      TIMBA QUIRO FLORENCIA          C          40.00
+028479           MAR  MAR  23/02/2021 12:44  V                      MU;OZ GERMANI ANA              C          40.00
+028480           MAR  MAR  23/02/2021 12:53  V                      RODRIGUEZ ROJAS LISANDRA       C          70.00
+028481           MAR  MAR  23/02/2021 13:02  V                      INOSTROZA LOPEZ GRACIELA       C          20.00
+028482           MAR  MAR  23/02/2021 13:06  V                      TENA GONZALES LITA             C          40.00
+028483           MAR  MAR  23/02/2021 13:28  V                      UGALDE ROBLES YAQUELINE        C          15.00
+028484           MAR  MAR  23/02/2021 13:41  V                                                     C           0.50
+028485           MAR  MAR  23/02/2021 14:10  V                      PABLO CHAFALOTE JESUS          C          20.00
+028486           MAR  MAR  23/02/2021 14:10  V                      PABLO CHAFALOTE JESUS          C          70.00
+028487           MAR  MAR  23/02/2021 14:39  V                      LOPEZ CHERREPANO MILADY        C          50.00
+028488           MAR  MAR  23/02/2021 14:50  V                      MU;OZ GERMANI ANA              C          19.50
+028489           MAR  MAR  23/02/2021 14:53  V                      HOCES MERCEDES MERY            C          20.00
+028490           MAR  MAR  23/02/2021 14:54  V                      ROSA LUCAS QUICHE              C          50.00
+028491           MAR  MAR  23/02/2021 14:55  V                      GONZALES CUMPA JAIME           C          15.00
+028492           MAR  MAR  23/02/2021 14:59  V                      YULIANA                        C          20.00
+028493           MAR  MAR  23/02/2021 15:09  V                      BARRON SANTIBA;EZ JUAN CARLOS  C          40.00
+028494           MAR  MAR  23/02/2021 15:19  V                      TENA GONZALES                  C          70.00
+028495           MAR  MAR  23/02/2021 15:21  V                      PE;A CRUZ SUSANA               C          20.00
+028496           MAR  MAR  23/02/2021 15:22  V                      TARAZONA OBREGON ROSAURA       C          40.00
+028497           MAR  MAR  23/02/2021 15:23  V                      FLORES HUAMAN PERCY ESUARDO    C          50.00
+028498           MAR  MAR  23/02/2021 15:26  V                      BARBA SCHARFF JOSE             C          20.00
+028499           MAR  MAR  23/02/2021 15:29  V                      CRUZ CABRERA LEONCIO VALERIANO C          50.00
+028500           MAR  MAR  23/02/2021 15:31  V                      RAMOS SEGUNDO PORFIRIA AMERICA C          70.00
+028501           MAR  MAR  23/02/2021 15:34  V                      COCHACHIN CASTILLO DARIA       C          20.00
+028502           MAR  MAR  23/02/2021 15:39  V                      RAMOS FLORES NIDIA             C          75.00
+028503           MAR  MAR  23/02/2021 15:52  V                      CACERES ROJAS ANATOLIA         C          70.00
+028504           MAR  MAR  23/02/2021 15:56  V                      CACERES ROJAS ANATOLIA         C         261.00
+028505           MAR  MAR  23/02/2021 15:57  V                      CACERES ROJAS                  C          12.00
+028506           MAR  MAR  23/02/2021 15:57  V                      RODRIGUEZ ROBLES DAYANA        C         100.00
+028507           MAR  MAR  23/02/2021 16:14  V                      TARAZONA OBREGON ROSAURA       C          70.00
+028508           MAR  MAR  23/02/2021 16:33  V                      TENA GONZALES LITA             C          67.00
+028509           MAR  MAR  23/02/2021 16:33  V                      GUTIERRES GUARDALES CARI LUZ   C          20.00
+028510           MAR  MAR  23/02/2021 16:42  V                      MEDINA DAMIAN MARCOS           C         105.00
+028511           MAR  MAR  23/02/2021 16:42  V                      MEDINA DAMIAN MARCOS           C          70.00
+028512           MAR  MAR  23/02/2021 16:51  V                      TOLEDO AREVALO ROSA            C          20.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:35
+PRT102()                                                                                                                Pag.-    4
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028513           MAR  MAR  23/02/2021 16:55  V                      COCJHACHIN CASTILLO DARIA      C          70.00
+028514           MAR  MAR  23/02/2021 16:55  V                      COCHACHIN CSTILLO DARIA        C          75.00
+028515           MAR  MAR  23/02/2021 17:00  V                      PALACIN CARRASCO AQUILES       C          40.00
+028516           MAR  MAR  23/02/2021 17:02  V                      BARBA SCHARFF JOSE             C          25.00
+028517           MAR  MAR  23/02/2021 17:09  V                      PE;A CRUZ SUSANA               C          19.50
+028518           MAR  MAR  23/02/2021 17:16  V                      RODRIGUEZ ROBLES KARLA         C         100.00
+028519           MAR  MAR  23/02/2021 17:20  V                      ROMERO CHAVEZ MITTY NOELIA     C          40.00
+028520           MAR  MAR  23/02/2021 17:27  V                      TIMBA QUIRO FLORENCIA          C          25.00
+028521           MAR  MAR  23/02/2021 17:27  V                      TIMBA QUIRO FLORENCIA          C          70.00
+028522           MAR  MAR  23/02/2021 17:33  V                      TARAZONA OBREGON ROSAURA       C         100.00
+028523           MAR  MAR  23/02/2021 17:40  V                      ROJAS RESURRECCION MARIA       C          40.00
+028524           MAR  MAR  23/02/2021 17:48  V                      TARAZONA OBREGON ROSAURA       C          25.00
+028525           MAR  MAR  23/02/2021 17:52  V                      TARAZONA OBREGON ROSAURA       C          80.00
+028526           MAR  MAR  23/02/2021 18:00  V                      CAVERO SALINAS                 C          60.00
+028527           MAR  MAR  23/02/2021 18:10  V                      ROSA TOLEDO                    C           6.00
+028528           MAR  MAR  23/02/2021 18:13  V                      PALACIN CARRASCO ARTURO        C          46.50
+028529           MAR  MAR  23/02/2021 18:16  V                      PALACIN CARRASCO ARTURO        C          62.30
+028530           MAR  MAR  23/02/2021 18:30  V                                                     C           7.50
+028531           MAR  MAR  23/02/2021 18:48  V                      ROJAS                          C          21.00
+028532           MAR  MAR  23/02/2021 19:05  V                      COCHACHIN CASTILLO             C          63.20
+028533           MAR  MAR  23/02/2021 19:24  V                      TARAZONA OBREGON ROSAURA       C         370.50
+028534           MAR  MAR  23/02/2021 19:34  V                      TIMBA QUIRO FLORENCIA          C         347.00
+028535           MAR  MAR  23/02/2021 19:38  V                      JOSE FERNANDEZ                 C          58.50
+028536           MAR  MAR  23/02/2021 19:48  V                      BARBA SCHARFF JOSE             C          80.00
+028537           MAR  MAR  23/02/2021 19:51  V                      CAMARA REYES MANUEL            C          19.50
+028538           MAR  MAR  24/02/2021 07:24  V                      HOCES MERCEDES MERY            C         136.50
+028539           MAR  MAR  24/02/2021 07:25  V                      HOCES MERCEDES MERY            C          13.00
+028540           MAR  MAR  24/02/2021 07:41  V                      PE;A BERNALDO ABELINA          C          79.50
+028541           MAR  MAR  24/02/2021 07:48  V                      PE;A BERNALDO ABELINA          C          30.50
+028542           MAR  MAR  24/02/2021 07:56  V                      ALONSO GUIMARAE YULI LILIANA   C          75.00
+028543           MAR  MAR  24/02/2021 08:03  V                      MEDINA FERNANDEZ JULIA         C          40.00
+028544           MAR  MAR  24/02/2021 08:07  V                      GERONIMO MIRANDA JUSTINA       C         139.50
+028545           MAR  MAR  24/02/2021 08:07  V                      GERONIMO MIRANDA JUSTINA       C          70.00
+028546           MAR  MAR  24/02/2021 08:11  V                      PEZO TENAZOA AIDA              C         100.00
+028547           MAR  MAR  24/02/2021 08:14  V                      ESPINOZA SALVADOR JULIO        C         165.00
+028548           MAR  MAR  24/02/2021 08:21  V                      CARRILLO ZULOAGA MAYRA         C         105.00
+028549           MAR  MAR  24/02/2021 08:21  V                      CARRILLO ZULOAGA MAYRA         C          70.00
+028550           MAR  MAR  24/02/2021 08:22  V                      CARRILLO ZULOAGA MAYRA         C          40.00
+028551           MAR  MAR  24/02/2021 08:23  V                      CARRILLO ZULOAGA MAYRA         C          50.00
+028552           MAR  MAR  24/02/2021 08:31  V                      SALTACHIN SANTIBA;EZ           C          10.00
+028553           MAR  MAR  24/02/2021 08:34  V                      ESPINOZA SALVADOR JULIO        C          20.00
+028554           MAR  MAR  24/02/2021 08:42  V                      CARRILLO ZULOAGA MAYRA         C          13.00
+028555           MAR  MAR  24/02/2021 08:58  V                      CHUMBES MORALES FABIOLA        C         189.50
+028556           MAR  MAR  24/02/2021 09:01  V                      TENA GONZALES LITA             C         123.00
+028557           MAR  MAR  24/02/2021 09:17  V                      CHUMBES MORALES FABIOLA        C          44.50
+028558           MAR  MAR  24/02/2021 09:22  V                      VENTOCILLA QUICHE ROSARIO      C         105.00
+028559           MAR  MAR  24/02/2021 09:22  V                      VENTOCILLA QUICHE ROSARIO      C          70.00
+028560           MAR  MAR  24/02/2021 09:22  V                      VENTOCILLA QUICHE ROSARIO      C          40.00
+028561           MAR  MAR  24/02/2021 09:29  V                      MATOS ASENCIOS CRISTINA        C          50.00
+028562           MAR  MAR  24/02/2021 09:31  V                      BARDALES JARA RUFO FERMIN      C         105.00
+028563           MAR  MAR  24/02/2021 09:31  V                      BARDALES JARA RUFO FERMIN      C          70.00
+028564           MAR  MAR  24/02/2021 09:48  V                      VENTA ANULADA                  C           0.00
+028565           MAR  MAR  24/02/2021 10:12  V                      TIMBA QUIRO FLORENCIA          C          64.00
+028566           MAR  MAR  24/02/2021 10:17  V                      BARDALES JARA RUFO             C          40.00
+028567           MAR  MAR  24/02/2021 10:27  V                      CHUMBES MORALES FABIOLA        C          75.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:35
+PRT102()                                                                                                                Pag.-    5
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028568           MAR  MAR  24/02/2021 10:30  V                      TIMBA QUIRO FLORENCIA          C         107.50
+028569           MAR  MAR  24/02/2021 10:54  V                      PADILLA GERVACIO TIMOTEO       C         221.00
+028570           MAR  MAR  24/02/2021 11:28  V                      YAMUNAQUE VRGAS JOSE           C          50.00
+028571           MAR  MAR  24/02/2021 11:46  V                      ARIZA MIGUEL ELSA              C          40.00
+028572           MAR  MAR  24/02/2021 12:01  V                      TIMBA QUIRO FLORENCIA          C          86.50
+028573           MAR  MAR  24/02/2021 12:08  V                      CHUMBES MORALES FABIOLA        C          40.00
+028574           MAR  MAR  24/02/2021 12:15  V                      VENTA ANULADA                  C           0.00
+028575           MAR  MAR  24/02/2021 12:18  V                      ABANTO HUAMACTO KEVIN          C          30.00
+028576           MAR  MAR  24/02/2021 12:19  V                      BENITES MANRIQUE DIANA         C          30.00
+028577           MAR  MAR  24/02/2021 12:41  V                      CUENTA SEBASTIAM MARIBEL       C         100.00
+028578           MAR  MAR  24/02/2021 12:47  V                      JARA HUANUCO FELIX             C         100.00
+028579           MAR  MAR  24/02/2021 12:48  V                      JARA HUANUCO FELIX             C          70.00
+028580           MAR  MAR  24/02/2021 12:48  V                      JARA HUANUCO FELIX             C         105.00
+028581           MAR  MAR  24/02/2021 12:48  V                      JARA HUANUCO FELIX             C          40.00
+028582           MAR  MAR  24/02/2021 13:17  V                      CHAVEZ REYES CARLOS AGUSTO     C          50.00
+028583           MAR  MAR  24/02/2021 13:20  V                      CHIRRE BUSTAMANTE GLADIS       C          40.00
+028584           LAU       24/02/2021 13:28  V                      BUITRON ZAVALA ANTONIA         C          40.00
+028585           LAU       24/02/2021 13:32  V                      CORDOVA OSORIA MARIA           C          40.00
+028586           LAU       24/02/2021 13:34  V                      JESUS LAZARO DANIELA           C          40.00
+028587           LAU       24/02/2021 13:35  V                      JESUS LAZARO DANIELA           C          70.00
+028588           LAU       24/02/2021 13:49  V                      GONZALES CUMPA JAIME           C         300.00
+028589           LAU       24/02/2021 14:10  V                      SALAZAR PEREZ CARMEN           C          50.00
+028590           LAU       24/02/2021 14:10  V                      SALINAS SALAZAR FREDY          C          50.00
+028591           LAU       24/02/2021 14:10  V                      SALINAS CONDE OSCAR            C          50.00
+028592           LAU       24/02/2021 14:32  V                      ANGULO SOLIS YASUMI            C          20.00
+028593           LAU       24/02/2021 14:54  V                      BUITRON ZAVALA                 C          46.50
+028594           LAU       24/02/2021 14:56  V                                                     C           1.50
+028595           LAU       24/02/2021 15:08  V                      GRADOS CASTRO TEOFILO          C          20.00
+028596           LAU       24/02/2021 15:10  V                      CARRILLO SULOAGA MARIA         C          20.00
+028597           LAU       24/02/2021 15:13  V                                                     C           1.50
+028598           LAU       24/02/2021 15:18  V                      GIRALDO CHAVEZ EDELMIRA        C         130.00
+028599           LAU       24/02/2021 15:19  V                      CHAFALOTE LUCAS ROSA           C          20.00
+028600           LAU       24/02/2021 15:20  V                      BETETA CALERO MAXIMO           C         130.00
+028601           LAU       24/02/2021 15:22  V                      JESUS LAZARO CRESENCIA         C          40.00
+028602           LAU       24/02/2021 15:23  V                      CHUMBES MENDOZA REMIGIA        C          40.00
+028603           LAU       24/02/2021 15:29  V                      MACEDONIA ROJAS                C         125.00
+028604           LAU       24/02/2021 15:39  V                      LA CRUZ FERNADEZ ALEXIS        C          50.00
+028605           LAU       24/02/2021 15:46  V                      MACEDONIA ROJAS                C          23.00
+028606           LAU       24/02/2021 15:48  V                      MILLA QUISPE BRIGITTE          C          15.00
+028607           LAU       24/02/2021 15:50  V                      ROSARIO GARCIA FABIOLA         C          40.00
+028608           LAU       24/02/2021 15:51  V                      ROSARIO REYNA JESUS            C          20.00
+028609           LAU       24/02/2021 15:58  V                      VENTA ANULADA                  C           0.00
+028610           LAU       24/02/2021 16:04  V                      SAENZ CASTILLO HORTENCIA       C          40.00
+028611           LAU       24/02/2021 16:05  V                      SAENZ CASTILLO LUIS            C          20.00
+028612           LAU       24/02/2021 16:24  V                                                     C           9.00
+028613           LAU       24/02/2021 16:31  V                      JESUS LAZARO                   C          23.00
+028614           LAU       24/02/2021 16:34  V                      AZA;ERO JESUS                  C          20.00
+028615           LAU       24/02/2021 16:41  V                      HOCES MERCEDES                 C          38.00
+028616           LAU       24/02/2021 16:51  V                      MU;OZ HUARDALES GILBERTO       C          65.00
+028617           LAU       24/02/2021 16:53  V                      JESUS LAZARO                   C          30.50
+028618           LAU       24/02/2021 16:57  V                                                     C           1.50
+028619           LAU       24/02/2021 17:27  V                      SANTA CRUZ CHAVEZ CELEDONIA    C          20.00
+028620           LAU       24/02/2021 17:30  V                      GRADOS CASTRO                  C          12.00
+028621           LAU       24/02/2021 17:32  V                      SALCEDO TORIBIA LUISA          C          20.00
+028622           LAU       24/02/2021 17:41  V                      CHUMBES MORALES FABIOLA        C         497.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:36
+PRT102()                                                                                                                Pag.-    6
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028623           LAU       24/02/2021 17:41  V                      CHUMBES MORALES FABIOLA        C          35.00
+028624           LAU       24/02/2021 17:45  V                      CHIRRE MENDOZA                 C          69.00
+028625           LAU       24/02/2021 17:48  V                      MARTINEZ MARTINEZ NATALY       C          15.00
+028626           LAU       24/02/2021 17:51  V                                                     C           1.50
+028627           LAU       24/02/2021 17:52  V                      RAMIREZ UGALDE FELIX           C          40.00
+028628           LAU       24/02/2021 18:02  V                      SANCHEZ ROJAS MACEDONIA        C         587.00
+028629           LAU       24/02/2021 18:03  V                      VALERIO TORIBIO INES           C          40.00
+028630           LAU       24/02/2021 18:19  V                      SAENZ CASTILLO                 C         122.00
+028631           LAU       24/02/2021 18:20  V                      SAENZ CASTILLO HORTENCIA       C          86.00
+028632           LAU       24/02/2021 18:26  V                      BARDALES JARA RUFO             C         981.00
+028633           LAU       24/02/2021 18:30  V                      CHAUCA GARCIA GLADYS           C         111.00
+028634           LAU       24/02/2021 18:53  V                      SANTA CRUZ CHAVEZ              C          50.00
+028635           LAU       24/02/2021 18:55  V                                                     C           3.00
+028636           LAU       24/02/2021 19:26  V                                                     C           3.00
+028637           LAU       25/02/2021 07:54  V                      HUACHO TORDOCILLO CELINDA      C          43.00
+028638           LAU       25/02/2021 08:00  V                      CORDOVA OSORIO MARIA MAXIMINA  C         261.00
+028639           LAU       25/02/2021 08:07  V                      BUITRON ZAVALA ANTONIA         C         288.00
+028640           LAU       25/02/2021 08:08  V                      BUITRON ZAVALA ANTONIA         C          28.00
+028641           LAU       25/02/2021 08:24  V                      GUARDIA SANCHEZ VICTORIA       C         105.00
+028642           LAU       25/02/2021 08:24  V                      EUSTAQUIO GUARDIA EVA          C         105.00
+028643           LAU       25/02/2021 08:25  V                      EUSTAQUIO GUARDIA DORA         C         105.00
+028644           LAU       25/02/2021 08:25  V                      EUSTAQUIO GUARDIA YENNY        C         105.00
+028645           LAU       25/02/2021 08:29  V                      SALTACHIN SANTIBA;EZ IRENE     C          10.00
+028646           LAU       25/02/2021 09:08  V                      ULLOA RODRIGUEZ                C         120.00
+028647           LAU       25/02/2021 09:15  V                      LUIS GAVINO GAUDENCIO          C          68.00
+028648           LAU       25/02/2021 09:45  V                      CORREA QUIROZ IVAN             C         175.00
+028649           LAU       25/02/2021 09:51  V                      GRADOS GURGURA LUCILA          C          40.00
+028650           LAU       25/02/2021 10:01  V                      VALERIO TORIBIO ESTELA INEZ    C         258.00
+028651           LAU       25/02/2021 10:10  V                      VALERIO TORIBIO INEZ           C          20.00
+028652           LAU       25/02/2021 10:12  V                      GRADOS MELENDEZ BRAYHAM        C         105.00
+028653           LAU       25/02/2021 10:12  V                      GRADOS MELENDEZ BRAYHAM        C          70.00
+028654           LAU       25/02/2021 10:13  V                      GRADOS MELENDEZ BRYHAM         C          40.00
+028655           LAU       25/02/2021 10:15  V                      ROJAS MARIANO LIZ FLOR         C          68.00
+028656           LAU       25/02/2021 10:17  V                      CHIRRE MENDOZA REMIGIA         C         450.00
+028657           LAU       25/02/2021 10:18  V                      BARDALES SALAS ROCIO DEL PILAR C         100.00
+028658           LAU       25/02/2021 10:41  V                      EVANGELISTA MENDOZA ZAIDA      C          40.00
+028659           LAU       25/02/2021 11:27  V                      INOSTROZA LOPEZ GRACIELA       C          35.00
+028660           LAU       25/02/2021 11:47  V                      VENTA ANULADA                  C           0.00
+028661           LAU       25/02/2021 12:23  V                      INOSTROZA LOPEZ GRACIELA       C          72.00
+028662           LAU       25/02/2021 12:30  V                      PRINCIPE HUERTAS               C          30.00
+028663           LAU       25/02/2021 12:43  V                      TIMBA QUIRO FLORENCIA          C         370.50
+028664           LAU       25/02/2021 13:06  V                      GUERRERO MARCOS CRISTIAN       C          40.00
+028665           LAU       25/02/2021 13:37  V                      AZA;ERO JESUS ELENA            C          40.00
+028666           LAU       25/02/2021 14:03  V                      TRUJILLO ORTIZ ALEJANDRO       C          70.00
+028667           LAU       25/02/2021 14:11  V                      DORA LIZETTI                   C          83.00
+028668           LAU       25/02/2021 14:19  V                      LIBERATO DAMIAN ELIZABETH      C          50.00
+028669           LAU       25/02/2021 14:30  V                      TRUJILLO ORTIZ ALEJANDRO       C          40.00
+028670           LAU       25/02/2021 14:36  V                      LIBERATO DAMIAN ELIZABETH      C         105.00
+028671           LAU       25/02/2021 14:36  V                      LIBERATO DAMIAN ELIZABETH      C          70.00
+028672           LAU       25/02/2021 14:36  V                      LIBERATO DAMIAN ELIZABETH      C          40.00
+028673           LAU       25/02/2021 14:48  V                      PALOMINO LEON LABERIANO        C          75.00
+028674           LAU       25/02/2021 14:48  V                      PALOMINO LEON LABERIANO        C          20.00
+028675           LAU       25/02/2021 14:51  V                      PADILLA GERVACIO TIMOTEO       C         303.50
+028676           LAU       25/02/2021 14:52  V                      UGALDE ROBLES LILIANA          C          20.00
+028677           LAU       25/02/2021 14:54  V                      RIVERA GOMEZ FIORELA           C          40.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:36
+PRT102()                                                                                                                Pag.-    7
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028678           LAU       25/02/2021 15:02  V                      SALAZAR BENAVIDES CARMEN       C          70.00
+028679           LAU       25/02/2021 15:02  V                      PANANA DE GORDILLO MERCEDES    C          70.00
+028680           LAU       25/02/2021 15:08  V                      MEJIA LAZARO ANGEL             C          20.00
+028681           LAU       25/02/2021 15:08  V                      MEJIA LAZARO JOAB              C          20.00
+028682           LAU       25/02/2021 15:17  V                      CARRION MENDOCILLA LEONIDAS    C          20.00
+028683           LAU       25/02/2021 15:18  V                      AGUERO TRUJILLO ANGELICA       C          20.00
+028684           LAU       25/02/2021 15:40  V                      ZAPATA ESPINOZA JULIO          C         100.00
+028685           LAU       25/02/2021 15:44  V                      GUERRERO MARCOS                C          78.00
+028686           LAU       25/02/2021 15:48  V                      TADEO MORENO DORILA            C          40.00
+028687           LAU       25/02/2021 15:54  V                      RIVERA LAOS VICTOR             C         214.60
+028688           LAU       25/02/2021 15:54  V                      RIVERA LAOS VICTOR             C          35.00
+028689           LAU       25/02/2021 16:00  V                      REYES CORONADO DIDI            C          40.00
+028690           LAU       25/02/2021 16:00  V                      REYES FELLES ELLIEN            C          40.00
+028691           LAU       25/02/2021 16:05  V                      QUEVEDO CARRE;O CARMEN         C          40.00
+028692           LAU       25/02/2021 16:18  V                      LIBERATO DAMIAN                C         624.00
+028693           LAU       25/02/2021 16:19  V                      FRANK GALIANO DIAZ             C          40.00
+028694           LAU       25/02/2021 16:20  V                      VENTA ANULADA                  C           0.00
+028695           LAU       25/02/2021 16:24  V                      REYES CANALES NILTOM           C          70.00
+028696           LAU       25/02/2021 16:28  V                      TRUJILLO ORTIZ ALEJANDRO       C          94.50
+028697           LAU       25/02/2021 16:36  V                      AGUERO TRUJILLO                C         107.50
+028698           LAU       25/02/2021 16:37  V                      CARRION MENDOCILLA             C          31.50
+028699           LAU       25/02/2021 16:46  V                      ORDO;EZ OBISPO OLGA            C          70.00
+028700           LAU       25/02/2021 16:55  V                      MIRANDA RAMIREZ CARMEN         C          40.00
+028701           LAU       25/02/2021 16:57  V                      CONDOR HILARIO SABINO          C         105.00
+028702           LAU       25/02/2021 16:58  V                      CONDOR HILARIO SABINO          C          70.00
+028703           LAU       25/02/2021 16:58  V                      CONDOR HILARIO SABINO          C          40.00
+028704           LAU       25/02/2021 17:01  V                      TENA GONZALES LITA             C          40.00
+028705           LAU       25/02/2021 17:05  V                      HUAMAN TORRES FERMIN           C          27.50
+028706           LAU       25/02/2021 17:12  V                      RAMOS COCA MAGALY              C          40.00
+028707           LAU       25/02/2021 17:14  V                      SANCHEZ ROJAS MACEDONIA        C         100.00
+028708           LAU       25/02/2021 17:25  V                      PALOMINO LEON                  C          54.50
+028709           LAU       25/02/2021 17:33  V                      HUAMAN TORRES FERMIN           C          19.00
+028710           LAU       25/02/2021 17:35  V                      SANTA CRUZ CHAVEZ              C          46.00
+028711           LAU       25/02/2021 17:47  V                                                     C           4.50
+028712           LAU       25/02/2021 17:47  V                      NIETO SOTO RAUL                C          40.00
+028713           LAU       25/02/2021 17:57  V                      SALTACHIN SANTIBA;EZ IRENE     C          10.00
+028714           LAU       25/02/2021 18:24  V                      CONDOR HILARIO                 C         121.50
+028715           LAU       25/02/2021 18:28  V                      TENA GONZALES LITA             C          40.00
+028716           LAU       25/02/2021 18:29  V                      NIETO SOTO RAUL                C          19.00
+028717           LAU       26/02/2021 08:05  V                      VENTA ANULADA                  C           0.00
+028718           LAU       26/02/2021 08:22  V                      GAVY LLASGG                    C          18.20
+028719           LAU       26/02/2021 08:24  V                      SANCHEZ ROJAS MACEDONIA        C         100.00
+028720           LAU       26/02/2021 08:45  V                      REYES CORONADO DIDI            C         128.00
+028721           LAU       26/02/2021 08:45  V                      REYES CORONADO DIDI            C          90.00
+028722           LAU       26/02/2021 08:48  V                      REYES FELLES ELLEN             C         158.00
+028723           LAU       26/02/2021 08:55  V                      GUERRERO LA ROSA ROSA          C         120.00
+028724           LAU       26/02/2021 08:55  V                      TOLEDO RAMOS ARTURO            C         120.00
+028725           LAU       26/02/2021 09:03  V                      GAMARRA RAMIREZ MARIA ANGELICA C          24.50
+028726           LAU       26/02/2021 09:28  V                      LEON COTRINA MOSHE             C         105.00
+028727           LAU       26/02/2021 09:28  V                      LEON COTRINA MOSHE             C          70.00
+028728           LAU       26/02/2021 09:29  V                      LEON COTRINA MOSHE             C          40.00
+028729           LAU       26/02/2021 09:29  V                      EUSTAQUIA GUARDIA EVA          C          70.00
+028730           LAU       26/02/2021 09:29  V                      EUSTAQUIA GUARDIA EVA          C          40.00
+028731           LAU       26/02/2021 09:36  V                      SANCHEZ ROJAS MACEDONIA        C       1,418.50
+028732           LAU       26/02/2021 09:50  V                      GRADOS CASTRO TEOFILO          C         218.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:36
+PRT102()                                                                                                                Pag.-    8
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028733           LAU       26/02/2021 10:09  V                      QUISPE CALDERON JOSE MANUEL    C          50.00
+028734           LAU       26/02/2021 10:14  V                      MONTES HUAMES MANUEL           C          50.00
+028735           LAU       26/02/2021 10:16  V                      HUAMAN TORRES FERMIN           C          27.50
+028736           LAU       26/02/2021 10:18  V                      HUAMAN TORRES FERMIN           C          20.00
+028737           LAU       26/02/2021 10:26  V                      PALOMINO LEON CLAVERIANO       C         118.00
+028738           LAU       26/02/2021 10:30  V                      BUITRON ZAVALA                 C          34.00
+028739           LAU       26/02/2021 10:39  V                      PE;A CALDERON YONI             C          35.00
+028740           LAU       26/02/2021 10:59  V                      NARVAEZ ENCARNACION WALTER     C          50.00
+028741           LAU       26/02/2021 11:06  V                      CACERES ROJAS ANATOLIA         C          20.00
+028742           LAU       26/02/2021 11:09  V                      TIMBA QUIRO FLORENCIA          C         133.50
+028743           LAU       26/02/2021 11:12  V                      HONORIO ROSADIO                C         120.00
+028744           LAU       26/02/2021 11:27  V                      ROSALES QUINA TATIANA          C          70.00
+028745           LAU       26/02/2021 11:29  V                      MEJIA LAZARO JOAB              C          35.00
+028746           LAU       26/02/2021 11:31  V                      MEJIA LAZARO JOAB              C          20.00
+028747           LAU       26/02/2021 11:32  V                      ROSSEL DE TUNODA ANA MARIA     C          20.00
+028748           LAU       26/02/2021 11:35  V                      LAVERIANO BARRETO FRANKLIN     C          50.00
+028749           LAU       26/02/2021 11:36  V                      GRADOS FLORES CRISTIAN         C          50.00
+028750           LAU       26/02/2021 11:39  V                      INOCENTE GTRADOS JACKELINE     C          40.00
+028751           LAU       26/02/2021 11:40  V                      LAVERIANO BARRETO FRANKLIN     C          20.00
+028752           LAU       26/02/2021 11:41  V                      BRAVO REYES YON                C          70.00
+028753           LAU       26/02/2021 11:59  V                      ABANTO NORABUENA MADELEY       C          50.00
+028754           LAU       26/02/2021 12:04  V                      ROSALES QUINA                  C          15.00
+028755           LAU       26/02/2021 12:17  V                      GIRALDO CHAVEZ EDELMA          C          70.00
+028756           LAU       26/02/2021 12:22  V                      SANCHEZ ROJAS MACEDONIA        C         109.50
+028757           LAU       26/02/2021 12:28  V                      SANCHEZ ROJAS MACEDONIA        C          80.00
+028758           LAU       26/02/2021 12:31  V                      SHEYLA VASQUEZ                 C           4.80
+028759           LAU       26/02/2021 12:38  V                      PADILLA GERVACIO TIMOTEO       C         180.50
+028760           LAU       26/02/2021 13:33  V                      CLAROS SALAZAR ROSA            C          40.00
+028761           LAU       26/02/2021 13:42  V                      GARRO FIGUEROA                 C         120.00
+028762           LAU       26/02/2021 14:31  V                      PE;A BERNALDO AVELINDA         C          20.00
+028763           LAU       26/02/2021 14:37  V                      MU;OZ GERMANI ANA              C          19.00
+028764           LAU       26/02/2021 14:37  V                      HUAMAN BRAVO LIDA              C          40.00
+028765           LAU       26/02/2021 14:39  V                      BARDALES JARA RUFO             C          60.00
+028766           LAU       26/02/2021 14:46  V                      MONTES SANDOVAL CELINDA        C          75.00
+028767           LAU       26/02/2021 15:01  V                      PEREZ CHEPPE MARIA             C          40.00
+028768           LAU       26/02/2021 15:03  V                      NIETO SOTO RAUL                C          19.00
+028769           LAU       26/02/2021 15:06  V                      BAUTISTA FILOMENA              C         120.00
+028770           LAU       26/02/2021 15:08  V                      FLORENTINO VEGA FLOR           C         130.00
+028771           LAU       26/02/2021 15:15  V                      EVANGELISTA MENDOZA ARTURO     C          40.00
+028772           LAU       26/02/2021 15:22  V                      BLAS SANCHEZ VICTOR            C          40.00
+028773           LAU       26/02/2021 15:34  V                      ORIHUELA ANDRES NELI           C          20.00
+028774           LAU       26/02/2021 15:36  V                      PANANA DE GORDILLO MERCEDES    C          40.00
+028775           LAU       26/02/2021 15:36  V                      SALAZAR BENAVIDES CARMEN       C          40.00
+028776           LAU       26/02/2021 15:39  V                      BARRON SANTIBA;EZ JUAN         C          40.00
+028777           LAU       26/02/2021 15:40  V                      MIRANDA RAMIREZ CARMEN         C          75.00
+028778           LAU       26/02/2021 15:42  V                      MIRANDA RAMIREZ CARMEN         C         161.00
+028779           LAU       26/02/2021 15:46  V                      RAMOS NIETO SHIRLEY            C         100.00
+028780           LAU       26/02/2021 16:14  V                      SALAZAR BENAVIDES CARMEN       C         291.50
+028781           LAU       26/02/2021 16:15  V                      SALAZAR BENAVIDES CARMEN       C          75.00
+028782           LAU       26/02/2021 16:18  V                      PADILLA GERVACIO               C           7.00
+028783           LAU       26/02/2021 16:37  V                      BLAS SANCHEZ VICTOR            C          31.50
+028784           LAU       26/02/2021 16:42  V                      SALAZAR VENTURA                C           4.00
+028785           LAU       26/02/2021 16:44  V                      ORIHUELA ANDRES                C          40.00
+028786           LAU       26/02/2021 16:59  V                      EVANGELISTA MENDEZ             C          12.00
+028787           LAU       26/02/2021 17:00  V                                                     C           3.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:37
+PRT102()                                                                                                                Pag.-    9
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028788           LAU       26/02/2021 17:03  V                      RAMIREZ CACERES SUGELI         C          40.00
+028789           LAU       26/02/2021 17:04  V                      PALACIN CARRASCO AQUILES       C          20.00
+028790           LAU       26/02/2021 17:08  V                      SANCHEZ ROJAS MACEDONIA        C         300.00
+028791           LAU       26/02/2021 17:24  V                      ALVARADO OBREGON JUAN          C          40.00
+028792           LAU       26/02/2021 17:32  V                      HUERTAS TRUJILLO AQUILES       C          70.00
+028793           LAU       26/02/2021 17:32  V                      HUERTAS TRUJILLO AQUILES       C          40.00
+028794           LAU       26/02/2021 17:37  V                      BUSTAMANTE ESTELA VASILIANA    C          40.00
+028795           LAU       26/02/2021 17:42  V                      RAMOS ESPINOZA ALDO            C         100.00
+028796           LAU       26/02/2021 17:44  V                      HUERTAS TRUJILLO AQUILES       C         100.00
+028797           LAU       26/02/2021 17:51  V                      MEDINA FERNANDEZ               C          54.70
+028798           LAU       26/02/2021 17:52  V                      ESPINOZA BAJONERO ELIZ         C          40.00
+028799           LAU       26/02/2021 18:19  V                      RAMIREZ CACERES                C          23.00
+028800           LAU       26/02/2021 18:30  V                      CACERES ROJAS ANATOLIA         C         211.60
+028801           LAU       26/02/2021 18:40  V                      PANANA DE GORDILLO MERCEDES    C          25.00
+028802           LAU       26/02/2021 18:50  V                      HUERTAS TRUJILLO AQUILES       C          87.00
+028803           LAU       26/02/2021 18:53  V                      HUERTAS HOCES RAUL             C         218.00
+028804           LAU       26/02/2021 18:58  V                      PANANA DE GORDILLO MERCEDES    C         223.00
+028805           LAU       26/02/2021 19:21  V                      PE;A BERNALDO ABELINA          C         130.00
+028806           LAU       26/02/2021 19:22  V                      BUSTAMANTE ESTELA              C          27.50
+028807           LAU       26/02/2021 19:28  V                      BUSTAMANTE ESTELA VASILINA     C         282.50
+028808           LAU       26/02/2021 19:31  V                      SANCHEZ ROJAS MACEDONIA        C         110.00
+028809           LAU       26/02/2021 19:39  V                                                     C           4.50
+028810           MAR  MAR  27/02/2021 07:28  V                      HUAMAN TORRES MARIA            C          40.00
+028811           MAR  MAR  27/02/2021 07:32  V                      EVANGELISTA MENDOZA ARTURO LIZ C         221.00
+028812           MAR  MAR  27/02/2021 07:42  V                      PEREZ CHEPPE MARIA ANGELICA    C         100.00
+028813           MAR  MAR  27/02/2021 07:58  V                      ORDO;EZ APONTE YURY            C          50.00
+028814           MAR  MAR  27/02/2021 08:03  V                      SAAVEDRA SILVA DINA            C          40.00
+028815           MAR  MAR  27/02/2021 08:04  V                      BARRON SANTIBA;EZ JUAN CARLOS  C          75.00
+028816           MAR  MAR  27/02/2021 08:07  V                      MONTES VASQUEZ ALEJANDRINA     C          70.00
+028817           MAR  MAR  27/02/2021 08:12  V                      ROMERO LINDO PATRICK YSAAI     C          40.00
+028818           MAR  MAR  27/02/2021 08:28  V                      LEON COTRINA                   C          84.00
+028819           MAR  MAR  27/02/2021 08:33  V                      EVANGELISTA MENDOZA ZAIDA IREN C         218.00
+028820           MAR  MAR  27/02/2021 09:03  V                      CAJACHAGUA DE FRANCISCO GRACIE C          70.00
+028821           MAR  MAR  27/02/2021 09:10  V                      GAMARRA RAMIREZ MARIA ANGELICA C          20.00
+028822           MAR  MAR  27/02/2021 09:39  V                      HUERTA FERRER JHOSMITH         C          75.00
+028823           MAR  MAR  27/02/2021 10:04  V                      MU;OZ GUARDALES NICOLAS        C          70.00
+028824           MAR  MAR  27/02/2021 10:06  V                      BUSTAMANTE  ESTELA             C          27.50
+028825           MAR  MAR  27/02/2021 10:12  V                      MEJIA ESPINOZA PAULINA         C          40.00
+028826           MAR  MAR  27/02/2021 10:40  V                                                     C          36.50
+028827           MAR  MAR  27/02/2021 10:42  V                      RIVAS GUTIERREZ ALEJANDRO MANU C         120.00
+028828           MAR  MAR  27/02/2021 10:53  V                      COBOS MORALES LEONARDA         C          20.00
+028829           MAR  MAR  27/02/2021 10:59  V                      FRASNCISCO HUERTAS PEDRO       C          70.00
+028830           MAR  MAR  27/02/2021 11:01  V                      VALENCIA ACU;A PEDRO           C         340.00
+028831           MAR  MAR  27/02/2021 11:02  V                      NARVASTA CLAROS MRILUZ         C         120.00
+028832           MAR  MAR  27/02/2021 11:11  V                      ESPINOZA BAJONERO ELIS         C          75.00
+028833           MAR  MAR  27/02/2021 11:44  V                      MORALES MARTINEZ CARMEN        C          50.00
+028834           MAR  MAR  27/02/2021 11:54  V                      HARO MENACHO ANGIE             C          50.00
+028835           MAR  MAR  27/02/2021 12:13  V                      CHUMIOQUE GONZALES JUAN        C          50.00
+028836           MAR  MAR  27/02/2021 12:31  V                      TIMBA QUIRO FLORENCIA          C         120.00
+028837           MAR  MAR  27/02/2021 12:35  V                      ADAN AGUILAR                   C          12.50
+028838           MAR  MAR  27/02/2021 13:13  V                      LLASHAG COTRINA GAVY           C          50.00
+028839           MAR  MAR  27/02/2021 13:14  V                      DAMASO ALVAREZ CINTHIA         C          40.00
+028840           MAR  MAR  27/02/2021 13:23  V                      GRADOS MELENDEZ BRAYAN         C          20.00
+028841           LAU       27/02/2021 13:46  V                      LAURA GRAUS                    C          20.00
+028842           LAU       27/02/2021 13:54  V                                                     C         199.50úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:37
+PRT102()                                                                                                                Pag.-   10
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+028843           LAU       27/02/2021 13:55  V                      GRADOS GURGURA                 C          30.00
+028844           LAU       27/02/2021 13:57  V                      ROSELL GRADOS LUZ              C          83.00
+028845           LAU       27/02/2021 14:10  V                      PRINCIPE HUERTAS MARILU        C          30.00
+028846           LAU       27/02/2021 14:17  V                      GARCIA INGA JASMIN             C          40.00
+028847           LAU       27/02/2021 14:24  V                                                     C           1.50
+028848           LAU       27/02/2021 14:25  V                      BARRIOS MORALES MARLON         C         155.00
+028849           LAU       27/02/2021 15:03  V                      ROMERO LINDO                   C          64.00
+028850           LAU       27/02/2021 15:14  V                      ROMERO GAVEDIA JULIO           C          40.00
+028851           LAU       27/02/2021 15:22  V                      BARBA SCHARFF JOSE ANDRES      C          20.00
+028852           LAU       27/02/2021 15:24  V                      PECEROS DIESTRO CARMEN         C          40.00
+028853           LAU       27/02/2021 15:27  V                      ROMERO GAVEDIA JULIO           C          10.00
+028854           LAU       27/02/2021 15:38  V                      HUERTA FERRER JHOSMITH         C          75.00
+028855           LAU       27/02/2021 15:40  V                      NIETO SOTO RAUL                C          19.00
+028856           LAU       27/02/2021 15:42  V                      OLANDO BORLINI                 C          21.00
+028857           LAU       27/02/2021 15:52  V                      LIBERATO DAMIAN ELIZABETH      C          40.00
+028858           LAU       27/02/2021 16:08  V                      JESUS LAZARO CRECENCIA         C          20.00
+028859           LAU       27/02/2021 16:08  V                      AZA;ERO JESUS ZAIDA            C          20.00
+028860           LAU       27/02/2021 16:10  V                      LIBERATO DAMIAN LAZARO         C          72.00
+028861           LAU       27/02/2021 16:15  V                      RAMOS CENTENO                  C          12.00
+028862           LAU       27/02/2021 16:16  V                      BARBA SCHARFF                  C          25.00
+028863           LAU       27/02/2021 16:17  V                      VASQUEZ VILLAFANES DANIEL      C          40.00
+028864           LAU       27/02/2021 16:21  V                      TRUJILLO OBREGON ALES PAUL     C          40.00
+028865           LAU       27/02/2021 16:24  V                      INOSTROZA LOPEZ GRACIELA       C          20.00
+028866           LAU       27/02/2021 16:33  V                      CHIRRE SOLIS LUIS              C          40.00
+028867           LAU       27/02/2021 16:40  V                      RONDAN CASTILLO KIMBERLY       C          15.00
+028868           LAU       27/02/2021 16:54  V                      CONDOR HILARIO                 C          83.00
+028869           LAU       27/02/2021 16:59  V                      VILLARREAL AZA;ERO CORINA      C          40.00
+028870           LAU       27/02/2021 17:02  V                      GAMARRA SILVA HENRY            C          20.00
+028871           LAU       27/02/2021 17:04  V                      BUSTAMANTE ESTELA ANDREA       C          40.00
+028872           LAU       27/02/2021 17:08  V                      ROMERO GAVEDIA JULIO           C         204.50
+028873           LAU       27/02/2021 17:14  V                      ROMERO GAVEDIA JULIO           C          91.00
+028874           LAU       27/02/2021 17:50  V                      PAJUELO PADILLA LUZ            C          40.00
+028875           LAU       27/02/2021 17:56  V                      JAVIER CORSO YIOMAR            C          40.00
+028876           LAU       27/02/2021 18:03  V                      JESUS LAZARO                   C          24.80
+028877           LAU       27/02/2021 18:09  V                                                     C           3.00
+028878           LAU       27/02/2021 18:25  V                      CHIRRE SOLIS LUIS              C         221.00
+028879           LAU       27/02/2021 18:26  V                      CHIRRE SOLIS LUIS              C          70.00
+028880           LAU       27/02/2021 18:28  V                      CATHERINE                      C          60.00
+028881           LAU       27/02/2021 18:29  V                                                     C           3.00
+028882           LAU       27/02/2021 18:30  V                      INOSTROZA LOPEZ GRACIELA       C          90.00
+028883           LAU       27/02/2021 18:52  V                      SALAZAR SILVA                  C          69.00
+028884           LAU       27/02/2021 18:57  V                      GAMARRA SILVA HENRY            C          27.50
+028885           LAU       27/02/2021 18:59  V                      JULIO ROMERO                   C           7.00
+028886           LAU       27/02/2021 19:28  V                                                     C           4.50
+028887           LAU       27/02/2021 19:44  V                      PAJUELO PADILLA                C          46.00
+028888           LAU       27/02/2021 19:57  V                      ROMERO GAVEDIA JULIO           C         120.00
+028889           LAU       27/02/2021 20:35  V                      MARIO MOLINA                   C          78.00
+ÿ
+ÿ
+Total General Documentos                                                                  Total General Ventas 
+------------------------                                                                  ---------------------
+Boleta        :       0           0.00                                                    Contado       :     525      41,552.70
+Factura       :       0           0.00                                                    Letras        :       0           0.00
+Ticket        :       0           0.00                                                    Credito       :       0           0.00
+Guia Interna V:     525      41,552.70                                                    Credito 10 Dia:       0           0.00úZethQuark Versi¢n 7.0ú                                                                                                 07/04/2021
+POL.LOS ANGELES                       REPORTE DE VENTAS DIARIAS DEL 22/02/2021 AL 28/02/2021                              11:58:37
+PRT102()                                                                                                                Pag.-   11
+----------------------------------------------------------------------------------------------------------------------------------
+INTERNO PROFORMA RESP CAJ    FECHA    HORA       DOCUMENTO                  CLIENTE               PAGO       TOTAL
+----------------------------------------------------------------------------------------------------------------------------------
+                          -------------                                                   Tarjeta       :       0           0.00
+                             41,552.70                                                                              -------------
+                                                                                                                       41,552.70
+ÿ
+ÿ
+Total I.G.V. Factura :          0.00
+ÿ
+Total I.G.V. Boletas :      6,338.53
+ÿ
+ÿ
+Nro.  Documentos Anulados :           17
+Total Documentos Anulados :         0.00

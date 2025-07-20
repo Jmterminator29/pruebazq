@@ -1,0 +1,82 @@
+úZethQuark Versi¢n 7.0ú                                               14/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 12/02/2022 AL 12/02/2022        10:32:52
+PRT123()                                                              Pag.-    1
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+ABOCAT#24 CAJAX50UNID                           0u49           0u1         SAN
+AGLUTINACIONES                                242              2           ISA
+AGUJA #18 CAJAX100UNID.                         1u63           0u16        SAN
+AGUJA #23 CAJAX100UNID.                         1u3            0u1         SAN
+ANEURIN 10,000 SOLUCION INYECTABLE              1              3           SAN
+ANEURIN 25 000 CAJA X 1AMPOLLAS                 9              3           SAN
+ANTIGENO HISOPADO ENERO 2022                   19              5           SAN
+ASCORBIC-C + MATERIAL DE APLICACION             6              1           SAN
+ASSIS 400 SUSPX220ML                            0              1           SAN
+BROMURO DE IPRATROPIO 20MCG AEROS/INHALA        3              1           SAN
+CAPTOPRIL 25mg TABx100                          1u19           0u1         SAN
+CEFTRIAXONA 1g AMP CAJAX1OUNID                  5u2            0u5         SAN
+CETIRIZINA 10mg ANTIHISTAMINICO                 1u12           0u6         SAN
+CIPROFIBRATO 100MG CAPSULA CAJAX100             1u16           0u20        SAN
+CIPROFLOXACINO 500MG CAJAX100TABLETAS           2u1            0u10        SAN
+CLARITROMICINA 500MG CAJAX100                   0              0u15        ISA
+CLENBUVENT JARABE   EXPECTORANTE                4              1           SAN
+CLORO ALERGAN 1MG/ML  GOTAS                     3              1           SAN
+CONSULTA DR MARIO                            9815             22           SAN
+CORTISOL(A.M)                                 958              1           ISA
+CULTIVO SECRECION OTICA                        89              1           SAN
+DENSITOMETRIA PROMOCION                        82              4           ISA
+DEXACORT 4MG72ML CAJAX1 AMPOLLA                 2              3           SAN
+DEXAMETASONA 4MG/1ML AMPOLL CAJX100             1u38           0u4         SAN
+DICLOFENACO AMP 75MGx3ML CAJX100                0u4            0u10        SAN
+DOBESILATO CALCICO 500MG TABX100                1u50           0u30        SAN
+ELECTROCARDIOGRAMA 2022                        64              2           ISA
+ENDOVENOSO INTERNO CLINICA                    403              1           SAN
+FLAGYL 500MG TABX20                             7u16           0u17        ISA
+FRASCO DE HECES                                26              2           SAN
+FRASCO ORINA ESTERIL                           17              6           SAN
+GLUCOSA                                      9700              3           ISA
+HCG PRUEBA DE EMBARAZO                        465              1           ISA
+HELICOBACTER PYLORI IGM                      1174              1           SAN
+HEMOG. GLICOSILADA                            611              1           ISA
+HEMOGLOBINA HEMATOCRITO                       910              1           ISA
+HEMOGLOBINA/HEMATOCRITO PARA COLEGIO          965              1           ISA
+HEMOGRAMA COMPLETO                            788              5           SAN
+HEPABIONTA DE 2ML AMPOLL CAJAX1               104              8           SAN
+JERINGA 10ML CAJAX100UNID.                      1u53           0u17        SAN
+JERINGA 20ML CAJAX50UNID.                       1u4            0u1         SAN
+JERINGA 5ML CAJAX100UNID.                       0u67           0u8         SAN
+LAVADO DE OIDO PROMOCION +MATERIALES          940              3           SAN
+LIDOCAINA 1% AMPOLLA 3,5ML                     39              4           SAN
+LIKFERR +MATERIAL DE APLICACION                 3              1           SAN
+LLAVE TRIPLE VIA CAJAX200UNID.                  0u84           0u1         SAN
+LORATADINA 10MG TABLX100                        9u63           0u1         SAN
+METAMIZOL CAJA X100 AMPOLLAS                    0u27           0u1         SAN
+MULCEROL/ESOMEPRAZOL 40 TAB CAJX30             15u7            0u17        ISA
+ORFENADRINA 60mg/2ml CAJAX25 AMPOLLAS           4u7            0u5         SAN
+ORINA COMPLETA                                242              3           ISA
+OTOZAMBON SOLUCION OTICA X10ML                  7              1           ISA
+PARACETAMOL 500MG TABX100                       2u71           0u10        SAN
+PARASITOLOGICO SIMPLE                        1635              2           ISA
+PENICILINA PROCAIN 1000000 CAJAX10              2u2            0u4         SANúZethQuark Versi¢n 7.0ú                                               14/02/2022
+POL.LOS ANGELES  PRODUCTOS VENDIDOS DEL 12/02/2022 AL 12/02/2022        10:32:53
+PRT123()                                                              Pag.-    2
+--------------------------------------------------------------------------------
+         DESCRIPCION DEL PRODUCTO            STOCK           VENTA        RESP.
+--------------------------------------------------------------------------------
+PERFIL HEPATICO                               342              3           ISA
+PERFIL LIPIDICO                               732              5           ISA
+PERFIL RENAL                                  152              3           ISA
+PERFIL REUMATICO                              674              1           ISA
+PRUEBA RAPIDA ENERO                             6              1           SAN
+RX DE PIE FRONTAL Y LATERAL                  1978              1           ISA
+RX MUNECA FRONTAL Y LATERAL                  1968              1           ISA
+RX TORAX FRONTAL                              397              1           SAN
+T4 LIBRE                                      623              1           ISA
+TESTOSTERONA                                  990              1           ISA
+TRAUMATOLOGIA DR CORAL                        899              4           ISA
+UROCULTIVO                                    459              1           SAN
+VITERNUM VITAMINICO POLV PARA SOLC 150ML        2              1           ISA
+--------------------------------------------------------------------------------
+T O T A L:    68
+--------------------------------------------------------------------------------
